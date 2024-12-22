@@ -1,0 +1,27 @@
+﻿
+category = {
+	id = "arikuri_ost"
+	name = "arikuri_ost_list"
+	tracks = {
+		"words_of_huakken"
+		"march_of_southeners"
+		"when_the_twins_allign"
+		"bazanaq"
+		"sail_to_golden_shores"
+		"solemnity_of_aienci"
+		"the_choraman"
+		"the_smoke_and_the_sky"
+		"abais_auviovalko"
+		"tachanaj"
+		"rhiulnd"
+		"ipiella"
+		"erdoem"
+		"veroxianna"
+		"hicheggau"
+		"eiha"
+		"pidmedmed"
+	}
+}
+
+
+

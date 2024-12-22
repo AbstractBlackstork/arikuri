@@ -1,0 +1,13 @@
+﻿on_game_start = {
+	on_actions = {
+		on_action_culture_seeding
+	}
+}
+
+on_action_culture_seeding = {
+	effect = {
+		every_culture_global = {
+			join_era = culture_era_tribal
+		}
+	}
+}

@@ -1,0 +1,8 @@
+﻿##### MAINTHEME
+
+
+main_theme_track = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_The_Words_of_HuakKen.ogg"
+	can_be_interrupted = yes
+}
+

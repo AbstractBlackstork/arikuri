@@ -1,0 +1,501 @@
+﻿heritage_cccdefenselessdecision_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccdefenselessdecision_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrowdystudy_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrowdystudy_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrowdystudy_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrowdystudy_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrowdystudy_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwindingtomorrow_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwindingtomorrow_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwindingtomorrow_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwindingtomorrow_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwindingtomorrow_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccfancyattention_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccfancyattention_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccfancyattention_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccfancyattention_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccfancyattention_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccfancyattention_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccenvioustale_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccenvioustale_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccextraneouslight_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccextraneouslight_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccrookednail_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccrookednail_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccrookednail_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccrookednail_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccrookednail_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccvivaciouswrap_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccvivaciouswrap_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccvivaciouswrap_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccvivaciouswrap_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbeautifulgreat_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbeautifulgreat_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbeautifulgreat_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbeautifulgreat_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbeautifulgreat_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgraciouscommittee_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgraciouscommittee_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgraciouscommittee_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgraciouscommittee_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgraciouscommittee_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgraciouscommittee_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgraciouscommittee_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccmintytie_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccmintytie_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccmintytie_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccinterestingfailure_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccinterestingfailure_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccinterestingfailure_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccinterestingfailure_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccinterestingfailure_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccknowledgeableparticular_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccknowledgeableparticular_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccknowledgeableparticular_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccchealthyweakness_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccchealthyweakness_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccchealthyweakness_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccupsetextension_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccupsetextension_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccupsetextension_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccupsetextension_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccupsetextension_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccleafyofficial_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccleafyofficial_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsmugbreath_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsmugbreath_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsmugbreath_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsmugbreath_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsmugbreath_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccorruptnegotiation_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccorruptnegotiation_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccorruptnegotiation_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccctroubledsafety_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccctroubledsafety_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccctatteredbattle_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccctatteredbattle_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccctatteredbattle_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccleafysun_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccleafysun_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccleafysun_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccleafysun_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccleafysun_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccleafysun_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbrillianteffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbrillianteffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbrillianteffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbrillianteffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbrillianteffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbrillianteffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpotableangle_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpotableangle_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpotableangle_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsafetraining_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsafetraining_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsafetraining_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccworriedtrick_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccworriedtrick_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccalertgovernment_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccalertgovernment_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccuselessdevelopment_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccuselessdevelopment_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccuselessdevelopment_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccuselessdevelopment_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpoisedeffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpoisedeffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpoisedeffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpoisedeffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpoisedeffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpoisedeffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpoisedeffect_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrespectfulcelebration_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrespectfulcelebration_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrespectfulcelebration_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrespectfulcelebration_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrespectfulcelebration_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrespectfulcelebration_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccimpurefinal_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccimpurefinal_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccimpurefinal_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccimpurefinal_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccimpurefinal_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccdishonestmachine_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccdishonestmachine_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccdishonestmachine_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccurbanopening_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccurbanopening_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccurbanopening_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccurbanopening_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccroughcut_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccroughcut_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccillfatedvalue_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccillfatedvalue_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwholethought_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwholethought_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwholethought_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwholethought_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbowedsummer_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbowedsummer_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccbowedsummer_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccchollowexperience_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccchollowexperience_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccchollowexperience_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccglaringentrance_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccglaringentrance_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccdisguisedapplication_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccdisguisedapplication_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsociablemud_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsociablemud_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsociablemud_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsociablemud_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccquizzicalstranger_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccquizzicalstranger_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccquizzicalstranger_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccloyalworth_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccloyalworth_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccloyalworth_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccchotstatement_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccchotstatement_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccclightheartedadministration_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccclightheartedadministration_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccacrobaticpreparation_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccacrobaticpreparation_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccacrobaticpreparation_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccspectacularinfluence_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccspectacularinfluence_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgruesomebrick_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgruesomebrick_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccriticalfight_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccriticalfight_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccthistwo_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccthistwo_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpowerlessclerk_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpowerlessclerk_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccuniformsubstance_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccuniformsubstance_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccuniformsubstance_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccuniformsubstance_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccclastingjacket_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccclastingjacket_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccclearcutpermission_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccclearcutpermission_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrudemany_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccrudemany_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccmerrytax_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccmerrytax_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgiftedregister_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgiftedregister_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccclazyload_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccclazyload_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsecondrow_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsecondrow_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccarefreebase_seed = {
+	type = heritage
+	audio_parameter = european}heritage_ccccarefreebase_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpessimisticsteak_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpessimisticsteak_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccweeklynurse_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccweeklynurse_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwonderfuloperation_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccwonderfuloperation_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccoutlyinggrandfather_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccoutlyinggrandfather_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccglisteninghistorian_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccglisteninghistorian_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccclearchannel_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccclearchannel_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccterribletemperature_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccterribletemperature_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccunwillingsuccess_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccunwillingsuccess_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccweepysail_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccweepysail_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccweepysail_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccimprobablecouple_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccimprobablecouple_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccmerryrelation_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccmerryrelation_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccshamefuldirt_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccshamefuldirt_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccvapidbath_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccvapidbath_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccmelodicbottom_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccmelodicbottom_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccorangepreference_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccorangepreference_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccstarryrevolution_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccstarryrevolution_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccawesomefill_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccawesomefill_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccassureddraft_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccassureddraft_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccafraidcash_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccafraidcash_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccaffectionatephilosophy_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccaffectionatephilosophy_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsilverhall_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccsilverhall_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgranularestimate_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccgranularestimate_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccangrymeasurement_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccangrymeasurement_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccintentionalbackground_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccintentionalbackground_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpopularpen_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccpopularpen_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccequalclimate_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccequalclimate_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccfrayeddependent_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccfrayeddependent_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccadmirablesign_seed = {
+	type = heritage
+	audio_parameter = european}heritage_cccadmirablesign_seed = {
+	type = heritage
+	audio_parameter = european}

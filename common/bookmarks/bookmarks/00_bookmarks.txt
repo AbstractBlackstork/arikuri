@@ -1,0 +1,38 @@
+﻿bm_mod_placeholder = {
+  start_date = 701.10.25
+  is_playable = yes
+  group = bm_mod_group
+  weight = { value = 100 }
+
+    character = {
+
+		name = "bookmark_ck2rpg
+"
+		dynasty = dynn_gen_0
+
+		dynasty_splendor_level = 1
+
+		type = female
+
+		birth = 675.1.1
+
+		title = c_R244G204B166
+
+		government = tribal_government
+
+		culture = cccluminousshelter
+
+		religion = farflungentertainment_faith
+
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+
+		history_id = gen_1
+
+		position = { 500 1000 }
+
+
+		animation = happiness
+
+	}
+
+}

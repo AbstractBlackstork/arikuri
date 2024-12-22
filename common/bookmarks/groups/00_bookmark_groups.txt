@@ -1,0 +1,3 @@
+﻿bm_mod_group = {
+  default_start_date = 701.10.25
+}

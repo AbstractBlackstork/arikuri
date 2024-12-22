@@ -1,0 +1,34 @@
+ogre= {
+	index = 10015
+	opposites = { 
+	}
+	
+	genetic = yes
+	physical = yes
+	martial = 12
+	learning = -6
+	diplomacy = -6
+	prowess = 15
+	birth = 0.1
+	health = 5
+	no_prowess_loss_from_age = yes
+	life_expectancy = -15
+	wetlands_advantage = 30
+	general_opinion = -60
+	same_opinion = 60
+	dread_baseline_add = 30
+	ai_energy = -75
+	ruler_designer_cost = 50
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_ogre_desc
+			}
+			desc = trait_ogre_character_desc
+		}
+	}
+
+}

@@ -1,0 +1,7099 @@
+﻿1 = {
+	culture = cccluminousshelter
+	religion = farflungentertainment_faith
+	holding = castle_holding
+}
+2 = {
+	culture = cccelaborateapple
+	religion = prettydouble_faith
+	holding = castle_holding
+}
+1328 = {
+	holding = none
+}
+1875 = {
+	holding = none
+}
+348 = {
+	holding = none
+}
+22 = {
+	culture = cccelaborateapple
+	religion = prettydouble_faith
+	holding = castle_holding
+}
+815 = {
+	holding = none
+}
+196 = {
+	culture = cccelaborateapple
+	religion = prettydouble_faith
+	holding = castle_holding
+}
+589 = {
+	culture = cccelaborateapple
+	religion = prettydouble_faith
+	holding = castle_holding
+}
+4 = {
+	culture = ccccrushingtoday
+	religion = robustman_faith
+	holding = castle_holding
+}
+699 = {
+	holding = none
+}
+41 = {
+	culture = ccccrushingtoday
+	religion = robustman_faith
+	holding = castle_holding
+}
+1413 = {
+	holding = none
+}
+859 = {
+	holding = none
+}
+1391 = {
+	holding = none
+}
+1585 = {
+	holding = none
+}
+271 = {
+	holding = none
+}
+1053 = {
+	culture = ccccrushingtoday
+	religion = robustman_faith
+	holding = castle_holding
+}
+1318 = {
+	holding = none
+}
+229 = {
+	culture = ccccrushingtoday
+	religion = robustman_faith
+	holding = castle_holding
+}
+569 = {
+	holding = none
+}
+582 = {
+	culture = ccccrushingtoday
+	religion = robustman_faith
+	holding = castle_holding
+}
+1672 = {
+	holding = none
+}
+1205 = {
+	holding = none
+}
+1878 = {
+	holding = none
+}
+978 = {
+	holding = none
+}
+704 = {
+	culture = ccccrushingtoday
+	religion = robustman_faith
+	holding = castle_holding
+}
+1704 = {
+	holding = none
+}
+1098 = {
+	holding = none
+}
+27 = {
+	culture = cccsamehigh
+	religion = cylindricallife_faith
+	holding = castle_holding
+}
+501 = {
+	holding = none
+}
+1460 = {
+	holding = none
+}
+1526 = {
+	culture = cccsamehigh
+	religion = cylindricallife_faith
+	holding = castle_holding
+}
+1793 = {
+	holding = none
+}
+425 = {
+	culture = cccsamehigh
+	religion = cylindricallife_faith
+	holding = castle_holding
+}
+668 = {
+	holding = none
+}
+1826 = {
+	holding = none
+}
+456 = {
+	culture = cccsamehigh
+	religion = cylindricallife_faith
+	holding = castle_holding
+}
+1284 = {
+	holding = none
+}
+504 = {
+	culture = cccsamehigh
+	religion = cylindricallife_faith
+	holding = castle_holding
+}
+1518 = {
+	holding = none
+}
+984 = {
+	holding = none
+}
+147 = {
+	culture = cccfrillylawyer
+	religion = naivewindow_faith
+	holding = castle_holding
+}
+398 = {
+	culture = cccfrillylawyer
+	religion = naivewindow_faith
+	holding = castle_holding
+}
+886 = {
+	holding = none
+}
+1569 = {
+	holding = none
+}
+864 = {
+	holding = none
+}
+531 = {
+	holding = none
+}
+1236 = {
+	holding = none
+}
+478 = {
+	culture = cccfrillylawyer
+	religion = naivewindow_faith
+	holding = castle_holding
+}
+1168 = {
+	holding = none
+}
+156 = {
+	culture = cccfrillylawyer
+	religion = naivewindow_faith
+	holding = castle_holding
+}
+1002 = {
+	holding = none
+}
+1380 = {
+	holding = none
+}
+942 = {
+	holding = none
+}
+224 = {
+	culture = cccfrillylawyer
+	religion = naivewindow_faith
+	holding = castle_holding
+}
+1586 = {
+	holding = none
+}
+828 = {
+	holding = none
+}
+242 = {
+	culture = cccfrillylawyer
+	religion = naivewindow_faith
+	holding = castle_holding
+}
+567 = {
+	holding = none
+}
+1463 = {
+	culture = cccfrillylawyer
+	religion = naivewindow_faith
+	holding = castle_holding
+}
+1519 = {
+	holding = none
+}
+405 = {
+	culture = cccfrillylawyer
+	religion = naivewindow_faith
+	holding = castle_holding
+}
+1573 = {
+	holding = none
+}
+1687 = {
+	holding = none
+}
+432 = {
+	holding = none
+}
+1045 = {
+	holding = none
+}
+673 = {
+	culture = cccfrillylawyer
+	religion = naivewindow_faith
+	holding = castle_holding
+}
+1903 = {
+	holding = none
+}
+1107 = {
+	culture = cccfrillylawyer
+	religion = naivewindow_faith
+	holding = castle_holding
+}
+1554 = {
+	holding = none
+}
+3 = {
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
+	holding = castle_holding
+}
+1148 = {
+	holding = none
+}
+1184 = {
+	holding = none
+}
+1087 = {
+	holding = none
+}
+49 = {
+	holding = none
+}
+971 = {
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
+	holding = castle_holding
+}
+1094 = {
+	holding = none
+}
+1766 = {
+	holding = none
+}
+1667 = {
+	holding = none
+}
+1818 = {
+	holding = none
+}
+1084 = {
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
+	holding = castle_holding
+}
+1306 = {
+	holding = none
+}
+1626 = {
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
+	holding = castle_holding
+}
+103 = {
+	culture = cccthornyinformation
+	religion = chubbychildhood_faith
+	holding = castle_holding
+}
+1252 = {
+	holding = none
+}
+1353 = {
+	holding = none
+}
+1862 = {
+	holding = none
+}
+392 = {
+	holding = none
+}
+846 = {
+	holding = none
+}
+256 = {
+	culture = cccthornyinformation
+	religion = chubbychildhood_faith
+	holding = castle_holding
+}
+1601 = {
+	holding = none
+}
+248 = {
+	culture = cccthornyinformation
+	religion = chubbychildhood_faith
+	holding = castle_holding
+}
+1457 = {
+	holding = none
+}
+1729 = {
+	holding = none
+}
+1713 = {
+	holding = none
+}
+344 = {
+	culture = cccthornyinformation
+	religion = chubbychildhood_faith
+	holding = castle_holding
+}
+970 = {
+	holding = none
+}
+571 = {
+	culture = cccthornyinformation
+	religion = chubbychildhood_faith
+	holding = castle_holding
+}
+908 = {
+	holding = none
+}
+991 = {
+	holding = none
+}
+1291 = {
+	holding = none
+}
+182 = {
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
+	holding = castle_holding
+}
+381 = {
+	holding = none
+}
+1152 = {
+	holding = none
+}
+1701 = {
+	holding = none
+}
+693 = {
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
+	holding = castle_holding
+}
+1842 = {
+	holding = none
+}
+916 = {
+	holding = none
+}
+1545 = {
+	holding = none
+}
+570 = {
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
+	holding = castle_holding
+}
+1481 = {
+	holding = none
+}
+756 = {
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
+	holding = castle_holding
+}
+212 = {
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
+	holding = castle_holding
+}
+276 = {
+	holding = none
+}
+576 = {
+	holding = none
+}
+1495 = {
+	holding = none
+}
+383 = {
+	holding = none
+}
+612 = {
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
+	holding = castle_holding
+}
+851 = {
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
+	holding = castle_holding
+}
+1381 = {
+	holding = none
+}
+913 = {
+	holding = none
+}
+414 = {
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
+	holding = castle_holding
+}
+1153 = {
+	holding = none
+}
+1865 = {
+	holding = none
+}
+1595 = {
+	holding = none
+}
+474 = {
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
+	holding = castle_holding
+}
+536 = {
+	holding = none
+}
+1295 = {
+	holding = none
+}
+919 = {
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
+	holding = castle_holding
+}
+1489 = {
+	holding = none
+}
+1782 = {
+	holding = none
+}
+1422 = {
+	holding = none
+}
+879 = {
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
+	holding = castle_holding
+}
+1145 = {
+	holding = none
+}
+1257 = {
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
+	holding = castle_holding
+}
+1232 = {
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
+	holding = castle_holding
+}
+5 = {
+	culture = cccidealisticremote
+	religion = purplenorth_faith
+	holding = castle_holding
+}
+613 = {
+	holding = none
+}
+371 = {
+	culture = cccidealisticremote
+	religion = purplenorth_faith
+	holding = castle_holding
+}
+808 = {
+	holding = none
+}
+1147 = {
+	holding = none
+}
+1343 = {
+	holding = none
+}
+1514 = {
+	holding = none
+}
+16 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+745 = {
+	holding = none
+}
+253 = {
+	holding = none
+}
+767 = {
+	holding = none
+}
+222 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+709 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+710 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+1173 = {
+	holding = none
+}
+1269 = {
+	holding = none
+}
+1752 = {
+	holding = none
+}
+18 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+1869 = {
+	holding = none
+}
+1076 = {
+	holding = none
+}
+113 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+230 = {
+	holding = none
+}
+1854 = {
+	holding = none
+}
+1342 = {
+	holding = none
+}
+380 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+561 = {
+	holding = none
+}
+1411 = {
+	holding = none
+}
+172 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+798 = {
+	holding = none
+}
+1579 = {
+	holding = none
+}
+1371 = {
+	holding = none
+}
+686 = {
+	holding = none
+}
+572 = {
+	holding = none
+}
+1438 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+217 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+283 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+973 = {
+	holding = none
+}
+1511 = {
+	holding = none
+}
+1029 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+1465 = {
+	holding = none
+}
+1296 = {
+	holding = none
+}
+288 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+707 = {
+	holding = none
+}
+1811 = {
+	holding = none
+}
+261 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+986 = {
+	holding = none
+}
+1702 = {
+	holding = none
+}
+1757 = {
+	holding = none
+}
+566 = {
+	holding = none
+}
+343 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+838 = {
+	holding = none
+}
+1123 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+420 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+1488 = {
+	holding = none
+}
+1304 = {
+	holding = none
+}
+1441 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+1712 = {
+	culture = cccradiantbrilliant
+	religion = concretefarmer_faith
+	holding = castle_holding
+}
+32 = {
+	culture = cccpitifultechnology
+	religion = prestigiousmirror_faith
+	holding = castle_holding
+}
+845 = {
+	holding = none
+}
+1110 = {
+	holding = none
+}
+1044 = {
+	holding = none
+}
+207 = {
+	culture = cccpitifultechnology
+	religion = prestigiousmirror_faith
+	holding = castle_holding
+}
+1262 = {
+	holding = none
+}
+752 = {
+	holding = none
+}
+433 = {
+	holding = none
+}
+138 = {
+	culture = cccpitifultechnology
+	religion = prestigiousmirror_faith
+	holding = castle_holding
+}
+834 = {
+	holding = none
+}
+797 = {
+	holding = none
+}
+1887 = {
+	holding = none
+}
+206 = {
+	culture = cccpitifultechnology
+	religion = prestigiousmirror_faith
+	holding = castle_holding
+}
+1040 = {
+	holding = none
+}
+1043 = {
+	culture = cccpitifultechnology
+	religion = prestigiousmirror_faith
+	holding = castle_holding
+}
+247 = {
+	culture = cccpitifultechnology
+	religion = prestigiousmirror_faith
+	holding = castle_holding
+}
+657 = {
+	holding = none
+}
+959 = {
+	holding = none
+}
+1718 = {
+	holding = none
+}
+508 = {
+	holding = none
+}
+349 = {
+	culture = cccsmugmanufacturer
+	religion = densereveal_faith
+	holding = castle_holding
+}
+727 = {
+	culture = cccsmugmanufacturer
+	religion = densereveal_faith
+	holding = castle_holding
+}
+1356 = {
+	holding = none
+}
+1398 = {
+	holding = none
+}
+1191 = {
+	holding = none
+}
+771 = {
+	culture = cccsmugmanufacturer
+	religion = densereveal_faith
+	holding = castle_holding
+}
+1508 = {
+	culture = cccsmugmanufacturer
+	religion = densereveal_faith
+	holding = castle_holding
+}
+563 = {
+	culture = cccsmugmanufacturer
+	religion = densereveal_faith
+	holding = castle_holding
+}
+932 = {
+	holding = none
+}
+909 = {
+	holding = none
+}
+1849 = {
+	culture = cccsmugmanufacturer
+	religion = densereveal_faith
+	holding = castle_holding
+}
+626 = {
+	culture = cccsmugmanufacturer
+	religion = densereveal_faith
+	holding = castle_holding
+}
+370 = {
+	culture = cccaromaticbenefit
+	religion = metallicyard_faith
+	holding = castle_holding
+}
+544 = {
+	holding = none
+}
+1367 = {
+	holding = none
+}
+403 = {
+	culture = cccaromaticbenefit
+	religion = metallicyard_faith
+	holding = castle_holding
+}
+1899 = {
+	holding = none
+}
+1638 = {
+	holding = none
+}
+1298 = {
+	holding = none
+}
+814 = {
+	culture = cccaromaticbenefit
+	religion = metallicyard_faith
+	holding = castle_holding
+}
+1058 = {
+	holding = none
+}
+910 = {
+	culture = cccaromaticbenefit
+	religion = metallicyard_faith
+	holding = castle_holding
+}
+1692 = {
+	holding = none
+}
+1456 = {
+	holding = none
+}
+1841 = {
+	holding = none
+}
+388 = {
+	culture = cccaromaticbenefit
+	religion = metallicyard_faith
+	holding = castle_holding
+}
+580 = {
+	holding = none
+}
+1330 = {
+	holding = none
+}
+867 = {
+	holding = none
+}
+493 = {
+	holding = none
+}
+412 = {
+	culture = cccaromaticbenefit
+	religion = metallicyard_faith
+	holding = castle_holding
+}
+441 = {
+	holding = none
+}
+550 = {
+	culture = cccaromaticbenefit
+	religion = metallicyard_faith
+	holding = castle_holding
+}
+1639 = {
+	holding = none
+}
+1823 = {
+	culture = cccaromaticbenefit
+	religion = metallicyard_faith
+	holding = castle_holding
+}
+6 = {
+	culture = cccsugarybreath
+	religion = femalesignificance_faith
+	holding = castle_holding
+}
+390 = {
+	holding = none
+}
+514 = {
+	holding = none
+}
+801 = {
+	holding = none
+}
+1784 = {
+	holding = none
+}
+565 = {
+	holding = none
+}
+143 = {
+	culture = cccsugarybreath
+	religion = femalesignificance_faith
+	holding = castle_holding
+}
+218 = {
+	culture = cccsugarybreath
+	religion = femalesignificance_faith
+	holding = castle_holding
+}
+1249 = {
+	holding = none
+}
+497 = {
+	holding = none
+}
+703 = {
+	culture = cccsugarybreath
+	religion = femalesignificance_faith
+	holding = castle_holding
+}
+1850 = {
+	holding = none
+}
+1279 = {
+	holding = none
+}
+10 = {
+	culture = cccsugarybreath
+	religion = femalesignificance_faith
+	holding = castle_holding
+}
+842 = {
+	holding = none
+}
+577 = {
+	holding = none
+}
+436 = {
+	holding = none
+}
+606 = {
+	holding = none
+}
+1258 = {
+	culture = cccsugarybreath
+	religion = femalesignificance_faith
+	holding = castle_holding
+}
+1576 = {
+	culture = cccsugarybreath
+	religion = femalesignificance_faith
+	holding = castle_holding
+}
+135 = {
+	culture = cccsugarybreath
+	religion = femalesignificance_faith
+	holding = castle_holding
+}
+1160 = {
+	holding = none
+}
+1341 = {
+	holding = none
+}
+1102 = {
+	holding = none
+}
+853 = {
+	holding = none
+}
+149 = {
+	holding = none
+}
+583 = {
+	culture = cccsugarybreath
+	religion = femalesignificance_faith
+	holding = castle_holding
+}
+1760 = {
+	holding = none
+}
+1066 = {
+	culture = cccsugarybreath
+	religion = femalesignificance_faith
+	holding = castle_holding
+}
+7 = {
+	culture = cccpersonaldrive
+	religion = superiorthanks_faith
+	holding = castle_holding
+}
+24 = {
+	culture = cccpersonaldrive
+	religion = superiorthanks_faith
+	holding = castle_holding
+}
+920 = {
+	holding = none
+}
+1706 = {
+	holding = none
+}
+761 = {
+	culture = cccpersonaldrive
+	religion = superiorthanks_faith
+	holding = castle_holding
+}
+996 = {
+	holding = none
+}
+1904 = {
+	holding = none
+}
+1202 = {
+	holding = none
+}
+1288 = {
+	culture = cccpersonaldrive
+	religion = superiorthanks_faith
+	holding = castle_holding
+}
+1714 = {
+	culture = cccpersonaldrive
+	religion = superiorthanks_faith
+	holding = castle_holding
+}
+53 = {
+	culture = cccpersonaldrive
+	religion = superiorthanks_faith
+	holding = castle_holding
+}
+924 = {
+	holding = none
+}
+102 = {
+	holding = none
+}
+944 = {
+	culture = cccpersonaldrive
+	religion = superiorthanks_faith
+	holding = castle_holding
+}
+1052 = {
+	holding = none
+}
+934 = {
+	culture = cccpersonaldrive
+	religion = superiorthanks_faith
+	holding = castle_holding
+}
+1091 = {
+	culture = cccpersonaldrive
+	religion = superiorthanks_faith
+	holding = castle_holding
+}
+8 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+246 = {
+	holding = none
+}
+1629 = {
+	holding = none
+}
+1547 = {
+	holding = none
+}
+264 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+1162 = {
+	holding = none
+}
+42 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+936 = {
+	holding = none
+}
+1497 = {
+	holding = none
+}
+1727 = {
+	holding = none
+}
+215 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+553 = {
+	holding = none
+}
+1185 = {
+	holding = none
+}
+1292 = {
+	holding = none
+}
+921 = {
+	holding = none
+}
+340 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+1859 = {
+	holding = none
+}
+1484 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+233 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+824 = {
+	holding = none
+}
+1019 = {
+	holding = none
+}
+1423 = {
+	holding = none
+}
+447 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+1835 = {
+	holding = none
+}
+1504 = {
+	holding = none
+}
+1509 = {
+	holding = none
+}
+488 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+1666 = {
+	holding = none
+}
+1474 = {
+	holding = none
+}
+599 = {
+	holding = none
+}
+1745 = {
+	holding = none
+}
+786 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+829 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+1031 = {
+	culture = cccthreadbarevast
+	religion = neglectedegg_faith
+	holding = castle_holding
+}
+1419 = {
+	holding = none
+}
+64 = {
+	culture = cccbothalternative
+	religion = pointlessfeeling_faith
+	holding = castle_holding
+}
+1583 = {
+	holding = none
+}
+79 = {
+	culture = ccctidyintention
+	religion = thunderouschance_faith
+	holding = castle_holding
+}
+1136 = {
+	holding = none
+}
+1790 = {
+	holding = none
+}
+688 = {
+	holding = none
+}
+297 = {
+	culture = ccctidyintention
+	religion = thunderouschance_faith
+	holding = castle_holding
+}
+1446 = {
+	holding = none
+}
+430 = {
+	culture = ccctidyintention
+	religion = thunderouschance_faith
+	holding = castle_holding
+}
+1011 = {
+	holding = none
+}
+1816 = {
+	holding = none
+}
+543 = {
+	holding = none
+}
+1556 = {
+	culture = ccctidyintention
+	religion = thunderouschance_faith
+	holding = castle_holding
+}
+311 = {
+	culture = ccctidyintention
+	religion = thunderouschance_faith
+	holding = castle_holding
+}
+374 = {
+	holding = none
+}
+1637 = {
+	holding = none
+}
+639 = {
+	holding = none
+}
+484 = {
+	culture = ccctidyintention
+	religion = thunderouschance_faith
+	holding = castle_holding
+}
+1879 = {
+	holding = none
+}
+1104 = {
+	culture = ccctidyintention
+	religion = thunderouschance_faith
+	holding = castle_holding
+}
+684 = {
+	culture = ccctidyintention
+	religion = thunderouschance_faith
+	holding = castle_holding
+}
+1609 = {
+	holding = none
+}
+1603 = {
+	holding = none
+}
+1524 = {
+	holding = none
+}
+1861 = {
+	holding = none
+}
+1502 = {
+	culture = ccctidyintention
+	religion = thunderouschance_faith
+	holding = castle_holding
+}
+104 = {
+	culture = cccunnaturalestablishment
+	religion = detailedbeach_faith
+	holding = castle_holding
+}
+1506 = {
+	holding = none
+}
+180 = {
+	holding = none
+}
+607 = {
+	holding = none
+}
+438 = {
+	culture = cccunnaturalestablishment
+	religion = detailedbeach_faith
+	holding = castle_holding
+}
+1016 = {
+	holding = none
+}
+325 = {
+	culture = cccunnaturalestablishment
+	religion = detailedbeach_faith
+	holding = castle_holding
+}
+407 = {
+	holding = none
+}
+785 = {
+	holding = none
+}
+1157 = {
+	holding = none
+}
+1589 = {
+	holding = none
+}
+475 = {
+	culture = cccunnaturalestablishment
+	religion = detailedbeach_faith
+	holding = castle_holding
+}
+690 = {
+	culture = cccunnaturalestablishment
+	religion = detailedbeach_faith
+	holding = castle_holding
+}
+1086 = {
+	culture = cccunnaturalestablishment
+	religion = detailedbeach_faith
+	holding = castle_holding
+}
+342 = {
+	culture = cccunnaturalestablishment
+	religion = detailedbeach_faith
+	holding = castle_holding
+}
+507 = {
+	holding = none
+}
+1149 = {
+	holding = none
+}
+717 = {
+	holding = none
+}
+721 = {
+	culture = cccunnaturalestablishment
+	religion = detailedbeach_faith
+	holding = castle_holding
+}
+1707 = {
+	holding = none
+}
+805 = {
+	holding = none
+}
+1739 = {
+	culture = cccunnaturalestablishment
+	religion = detailedbeach_faith
+	holding = castle_holding
+}
+9 = {
+	culture = cccexperttonight
+	religion = honorableimprovement_faith
+	holding = castle_holding
+}
+1433 = {
+	holding = none
+}
+671 = {
+	holding = none
+}
+262 = {
+	holding = none
+}
+1755 = {
+	holding = none
+}
+60 = {
+	culture = cccexperttonight
+	religion = honorableimprovement_faith
+	holding = castle_holding
+}
+992 = {
+	holding = none
+}
+747 = {
+	culture = cccexperttonight
+	religion = honorableimprovement_faith
+	holding = castle_holding
+}
+772 = {
+	culture = cccexperttonight
+	religion = honorableimprovement_faith
+	holding = castle_holding
+}
+1297 = {
+	holding = none
+}
+880 = {
+	culture = cccexperttonight
+	religion = honorableimprovement_faith
+	holding = castle_holding
+}
+413 = {
+	culture = cccexperttonight
+	religion = honorableimprovement_faith
+	holding = castle_holding
+}
+1268 = {
+	holding = none
+}
+1329 = {
+	culture = cccexperttonight
+	religion = honorableimprovement_faith
+	holding = castle_holding
+}
+419 = {
+	culture = cccexperttonight
+	religion = honorableimprovement_faith
+	holding = castle_holding
+}
+1128 = {
+	holding = none
+}
+491 = {
+	holding = none
+}
+1761 = {
+	holding = none
+}
+1892 = {
+	holding = none
+}
+1809 = {
+	culture = cccexperttonight
+	religion = honorableimprovement_faith
+	holding = castle_holding
+}
+74 = {
+	culture = cccbutterylaw
+	religion = flimsylunch_faith
+	holding = castle_holding
+}
+1139 = {
+	holding = none
+}
+78 = {
+	culture = cccbutterylaw
+	religion = flimsylunch_faith
+	holding = castle_holding
+}
+91 = {
+	holding = none
+}
+1073 = {
+	holding = none
+}
+943 = {
+	holding = none
+}
+1396 = {
+	holding = none
+}
+813 = {
+	culture = cccbutterylaw
+	religion = flimsylunch_faith
+	holding = castle_holding
+}
+1222 = {
+	holding = none
+}
+1737 = {
+	holding = none
+}
+1022 = {
+	culture = cccbutterylaw
+	religion = flimsylunch_faith
+	holding = castle_holding
+}
+269 = {
+	culture = cccbutterylaw
+	religion = flimsylunch_faith
+	holding = castle_holding
+}
+1575 = {
+	holding = none
+}
+1610 = {
+	holding = none
+}
+1083 = {
+	holding = none
+}
+1115 = {
+	holding = none
+}
+323 = {
+	culture = cccbutterylaw
+	religion = flimsylunch_faith
+	holding = castle_holding
+}
+1467 = {
+	holding = none
+}
+1425 = {
+	holding = none
+}
+1764 = {
+	holding = none
+}
+1132 = {
+	holding = none
+}
+1434 = {
+	culture = cccbutterylaw
+	religion = flimsylunch_faith
+	holding = castle_holding
+}
+124 = {
+	culture = cccpolitespite
+	religion = pointedauthor_faith
+	holding = castle_holding
+}
+1699 = {
+	holding = none
+}
+1888 = {
+	holding = none
+}
+228 = {
+	holding = none
+}
+1363 = {
+	culture = cccpolitespite
+	religion = pointedauthor_faith
+	holding = castle_holding
+}
+1844 = {
+	holding = none
+}
+1532 = {
+	holding = none
+}
+551 = {
+	culture = cccpolitespite
+	religion = pointedauthor_faith
+	holding = castle_holding
+}
+757 = {
+	holding = none
+}
+1512 = {
+	holding = none
+}
+555 = {
+	culture = cccpolitespite
+	religion = pointedauthor_faith
+	holding = castle_holding
+}
+1608 = {
+	holding = none
+}
+1493 = {
+	holding = none
+}
+870 = {
+	holding = none
+}
+927 = {
+	culture = cccpolitespite
+	religion = pointedauthor_faith
+	holding = castle_holding
+}
+1027 = {
+	culture = cccpolitespite
+	religion = pointedauthor_faith
+	holding = castle_holding
+}
+1802 = {
+	holding = none
+}
+1177 = {
+	holding = none
+}
+1164 = {
+	holding = none
+}
+11 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+1324 = {
+	holding = none
+}
+166 = {
+	holding = none
+}
+1641 = {
+	holding = none
+}
+935 = {
+	holding = none
+}
+97 = {
+	holding = none
+}
+1451 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+33 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+38 = {
+	holding = none
+}
+841 = {
+	holding = none
+}
+616 = {
+	holding = none
+}
+178 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+574 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+713 = {
+	holding = none
+}
+1135 = {
+	holding = none
+}
+783 = {
+	holding = none
+}
+141 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+301 = {
+	holding = none
+}
+967 = {
+	holding = none
+}
+144 = {
+	holding = none
+}
+186 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+1012 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+1857 = {
+	holding = none
+}
+1477 = {
+	holding = none
+}
+1119 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+1905 = {
+	holding = none
+}
+331 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+1337 = {
+	holding = none
+}
+1338 = {
+	holding = none
+}
+638 = {
+	culture = cccdetailedassociate
+	religion = squeakywarning_faith
+	holding = castle_holding
+}
+1345 = {
+	holding = none
+}
+1251 = {
+	holding = none
+}
+1654 = {
+	holding = none
+}
+887 = {
+	holding = none
+}
+1212 = {
+	holding = none
+}
+15 = {
+	culture = cccpointedpound
+	religion = strictgrand_faith
+	holding = castle_holding
+}
+500 = {
+	holding = none
+}
+1137 = {
+	holding = none
+}
+130 = {
+	culture = cccpointedpound
+	religion = strictgrand_faith
+	holding = castle_holding
+}
+723 = {
+	holding = none
+}
+656 = {
+	holding = none
+}
+1021 = {
+	culture = cccpointedpound
+	religion = strictgrand_faith
+	holding = castle_holding
+}
+96 = {
+	culture = cccpointedpound
+	religion = strictgrand_faith
+	holding = castle_holding
+}
+898 = {
+	holding = none
+}
+627 = {
+	holding = none
+}
+137 = {
+	culture = cccpointedpound
+	religion = strictgrand_faith
+	holding = castle_holding
+}
+779 = {
+	holding = none
+}
+139 = {
+	holding = none
+}
+43 = {
+	culture = cccdrybread
+	religion = imperfectprint_faith
+	holding = castle_holding
+}
+1172 = {
+	culture = cccdrybread
+	religion = imperfectprint_faith
+	holding = castle_holding
+}
+44 = {
+	culture = cccunnaturalcourage
+	religion = biodegradableresolve_faith
+	holding = castle_holding
+}
+1127 = {
+	holding = none
+}
+738 = {
+	holding = none
+}
+457 = {
+	holding = none
+}
+175 = {
+	culture = cccunnaturalcourage
+	religion = biodegradableresolve_faith
+	holding = castle_holding
+}
+1075 = {
+	holding = none
+}
+1231 = {
+	holding = none
+}
+904 = {
+	holding = none
+}
+896 = {
+	holding = none
+}
+85 = {
+	culture = cccunnaturalcourage
+	religion = biodegradableresolve_faith
+	holding = castle_holding
+}
+670 = {
+	culture = cccunnaturalcourage
+	religion = biodegradableresolve_faith
+	holding = castle_holding
+}
+12 = {
+	culture = ccctidycollection
+	religion = tediouspicture_faith
+	holding = castle_holding
+}
+1717 = {
+	holding = none
+}
+13 = {
+	culture = ccctidycollection
+	religion = tediouspicture_faith
+	holding = castle_holding
+}
+1365 = {
+	holding = none
+}
+1079 = {
+	holding = none
+}
+105 = {
+	culture = ccctidycollection
+	religion = tediouspicture_faith
+	holding = castle_holding
+}
+888 = {
+	holding = none
+}
+1182 = {
+	holding = none
+}
+903 = {
+	culture = ccctidycollection
+	religion = tediouspicture_faith
+	holding = castle_holding
+}
+1829 = {
+	holding = none
+}
+963 = {
+	holding = none
+}
+1074 = {
+	holding = none
+}
+976 = {
+	culture = ccctidycollection
+	religion = tediouspicture_faith
+	holding = castle_holding
+}
+1081 = {
+	culture = ccctidycollection
+	religion = tediouspicture_faith
+	holding = castle_holding
+}
+1776 = {
+	culture = ccctidycollection
+	religion = tediouspicture_faith
+	holding = castle_holding
+}
+173 = {
+	culture = ccctidycollection
+	religion = tediouspicture_faith
+	holding = castle_holding
+}
+365 = {
+	holding = none
+}
+1676 = {
+	holding = none
+}
+1846 = {
+	holding = none
+}
+1444 = {
+	holding = none
+}
+742 = {
+	holding = none
+}
+1050 = {
+	culture = ccctidycollection
+	religion = tediouspicture_faith
+	holding = castle_holding
+}
+1499 = {
+	holding = none
+}
+1215 = {
+	holding = none
+}
+1270 = {
+	holding = none
+}
+23 = {
+	culture = cccfamiliarschedule
+	religion = informalgate_faith
+	holding = castle_holding
+}
+1218 = {
+	holding = none
+}
+882 = {
+	holding = none
+}
+1882 = {
+	holding = none
+}
+159 = {
+	culture = cccfamiliarschedule
+	religion = informalgate_faith
+	holding = castle_holding
+}
+164 = {
+	culture = cccfamiliarschedule
+	religion = informalgate_faith
+	holding = castle_holding
+}
+1462 = {
+	holding = none
+}
+263 = {
+	culture = cccfamiliarschedule
+	religion = informalgate_faith
+	holding = castle_holding
+}
+1274 = {
+	holding = none
+}
+1834 = {
+	holding = none
+}
+855 = {
+	holding = none
+}
+1567 = {
+	holding = none
+}
+1622 = {
+	holding = none
+}
+479 = {
+	culture = cccfamiliarschedule
+	religion = informalgate_faith
+	holding = castle_holding
+}
+1036 = {
+	holding = none
+}
+1754 = {
+	holding = none
+}
+1651 = {
+	holding = none
+}
+869 = {
+	culture = cccfamiliarschedule
+	religion = informalgate_faith
+	holding = castle_holding
+}
+266 = {
+	culture = cccfamiliarschedule
+	religion = informalgate_faith
+	holding = castle_holding
+}
+948 = {
+	holding = none
+}
+1196 = {
+	holding = none
+}
+770 = {
+	culture = cccfamiliarschedule
+	religion = informalgate_faith
+	holding = castle_holding
+}
+883 = {
+	holding = none
+}
+1690 = {
+	holding = none
+}
+1435 = {
+	holding = none
+}
+1679 = {
+	holding = none
+}
+1797 = {
+	culture = cccfamiliarschedule
+	religion = informalgate_faith
+	holding = castle_holding
+}
+51 = {
+	culture = cccforkedsense
+	religion = fortunateemployee_faith
+	holding = castle_holding
+}
+94 = {
+	holding = none
+}
+404 = {
+	holding = none
+}
+302 = {
+	holding = none
+}
+1552 = {
+	holding = none
+}
+399 = {
+	culture = cccforkedsense
+	religion = fortunateemployee_faith
+	holding = castle_holding
+}
+169 = {
+	culture = cccsmoothabroad
+	religion = heartfeltdistribution_faith
+	holding = castle_holding
+}
+1541 = {
+	holding = none
+}
+346 = {
+	culture = cccsmoothabroad
+	religion = heartfeltdistribution_faith
+	holding = castle_holding
+}
+464 = {
+	holding = none
+}
+1130 = {
+	holding = none
+}
+1631 = {
+	holding = none
+}
+1762 = {
+	holding = none
+}
+289 = {
+	culture = cccsmoothabroad
+	religion = heartfeltdistribution_faith
+	holding = castle_holding
+}
+858 = {
+	holding = none
+}
+868 = {
+	culture = cccsmoothabroad
+	religion = heartfeltdistribution_faith
+	holding = castle_holding
+}
+410 = {
+	culture = cccsmoothabroad
+	religion = heartfeltdistribution_faith
+	holding = castle_holding
+}
+1623 = {
+	holding = none
+}
+1344 = {
+	holding = none
+}
+449 = {
+	culture = cccsmoothabroad
+	religion = heartfeltdistribution_faith
+	holding = castle_holding
+}
+1691 = {
+	holding = none
+}
+1178 = {
+	holding = none
+}
+1548 = {
+	culture = cccsmoothabroad
+	religion = heartfeltdistribution_faith
+	holding = castle_holding
+}
+1817 = {
+	holding = none
+}
+496 = {
+	culture = cccsmoothabroad
+	religion = heartfeltdistribution_faith
+	holding = castle_holding
+}
+604 = {
+	holding = none
+}
+602 = {
+	holding = none
+}
+1241 = {
+	holding = none
+}
+282 = {
+	culture = cccoffensivedeath
+	religion = inferiorblind_faith
+	holding = castle_holding
+}
+1088 = {
+	holding = none
+}
+1133 = {
+	holding = none
+}
+387 = {
+	culture = cccoffensivedeath
+	religion = inferiorblind_faith
+	holding = castle_holding
+}
+1890 = {
+	holding = none
+}
+933 = {
+	holding = none
+}
+1437 = {
+	holding = none
+}
+753 = {
+	holding = none
+}
+442 = {
+	culture = cccoffensivedeath
+	religion = inferiorblind_faith
+	holding = castle_holding
+}
+708 = {
+	holding = none
+}
+1895 = {
+	holding = none
+}
+619 = {
+	holding = none
+}
+469 = {
+	culture = cccoffensivedeath
+	religion = inferiorblind_faith
+	holding = castle_holding
+}
+384 = {
+	culture = cccfabulousinsect
+	religion = growingnetwork_faith
+	holding = castle_holding
+}
+683 = {
+	culture = cccfabulousinsect
+	religion = growingnetwork_faith
+	holding = castle_holding
+}
+1129 = {
+	holding = none
+}
+865 = {
+	holding = none
+}
+860 = {
+	culture = cccfabulousinsect
+	religion = growingnetwork_faith
+	holding = castle_holding
+}
+1659 = {
+	holding = none
+}
+1500 = {
+	holding = none
+}
+929 = {
+	holding = none
+}
+1059 = {
+	culture = cccfabulousinsect
+	religion = growingnetwork_faith
+	holding = castle_holding
+}
+417 = {
+	culture = cccfabulousinsect
+	religion = growingnetwork_faith
+	holding = castle_holding
+}
+988 = {
+	holding = none
+}
+1047 = {
+	holding = none
+}
+1851 = {
+	holding = none
+}
+1333 = {
+	holding = none
+}
+1424 = {
+	holding = none
+}
+1738 = {
+	culture = cccfabulousinsect
+	religion = growingnetwork_faith
+	holding = castle_holding
+}
+1085 = {
+	culture = cccfabulousinsect
+	religion = growingnetwork_faith
+	holding = castle_holding
+}
+1121 = {
+	holding = none
+}
+1116 = {
+	holding = none
+}
+1855 = {
+	holding = none
+}
+1263 = {
+	holding = none
+}
+1825 = {
+	culture = cccfabulousinsect
+	religion = growingnetwork_faith
+	holding = castle_holding
+}
+1840 = {
+	culture = cccfabulousinsect
+	religion = growingnetwork_faith
+	holding = castle_holding
+}
+14 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+1060 = {
+	holding = none
+}
+758 = {
+	holding = none
+}
+134 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+268 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+632 = {
+	holding = none
+}
+1300 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+39 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+1598 = {
+	holding = none
+}
+148 = {
+	holding = none
+}
+48 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+1695 = {
+	holding = none
+}
+892 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+1645 = {
+	holding = none
+}
+1858 = {
+	holding = none
+}
+82 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+463 = {
+	holding = none
+}
+642 = {
+	holding = none
+}
+391 = {
+	holding = none
+}
+790 = {
+	holding = none
+}
+185 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+680 = {
+	holding = none
+}
+1376 = {
+	holding = none
+}
+320 = {
+	holding = none
+}
+386 = {
+	holding = none
+}
+1384 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+128 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+1596 = {
+	holding = none
+}
+835 = {
+	holding = none
+}
+1122 = {
+	holding = none
+}
+368 = {
+	holding = none
+}
+611 = {
+	holding = none
+}
+1628 = {
+	culture = ccctrivialmaster
+	religion = newtrash_faith
+	holding = castle_holding
+}
+100 = {
+	culture = ccclawfulroom
+	religion = inexperiencedsuccess_faith
+	holding = castle_holding
+}
+120 = {
+	holding = none
+}
+1009 = {
+	holding = none
+}
+183 = {
+	holding = none
+}
+1209 = {
+	holding = none
+}
+305 = {
+	culture = ccclawfulroom
+	religion = inexperiencedsuccess_faith
+	holding = castle_holding
+}
+746 = {
+	culture = ccclawfulroom
+	religion = inexperiencedsuccess_faith
+	holding = castle_holding
+}
+1705 = {
+	holding = none
+}
+979 = {
+	culture = ccclawfulroom
+	religion = inexperiencedsuccess_faith
+	holding = castle_holding
+}
+1562 = {
+	holding = none
+}
+651 = {
+	culture = ccclawfulroom
+	religion = inexperiencedsuccess_faith
+	holding = castle_holding
+}
+1785 = {
+	holding = none
+}
+1571 = {
+	culture = ccclawfulroom
+	religion = inexperiencedsuccess_faith
+	holding = castle_holding
+}
+873 = {
+	culture = ccclawfulroom
+	religion = inexperiencedsuccess_faith
+	holding = castle_holding
+}
+1808 = {
+	holding = none
+}
+1197 = {
+	holding = none
+}
+1664 = {
+	holding = none
+}
+1089 = {
+	holding = none
+}
+1325 = {
+	holding = none
+}
+1001 = {
+	culture = ccclawfulroom
+	religion = inexperiencedsuccess_faith
+	holding = castle_holding
+}
+1439 = {
+	holding = none
+}
+1082 = {
+	holding = none
+}
+1458 = {
+	holding = none
+}
+1587 = {
+	holding = none
+}
+17 = {
+	culture = cccunrealisticsort
+	religion = bluevoice_faith
+	holding = castle_holding
+}
+339 = {
+	holding = none
+}
+1126 = {
+	holding = none
+}
+1648 = {
+	holding = none
+}
+136 = {
+	culture = cccunrealisticsort
+	religion = bluevoice_faith
+	holding = castle_holding
+}
+190 = {
+	holding = none
+}
+509 = {
+	holding = none
+}
+737 = {
+	holding = none
+}
+1744 = {
+	holding = none
+}
+59 = {
+	culture = cccmountainoussalt
+	religion = outstandingresident_faith
+	holding = castle_holding
+}
+213 = {
+	culture = cccmountainoussalt
+	religion = outstandingresident_faith
+	holding = castle_holding
+}
+114 = {
+	culture = cccmountainoussalt
+	religion = outstandingresident_faith
+	holding = castle_holding
+}
+160 = {
+	culture = cccmountainoussalt
+	religion = outstandingresident_faith
+	holding = castle_holding
+}
+784 = {
+	holding = none
+}
+800 = {
+	culture = cccmountainoussalt
+	religion = outstandingresident_faith
+	holding = castle_holding
+}
+83 = {
+	culture = cccmountainoussalt
+	religion = outstandingresident_faith
+	holding = castle_holding
+}
+1620 = {
+	holding = none
+}
+993 = {
+	holding = none
+}
+99 = {
+	holding = none
+}
+1323 = {
+	holding = none
+}
+191 = {
+	culture = cccmountainoussalt
+	religion = outstandingresident_faith
+	holding = castle_holding
+}
+1777 = {
+	holding = none
+}
+1095 = {
+	holding = none
+}
+1248 = {
+	holding = none
+}
+353 = {
+	holding = none
+}
+907 = {
+	culture = cccmountainoussalt
+	religion = outstandingresident_faith
+	holding = castle_holding
+}
+952 = {
+	culture = cccmountainoussalt
+	religion = outstandingresident_faith
+	holding = castle_holding
+}
+1007 = {
+	holding = none
+}
+89 = {
+	culture = cccexcitablelawyer
+	religion = wildblood_faith
+	holding = castle_holding
+}
+1421 = {
+	holding = none
+}
+152 = {
+	culture = cccexcitablelawyer
+	religion = wildblood_faith
+	holding = castle_holding
+}
+406 = {
+	holding = none
+}
+1613 = {
+	holding = none
+}
+938 = {
+	holding = none
+}
+1256 = {
+	holding = none
+}
+158 = {
+	culture = cccexcitablelawyer
+	religion = wildblood_faith
+	holding = castle_holding
+}
+695 = {
+	holding = none
+}
+1206 = {
+	holding = none
+}
+1264 = {
+	holding = none
+}
+277 = {
+	culture = cccexcitablelawyer
+	religion = wildblood_faith
+	holding = castle_holding
+}
+636 = {
+	holding = none
+}
+782 = {
+	holding = none
+}
+378 = {
+	holding = none
+}
+294 = {
+	culture = cccexcitablelawyer
+	religion = wildblood_faith
+	holding = castle_holding
+}
+1239 = {
+	holding = none
+}
+1898 = {
+	holding = none
+}
+1183 = {
+	holding = none
+}
+549 = {
+	holding = none
+}
+545 = {
+	holding = none
+}
+298 = {
+	culture = cccexcitablelawyer
+	religion = wildblood_faith
+	holding = castle_holding
+}
+1472 = {
+	holding = none
+}
+1142 = {
+	holding = none
+}
+1399 = {
+	holding = none
+}
+1416 = {
+	holding = none
+}
+307 = {
+	holding = none
+}
+108 = {
+	culture = ccclegalteaching
+	religion = sizzlingbridge_faith
+	holding = castle_holding
+}
+931 = {
+	holding = none
+}
+219 = {
+	holding = none
+}
+373 = {
+	culture = ccclegalteaching
+	religion = sizzlingbridge_faith
+	holding = castle_holding
+}
+937 = {
+	holding = none
+}
+395 = {
+	holding = none
+}
+284 = {
+	culture = ccclegalteaching
+	religion = sizzlingbridge_faith
+	holding = castle_holding
+}
+1683 = {
+	holding = none
+}
+866 = {
+	holding = none
+}
+1179 = {
+	culture = ccclegalteaching
+	religion = sizzlingbridge_faith
+	holding = castle_holding
+}
+1742 = {
+	holding = none
+}
+1521 = {
+	holding = none
+}
+19 = {
+	culture = cccgoldenhalf
+	religion = evilband_faith
+	holding = castle_holding
+}
+482 = {
+	holding = none
+}
+1873 = {
+	holding = none
+}
+411 = {
+	holding = none
+}
+1615 = {
+	holding = none
+}
+629 = {
+	culture = cccgoldenhalf
+	religion = evilband_faith
+	holding = castle_holding
+}
+68 = {
+	culture = cccgoldenhalf
+	religion = evilband_faith
+	holding = castle_holding
+}
+1176 = {
+	holding = none
+}
+791 = {
+	holding = none
+}
+768 = {
+	culture = cccgoldenhalf
+	religion = evilband_faith
+	holding = castle_holding
+}
+1386 = {
+	holding = none
+}
+1242 = {
+	holding = none
+}
+980 = {
+	holding = none
+}
+112 = {
+	culture = cccgoldenhalf
+	religion = evilband_faith
+	holding = castle_holding
+}
+121 = {
+	culture = cccgoldenhalf
+	religion = evilband_faith
+	holding = castle_holding
+}
+1827 = {
+	holding = none
+}
+472 = {
+	holding = none
+}
+1644 = {
+	holding = none
+}
+1080 = {
+	holding = none
+}
+1788 = {
+	holding = none
+}
+874 = {
+	culture = cccgoldenhalf
+	religion = evilband_faith
+	holding = castle_holding
+}
+31 = {
+	culture = cccwarmgather
+	religion = anotherswim_faith
+	holding = castle_holding
+}
+647 = {
+	holding = none
+}
+280 = {
+	holding = none
+}
+1486 = {
+	holding = none
+}
+849 = {
+	holding = none
+}
+181 = {
+	culture = cccwarmgather
+	religion = anotherswim_faith
+	holding = castle_holding
+}
+84 = {
+	culture = cccwarmgather
+	religion = anotherswim_faith
+	holding = castle_holding
+}
+195 = {
+	holding = none
+}
+274 = {
+	culture = cccwarmgather
+	religion = anotherswim_faith
+	holding = castle_holding
+}
+366 = {
+	culture = cccwarmgather
+	religion = anotherswim_faith
+	holding = castle_holding
+}
+666 = {
+	holding = none
+}
+1327 = {
+	holding = none
+}
+315 = {
+	culture = cccwarmgather
+	religion = anotherswim_faith
+	holding = castle_holding
+}
+1335 = {
+	holding = none
+}
+876 = {
+	holding = none
+}
+1106 = {
+	holding = none
+}
+1336 = {
+	holding = none
+}
+1310 = {
+	holding = none
+}
+694 = {
+	culture = cccwarmgather
+	religion = anotherswim_faith
+	holding = castle_holding
+}
+832 = {
+	holding = none
+}
+983 = {
+	holding = none
+}
+468 = {
+	culture = cccwarmgather
+	religion = anotherswim_faith
+	holding = castle_holding
+}
+556 = {
+	culture = cccwarmgather
+	religion = anotherswim_faith
+	holding = castle_holding
+}
+615 = {
+	holding = none
+}
+957 = {
+	holding = none
+}
+792 = {
+	holding = none
+}
+590 = {
+	holding = none
+}
+1769 = {
+	holding = none
+}
+20 = {
+	culture = ccccoldrip
+	religion = glaringturn_faith
+	holding = castle_holding
+}
+296 = {
+	holding = none
+}
+1786 = {
+	holding = none
+}
+793 = {
+	holding = none
+}
+1033 = {
+	holding = none
+}
+1374 = {
+	holding = none
+}
+255 = {
+	culture = ccccoldrip
+	religion = glaringturn_faith
+	holding = castle_holding
+}
+794 = {
+	holding = none
+}
+184 = {
+	culture = ccccoldrip
+	religion = glaringturn_faith
+	holding = castle_holding
+}
+1159 = {
+	holding = none
+}
+375 = {
+	holding = none
+}
+1735 = {
+	holding = none
+}
+537 = {
+	culture = ccccoldrip
+	religion = glaringturn_faith
+	holding = castle_holding
+}
+203 = {
+	culture = cccawfullight
+	religion = glamoroustheory_faith
+	holding = castle_holding
+}
+1611 = {
+	holding = none
+}
+1675 = {
+	holding = none
+}
+1216 = {
+	holding = none
+}
+1097 = {
+	holding = none
+}
+257 = {
+	culture = cccawfullight
+	religion = glamoroustheory_faith
+	holding = castle_holding
+}
+1161 = {
+	holding = none
+}
+1350 = {
+	holding = none
+}
+1560 = {
+	holding = none
+}
+1822 = {
+	holding = none
+}
+534 = {
+	culture = cccawfullight
+	religion = glamoroustheory_faith
+	holding = castle_holding
+}
+1897 = {
+	holding = none
+}
+275 = {
+	culture = cccawfullight
+	religion = glamoroustheory_faith
+	holding = castle_holding
+}
+529 = {
+	holding = none
+}
+1789 = {
+	holding = none
+}
+1868 = {
+	holding = none
+}
+1563 = {
+	holding = none
+}
+1008 = {
+	holding = none
+}
+21 = {
+	culture = ccclivelyregular
+	religion = sillysoftware_faith
+	holding = castle_holding
+}
+961 = {
+	holding = none
+}
+278 = {
+	culture = ccclivelyregular
+	religion = sillysoftware_faith
+	holding = castle_holding
+}
+1221 = {
+	holding = none
+}
+338 = {
+	holding = none
+}
+1056 = {
+	holding = none
+}
+1240 = {
+	holding = none
+}
+1278 = {
+	holding = none
+}
+170 = {
+	culture = ccclivelyregular
+	religion = sillysoftware_faith
+	holding = castle_holding
+}
+1503 = {
+	holding = none
+}
+1799 = {
+	holding = none
+}
+426 = {
+	culture = ccclivelyregular
+	religion = sillysoftware_faith
+	holding = castle_holding
+}
+1006 = {
+	holding = none
+}
+1501 = {
+	culture = ccclivelyregular
+	religion = sillysoftware_faith
+	holding = castle_holding
+}
+1856 = {
+	holding = none
+}
+87 = {
+	culture = cccprestigiousstudio
+	religion = jadedchoice_faith
+	holding = castle_holding
+}
+1204 = {
+	holding = none
+}
+1513 = {
+	holding = none
+}
+669 = {
+	holding = none
+}
+165 = {
+	culture = cccprestigiousstudio
+	religion = jadedchoice_faith
+	holding = castle_holding
+}
+1217 = {
+	holding = none
+}
+1194 = {
+	holding = none
+}
+1833 = {
+	holding = none
+}
+303 = {
+	culture = cccprestigiousstudio
+	religion = jadedchoice_faith
+	holding = castle_holding
+}
+1559 = {
+	holding = none
+}
+655 = {
+	holding = none
+}
+427 = {
+	culture = cccprestigiousstudio
+	religion = jadedchoice_faith
+	holding = castle_holding
+}
+689 = {
+	holding = none
+}
+439 = {
+	holding = none
+}
+322 = {
+	culture = cccprestigiousstudio
+	religion = jadedchoice_faith
+	holding = castle_holding
+}
+552 = {
+	holding = none
+}
+329 = {
+	culture = cccprestigiousstudio
+	religion = jadedchoice_faith
+	holding = castle_holding
+}
+581 = {
+	culture = cccprestigiousstudio
+	religion = jadedchoice_faith
+	holding = castle_holding
+}
+923 = {
+	holding = none
+}
+300 = {
+	culture = cccwoozywest
+	religion = blackmeaning_faith
+	holding = castle_holding
+}
+1273 = {
+	holding = none
+}
+539 = {
+	holding = none
+}
+773 = {
+	holding = none
+}
+345 = {
+	holding = none
+}
+304 = {
+	culture = cccalloperation
+	religion = blissfularrival_faith
+	holding = castle_holding
+}
+1510 = {
+	holding = none
+}
+763 = {
+	holding = none
+}
+1193 = {
+	holding = none
+}
+470 = {
+	holding = none
+}
+421 = {
+	culture = cccalloperation
+	religion = blissfularrival_faith
+	holding = castle_holding
+}
+1820 = {
+	holding = none
+}
+1624 = {
+	holding = none
+}
+1642 = {
+	holding = none
+}
+476 = {
+	holding = none
+}
+1743 = {
+	holding = none
+}
+575 = {
+	culture = cccalloperation
+	religion = blissfularrival_faith
+	holding = castle_holding
+}
+1334 = {
+	holding = none
+}
+1883 = {
+	holding = none
+}
+949 = {
+	culture = cccalloperation
+	religion = blissfularrival_faith
+	holding = castle_holding
+}
+1018 = {
+	holding = none
+}
+1550 = {
+	holding = none
+}
+1414 = {
+	holding = none
+}
+25 = {
+	culture = cccjovialatmosphere
+	religion = highlog_faith
+	holding = castle_holding
+}
+193 = {
+	holding = none
+}
+153 = {
+	culture = cccjovialatmosphere
+	religion = highlog_faith
+	holding = castle_holding
+}
+1880 = {
+	holding = none
+}
+872 = {
+	culture = cccjovialatmosphere
+	religion = highlog_faith
+	holding = castle_holding
+}
+214 = {
+	culture = cccjovialatmosphere
+	religion = highlog_faith
+	holding = castle_holding
+}
+503 = {
+	holding = none
+}
+830 = {
+	holding = none
+}
+956 = {
+	holding = none
+}
+732 = {
+	holding = none
+}
+714 = {
+	culture = cccjovialatmosphere
+	religion = highlog_faith
+	holding = castle_holding
+}
+1402 = {
+	holding = none
+}
+947 = {
+	holding = none
+}
+787 = {
+	culture = cccjovialatmosphere
+	religion = highlog_faith
+	holding = castle_holding
+}
+1234 = {
+	holding = none
+}
+1787 = {
+	culture = cccjovialatmosphere
+	religion = highlog_faith
+	holding = castle_holding
+}
+265 = {
+	culture = cccjovialatmosphere
+	religion = highlog_faith
+	holding = castle_holding
+}
+1655 = {
+	holding = none
+}
+1299 = {
+	holding = none
+}
+1259 = {
+	holding = none
+}
+26 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+1730 = {
+	holding = none
+}
+45 = {
+	holding = none
+}
+1800 = {
+	holding = none
+}
+1468 = {
+	holding = none
+}
+587 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+1685 = {
+	holding = none
+}
+759 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+1389 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+90 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+917 = {
+	holding = none
+}
+725 = {
+	holding = none
+}
+1440 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+205 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+318 = {
+	holding = none
+}
+995 = {
+	holding = none
+}
+293 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+367 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+564 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+448 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+1805 = {
+	holding = none
+}
+681 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+1646 = {
+	holding = none
+}
+1290 = {
+	holding = none
+}
+804 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+1004 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+1863 = {
+	holding = none
+}
+1111 = {
+	holding = none
+}
+538 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+982 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+1534 = {
+	holding = none
+}
+1316 = {
+	holding = none
+}
+1138 = {
+	culture = cccwronghousing
+	religion = gaseousshare_faith
+	holding = castle_holding
+}
+28 = {
+	culture = cccstrangecake
+	religion = spottedgear_faith
+	holding = castle_holding
+}
+313 = {
+	holding = none
+}
+751 = {
+	holding = none
+}
+1395 = {
+	holding = none
+}
+1361 = {
+	holding = none
+}
+541 = {
+	holding = none
+}
+223 = {
+	culture = cccstrangecake
+	religion = spottedgear_faith
+	holding = castle_holding
+}
+467 = {
+	holding = none
+}
+1069 = {
+	holding = none
+}
+701 = {
+	culture = cccstrangecake
+	religion = spottedgear_faith
+	holding = castle_holding
+}
+1536 = {
+	culture = cccstrangecake
+	religion = spottedgear_faith
+	holding = castle_holding
+}
+98 = {
+	culture = cccstrangecake
+	religion = spottedgear_faith
+	holding = castle_holding
+}
+187 = {
+	culture = cccstrangecake
+	religion = spottedgear_faith
+	holding = castle_holding
+}
+1697 = {
+	holding = none
+}
+1124 = {
+	holding = none
+}
+188 = {
+	culture = cccstrangecake
+	religion = spottedgear_faith
+	holding = castle_holding
+}
+1305 = {
+	holding = none
+}
+1450 = {
+	holding = none
+}
+897 = {
+	holding = none
+}
+377 = {
+	culture = cccstrangecake
+	religion = spottedgear_faith
+	holding = castle_holding
+}
+1872 = {
+	holding = none
+}
+1000 = {
+	holding = none
+}
+401 = {
+	culture = cccstrangecake
+	religion = spottedgear_faith
+	holding = castle_holding
+}
+1377 = {
+	holding = none
+}
+915 = {
+	holding = none
+}
+661 = {
+	holding = none
+}
+1120 = {
+	holding = none
+}
+818 = {
+	culture = cccstrangecake
+	religion = spottedgear_faith
+	holding = castle_holding
+}
+1346 = {
+	holding = none
+}
+1599 = {
+	holding = none
+}
+86 = {
+	culture = cccselfreliantliterature
+	religion = waterloggedcomputer_faith
+	holding = castle_holding
+}
+1181 = {
+	holding = none
+}
+171 = {
+	culture = cccselfreliantliterature
+	religion = waterloggedcomputer_faith
+	holding = castle_holding
+}
+189 = {
+	holding = none
+}
+1048 = {
+	holding = none
+}
+416 = {
+	culture = cccselfreliantliterature
+	religion = waterloggedcomputer_faith
+	holding = castle_holding
+}
+806 = {
+	holding = none
+}
+1388 = {
+	holding = none
+}
+662 = {
+	culture = cccselfreliantliterature
+	religion = waterloggedcomputer_faith
+	holding = castle_holding
+}
+1064 = {
+	holding = none
+}
+466 = {
+	culture = cccselfreliantliterature
+	religion = waterloggedcomputer_faith
+	holding = castle_holding
+}
+1219 = {
+	holding = none
+}
+1154 = {
+	holding = none
+}
+664 = {
+	holding = none
+}
+729 = {
+	culture = cccselfreliantliterature
+	religion = waterloggedcomputer_faith
+	holding = castle_holding
+}
+1150 = {
+	holding = none
+}
+999 = {
+	holding = none
+}
+998 = {
+	holding = none
+}
+1322 = {
+	holding = none
+}
+176 = {
+	culture = cccvaliddirector
+	religion = failingcategory_faith
+	holding = castle_holding
+}
+823 = {
+	holding = none
+}
+234 = {
+	holding = none
+}
+682 = {
+	holding = none
+}
+1557 = {
+	holding = none
+}
+1558 = {
+	culture = cccvaliddirector
+	religion = failingcategory_faith
+	holding = castle_holding
+}
+843 = {
+	culture = cccvaliddirector
+	religion = failingcategory_faith
+	holding = castle_holding
+}
+1647 = {
+	holding = none
+}
+1280 = {
+	holding = none
+}
+1798 = {
+	holding = none
+}
+1394 = {
+	holding = none
+}
+29 = {
+	culture = cccliquidrefrigerator
+	religion = matureface_faith
+	holding = castle_holding
+}
+1781 = {
+	holding = none
+}
+226 = {
+	holding = none
+}
+435 = {
+	culture = cccliquidrefrigerator
+	religion = matureface_faith
+	holding = castle_holding
+}
+1020 = {
+	holding = none
+}
+1393 = {
+	holding = none
+}
+802 = {
+	holding = none
+}
+50 = {
+	culture = cccconcernedload
+	religion = priceyactivity_faith
+	holding = castle_holding
+}
+109 = {
+	holding = none
+}
+1189 = {
+	culture = cccconcernedload
+	religion = priceyactivity_faith
+	holding = castle_holding
+}
+1607 = {
+	culture = cccconcernedload
+	religion = priceyactivity_faith
+	holding = castle_holding
+}
+241 = {
+	culture = cccconcernedload
+	religion = priceyactivity_faith
+	holding = castle_holding
+}
+1452 = {
+	holding = none
+}
+1531 = {
+	holding = none
+}
+715 = {
+	holding = none
+}
+893 = {
+	holding = none
+}
+912 = {
+	holding = none
+}
+451 = {
+	culture = cccconcernedload
+	religion = priceyactivity_faith
+	holding = castle_holding
+}
+930 = {
+	holding = none
+}
+558 = {
+	culture = cccconcernedload
+	religion = priceyactivity_faith
+	holding = castle_holding
+}
+735 = {
+	culture = cccconcernedload
+	religion = priceyactivity_faith
+	holding = castle_holding
+}
+1584 = {
+	holding = none
+}
+1640 = {
+	holding = none
+}
+1226 = {
+	holding = none
+}
+1535 = {
+	holding = none
+}
+650 = {
+	culture = cccconcernedload
+	religion = priceyactivity_faith
+	holding = castle_holding
+}
+940 = {
+	holding = none
+}
+1566 = {
+	holding = none
+}
+764 = {
+	holding = none
+}
+1592 = {
+	holding = none
+}
+795 = {
+	holding = none
+}
+1307 = {
+	culture = cccconcernedload
+	religion = priceyactivity_faith
+	holding = castle_holding
+}
+30 = {
+	culture = cccsomeworking
+	religion = dishonestconstant_faith
+	holding = castle_holding
+}
+317 = {
+	holding = none
+}
+67 = {
+	holding = none
+}
+540 = {
+	holding = none
+}
+369 = {
+	holding = none
+}
+40 = {
+	culture = cccsomeworking
+	religion = dishonestconstant_faith
+	holding = castle_holding
+}
+517 = {
+	holding = none
+}
+445 = {
+	holding = none
+}
+676 = {
+	holding = none
+}
+157 = {
+	culture = cccsomeworking
+	religion = dishonestconstant_faith
+	holding = castle_holding
+}
+95 = {
+	culture = cccsomeworking
+	religion = dishonestconstant_faith
+	holding = castle_holding
+}
+700 = {
+	holding = none
+}
+1199 = {
+	holding = none
+}
+847 = {
+	holding = none
+}
+1417 = {
+	holding = none
+}
+316 = {
+	holding = none
+}
+394 = {
+	culture = cccsomeworking
+	religion = dishonestconstant_faith
+	holding = castle_holding
+}
+1505 = {
+	holding = none
+}
+1807 = {
+	holding = none
+}
+1542 = {
+	culture = cccsomeworking
+	religion = dishonestconstant_faith
+	holding = castle_holding
+}
+209 = {
+	culture = cccsomeworking
+	religion = dishonestconstant_faith
+	holding = castle_holding
+}
+1208 = {
+	holding = none
+}
+1870 = {
+	holding = none
+}
+1662 = {
+	holding = none
+}
+663 = {
+	holding = none
+}
+831 = {
+	holding = none
+}
+400 = {
+	culture = cccsomeworking
+	religion = dishonestconstant_faith
+	holding = castle_holding
+}
+648 = {
+	holding = none
+}
+705 = {
+	holding = none
+}
+1243 = {
+	holding = none
+}
+542 = {
+	culture = cccsomeworking
+	religion = dishonestconstant_faith
+	holding = castle_holding
+}
+598 = {
+	holding = none
+}
+1420 = {
+	holding = none
+}
+1190 = {
+	holding = none
+}
+34 = {
+	culture = cccwryresolution
+	religion = weepymention_faith
+	holding = castle_holding
+}
+1831 = {
+	holding = none
+}
+755 = {
+	holding = none
+}
+749 = {
+	holding = none
+}
+1621 = {
+	holding = none
+}
+382 = {
+	culture = ccccurvydifficulty
+	religion = weepymention_faith
+	holding = castle_holding
+}
+35 = {
+	culture = cccchillybuy
+	religion = brokensavings_faith
+	holding = castle_holding
+}
+1227 = {
+	holding = none
+}
+634 = {
+	holding = none
+}
+423 = {
+	culture = cccchillybuy
+	religion = brokensavings_faith
+	holding = castle_holding
+}
+1454 = {
+	holding = none
+}
+37 = {
+	culture = cccchillybuy
+	religion = brokensavings_faith
+	holding = castle_holding
+}
+72 = {
+	holding = none
+}
+397 = {
+	culture = cccchillybuy
+	religion = brokensavings_faith
+	holding = castle_holding
+}
+809 = {
+	holding = none
+}
+1720 = {
+	holding = none
+}
+177 = {
+	culture = cccchillybuy
+	religion = brokensavings_faith
+	holding = castle_holding
+}
+1347 = {
+	holding = none
+}
+1814 = {
+	holding = none
+}
+237 = {
+	holding = none
+}
+440 = {
+	holding = none
+}
+267 = {
+	culture = cccchillybuy
+	religion = brokensavings_faith
+	holding = castle_holding
+}
+356 = {
+	holding = none
+}
+490 = {
+	holding = none
+}
+1180 = {
+	holding = none
+}
+1485 = {
+	holding = none
+}
+1663 = {
+	holding = none
+}
+1397 = {
+	culture = cccchillybuy
+	religion = brokensavings_faith
+	holding = castle_holding
+}
+621 = {
+	culture = cccchillybuy
+	religion = brokensavings_faith
+	holding = castle_holding
+}
+1140 = {
+	holding = none
+}
+769 = {
+	holding = none
+}
+47 = {
+	culture = cccquixoticplay
+	religion = readyinspector_faith
+	holding = castle_holding
+}
+308 = {
+	holding = none
+}
+1767 = {
+	holding = none
+}
+272 = {
+	holding = none
+}
+1447 = {
+	holding = none
+}
+1175 = {
+	holding = none
+}
+210 = {
+	culture = cccquixoticplay
+	religion = readyinspector_faith
+	holding = castle_holding
+}
+816 = {
+	culture = cccquixoticplay
+	religion = readyinspector_faith
+	holding = castle_holding
+}
+258 = {
+	culture = cccquixoticplay
+	religion = readyinspector_faith
+	holding = castle_holding
+}
+1093 = {
+	holding = none
+}
+424 = {
+	holding = none
+}
+677 = {
+	holding = none
+}
+1203 = {
+	holding = none
+}
+1527 = {
+	holding = none
+}
+502 = {
+	culture = cccquixoticplay
+	religion = readyinspector_faith
+	holding = castle_holding
+}
+396 = {
+	culture = cccquixoticplay
+	religion = readyinspector_faith
+	holding = castle_holding
+}
+850 = {
+	holding = none
+}
+1874 = {
+	holding = none
+}
+726 = {
+	holding = none
+}
+660 = {
+	holding = none
+}
+730 = {
+	culture = cccquixoticplay
+	religion = readyinspector_faith
+	holding = castle_holding
+}
+1630 = {
+	culture = cccquixoticplay
+	religion = readyinspector_faith
+	holding = castle_holding
+}
+73 = {
+	culture = cccseparatetheme
+	religion = unlinedbrother_faith
+	holding = castle_holding
+}
+393 = {
+	holding = none
+}
+1375 = {
+	holding = none
+}
+895 = {
+	holding = none
+}
+600 = {
+	culture = cccseparatetheme
+	religion = unlinedbrother_faith
+	holding = castle_holding
+}
+922 = {
+	holding = none
+}
+77 = {
+	culture = cccseparatetheme
+	religion = unlinedbrother_faith
+	holding = castle_holding
+}
+811 = {
+	holding = none
+}
+527 = {
+	holding = none
+}
+1057 = {
+	holding = none
+}
+142 = {
+	culture = cccseparatetheme
+	religion = unlinedbrother_faith
+	holding = castle_holding
+}
+1293 = {
+	holding = none
+}
+221 = {
+	holding = none
+}
+1409 = {
+	holding = none
+}
+428 = {
+	holding = none
+}
+385 = {
+	culture = cccseparatetheme
+	religion = unlinedbrother_faith
+	holding = castle_holding
+}
+333 = {
+	culture = cccseparatetheme
+	religion = unlinedbrother_faith
+	holding = castle_holding
+}
+1017 = {
+	holding = none
+}
+1643 = {
+	holding = none
+}
+1210 = {
+	holding = none
+}
+471 = {
+	culture = cccseparatetheme
+	religion = unlinedbrother_faith
+	holding = castle_holding
+}
+1387 = {
+	holding = none
+}
+1656 = {
+	holding = none
+}
+1028 = {
+	holding = none
+}
+101 = {
+	culture = cccaltruisticsignature
+	religion = beautifulpain_faith
+	holding = castle_holding
+}
+1046 = {
+	holding = none
+}
+1244 = {
+	holding = none
+}
+236 = {
+	culture = cccaltruisticsignature
+	religion = beautifulpain_faith
+	holding = castle_holding
+}
+140 = {
+	culture = cccaltruisticsignature
+	religion = beautifulpain_faith
+	holding = castle_holding
+}
+437 = {
+	holding = none
+}
+285 = {
+	holding = none
+}
+202 = {
+	culture = cccaltruisticsignature
+	religion = beautifulpain_faith
+	holding = castle_holding
+}
+459 = {
+	holding = none
+}
+1275 = {
+	holding = none
+}
+1096 = {
+	holding = none
+}
+452 = {
+	culture = cccaltruisticsignature
+	religion = beautifulpain_faith
+	holding = castle_holding
+}
+623 = {
+	holding = none
+}
+1494 = {
+	holding = none
+}
+586 = {
+	holding = none
+}
+1412 = {
+	holding = none
+}
+453 = {
+	culture = cccaltruisticsignature
+	religion = beautifulpain_faith
+	holding = castle_holding
+}
+622 = {
+	holding = none
+}
+523 = {
+	holding = none
+}
+1881 = {
+	holding = none
+}
+953 = {
+	holding = none
+}
+154 = {
+	culture = cccdisguisedcomfort
+	religion = theserisk_faith
+	holding = castle_holding
+}
+1577 = {
+	holding = none
+}
+379 = {
+	holding = none
+}
+807 = {
+	holding = none
+}
+350 = {
+	culture = cccdisguisedcomfort
+	religion = theserisk_faith
+	holding = castle_holding
+}
+359 = {
+	holding = none
+}
+926 = {
+	holding = none
+}
+1245 = {
+	holding = none
+}
+1250 = {
+	holding = none
+}
+568 = {
+	culture = cccdisguisedcomfort
+	religion = theserisk_faith
+	holding = castle_holding
+}
+1055 = {
+	holding = none
+}
+1852 = {
+	holding = none
+}
+1266 = {
+	culture = cccdisguisedcomfort
+	religion = theserisk_faith
+	holding = castle_holding
+}
+36 = {
+	culture = cccinexperiencedborder
+	religion = thirstysing_faith
+	holding = castle_holding
+}
+631 = {
+	culture = cccinexperiencedborder
+	religion = thirstysing_faith
+	holding = castle_holding
+}
+56 = {
+	culture = cccinexperiencedborder
+	religion = thirstysing_faith
+	holding = castle_holding
+}
+520 = {
+	holding = none
+}
+1845 = {
+	holding = none
+}
+92 = {
+	culture = cccinexperiencedborder
+	religion = thirstysing_faith
+	holding = castle_holding
+}
+107 = {
+	holding = none
+}
+939 = {
+	holding = none
+}
+360 = {
+	holding = none
+}
+1889 = {
+	holding = none
+}
+473 = {
+	holding = none
+}
+116 = {
+	culture = cccinexperiencedborder
+	religion = thirstysing_faith
+	holding = castle_holding
+}
+314 = {
+	culture = cccinexperiencedborder
+	religion = thirstysing_faith
+	holding = castle_holding
+}
+628 = {
+	culture = cccinexperiencedborder
+	religion = thirstysing_faith
+	holding = castle_holding
+}
+461 = {
+	culture = cccinexperiencedborder
+	religion = thirstysing_faith
+	holding = castle_holding
+}
+1051 = {
+	holding = none
+}
+1838 = {
+	holding = none
+}
+644 = {
+	holding = none
+}
+1774 = {
+	holding = none
+}
+1272 = {
+	holding = none
+}
+81 = {
+	culture = cccnecessaryleadership
+	religion = heartfeltdot_faith
+	holding = castle_holding
+}
+1370 = {
+	holding = none
+}
+194 = {
+	culture = cccnecessaryleadership
+	religion = heartfeltdot_faith
+	holding = castle_holding
+}
+579 = {
+	holding = none
+}
+1619 = {
+	holding = none
+}
+848 = {
+	culture = cccnecessaryleadership
+	religion = heartfeltdot_faith
+	holding = castle_holding
+}
+1379 = {
+	holding = none
+}
+291 = {
+	culture = cccnecessaryleadership
+	religion = heartfeltdot_faith
+	holding = castle_holding
+}
+977 = {
+	holding = none
+}
+712 = {
+	holding = none
+}
+861 = {
+	holding = none
+}
+1286 = {
+	holding = none
+}
+240 = {
+	culture = cccsomeshame
+	religion = verifiableweather_faith
+	holding = castle_holding
+}
+1832 = {
+	holding = none
+}
+1112 = {
+	holding = none
+}
+460 = {
+	culture = cccsomeshame
+	religion = verifiableweather_faith
+	holding = castle_holding
+}
+799 = {
+	holding = none
+}
+1794 = {
+	holding = none
+}
+1042 = {
+	culture = cccsomeshame
+	religion = verifiableweather_faith
+	holding = castle_holding
+}
+1165 = {
+	culture = cccsomeshame
+	religion = verifiableweather_faith
+	holding = castle_holding
+}
+1537 = {
+	culture = cccsomeshame
+	religion = verifiableweather_faith
+	holding = castle_holding
+}
+560 = {
+	culture = cccalertbrief
+	religion = scratchysink_faith
+	holding = castle_holding
+}
+562 = {
+	holding = none
+}
+918 = {
+	holding = none
+}
+1163 = {
+	holding = none
+}
+928 = {
+	holding = none
+}
+743 = {
+	culture = cccstablediscipline
+	religion = superiormorning_faith
+	holding = castle_holding
+}
+1658 = {
+	holding = none
+}
+1728 = {
+	holding = none
+}
+46 = {
+	culture = ccccavernouscontest
+	religion = sprypayment_faith
+	holding = castle_holding
+}
+1092 = {
+	holding = none
+}
+530 = {
+	culture = ccccavernouscontest
+	religion = sprypayment_faith
+	holding = castle_holding
+}
+941 = {
+	holding = none
+}
+1740 = {
+	holding = none
+}
+1312 = {
+	holding = none
+}
+557 = {
+	culture = ccccavernouscontest
+	religion = sprypayment_faith
+	holding = castle_holding
+}
+672 = {
+	culture = ccccavernouscontest
+	religion = sprypayment_faith
+	holding = castle_holding
+}
+1105 = {
+	holding = none
+}
+884 = {
+	holding = none
+}
+1731 = {
+	culture = ccccavernouscontest
+	religion = sprypayment_faith
+	holding = castle_holding
+}
+1077 = {
+	culture = ccccavernouscontest
+	religion = sprypayment_faith
+	holding = castle_holding
+}
+1372 = {
+	holding = none
+}
+1753 = {
+	holding = none
+}
+1100 = {
+	culture = ccccavernouscontest
+	religion = sprypayment_faith
+	holding = castle_holding
+}
+1824 = {
+	holding = none
+}
+1332 = {
+	holding = none
+}
+1109 = {
+	culture = ccccavernouscontest
+	religion = sprypayment_faith
+	holding = castle_holding
+}
+146 = {
+	culture = cccmonstrouscream
+	religion = blandstock_faith
+	holding = castle_holding
+}
+1661 = {
+	holding = none
+}
+1211 = {
+	holding = none
+}
+685 = {
+	holding = none
+}
+351 = {
+	holding = none
+}
+477 = {
+	holding = none
+}
+462 = {
+	culture = cccmonstrouscream
+	religion = blandstock_faith
+	holding = castle_holding
+}
+486 = {
+	holding = none
+}
+722 = {
+	holding = none
+}
+150 = {
+	culture = cccmonstrouscream
+	religion = blandstock_faith
+	holding = castle_holding
+}
+891 = {
+	holding = none
+}
+1445 = {
+	holding = none
+}
+521 = {
+	culture = cccmonstrouscream
+	religion = blandstock_faith
+	holding = castle_holding
+}
+1410 = {
+	holding = none
+}
+1167 = {
+	holding = none
+}
+1528 = {
+	holding = none
+}
+1103 = {
+	holding = none
+}
+251 = {
+	culture = cccmonstrouscream
+	religion = blandstock_faith
+	holding = castle_holding
+}
+1406 = {
+	holding = none
+}
+1078 = {
+	holding = none
+}
+1490 = {
+	holding = none
+}
+281 = {
+	culture = cccmonstrouscream
+	religion = blandstock_faith
+	holding = castle_holding
+}
+319 = {
+	culture = cccmonstrouscream
+	religion = blandstock_faith
+	holding = castle_holding
+}
+665 = {
+	culture = cccmonstrouscream
+	religion = blandstock_faith
+	holding = castle_holding
+}
+716 = {
+	holding = none
+}
+465 = {
+	culture = cccmonstrouscream
+	religion = blandstock_faith
+	holding = castle_holding
+}
+513 = {
+	holding = none
+}
+836 = {
+	holding = none
+}
+1428 = {
+	holding = none
+}
+739 = {
+	holding = none
+}
+1114 = {
+	culture = cccmonstrouscream
+	religion = blandstock_faith
+	holding = castle_holding
+}
+1665 = {
+	holding = none
+}
+52 = {
+	culture = cccadolescentestate
+	religion = surefootedhell_faith
+	holding = castle_holding
+}
+643 = {
+	holding = none
+}
+958 = {
+	holding = none
+}
+347 = {
+	holding = none
+}
+69 = {
+	culture = cccadolescentestate
+	religion = surefootedhell_faith
+	holding = castle_holding
+}
+1582 = {
+	holding = none
+}
+1900 = {
+	culture = cccadolescentestate
+	religion = surefootedhell_faith
+	holding = castle_holding
+}
+1026 = {
+	culture = cccbumpyjoke
+	religion = secondarybuddy_faith
+	holding = castle_holding
+}
+1734 = {
+	holding = none
+}
+54 = {
+	culture = cccstunningfortune
+	religion = ellipticalwine_faith
+	holding = castle_holding
+}
+123 = {
+	holding = none
+}
+231 = {
+	holding = none
+}
+211 = {
+	culture = cccstunningfortune
+	religion = ellipticalwine_faith
+	holding = castle_holding
+}
+1233 = {
+	holding = none
+}
+1783 = {
+	holding = none
+}
+376 = {
+	holding = none
+}
+776 = {
+	holding = none
+}
+418 = {
+	culture = cccstunningfortune
+	religion = ellipticalwine_faith
+	holding = castle_holding
+}
+1067 = {
+	culture = cccstunningfortune
+	religion = ellipticalwine_faith
+	holding = castle_holding
+}
+1580 = {
+	culture = cccstunningfortune
+	religion = ellipticalwine_faith
+	holding = castle_holding
+}
+55 = {
+	culture = cccunderstatedmilk
+	religion = novelwelcome_faith
+	holding = castle_holding
+}
+119 = {
+	holding = none
+}
+402 = {
+	culture = cccunderstatedmilk
+	religion = novelwelcome_faith
+	holding = castle_holding
+}
+856 = {
+	holding = none
+}
+76 = {
+	culture = cccunderstatedmilk
+	religion = novelwelcome_faith
+	holding = castle_holding
+}
+1449 = {
+	holding = none
+}
+889 = {
+	holding = none
+}
+754 = {
+	holding = none
+}
+1390 = {
+	holding = none
+}
+1013 = {
+	holding = none
+}
+106 = {
+	culture = cccunderstatedmilk
+	religion = novelwelcome_faith
+	holding = castle_holding
+}
+1867 = {
+	holding = none
+}
+1070 = {
+	holding = none
+}
+1689 = {
+	holding = none
+}
+510 = {
+	culture = cccunderstatedmilk
+	religion = novelwelcome_faith
+	holding = castle_holding
+}
+820 = {
+	culture = cccunderstatedmilk
+	religion = novelwelcome_faith
+	holding = castle_holding
+}
+57 = {
+	culture = cccroundneat
+	religion = farflungentertainment_faith
+	holding = castle_holding
+}
+66 = {
+	culture = cccroundneat
+	religion = farflungentertainment_faith
+	holding = castle_holding
+}
+65 = {
+	culture = ccceverlastingstranger
+	religion = aridkeep_faith
+	holding = castle_holding
+}
+336 = {
+	holding = none
+}
+235 = {
+	holding = none
+}
+429 = {
+	holding = none
+}
+573 = {
+	culture = ccceverlastingstranger
+	religion = aridkeep_faith
+	holding = castle_holding
+}
+990 = {
+	holding = none
+}
+161 = {
+	culture = ccceverlastingstranger
+	religion = aridkeep_faith
+	holding = castle_holding
+}
+337 = {
+	holding = none
+}
+724 = {
+	holding = none
+}
+1431 = {
+	holding = none
+}
+1749 = {
+	holding = none
+}
+1741 = {
+	holding = none
+}
+327 = {
+	culture = ccceverlastingstranger
+	religion = aridkeep_faith
+	holding = castle_holding
+}
+1551 = {
+	holding = none
+}
+1876 = {
+	holding = none
+}
+498 = {
+	holding = none
+}
+966 = {
+	culture = ccceverlastingstranger
+	religion = aridkeep_faith
+	holding = castle_holding
+}
+1747 = {
+	holding = none
+}
+225 = {
+	culture = ccceverlastingstranger
+	religion = aridkeep_faith
+	holding = castle_holding
+}
+702 = {
+	holding = none
+}
+483 = {
+	holding = none
+}
+1034 = {
+	holding = none
+}
+885 = {
+	holding = none
+}
+821 = {
+	holding = none
+}
+238 = {
+	culture = ccceverlastingstranger
+	religion = aridkeep_faith
+	holding = castle_holding
+}
+1530 = {
+	holding = none
+}
+1649 = {
+	culture = ccceverlastingstranger
+	religion = aridkeep_faith
+	holding = castle_holding
+}
+1063 = {
+	culture = cccattentivequarter
+	religion = vitalrepeat_faith
+	holding = castle_holding
+}
+1311 = {
+	holding = none
+}
+1309 = {
+	holding = none
+}
+1223 = {
+	holding = none
+}
+58 = {
+	culture = cccsafenormal
+	religion = thesegarbage_faith
+	holding = castle_holding
+}
+1625 = {
+	holding = none
+}
+132 = {
+	culture = cccsafenormal
+	religion = thesegarbage_faith
+	holding = castle_holding
+}
+871 = {
+	holding = none
+}
+286 = {
+	holding = none
+}
+1588 = {
+	holding = none
+}
+1260 = {
+	holding = none
+}
+88 = {
+	culture = cccsafenormal
+	religion = thesegarbage_faith
+	holding = castle_holding
+}
+62 = {
+	culture = cccsafenormal
+	religion = thesegarbage_faith
+	holding = castle_holding
+}
+127 = {
+	holding = none
+}
+110 = {
+	culture = cccsafenormal
+	religion = thesegarbage_faith
+	holding = castle_holding
+}
+1237 = {
+	holding = none
+}
+1287 = {
+	holding = none
+}
+1546 = {
+	holding = none
+}
+1368 = {
+	holding = none
+}
+163 = {
+	culture = cccsafenormal
+	religion = thesegarbage_faith
+	holding = castle_holding
+}
+363 = {
+	culture = cccsafenormal
+	religion = thesegarbage_faith
+	holding = castle_holding
+}
+877 = {
+	holding = none
+}
+1496 = {
+	holding = none
+}
+1733 = {
+	holding = none
+}
+1652 = {
+	holding = none
+}
+614 = {
+	culture = cccsafenormal
+	religion = thesegarbage_faith
+	holding = castle_holding
+}
+458 = {
+	culture = cccsafenormal
+	religion = thesegarbage_faith
+	holding = castle_holding
+}
+985 = {
+	holding = none
+}
+1005 = {
+	holding = none
+}
+778 = {
+	holding = none
+}
+1896 = {
+	culture = cccsafenormal
+	religion = thesegarbage_faith
+	holding = castle_holding
+}
+63 = {
+	culture = ccclovingconstruction
+	religion = silentman_faith
+	holding = castle_holding
+}
+321 = {
+	holding = none
+}
+273 = {
+	culture = ccclovingconstruction
+	religion = silentman_faith
+	holding = castle_holding
+}
+1722 = {
+	holding = none
+}
+1039 = {
+	holding = none
+}
+422 = {
+	culture = ccclovingconstruction
+	religion = silentman_faith
+	holding = castle_holding
+}
+554 = {
+	culture = ccclovingconstruction
+	religion = silentman_faith
+	holding = castle_holding
+}
+70 = {
+	culture = ccclovingconstruction
+	religion = silentman_faith
+	holding = castle_holding
+}
+972 = {
+	holding = none
+}
+731 = {
+	holding = none
+}
+1265 = {
+	holding = none
+}
+1303 = {
+	holding = none
+}
+117 = {
+	culture = ccclovingconstruction
+	religion = silentman_faith
+	holding = castle_holding
+}
+1698 = {
+	holding = none
+}
+760 = {
+	culture = ccclovingconstruction
+	religion = silentman_faith
+	holding = castle_holding
+}
+126 = {
+	culture = cccripering
+	religion = candidhabit_faith
+	holding = castle_holding
+}
+446 = {
+	holding = none
+}
+1166 = {
+	holding = none
+}
+526 = {
+	holding = none
+}
+334 = {
+	culture = cccripering
+	religion = candidhabit_faith
+	holding = castle_holding
+}
+954 = {
+	culture = cccripering
+	religion = candidhabit_faith
+	holding = castle_holding
+}
+199 = {
+	culture = cccimperturbablelong
+	religion = hugeagent_faith
+	holding = castle_holding
+}
+287 = {
+	holding = none
+}
+227 = {
+	holding = none
+}
+588 = {
+	culture = cccimperturbablelong
+	religion = hugeagent_faith
+	holding = castle_holding
+}
+1229 = {
+	holding = none
+}
+1533 = {
+	holding = none
+}
+950 = {
+	culture = cccimperturbablelong
+	religion = hugeagent_faith
+	holding = castle_holding
+}
+1680 = {
+	holding = none
+}
+1108 = {
+	holding = none
+}
+1213 = {
+	holding = none
+}
+1418 = {
+	holding = none
+}
+1134 = {
+	culture = cccimperturbablelong
+	religion = hugeagent_faith
+	holding = castle_holding
+}
+208 = {
+	culture = cccgratefultwist
+	religion = frillyjuice_faith
+	holding = castle_holding
+}
+1812 = {
+	holding = none
+}
+1600 = {
+	holding = none
+}
+239 = {
+	holding = none
+}
+777 = {
+	holding = none
+}
+1806 = {
+	holding = none
+}
+250 = {
+	culture = cccgratefultwist
+	religion = frillyjuice_faith
+	holding = castle_holding
+}
+389 = {
+	holding = none
+}
+610 = {
+	culture = cccgratefultwist
+	religion = frillyjuice_faith
+	holding = castle_holding
+}
+1871 = {
+	holding = none
+}
+1721 = {
+	holding = none
+}
+740 = {
+	holding = none
+}
+295 = {
+	culture = cccgratefultwist
+	religion = frillyjuice_faith
+	holding = castle_holding
+}
+968 = {
+	holding = none
+}
+596 = {
+	holding = none
+}
+1155 = {
+	holding = none
+}
+1351 = {
+	holding = none
+}
+1520 = {
+	holding = none
+}
+1355 = {
+	culture = cccgratefultwist
+	religion = frillyjuice_faith
+	holding = castle_holding
+}
+1614 = {
+	holding = none
+}
+270 = {
+	culture = cccdimwittedif
+	religion = firstcrack_faith
+	holding = castle_holding
+}
+1407 = {
+	holding = none
+}
+1301 = {
+	holding = none
+}
+1317 = {
+	holding = none
+}
+733 = {
+	culture = cccdimwittedif
+	religion = firstcrack_faith
+	holding = castle_holding
+}
+1696 = {
+	holding = none
+}
+1839 = {
+	holding = none
+}
+902 = {
+	holding = none
+}
+61 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+145 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+765 = {
+	holding = none
+}
+1071 = {
+	holding = none
+}
+151 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+1819 = {
+	holding = none
+}
+1352 = {
+	holding = none
+}
+1572 = {
+	holding = none
+}
+75 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+609 = {
+	holding = none
+}
+1466 = {
+	holding = none
+}
+1267 = {
+	holding = none
+}
+1578 = {
+	holding = none
+}
+455 = {
+	holding = none
+}
+198 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+1294 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+1674 = {
+	holding = none
+}
+179 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+620 = {
+	holding = none
+}
+594 = {
+	holding = none
+}
+1778 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+324 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+728 = {
+	holding = none
+}
+1886 = {
+	holding = none
+}
+547 = {
+	holding = none
+}
+652 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+1320 = {
+	holding = none
+}
+332 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+1469 = {
+	holding = none
+}
+719 = {
+	holding = none
+}
+863 = {
+	holding = none
+}
+362 = {
+	culture = cccrosyconnection
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+706 = {
+	holding = none
+}
+1151 = {
+	holding = none
+}
+827 = {
+	holding = none
+}
+111 = {
+	culture = ccchonoredbad
+	religion = wholeunique_faith
+	holding = castle_holding
+}
+1099 = {
+	holding = none
+}
+603 = {
+	culture = ccchonoredbad
+	religion = wholeunique_faith
+	holding = castle_holding
+}
+444 = {
+	culture = ccchonoredbad
+	religion = wholeunique_faith
+	holding = castle_holding
+}
+1792 = {
+	holding = none
+}
+512 = {
+	holding = none
+}
+796 = {
+	holding = none
+}
+1538 = {
+	holding = none
+}
+1362 = {
+	holding = none
+}
+837 = {
+	culture = ccchonoredbad
+	religion = wholeunique_faith
+	holding = castle_holding
+}
+1549 = {
+	holding = none
+}
+1276 = {
+	holding = none
+}
+174 = {
+	culture = cccelderlyfilm
+	religion = sunnyrace_faith
+	holding = castle_holding
+}
+245 = {
+	culture = cccelderlyfilm
+	religion = sunnyrace_faith
+	holding = castle_holding
+}
+489 = {
+	culture = cccelderlyfilm
+	religion = sunnyrace_faith
+	holding = castle_holding
+}
+259 = {
+	culture = cccthispermission
+	religion = radiantticket_faith
+	holding = castle_holding
+}
+1455 = {
+	holding = none
+}
+1736 = {
+	holding = none
+}
+328 = {
+	culture = cccthispermission
+	religion = radiantticket_faith
+	holding = castle_holding
+}
+854 = {
+	holding = none
+}
+646 = {
+	holding = none
+}
+878 = {
+	holding = none
+}
+711 = {
+	holding = none
+}
+593 = {
+	culture = cccthispermission
+	religion = radiantticket_faith
+	holding = castle_holding
+}
+1711 = {
+	holding = none
+}
+1220 = {
+	holding = none
+}
+1750 = {
+	holding = none
+}
+640 = {
+	holding = none
+}
+658 = {
+	culture = cccthispermission
+	religion = radiantticket_faith
+	holding = castle_holding
+}
+741 = {
+	holding = none
+}
+925 = {
+	holding = none
+}
+1848 = {
+	holding = none
+}
+1101 = {
+	holding = none
+}
+718 = {
+	culture = cccthispermission
+	religion = radiantticket_faith
+	holding = castle_holding
+}
+1765 = {
+	holding = none
+}
+1373 = {
+	culture = cccfarflungrace
+	religion = unripecancel_faith
+	holding = castle_holding
+}
+71 = {
+	culture = cccunselfishextent
+	religion = marvelousresponse_faith
+	holding = castle_holding
+}
+1156 = {
+	holding = none
+}
+1539 = {
+	holding = none
+}
+1688 = {
+	holding = none
+}
+780 = {
+	holding = none
+}
+192 = {
+	holding = none
+}
+443 = {
+	culture = cccrewardingcash
+	religion = mistyway_faith
+	holding = castle_holding
+}
+1677 = {
+	holding = none
+}
+1517 = {
+	holding = none
+}
+585 = {
+	holding = none
+}
+1719 = {
+	holding = none
+}
+524 = {
+	culture = cccfatherlysweet
+	religion = bewitchedserve_faith
+	holding = castle_holding
+}
+1716 = {
+	holding = none
+}
+1853 = {
+	culture = cccfatherlysweet
+	religion = bewitchedserve_faith
+	holding = castle_holding
+}
+955 = {
+	culture = cccfatherlysweet
+	religion = bewitchedserve_faith
+	holding = castle_holding
+}
+1597 = {
+	holding = none
+}
+1072 = {
+	holding = none
+}
+1357 = {
+	culture = cccwearymenu
+	religion = robustprice_faith
+	holding = castle_holding
+}
+80 = {
+	culture = ccccrazydrama
+	religion = showyconfidence_faith
+	holding = castle_holding
+}
+309 = {
+	holding = none
+}
+1032 = {
+	holding = none
+}
+748 = {
+	culture = cccthriftybranch
+	religion = indolenttune_faith
+	holding = castle_holding
+}
+1238 = {
+	holding = none
+}
+1884 = {
+	holding = none
+}
+1125 = {
+	holding = none
+}
+93 = {
+	culture = cccslightnecessary
+	religion = remoteattempt_faith
+	holding = castle_holding
+}
+1650 = {
+	holding = none
+}
+852 = {
+	holding = none
+}
+1627 = {
+	holding = none
+}
+131 = {
+	culture = cccslightnecessary
+	religion = remoteattempt_faith
+	holding = castle_holding
+}
+1751 = {
+	holding = none
+}
+914 = {
+	holding = none
+}
+494 = {
+	holding = none
+}
+857 = {
+	holding = none
+}
+1459 = {
+	holding = none
+}
+197 = {
+	culture = cccslightnecessary
+	religion = remoteattempt_faith
+	holding = castle_holding
+}
+844 = {
+	culture = cccslightnecessary
+	religion = remoteattempt_faith
+	holding = castle_holding
+}
+1885 = {
+	holding = none
+}
+1632 = {
+	culture = cccslightnecessary
+	religion = remoteattempt_faith
+	holding = castle_holding
+}
+330 = {
+	culture = cccslightnecessary
+	religion = remoteattempt_faith
+	holding = castle_holding
+}
+775 = {
+	culture = cccslightnecessary
+	religion = remoteattempt_faith
+	holding = castle_holding
+}
+1564 = {
+	holding = none
+}
+822 = {
+	culture = cccslightnecessary
+	religion = remoteattempt_faith
+	holding = castle_holding
+}
+1400 = {
+	holding = none
+}
+881 = {
+	culture = cccslightnecessary
+	religion = remoteattempt_faith
+	holding = castle_holding
+}
+1479 = {
+	holding = none
+}
+115 = {
+	culture = cccgranularpoet
+	religion = exoticpoem_faith
+	holding = castle_holding
+}
+595 = {
+	holding = none
+}
+1214 = {
+	holding = none
+}
+1726 = {
+	holding = none
+}
+679 = {
+	holding = none
+}
+354 = {
+	culture = cccgranularpoet
+	religion = exoticpoem_faith
+	holding = castle_holding
+}
+1681 = {
+	holding = none
+}
+812 = {
+	culture = cccgranularpoet
+	religion = exoticpoem_faith
+	holding = castle_holding
+}
+162 = {
+	culture = cccgranularpoet
+	religion = exoticpoem_faith
+	holding = castle_holding
+}
+817 = {
+	holding = none
+}
+249 = {
+	culture = cccgranularpoet
+	religion = exoticpoem_faith
+	holding = castle_holding
+}
+945 = {
+	holding = none
+}
+1694 = {
+	holding = none
+}
+533 = {
+	culture = cccgranularpoet
+	religion = exoticpoem_faith
+	holding = castle_holding
+}
+1062 = {
+	holding = none
+}
+546 = {
+	culture = cccpiercingpicture
+	religion = lumpycable_faith
+	holding = castle_holding
+}
+1207 = {
+	holding = none
+}
+1188 = {
+	holding = none
+}
+118 = {
+	culture = cccaccomplishedtip
+	religion = dapperkeep_faith
+	holding = castle_holding
+}
+1678 = {
+	holding = none
+}
+532 = {
+	culture = cccaccomplishedtip
+	religion = dapperkeep_faith
+	holding = castle_holding
+}
+1492 = {
+	holding = none
+}
+1746 = {
+	holding = none
+}
+133 = {
+	culture = cccaccomplishedtip
+	religion = dapperkeep_faith
+	holding = castle_holding
+}
+1038 = {
+	culture = cccaccomplishedtip
+	religion = dapperkeep_faith
+	holding = castle_holding
+}
+698 = {
+	culture = cccaccomplishedtip
+	religion = dapperkeep_faith
+	holding = castle_holding
+}
+1686 = {
+	holding = none
+}
+1708 = {
+	holding = none
+}
+1773 = {
+	holding = none
+}
+1360 = {
+	culture = cccaccomplishedtip
+	religion = dapperkeep_faith
+	holding = castle_holding
+}
+1847 = {
+	holding = none
+}
+122 = {
+	culture = cccsoupygene
+	religion = mistyassociation_faith
+	holding = castle_holding
+}
+1253 = {
+	holding = none
+}
+1471 = {
+	holding = none
+}
+1837 = {
+	holding = none
+}
+232 = {
+	holding = none
+}
+630 = {
+	holding = none
+}
+1068 = {
+	culture = cccsoupygene
+	religion = mistyassociation_faith
+	holding = castle_holding
+}
+1813 = {
+	culture = cccsoupygene
+	religion = mistyassociation_faith
+	holding = castle_holding
+}
+125 = {
+	culture = ccchandmadesetting
+	religion = admiredprofessional_faith
+	holding = castle_holding
+}
+1581 = {
+	holding = none
+}
+1555 = {
+	culture = ccchandmadesetting
+	religion = admiredprofessional_faith
+	holding = castle_holding
+}
+434 = {
+	culture = ccchandmadesetting
+	religion = admiredprofessional_faith
+	holding = castle_holding
+}
+1590 = {
+	holding = none
+}
+766 = {
+	holding = none
+}
+997 = {
+	holding = none
+}
+1025 = {
+	holding = none
+}
+129 = {
+	culture = cccinsidiousmedicine
+	religion = apprehensivepresentation_faith
+	holding = castle_holding
+}
+1710 = {
+	holding = none
+}
+1385 = {
+	holding = none
+}
+833 = {
+	holding = none
+}
+1003 = {
+	holding = none
+}
+415 = {
+	culture = cccinsidiousmedicine
+	religion = apprehensivepresentation_faith
+	holding = castle_holding
+}
+1478 = {
+	holding = none
+}
+485 = {
+	culture = cccinsidiousmedicine
+	religion = apprehensivepresentation_faith
+	holding = castle_holding
+}
+911 = {
+	holding = none
+}
+1821 = {
+	holding = none
+}
+1693 = {
+	holding = none
+}
+1014 = {
+	holding = none
+}
+1796 = {
+	culture = cccgrownmother
+	religion = apprehensivepresentation_faith
+	holding = castle_holding
+}
+155 = {
+	culture = cccpolisheddifference
+	religion = handmadebeat_faith
+	holding = castle_holding
+}
+518 = {
+	holding = none
+}
+1049 = {
+	culture = cccpolisheddifference
+	religion = handmadebeat_faith
+	holding = castle_holding
+}
+1195 = {
+	holding = none
+}
+290 = {
+	culture = cccpolisheddifference
+	religion = handmadebeat_faith
+	holding = castle_holding
+}
+511 = {
+	holding = none
+}
+487 = {
+	culture = cccpolisheddifference
+	religion = handmadebeat_faith
+	holding = castle_holding
+}
+674 = {
+	culture = cccpolisheddifference
+	religion = handmadebeat_faith
+	holding = castle_holding
+}
+1314 = {
+	holding = none
+}
+1443 = {
+	holding = none
+}
+1894 = {
+	holding = none
+}
+1308 = {
+	holding = none
+}
+1201 = {
+	culture = cccpotableelection
+	religion = handmadebeat_faith
+	holding = castle_holding
+}
+167 = {
+	culture = cccslipperyreview
+	religion = incredibleguitar_faith
+	holding = castle_holding
+}
+744 = {
+	holding = none
+}
+1487 = {
+	holding = none
+}
+431 = {
+	culture = cccslipperyreview
+	religion = incredibleguitar_faith
+	holding = castle_holding
+}
+789 = {
+	holding = none
+}
+559 = {
+	holding = none
+}
+1616 = {
+	holding = none
+}
+522 = {
+	culture = cccslipperyreview
+	religion = incredibleguitar_faith
+	holding = castle_holding
+}
+578 = {
+	holding = none
+}
+454 = {
+	culture = cccslipperyreview
+	religion = incredibleguitar_faith
+	holding = castle_holding
+}
+1483 = {
+	holding = none
+}
+519 = {
+	holding = none
+}
+645 = {
+	holding = none
+}
+894 = {
+	culture = cccslipperyreview
+	religion = incredibleguitar_faith
+	holding = castle_holding
+}
+1772 = {
+	holding = none
+}
+515 = {
+	culture = cccslipperyreview
+	religion = incredibleguitar_faith
+	holding = castle_holding
+}
+964 = {
+	holding = none
+}
+1359 = {
+	holding = none
+}
+1037 = {
+	holding = none
+}
+1684 = {
+	culture = cccforkedharm
+	religion = incredibleguitar_faith
+	holding = castle_holding
+}
+168 = {
+	culture = ccclazypossible
+	religion = mealyspite_faith
+	holding = castle_holding
+}
+372 = {
+	holding = none
+}
+1594 = {
+	holding = none
+}
+1657 = {
+	holding = none
+}
+299 = {
+	holding = none
+}
+200 = {
+	culture = cccworldlysector
+	religion = excitedprofessor_faith
+	holding = castle_holding
+}
+1815 = {
+	holding = none
+}
+788 = {
+	holding = none
+}
+1565 = {
+	holding = none
+}
+1326 = {
+	holding = none
+}
+1877 = {
+	culture = cccworldlysector
+	religion = excitedprofessor_faith
+	holding = castle_holding
+}
+201 = {
+	culture = cccmixedpull
+	religion = slipperycompetition_faith
+	holding = castle_holding
+}
+1801 = {
+	holding = none
+}
+1282 = {
+	holding = none
+}
+1759 = {
+	holding = none
+}
+254 = {
+	culture = cccmixedpull
+	religion = slipperycompetition_faith
+	holding = castle_holding
+}
+1401 = {
+	holding = none
+}
+635 = {
+	holding = none
+}
+310 = {
+	culture = cccthirdfinding
+	religion = impartialrepresentative_faith
+	holding = castle_holding
+}
+675 = {
+	culture = cccattentivelisten
+	religion = impartialrepresentative_faith
+	holding = castle_holding
+}
+1118 = {
+	culture = cccattentivelisten
+	religion = impartialrepresentative_faith
+	holding = castle_holding
+}
+1653 = {
+	holding = none
+}
+803 = {
+	culture = cccattentivelisten
+	religion = impartialrepresentative_faith
+	holding = castle_holding
+}
+1553 = {
+	holding = none
+}
+1113 = {
+	holding = none
+}
+1143 = {
+	holding = none
+}
+1354 = {
+	holding = none
+}
+204 = {
+	culture = cccsaltychicken
+	religion = weepypatience_faith
+	holding = castle_holding
+}
+1605 = {
+	holding = none
+}
+1415 = {
+	holding = none
+}
+1315 = {
+	holding = none
+}
+1475 = {
+	holding = none
+}
+591 = {
+	culture = cccsaltychicken
+	religion = weepypatience_faith
+	holding = castle_holding
+}
+960 = {
+	culture = cccsaltychicken
+	religion = weepypatience_faith
+	holding = castle_holding
+}
+1682 = {
+	holding = none
+}
+1768 = {
+	holding = none
+}
+1775 = {
+	holding = none
+}
+819 = {
+	culture = cccsaltychicken
+	religion = weepypatience_faith
+	holding = castle_holding
+}
+1470 = {
+	holding = none
+}
+839 = {
+	culture = cccintrepidatmosphere
+	religion = whiteoriginal_faith
+	holding = castle_holding
+}
+1843 = {
+	holding = none
+}
+216 = {
+	culture = cccfrizzycalm
+	religion = leftshame_faith
+	holding = castle_holding
+}
+1515 = {
+	holding = none
+}
+341 = {
+	culture = cccfrizzycalm
+	religion = leftshame_faith
+	holding = castle_holding
+}
+624 = {
+	holding = none
+}
+1230 = {
+	holding = none
+}
+1529 = {
+	holding = none
+}
+292 = {
+	culture = cccrashnote
+	religion = deareststatus_faith
+	holding = castle_holding
+}
+1024 = {
+	holding = none
+}
+1224 = {
+	holding = none
+}
+1669 = {
+	holding = none
+}
+361 = {
+	culture = cccrashnote
+	religion = deareststatus_faith
+	holding = castle_holding
+}
+1366 = {
+	holding = none
+}
+1618 = {
+	holding = none
+}
+220 = {
+	culture = cccwelldocumentedshop
+	religion = bitterdisaster_faith
+	holding = castle_holding
+}
+1302 = {
+	holding = none
+}
+696 = {
+	culture = cccwelldocumentedshop
+	religion = bitterdisaster_faith
+	holding = castle_holding
+}
+1285 = {
+	culture = cccwelldocumentedshop
+	religion = bitterdisaster_faith
+	holding = castle_holding
+}
+243 = {
+	culture = cccscrawnyvariation
+	religion = classicpassenger_faith
+	holding = castle_holding
+}
+899 = {
+	holding = none
+}
+1795 = {
+	holding = none
+}
+355 = {
+	culture = cccscrawnyvariation
+	religion = classicpassenger_faith
+	holding = castle_holding
+}
+900 = {
+	holding = none
+}
+905 = {
+	holding = none
+}
+692 = {
+	holding = none
+}
+1289 = {
+	holding = none
+}
+1828 = {
+	holding = none
+}
+969 = {
+	culture = cccscrawnyvariation
+	religion = classicpassenger_faith
+	holding = castle_holding
+}
+1247 = {
+	holding = none
+}
+1369 = {
+	culture = cccscrawnyvariation
+	religion = classicpassenger_faith
+	holding = castle_holding
+}
+1604 = {
+	holding = none
+}
+1891 = {
+	holding = none
+}
+244 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+825 = {
+	holding = none
+}
+450 = {
+	holding = none
+}
+326 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+335 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+1174 = {
+	holding = none
+}
+357 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+1146 = {
+	holding = none
+}
+1061 = {
+	holding = none
+}
+906 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+1339 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+516 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+875 = {
+	holding = none
+}
+1540 = {
+	holding = none
+}
+1200 = {
+	holding = none
+}
+1117 = {
+	holding = none
+}
+667 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+962 = {
+	holding = none
+}
+1364 = {
+	holding = none
+}
+1023 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+1187 = {
+	holding = none
+}
+1432 = {
+	holding = none
+}
+1158 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+1480 = {
+	culture = ccckaleidoscopicfinish
+	religion = secondarystop_faith
+	holding = castle_holding
+}
+1054 = {
+	culture = cccdelectableapple
+	religion = staidcorner_faith
+	holding = castle_holding
+}
+1779 = {
+	holding = none
+}
+252 = {
+	culture = cccquarrelsomeif
+	religion = helpfuldisease_faith
+	holding = castle_holding
+}
+1516 = {
+	holding = none
+}
+1403 = {
+	holding = none
+}
+260 = {
+	culture = cccwhoppingprimary
+	religion = grouchytennis_faith
+	holding = castle_holding
+}
+1170 = {
+	holding = none
+}
+890 = {
+	holding = none
+}
+306 = {
+	culture = cccwhoppingprimary
+	religion = grouchytennis_faith
+	holding = castle_holding
+}
+1804 = {
+	holding = none
+}
+409 = {
+	culture = cccwhoppingprimary
+	religion = grouchytennis_faith
+	holding = castle_holding
+}
+480 = {
+	holding = none
+}
+1246 = {
+	holding = none
+}
+653 = {
+	holding = none
+}
+1030 = {
+	holding = none
+}
+649 = {
+	culture = cccwhoppingprimary
+	religion = grouchytennis_faith
+	holding = castle_holding
+}
+1568 = {
+	holding = none
+}
+1893 = {
+	holding = none
+}
+862 = {
+	holding = none
+}
+1041 = {
+	holding = none
+}
+279 = {
+	culture = cccinconsequentialheart
+	religion = staidcorner_faith
+	holding = castle_holding
+}
+687 = {
+	culture = cccinconsequentialheart
+	religion = staidcorner_faith
+	holding = castle_holding
+}
+1544 = {
+	culture = cccinconsequentialheart
+	religion = staidcorner_faith
+	holding = castle_holding
+}
+312 = {
+	culture = cccstripedroutine
+	religion = tangiblegive_faith
+	holding = castle_holding
+}
+352 = {
+	culture = cccelectricbird
+	religion = whimsicalhook_faith
+	holding = castle_holding
+}
+584 = {
+	culture = cccelectricbird
+	religion = whimsicalhook_faith
+	holding = castle_holding
+}
+697 = {
+	culture = cccelectricbird
+	religion = whimsicalhook_faith
+	holding = castle_holding
+}
+1525 = {
+	holding = none
+}
+1700 = {
+	holding = none
+}
+1254 = {
+	culture = cccelectricbird
+	religion = whimsicalhook_faith
+	holding = castle_holding
+}
+1277 = {
+	holding = none
+}
+1763 = {
+	holding = none
+}
+1836 = {
+	holding = none
+}
+1902 = {
+	culture = cccelectricbird
+	religion = whimsicalhook_faith
+	holding = castle_holding
+}
+358 = {
+	culture = cccinsidiousflow
+	religion = awesomegather_faith
+	holding = castle_holding
+}
+691 = {
+	culture = cccinsidiousflow
+	religion = awesomegather_faith
+	holding = castle_holding
+}
+1321 = {
+	culture = cccinsidiousflow
+	religion = awesomegather_faith
+	holding = castle_holding
+}
+525 = {
+	culture = cccslimyengine
+	religion = righttooth_faith
+	holding = castle_holding
+}
+592 = {
+	culture = cccslimyengine
+	religion = righttooth_faith
+	holding = castle_holding
+}
+1561 = {
+	holding = none
+}
+1358 = {
+	holding = none
+}
+1866 = {
+	holding = none
+}
+1491 = {
+	holding = none
+}
+1010 = {
+	culture = cccslimyengine
+	religion = righttooth_faith
+	holding = castle_holding
+}
+1636 = {
+	holding = none
+}
+601 = {
+	culture = cccslimyengine
+	religion = righttooth_faith
+	holding = castle_holding
+}
+1186 = {
+	holding = none
+}
+826 = {
+	culture = cccslimyengine
+	religion = righttooth_faith
+	holding = castle_holding
+}
+1405 = {
+	holding = none
+}
+1382 = {
+	holding = none
+}
+1591 = {
+	holding = none
+}
+633 = {
+	culture = cccslimyengine
+	religion = righttooth_faith
+	holding = castle_holding
+}
+1065 = {
+	holding = none
+}
+641 = {
+	holding = none
+}
+1791 = {
+	holding = none
+}
+1461 = {
+	culture = cccslimyengine
+	religion = righttooth_faith
+	holding = castle_holding
+}
+1348 = {
+	culture = cccsadabroad
+	religion = awesomegather_faith
+	holding = castle_holding
+}
+1392 = {
+	holding = none
+}
+364 = {
+	culture = cccinformaltrick
+	religion = luckyslip_faith
+	holding = castle_holding
+}
+974 = {
+	holding = none
+}
+499 = {
+	holding = none
+}
+1228 = {
+	holding = none
+}
+1803 = {
+	holding = none
+}
+408 = {
+	culture = ccchurtfulshop
+	religion = tangiblegive_faith
+	holding = castle_holding
+}
+987 = {
+	holding = none
+}
+1860 = {
+	holding = none
+}
+1429 = {
+	culture = ccchurtfulshop
+	religion = tangiblegive_faith
+	holding = castle_holding
+}
+1810 = {
+	holding = none
+}
+1830 = {
+	holding = none
+}
+762 = {
+	culture = ccchurtfulshop
+	religion = tangiblegive_faith
+	holding = castle_holding
+}
+1141 = {
+	holding = none
+}
+1709 = {
+	holding = none
+}
+1703 = {
+	holding = none
+}
+481 = {
+	culture = cccelderlymaintenance
+	religion = bewitchedserve_faith
+	holding = castle_holding
+}
+1090 = {
+	holding = none
+}
+1617 = {
+	holding = none
+}
+492 = {
+	culture = cccfoolhardysecond
+	religion = squigglyswim_faith
+	holding = castle_holding
+}
+1313 = {
+	holding = none
+}
+1476 = {
+	holding = none
+}
+1015 = {
+	holding = none
+}
+1144 = {
+	holding = none
+}
+1331 = {
+	culture = cccfoolhardysecond
+	religion = squigglyswim_faith
+	holding = castle_holding
+}
+495 = {
+	culture = cccelectricreason
+	religion = soulfulmap_faith
+	holding = castle_holding
+}
+528 = {
+	holding = none
+}
+1464 = {
+	holding = none
+}
+1473 = {
+	holding = none
+}
+1725 = {
+	holding = none
+}
+505 = {
+	culture = cccimmaterialvisual
+	religion = suddensound_faith
+	holding = castle_holding
+}
+605 = {
+	culture = cccimmaterialvisual
+	religion = suddensound_faith
+	holding = castle_holding
+}
+1770 = {
+	holding = none
+}
+597 = {
+	culture = cccimmaterialvisual
+	religion = suddensound_faith
+	holding = castle_holding
+}
+1436 = {
+	holding = none
+}
+1498 = {
+	holding = none
+}
+750 = {
+	holding = none
+}
+975 = {
+	culture = cccimmaterialvisual
+	religion = suddensound_faith
+	holding = castle_holding
+}
+1131 = {
+	culture = cccimmaterialvisual
+	religion = suddensound_faith
+	holding = castle_holding
+}
+1602 = {
+	holding = none
+}
+1319 = {
+	holding = none
+}
+506 = {
+	culture = cccwrithingtrain
+	religion = helpfuldisease_faith
+	holding = castle_holding
+}
+535 = {
+	culture = cccamazingsnow
+	religion = readyinspector_faith
+	holding = castle_holding
+}
+1724 = {
+	holding = none
+}
+548 = {
+	culture = cccgenuinedrama
+	religion = robustprice_faith
+	holding = castle_holding
+}
+1522 = {
+	holding = none
+}
+608 = {
+	culture = cccmurkypermission
+	religion = rowdycake_faith
+	holding = castle_holding
+}
+1673 = {
+	holding = none
+}
+1570 = {
+	holding = none
+}
+1383 = {
+	holding = none
+}
+1169 = {
+	holding = none
+}
+617 = {
+	culture = ccchealthyfemale
+	religion = boringindependent_faith
+	holding = castle_holding
+}
+774 = {
+	holding = none
+}
+1668 = {
+	holding = none
+}
+1606 = {
+	holding = none
+}
+994 = {
+	holding = none
+}
+618 = {
+	culture = ccccloseeconomics
+	religion = anxiousspot_faith
+	holding = castle_holding
+}
+678 = {
+	holding = none
+}
+1271 = {
+	holding = none
+}
+781 = {
+	holding = none
+}
+1635 = {
+	culture = ccccloseeconomics
+	religion = anxiousspot_faith
+	holding = castle_holding
+}
+901 = {
+	culture = ccccloseeconomics
+	religion = anxiousspot_faith
+	holding = castle_holding
+}
+1634 = {
+	holding = none
+}
+625 = {
+	culture = cccheartyvacation
+	religion = weepymention_faith
+	holding = castle_holding
+}
+1523 = {
+	holding = none
+}
+637 = {
+	holding = none
+}
+654 = {
+	culture = cccvalidriver
+	religion = awesomegather_faith
+	holding = castle_holding
+}
+965 = {
+	holding = none
+}
+840 = {
+	holding = none
+}
+659 = {
+	culture = cccslipperyface
+	religion = aggravatingblue_faith
+	holding = castle_holding
+}
+1448 = {
+	holding = none
+}
+1671 = {
+	holding = none
+}
+1281 = {
+	culture = cccslipperyface
+	religion = aggravatingblue_faith
+	holding = castle_holding
+}
+1756 = {
+	holding = none
+}
+720 = {
+	culture = cccmodestcopy
+	religion = dismalsympathy_faith
+	holding = castle_holding
+}
+1430 = {
+	holding = none
+}
+981 = {
+	holding = none
+}
+734 = {
+	culture = cccforkedmaintenance
+	religion = leftnorth_faith
+	holding = castle_holding
+}
+736 = {
+	culture = cccforkedmaintenance
+	religion = leftnorth_faith
+	holding = castle_holding
+}
+1507 = {
+	holding = none
+}
+1864 = {
+	holding = none
+}
+1780 = {
+	culture = cccdarlingnoise
+	religion = leftnorth_faith
+	holding = castle_holding
+}
+810 = {
+	culture = cccsecondcomplaint
+	religion = mountainousweek_faith
+	holding = castle_holding
+}
+989 = {
+	holding = none
+}
+1283 = {
+	holding = none
+}
+946 = {
+	culture = cccquarrelsomeslip
+	religion = secondarybuddy_faith
+	holding = castle_holding
+}
+951 = {
+	culture = cccsturdyvaluable
+	religion = ashamedadvertising_faith
+	holding = castle_holding
+}
+1543 = {
+	culture = cccsturdyvaluable
+	religion = ashamedadvertising_faith
+	holding = castle_holding
+}
+1035 = {
+	culture = ccceasygoingwedding
+	religion = lateargument_faith
+	holding = castle_holding
+}
+1482 = {
+	holding = none
+}
+1633 = {
+	holding = none
+}
+1732 = {
+	holding = none
+}
+1442 = {
+	culture = ccceasygoingwedding
+	religion = lateargument_faith
+	holding = castle_holding
+}
+1758 = {
+	holding = none
+}
+1453 = {
+	holding = none
+}
+1171 = {
+	culture = cccwelllitdebate
+	religion = imperfectprint_faith
+	holding = castle_holding
+}
+1427 = {
+	holding = none
+}
+1660 = {
+	culture = cccwelllitdebate
+	religion = imperfectprint_faith
+	holding = castle_holding
+}
+1192 = {
+	culture = cccstandardbutton
+	religion = unrealistictell_faith
+	holding = castle_holding
+}
+1670 = {
+	holding = none
+}
+1593 = {
+	culture = cccstandardbutton
+	religion = unrealistictell_faith
+	holding = castle_holding
+}
+1198 = {
+	culture = cccthirstyconstruction
+	religion = helpfuldisease_faith
+	holding = castle_holding
+}
+1225 = {
+	culture = cccroughdiscount
+	religion = inexperiencedsuccess_faith
+	holding = castle_holding
+}
+1261 = {
+	holding = none
+}
+1235 = {
+	culture = cccdualbirth
+	religion = pointlessfeeling_faith
+	holding = castle_holding
+}
+1255 = {
+	culture = cccgoodconfidence
+	religion = dismalsympathy_faith
+	holding = castle_holding
+}
+1340 = {
+	culture = cccunfinishedruin
+	religion = prestigiousmirror_faith
+	holding = castle_holding
+}
+1349 = {
+	culture = cccfrivolouspotential
+	religion = whiteoriginal_faith
+	holding = castle_holding
+}
+1612 = {
+	holding = none
+}
+1378 = {
+	culture = cccaromaticweekend
+	religion = lateargument_faith
+	holding = castle_holding
+}
+1426 = {
+	holding = none
+}
+1404 = {
+	culture = cccimmaterialsite
+	religion = ashamedadvertising_faith
+	holding = castle_holding
+}
+1408 = {
+	culture = cccbestsinger
+	religion = fearfulclient_faith
+	holding = castle_holding
+}
+1771 = {
+	holding = none
+}
+1723 = {
+	holding = none
+}
+1574 = {
+	culture = cccSpanishconcert
+	religion = whiteoriginal_faith
+	holding = castle_holding
+}
+1715 = {
+	culture = ccccookedjoke
+	religion = strictgrand_faith
+	holding = castle_holding
+}
+1748 = {
+	culture = cccclosestomach
+	religion = novelwelcome_faith
+	holding = castle_holding
+}
+1901 = {
+	culture = cccdangeroussir
+	religion = failingcategory_faith
+	holding = castle_holding
+}

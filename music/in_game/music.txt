@@ -1,0 +1,135 @@
+﻿
+
+words_of_huakken = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_The_Words_of_HuakKen.ogg"
+	name = "words_of_huakken"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+
+    is_valid = { is_at_war = yes }
+}
+
+march_of_southeners = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_March_of_Southerners.ogg"
+	name = "march_of_southeners"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+
+    is_valid = { is_at_war = yes }
+}
+
+when_the_twins_allign = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_When_the_Twins_Align.ogg"
+	name = "when_the_twins_allign"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+
+    is_valid = { is_at_war = yes }
+}
+
+bazanaq = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Bazanaq.ogg"
+	name = "bazanaq"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+solemnity_of_aienci = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Solemnity_of_Aienci.ogg"
+	name = "solemnity_of_aienci"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+the_choraman = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_The_Choraman.ogg"
+	name = "the_choraman"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+the_smoke_and_the_sky = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_The_Smoke_and_the_Sky.ogg"
+	name = "the_smoke_and_the_sky"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+abais_auviovalko = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Abais_Auvoivalko.ogg"
+	name = "abais_auviovalko"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+tachanaj = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Tachanaj.ogg"
+	name = "tachanaj"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+rhiulnd = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Rhiulnd_Pfloifft.ogg"
+	name = "rhiulnd"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+ipiella = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Ippiella.ogg"
+	name = "ipiella"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+erdoem = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Erdoem_Proyaps.ogg"
+	name = "erdoem"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+veroxianna = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Veroxianna.ogg"
+	name = "veroxianna"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+hicheggau = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Hicheggau_Talieu.ogg"
+	name = "hicheggau"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+eiha = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Eiha.ogg"
+	name = "eiha"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+pidmedmed = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Pidmedmed_Plevuial_Pliod.ogg"
+	name = "pidmedmed"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}

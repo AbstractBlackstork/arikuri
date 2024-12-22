@@ -1,0 +1,43 @@
+visual_traits_ogre = {
+
+	ogre = {
+		dna_modifiers = {
+		
+			morph = {
+				mode = modify
+				gene = gene_height
+				value = 0.25
+			}
+			morph = {
+				mode = modify
+				gene = gene_neck_width
+				value = 1.0
+				}
+			
+
+			morph = {
+				mode = modify_multiply
+				gene = gene_bs_body_shape
+				value = 1
+				# template = ogre
+			}
+			morph = {
+				#mode = add			#add this as an extra gene
+				#mode = replace	#overwrite this gene in the dna with the specified template and value
+				#mode = modify		#modify this gene in the dna. if the template matches the gene in the dna (or template is left empty), value will be added to the dna-gene's strength
+				mode = replace
+				
+				gene = complexion
+				template = complexion_ugly_1
+				value = 1.0
+			}
+		}
+		weight = {
+            base = 0
+            modifier = {
+                add = 2000
+                has_trait = ogre
+            }
+		}
+	}
+}	

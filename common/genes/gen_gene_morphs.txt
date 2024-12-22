@@ -1,0 +1,111 @@
+﻿morph_genes = {
+	beast_head = {
+		inheritable = yes
+		non_beast = { 
+			index = 0
+			male = {}
+			female = male
+			boy = male
+			girl = male
+		}
+		warthog_head = {
+			index = 1
+			male = {
+				setting = { attribute = "bs_warthog_head"	value = { min = 0.8 max = 1.0 }	} 
+			}
+			female = male
+			
+		}
+		bumpy_head = {
+			index = 2
+			male = {
+				setting = { attribute = "bs_bumpy_head" value = { min = 0.8 max = 1.0 } }
+			}
+			female = male
+		}
+		star_head = {
+			index = 3
+			male = {
+				setting = { attribute = "bs_star_head" value = { min = 0.8 max = 1.0 } }
+			}
+			female = male
+		}
+		meltface_head = {
+			index = 4
+			male = {
+				setting = { attribute = "bs_meltface_head" value = { min = 0.8 max = 1.0 } }
+			}
+			female = male
+		}
+	}
+
+	gen_decal = {
+		gen_decal_0 = {
+			index = 0
+			male = {}
+			female = male
+			boy = male
+			girl = male
+		}
+		gen_decal_1 = {
+			index = 1
+			male = {
+				texture_override = {
+					weight = 10000  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+					diffuse = "gfx/models/portraits/male_head/male_head_07_diffuse.dds"
+					normal = "gfx/models/portraits/male_head/male_head_normal.dds"
+					specular = "gfx/models/portraits/male_head/male_head_properties.dds"
+				}
+	            decal = { #Lip color
+	                                         
+	                    body_part = head
+	                    textures = {
+	                        diffuse = diffuse = "gfx/models/portraits/decals/male_head/gen_decal_1.dds"
+	                    }
+	                    alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+	                        #gene strength%, decal alpha
+	                        { 0.0  0.0 }
+	                        { 1.0  0.7 }
+	                    }
+	                    blend_modes = {              #overlay/replace/hard_light/multiply
+	                        diffuse = multiply 
+	                        # normal = overlay
+	                        # properties = 
+	                    }
+	                    priority = 1
+	                    # age = age_preset_aging_definition_male
+	            }
+			}
+			female = {
+				texture_override = {
+					weight = 100  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+					diffuse = "gfx/models/portraits/female_head/female_head_07_diffuse.dds"
+					normal = "gfx/models/portraits/female_head/female_head_normal.dds"
+					specular = "gfx/models/portraits/female_head/female_head_properties.dds"
+				}
+	            decal = { #Lip color
+	                                         
+	                    body_part = head
+	                    textures = {
+	                        diffuse = diffuse = "gfx/models/portraits/decals/male_head/gen_decal_1.dds"
+	                    }
+	                    alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+	                        #gene strength%, decal alpha
+	                        { 0.0  0.0 }
+	                        { 1.0  1.0 }
+	                    }
+	                    blend_modes = {              #overlay/replace/hard_light/multiply
+	                        diffuse = multiply 
+	                        # normal = overlay
+	                        # properties = 
+	                    }
+	                    priority = 1
+	                    # age = age_preset_aging_definition_male
+	            }
+			}
+			boy = male
+			girl = male
+		}
+	}
+}
+   

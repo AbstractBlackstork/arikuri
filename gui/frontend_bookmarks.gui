@@ -1,0 +1,460 @@
+﻿widget = {
+	name = "frontend_bookmarks"
+	size = { 100% 100% }
+
+	state = {
+		name = _show
+		using = Animation_FadeIn_Standard
+		on_start = "[PdxGuiTriggerAllAnimations('bookmarks_bars_appear')]"
+		on_start = "[GetVariableSystem.Clear( 'show_character_info')]"
+		on_finish = "[PdxGuiTriggerAllAnimations('bookmarks_buttons_shimmer')]"
+		on_finish = "[GetVariableSystem.Set('set_last_applied_ironman_mode', 'true' )]"
+		start_sound = {
+			soundeffect = "event:/SFX/UI/Frontend/sfx_ui_frontend_topbar_slide"
+		}
+	}
+
+	state = {
+		name = _hide
+		using = Animation_FadeOut_Standard
+	}
+
+	#Background
+	icon = {
+		size = { 100% 100%}
+		parentanchor = center
+		texture = "gfx/interface/colors/map_color.dds"
+
+		modify_texture = {
+			texture = "gfx/interface/component_overlay/seamless_noise.dds"
+			spriteType = corneredtiled
+			blend_mode = overlay
+			texture_density =  2
+			alpha = 0.2
+
+		}
+
+		modify_texture = {
+
+			texture = "gfx/interface/component_masks/mask_fade_textured_vertical_down.dds"
+			blend_mode = alphamultiply
+			spriteType= Corneredtiled
+			spriteborder_top = 1080
+			alpha = 0.5
+		}
+
+		modify_texture = {
+
+			texture = "gfx/interface/component_masks/mask_fade_textured_vertical_down.dds"
+			blend_mode = alphamultiply
+			spriteType= Corneredtiled
+			spriteborder_top = 1080
+			mirror = vertical
+			alpha = 0.5
+		}
+
+		modify_texture = {
+			texture = "gfx/interface/component_masks/mask_fade_horizontal_middle_thick.dds"
+			blend_mode = alphamultiply
+			alpha = 1
+		}
+	}
+
+	widget = {
+		parentanchor = center
+		size = { 1920 1080 }
+		scale = 1
+		allow_outside = yes
+
+		state = {
+			name = "bookmarks_game_start_selected_character"
+			delay = 1.45
+			on_finish = "[GameSetup.OnStart]"
+		}
+
+		state = {
+			name = "bookmarks_game_start_any_character"
+			delay = 1.45
+			on_finish = "[GameSetup.OnCustomStart]"
+		}
+
+		widget = {
+			parentanchor = center
+			size = "[GetResolutionWithAspectRatio]"
+			scale = "[ScaleToFitElementInside('(int32)1920', '(int32)1080')]"
+			allow_outside = yes
+
+			### Custom Ruler
+			button_normal = {
+				name = "pick_any_character_button"
+				parentanchor = bottom|left
+				position = { -45 -70 }
+				size = { 400 195 }
+				scale = 0.8
+
+				enabled = "[GameSetup.IsCurrentBookmarkPlayable]"
+				onclick = "[PdxGuiTriggerAllAnimations('bookmarks_game_start')]"
+				onclick = "[PdxGuiTriggerAllAnimations('bookmarks_hide_selected_character')]"
+				onclick = "[PdxGuiTriggerAllAnimations('bookmarks_game_start_any_character')]"
+
+
+				state = {
+					name = _mouse_hierarchy_enter
+					on_start = "[PdxGuiTriggerAllAnimations('unknown_character_hover_enter')]"
+					on_start = "[PdxGuiWidget.FindChild('banner_hover_glow').TriggerAnimation('unknown_character_hover_enter')]"
+					on_start = "[PdxGuiWidget.FindChild('unknown_portrait_glow').TriggerAnimation('unknown_character_hover_enter')]"
+					on_start = "[PdxGuiWidget.FindChild('button_widget').TriggerAnimation('unknown_character_hover_enter')]"
+				}
+
+				state = {
+					name = _mouse_hierarchy_leave
+					on_start = "[PdxGuiTriggerAllAnimations('unknown_character_hover_leave')]"
+					on_start = "[PdxGuiWidget.FindChild('banner_hover_glow').TriggerAnimation('unknown_character_hover_leave')]"
+					on_start = "[PdxGuiWidget.FindChild('unknown_portrait_glow').TriggerAnimation('unknown_character_hover_leave')]"
+					on_start = "[PdxGuiWidget.FindChild('button_widget').TriggerAnimation('unknown_character_hover_leave')]"
+				}
+
+				state = {
+					name = _mouse_press
+					position = { -45 -65 }
+				}
+
+				state = {
+					name = _mouse_release
+					position = { -45 -70 }
+					duration = 0.05
+					using = Animation_Curve_Default
+					start_sound = {
+						soundeffect = "event:/SFX/UI/Generic/sfx_ui_generic_start_game"
+					}
+				}
+
+				state = {
+					name = "bookmarks_hide_any_character"
+					duration = 0.2
+					using = Animation_Curve_Default
+					alpha = 0
+				}
+
+				state = {
+					name = "bookmarks_reset"
+					duration = 0.2
+					using = Animation_Curve_Default
+					alpha = 1
+				}
+
+				state = {
+					name = "bookmarks_game_start"
+					using = Animation_Curve_Default
+					duration = 0.2
+
+					alpha = 0
+					position_y = 0
+				}
+
+				state = {
+					name = "bookmarks_reset"
+					using = Animation_Curve_Default
+					duration = 0.2
+
+					alpha = 1
+					position_y = -70
+				}
+
+				state = {
+					name = "bookmarks_bars_appear"
+					next = b
+
+					alpha = 0
+					position_y = 0
+				}
+
+				state = {
+					name = b
+					using = Animation_Curve_Default
+
+					alpha = 1
+					delay = 0.5
+					position_y = -70
+					duration = 0.15
+				}
+
+				button_normal = {
+					name = "button_widget"
+					size = { 100% 100% }
+					alwaystransparent = yes
+
+					state = {
+						name = "unknown_character_hover_enter"
+						position = { 0 -15 }
+						duration = 0.05
+						using = Animation_Curve_Default
+					}
+
+					state = {
+						name = "unknown_character_hover_leave"
+						position = { 0 0 }
+						duration = 0.2
+						using = Animation_Curve_Default
+					}
+
+					icon = {
+						parentanchor = bottom|hcenter
+						position = { 0 -75 }
+						size = { 300 225 }
+						texture = "gfx/interface/bookmarks/custom_ruler.dds"
+
+						icon = {
+							name = "unknown_portrait_glow"
+							size = { 100% 100% }
+							texture = "gfx/interface/bookmarks/custom_ruler_glow.dds"
+							framesize = { 471 589 }
+							frame = 2
+							alpha = 0
+
+							state = {
+								name = "unknown_character_hover_enter"
+								alpha = 1
+								duration = 0.05
+								using = Animation_Curve_Default
+							}
+
+							state = {
+								name = "unknown_character_hover_leave"
+								alpha = 0
+								duration = 0.2
+								using = Animation_Curve_Default
+							}
+						}
+					}
+
+					widget = {
+						parentanchor = vcenter|left
+						position = { 30 40 }
+						size = { 404 92}
+
+						icon = {
+							size = { 100% 100% }
+							texture = "gfx/interface/bookmarks/any_ruler_button.dds"
+
+							modify_texture = {
+								name = overlay
+								texture = "gfx/interface/component_effects/effect_blue_shine.dds"
+								blend_mode = colordodge
+								translate_uv = { 1 0 }
+							}
+
+							modify_texture = {
+								texture = "gfx/interface/component_masks/mask_center_shimmer.dds"
+								blend_mode = mask
+							}
+
+							modify_texture = {
+								name = "shimmer"
+								texture = "gfx/interface/component_masks/mask_clouds_solid.dds"
+								blend_mode = colordodge
+								spriteType = corneredTiled
+								rotate_uv = 0
+							}
+
+							modify_texture = {
+								name = "shimmer_2"
+								texture = "gfx/interface/component_masks/mask_clouds_solid.dds"
+								blend_mode = colordodge
+								spriteType = corneredTiled
+								rotate_uv = 0
+							}
+
+							modify_texture = {
+								name = "shimmer_3"
+								texture = "gfx/interface/component_masks/mask_clouds_solid.dds"
+								blend_mode = colordodge
+								spriteType = corneredTiled
+							}
+
+							modify_texture = {
+								name = "shimmer_4"
+								texture = "gfx/interface/component_masks/mask_clouds_solid.dds"
+								blend_mode = colordodge
+								spriteType = corneredTiled
+							}
+
+							state = {
+								trigger_on_create = yes
+								name = a
+								next = b
+								duration = 0
+
+								modify_texture = {
+									name = "shimmer"
+									translate_uv = { -0.1 0 }
+									alpha = 0.1
+									rotate_uv = 0
+								}
+
+								modify_texture = {
+									name = "shimmer_2"
+									translate_uv = { 0.1 0 }
+									alpha = 0.3
+									rotate_uv = 0
+								}
+
+								modify_texture = {
+									name = "shimmer_3"
+									translate_uv = { 1 0 }
+									alpha = 0.1
+								}
+
+								modify_texture = {
+									name = "shimmer_4"
+									translate_uv = { -1 0 }
+									alpha = 0.5
+								}
+							}
+
+							state = {
+								name = b
+								next = c
+								duration = 10
+
+								modify_texture = {
+									name = "shimmer"
+									translate_uv = { 0.1 0 }
+									alpha = 0.3
+									rotate_uv = 180
+								}
+
+								modify_texture = {
+									name = "shimmer_2"
+									translate_uv = { -0.1 0 }
+									alpha = 0.1
+									rotate_uv = -180
+								}
+
+								modify_texture = {
+									name = "shimmer_3"
+									translate_uv = { 0 0 }
+									alpha = 0.5
+								}
+
+								modify_texture = {
+									name = "shimmer_4"
+									translate_uv = { 0 0 }
+									alpha = 0.1
+								}
+							}
+
+							state = {
+								name = c
+								next = a
+								duration = 10
+
+								modify_texture = {
+									name = "shimmer"
+									translate_uv = { -0.1 0 }
+									alpha = 0.1
+									rotate_uv = 360
+								}
+
+								modify_texture = {
+									name = "shimmer_2"
+									translate_uv = { 0.1 0 }
+									alpha = 0.3
+									rotate_uv = -360
+								}
+
+								modify_texture = {
+									name = "shimmer_3"
+									translate_uv = { -1 0 }
+									alpha = 0.1
+								}
+
+								modify_texture = {
+									name = "shimmer_4"
+									translate_uv = { 1 0 }
+									alpha = 0.5
+								}
+							}
+
+
+							glow = {
+								color = { 0.1 0.1 0.1 0.2 }
+								glow_radius = 20
+
+								glow_generation_rules= {
+									glow_alpha_mask = 0
+									glow_blur_passes = 10
+									glow_texture_downscale = 5.5f
+									glow_ignore_inside_pixels = yes
+								}
+							}
+
+							icon = {
+								name = "banner_hover_glow"
+								size = { 100% 100% }
+								texture = "gfx/interface/bookmarks/any_ruler_shine.dds"
+								alpha = 0
+
+								state = {
+									name = "unknown_character_hover_enter"
+									alpha = 0.7
+									duration = 0.05
+									using = Animation_Curve_Default
+								}
+
+								state = {
+									name = "unknown_character_hover_leave"
+									alpha = 0
+									duration = 0.2
+									using = Animation_Curve_Default
+								}
+							}
+
+							icon = {
+								name = "ruler_designer_promt_glow"
+								visible = "[ShouldPromptForRulerDesigner]"
+								size = { 100% 100% }
+								texture = "gfx/interface/icons/banners/banner_brown_left_glow.dds"
+								alpha = 0
+
+								state = {
+									name = a
+									next = b
+									trigger_on_create = yes
+									using = Animation_Curve_Default
+
+									alpha = 1
+									duration = 1.5
+								}
+
+								state = {
+									name = b
+									using = Animation_Curve_Default
+
+									duration = 0.8
+									delay = 2
+									alpha = 0
+								}
+							}
+						}
+						icon = {
+							size = { 100% 100% }
+							texture = "gfx/interface/bookmarks/any_ruler_frame.dds"
+						}
+
+						text_multi = {
+							parentanchor = center|vcenter
+							text = "PICK_ANY_CHARACTER"
+							using = Font_Size_Medium
+							default_format = "#high"
+							size = { 220 50 }
+						}
+					}
+				}
+			}
+		}
+	}
+
+}
+
+

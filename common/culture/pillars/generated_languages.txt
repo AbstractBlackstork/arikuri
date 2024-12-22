@@ -1,0 +1,3500 @@
+﻿language_imperturbableneck = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_imperturbableneck
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_imperturbableneck }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.6 0.2 }
+}
+language_imperturbableneck = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_imperturbableneck
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_imperturbableneck }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.3 0.7 }
+}
+language_wirygarbage = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_wirygarbage
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_wirygarbage }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.7 0.8 }
+}
+language_wirygarbage = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_wirygarbage
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_wirygarbage }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.5 0.3 }
+}
+language_wirygarbage = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_wirygarbage
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_wirygarbage }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.3 0.4 }
+}
+language_wirygarbage = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_wirygarbage
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_wirygarbage }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.1 0.8 }
+}
+language_wirygarbage = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_wirygarbage
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_wirygarbage }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.9 0.9 }
+}
+language_temptingtwist = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_temptingtwist
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_temptingtwist }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.7 0.6 }
+}
+language_temptingtwist = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_temptingtwist
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_temptingtwist }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.4 0.4 }
+}
+language_temptingtwist = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_temptingtwist
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_temptingtwist }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.7 0.2 }
+}
+language_temptingtwist = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_temptingtwist
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_temptingtwist }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.9 0.7 }
+}
+language_temptingtwist = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_temptingtwist
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_temptingtwist }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.8 0.8 }
+}
+language_foolishknee = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_foolishknee
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_foolishknee }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.4 0.5 }
+}
+language_foolishknee = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_foolishknee
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_foolishknee }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.4 0.7 }
+}
+language_foolishknee = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_foolishknee
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_foolishknee }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.3 0.3 }
+}
+language_foolishknee = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_foolishknee
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_foolishknee }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.3 0.6 }
+}
+language_foolishknee = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_foolishknee
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_foolishknee }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.1 0.8 }
+}
+language_foolishknee = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_foolishknee
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_foolishknee }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.9 0.1 }
+}
+language_finediscussion = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_finediscussion
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_finediscussion }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.1 0.9 }
+}
+language_finediscussion = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_finediscussion
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_finediscussion }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.4 0.9 }
+}
+language_nearscratch = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_nearscratch
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_nearscratch }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.9 0.4 }
+}
+language_nearscratch = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_nearscratch
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_nearscratch }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.4 0.2 }
+}
+language_elderlyaffair = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_elderlyaffair
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_elderlyaffair }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.9 0.6 }
+}
+language_elderlyaffair = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_elderlyaffair
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_elderlyaffair }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.8 0.8 }
+}
+language_elderlyaffair = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_elderlyaffair
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_elderlyaffair }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.7 0.1 }
+}
+language_elderlyaffair = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_elderlyaffair
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_elderlyaffair }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.3 0.8 }
+}
+language_elderlyaffair = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_elderlyaffair
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_elderlyaffair }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.2 0.2 }
+}
+language_busyboard = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_busyboard
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_busyboard }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.8 0.6 }
+}
+language_busyboard = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_busyboard
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_busyboard }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.6 0.8 }
+}
+language_busyboard = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_busyboard
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_busyboard }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.8 0.9 }
+}
+language_busyboard = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_busyboard
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_busyboard }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.9 0.2 }
+}
+language_possiblewoman = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_possiblewoman
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_possiblewoman }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.6 0.5 }
+}
+language_possiblewoman = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_possiblewoman
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_possiblewoman }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.8 0.5 }
+}
+language_possiblewoman = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_possiblewoman
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_possiblewoman }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.5 0.1 }
+}
+language_possiblewoman = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_possiblewoman
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_possiblewoman }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.6 0.5 }
+}
+language_possiblewoman = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_possiblewoman
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_possiblewoman }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.3 0.8 }
+}
+language_noxioususer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_noxioususer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_noxioususer }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.7 0.4 }
+}
+language_noxioususer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_noxioususer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_noxioususer }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.1 0.3 }
+}
+language_noxioususer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_noxioususer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_noxioususer }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.5 0.3 }
+}
+language_noxioususer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_noxioususer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_noxioususer }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.7 0.8 }
+}
+language_noxioususer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_noxioususer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_noxioususer }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.4 0.6 }
+}
+language_noxioususer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_noxioususer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_noxioususer }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.6 0.5 }
+}
+language_noxioususer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_noxioususer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_noxioususer }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.3 0.7 }
+}
+language_ethicalscore = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_ethicalscore
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_ethicalscore }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.1 0.8 }
+}
+language_ethicalscore = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_ethicalscore
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_ethicalscore }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.1 0.2 }
+}
+language_ethicalscore = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_ethicalscore
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_ethicalscore }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.5 0.9 }
+}
+language_shallowtrash = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_shallowtrash
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_shallowtrash }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.7 0.5 }
+}
+language_shallowtrash = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_shallowtrash
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_shallowtrash }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.6 0.2 }
+}
+language_shallowtrash = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_shallowtrash
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_shallowtrash }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.3 0.3 }
+}
+language_shallowtrash = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_shallowtrash
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_shallowtrash }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.2 0.4 }
+}
+language_shallowtrash = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_shallowtrash
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_shallowtrash }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.5 0.5 }
+}
+language_authorizedoven = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_authorizedoven
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_authorizedoven }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.9 0.2 }
+}
+language_authorizedoven = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_authorizedoven
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_authorizedoven }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.3 0.6 }
+}
+language_authorizedoven = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_authorizedoven
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_authorizedoven }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.2 0.6 }
+}
+language_aggravatingdatabase = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_aggravatingdatabase
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_aggravatingdatabase }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.1 0.3 }
+}
+language_aggravatingdatabase = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_aggravatingdatabase
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_aggravatingdatabase }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.1 0.9 }
+}
+language_aggravatingdatabase = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_aggravatingdatabase
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_aggravatingdatabase }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.8 0.7 }
+}
+language_sentimentalleading = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sentimentalleading
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sentimentalleading }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.3 0.6 }
+}
+language_sentimentalleading = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sentimentalleading
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sentimentalleading }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.8 0.8 }
+}
+language_sentimentalleading = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sentimentalleading
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sentimentalleading }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.6 0.7 }
+}
+language_sentimentalleading = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sentimentalleading
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sentimentalleading }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.9 0.1 }
+}
+language_sentimentalleading = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sentimentalleading
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sentimentalleading }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.3 0.7 }
+}
+language_verifiabletension = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_verifiabletension
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_verifiabletension }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.8 0.1 }
+}
+language_verifiabletension = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_verifiabletension
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_verifiabletension }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.4 0.4 }
+}
+language_dopeyred = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dopeyred
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dopeyred }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.2 0.8 }
+}
+language_dopeyred = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dopeyred
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dopeyred }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.4 0.1 }
+}
+language_dopeyred = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dopeyred
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dopeyred }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.6 0.2 }
+}
+language_dopeyred = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dopeyred
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dopeyred }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.1 0.1 }
+}
+language_dopeyred = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dopeyred
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dopeyred }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.7 0.9 }
+}
+language_oldfashionedlab = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_oldfashionedlab
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_oldfashionedlab }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.1 0.4 }
+}
+language_oldfashionedlab = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_oldfashionedlab
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_oldfashionedlab }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.7 0.1 }
+}
+language_oldfashionedlab = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_oldfashionedlab
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_oldfashionedlab }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.4 0.7 }
+}
+language_consideratematch = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_consideratematch
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_consideratematch }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.6 0.3 }
+}
+language_consideratematch = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_consideratematch
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_consideratematch }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.2 0.2 }
+}
+language_groundedstuff = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_groundedstuff
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_groundedstuff }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.2 0.1 }
+}
+language_groundedstuff = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_groundedstuff
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_groundedstuff }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.7 0.4 }
+}
+language_groundedstuff = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_groundedstuff
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_groundedstuff }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.1 0.2 }
+}
+language_expertmate = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_expertmate
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_expertmate }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.9 0.7 }
+}
+language_expertmate = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_expertmate
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_expertmate }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.7 0.1 }
+}
+language_expertmate = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_expertmate
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_expertmate }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.8 0.1 }
+}
+language_expertmate = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_expertmate
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_expertmate }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.2 0.9 }
+}
+language_expertmate = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_expertmate
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_expertmate }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.8 0.6 }
+}
+language_expertmate = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_expertmate
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_expertmate }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.4 0.3 }
+}
+language_detailedteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_detailedteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_detailedteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.8 0.1 }
+}
+language_detailedteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_detailedteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_detailedteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.7 0.7 }
+}
+language_detailedteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_detailedteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_detailedteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.5 0.5 }
+}
+language_detailedteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_detailedteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_detailedteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.3 0.9 }
+}
+language_detailedteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_detailedteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_detailedteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.6 0.7 }
+}
+language_detailedteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_detailedteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_detailedteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.5 0.2 }
+}
+language_capitalarrival = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_capitalarrival
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_capitalarrival }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.8 0.9 }
+}
+language_capitalarrival = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_capitalarrival
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_capitalarrival }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.7 0.3 }
+}
+language_capitalarrival = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_capitalarrival
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_capitalarrival }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.6 0.7 }
+}
+language_dizzyexit = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dizzyexit
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dizzyexit }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.7 0.7 }
+}
+language_dizzyexit = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dizzyexit
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dizzyexit }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.4 0.3 }
+}
+language_dizzyexit = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dizzyexit
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dizzyexit }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.7 0.3 }
+}
+language_parchedtitle = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_parchedtitle
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_parchedtitle }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.8 0.3 }
+}
+language_parchedtitle = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_parchedtitle
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_parchedtitle }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.7 0.7 }
+}
+language_prettyholiday = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_prettyholiday
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_prettyholiday }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.3 0.1 }
+}
+language_prettyholiday = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_prettyholiday
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_prettyholiday }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.4 0.2 }
+}
+language_imaginativemate = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_imaginativemate
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_imaginativemate }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.8 0.1 }
+}
+language_imaginativemate = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_imaginativemate
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_imaginativemate }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.9 0.7 }
+}
+language_imaginativemate = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_imaginativemate
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_imaginativemate }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.5 0.4 }
+}
+language_imaginativemate = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_imaginativemate
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_imaginativemate }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.2 0.6 }
+}
+language_unusualwriter = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualwriter
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualwriter }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.1 0.1 }
+}
+language_unusualwriter = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualwriter
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualwriter }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.6 0.1 }
+}
+language_unusualwriter = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualwriter
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualwriter }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.6 0.2 }
+}
+language_unusualwriter = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualwriter
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualwriter }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.1 0.2 }
+}
+language_unusualwriter = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualwriter
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualwriter }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.7 0.5 }
+}
+language_unusualwriter = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualwriter
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualwriter }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.3 0.5 }
+}
+language_unusualwriter = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualwriter
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualwriter }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.6 0.7 }
+}
+language_unusualregister = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualregister
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualregister }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.1 0.9 }
+}
+language_unusualregister = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualregister
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualregister }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.5 0.5 }
+}
+language_unusualregister = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualregister
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualregister }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.3 0.3 }
+}
+language_unusualregister = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualregister
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualregister }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.7 0.6 }
+}
+language_unusualregister = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualregister
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualregister }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.6 0.6 }
+}
+language_unusualregister = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unusualregister
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unusualregister }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.8 0.7 }
+}
+language_warmteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_warmteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_warmteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.5 0.9 }
+}
+language_warmteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_warmteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_warmteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.7 0.7 }
+}
+language_warmteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_warmteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_warmteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.2 0.5 }
+}
+language_warmteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_warmteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_warmteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.9 0.9 }
+}
+language_warmteaching = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_warmteaching
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_warmteaching }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.3 0.3 }
+}
+language_unsteadysale = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unsteadysale
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unsteadysale }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.5 0.2 }
+}
+language_unsteadysale = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unsteadysale
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unsteadysale }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.9 0.1 }
+}
+language_unsteadysale = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_unsteadysale
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_unsteadysale }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.7 0.7 }
+}
+language_rubberyclick = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_rubberyclick
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_rubberyclick }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.6 0.3 }
+}
+language_rubberyclick = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_rubberyclick
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_rubberyclick }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.4 0.1 }
+}
+language_rubberyclick = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_rubberyclick
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_rubberyclick }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.1 0.6 }
+}
+language_rubberyclick = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_rubberyclick
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_rubberyclick }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.6 0.3 }
+}
+language_remoteruin = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_remoteruin
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_remoteruin }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.5 0.8 }
+}
+language_remoteruin = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_remoteruin
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_remoteruin }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.1 0.5 }
+}
+language_showyconversation = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_showyconversation
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_showyconversation }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.1 0.7 }
+}
+language_showyconversation = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_showyconversation
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_showyconversation }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.1 0.9 }
+}
+language_lighttool = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_lighttool
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_lighttool }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.6 0.1 }
+}
+language_lighttool = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_lighttool
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_lighttool }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.3 0.2 }
+}
+language_lighttool = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_lighttool
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_lighttool }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.1 0.4 }
+}
+language_lighttool = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_lighttool
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_lighttool }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.6 0.6 }
+}
+language_fastbicycle = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_fastbicycle
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_fastbicycle }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.1 0.6 }
+}
+language_fastbicycle = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_fastbicycle
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_fastbicycle }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.4 0.1 }
+}
+language_fastbicycle = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_fastbicycle
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_fastbicycle }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.1 0.4 }
+}
+language_bouncydisplay = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_bouncydisplay
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_bouncydisplay }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.5 0.8 }
+}
+language_bouncydisplay = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_bouncydisplay
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_bouncydisplay }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.3 0.3 }
+}
+language_bouncydisplay = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_bouncydisplay
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_bouncydisplay }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.1 0.9 }
+}
+language_glorioustry = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_glorioustry
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_glorioustry }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.9 0.3 }
+}
+language_glorioustry = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_glorioustry
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_glorioustry }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.9 0.4 }
+}
+language_surefootedinjury = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_surefootedinjury
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_surefootedinjury }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.8 0.5 }
+}
+language_surefootedinjury = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_surefootedinjury
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_surefootedinjury }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.3 0.5 }
+}
+language_scaredfriend = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_scaredfriend
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_scaredfriend }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.6 0.2 }
+}
+language_scaredfriend = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_scaredfriend
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_scaredfriend }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.1 0.9 }
+}
+language_scaredfriend = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_scaredfriend
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_scaredfriend }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.6 0.3 }
+}
+language_scaredfriend = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_scaredfriend
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_scaredfriend }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.4 0.2 }
+}
+language_exemplaryfinal = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_exemplaryfinal
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_exemplaryfinal }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.3 0.7 }
+}
+language_exemplaryfinal = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_exemplaryfinal
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_exemplaryfinal }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.2 0.3 }
+}
+language_exemplaryfinal = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_exemplaryfinal
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_exemplaryfinal }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.9 0.7 }
+}
+language_sizzlingcoach = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sizzlingcoach
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sizzlingcoach }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.9 0.4 }
+}
+language_sizzlingcoach = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sizzlingcoach
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sizzlingcoach }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.7 0.2 }
+}
+language_sizzlingcoach = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sizzlingcoach
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sizzlingcoach }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.7 0.3 }
+}
+language_boringassistance = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_boringassistance
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_boringassistance }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.7 0.6 }
+}
+language_boringassistance = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_boringassistance
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_boringassistance }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.4 0.9 }
+}
+language_tornhire = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_tornhire
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_tornhire }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.4 0.8 }
+}
+language_tornhire = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_tornhire
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_tornhire }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.5 0.5 }
+}
+language_dishonestsoil = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dishonestsoil
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dishonestsoil }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.6 0.5 }
+}
+language_dishonestsoil = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dishonestsoil
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dishonestsoil }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.2 0.3 }
+}
+language_dishonestsoil = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dishonestsoil
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dishonestsoil }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.1 0.4 }
+}
+language_cumbersomeslip = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_cumbersomeslip
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_cumbersomeslip }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.8 0.2 }
+}
+language_cumbersomeslip = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_cumbersomeslip
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_cumbersomeslip }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.3 0.4 }
+}
+language_revolvingpass = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_revolvingpass
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_revolvingpass }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.7 0.9 }
+}
+language_revolvingpass = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_revolvingpass
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_revolvingpass }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.5 0.6 }
+}
+language_immediatelong = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_immediatelong
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_immediatelong }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.7 0.9 }
+}
+language_immediatelong = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_immediatelong
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_immediatelong }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.3 0.3 }
+}
+language_lovingdesigner = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_lovingdesigner
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_lovingdesigner }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.7 0.5 }
+}
+language_lovingdesigner = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_lovingdesigner
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_lovingdesigner }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.6 0.5 }
+}
+language_criminalconclusion = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_criminalconclusion
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_criminalconclusion }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.5 0.5 }
+}
+language_criminalconclusion = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_criminalconclusion
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_criminalconclusion }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.2 0.9 }
+}
+language_worriedgame = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_worriedgame
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_worriedgame }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.4 0.5 }
+}
+language_worriedgame = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_worriedgame
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_worriedgame }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.8 0.8 }
+}
+language_worriedgame = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_worriedgame
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_worriedgame }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.7 0.2 }
+}
+language_worriedgame = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_worriedgame
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_worriedgame }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.4 0.9 }
+}
+language_remotetough = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_remotetough
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_remotetough }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.6 0.8 }
+}
+language_remotetough = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_remotetough
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_remotetough }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.6 0.4 }
+}
+language_plumpbeer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_plumpbeer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_plumpbeer }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.5 0.5 }
+}
+language_plumpbeer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_plumpbeer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_plumpbeer }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.4 0.5 }
+}
+language_composedrecognition = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_composedrecognition
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_composedrecognition }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.5 0.3 }
+}
+language_composedrecognition = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_composedrecognition
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_composedrecognition }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.3 0.6 }
+}
+language_digitaldatabase = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_digitaldatabase
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_digitaldatabase }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.1 0.4 }
+}
+language_digitaldatabase = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_digitaldatabase
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_digitaldatabase }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.9 0.3 }
+}
+language_sugaryhearing = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sugaryhearing
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sugaryhearing }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.3 0.4 }
+}
+language_sugaryhearing = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sugaryhearing
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sugaryhearing }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.7 0.9 }
+}
+language_lonesouth = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_lonesouth
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_lonesouth }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.6 0.9 }
+}
+language_lonesouth = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_lonesouth
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_lonesouth }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.6 0.2 }
+}
+language_drearycandy = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_drearycandy
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_drearycandy }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.9 0.3 }
+}
+language_drearycandy = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_drearycandy
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_drearycandy }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.1 0.7 }
+}
+language_jampackedcousin = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_jampackedcousin
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_jampackedcousin }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.2 0.7 }
+}
+language_jampackedcousin = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_jampackedcousin
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_jampackedcousin }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.8 0.6 }
+}
+language_spiffyshow = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_spiffyshow
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_spiffyshow }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.9 0.8 }
+}
+language_spiffyshow = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_spiffyshow
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_spiffyshow }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.7 0.2 }
+}
+language_quintessentialfact = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_quintessentialfact
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_quintessentialfact }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.6 0.9 }
+}
+language_quintessentialfact = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_quintessentialfact
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_quintessentialfact }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.9 0.5 }
+}
+language_deadtrack = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_deadtrack
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_deadtrack }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.5 0.5 }
+}
+language_deadtrack = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_deadtrack
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_deadtrack }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.2 0.6 }
+}
+language_whirlwindtank = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_whirlwindtank
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_whirlwindtank }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.1 0.5 }
+}
+language_whirlwindtank = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_whirlwindtank
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_whirlwindtank }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.2 0.9 }
+}
+language_impossibleposition = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_impossibleposition
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_impossibleposition }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.7 0.8 }
+}
+language_impossibleposition = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_impossibleposition
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_impossibleposition }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.7 0.3 }
+}
+language_indolentmall = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_indolentmall
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_indolentmall }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.3 0.3 }
+}
+language_indolentmall = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_indolentmall
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_indolentmall }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.5 0.2 }
+}
+language_splendidneat = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_splendidneat
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_splendidneat }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.1 0.5 }
+}
+language_splendidneat = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_splendidneat
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_splendidneat }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.5 0.7 }
+}
+language_jointcalm = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_jointcalm
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_jointcalm }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.1 0.5 }
+}
+language_jointcalm = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_jointcalm
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_jointcalm }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.7 0.1 }
+}
+language_gratefulmedicine = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_gratefulmedicine
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_gratefulmedicine }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.1 0.1 }
+}
+language_gratefulmedicine = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_gratefulmedicine
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_gratefulmedicine }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.3 0.4 }
+}
+language_gratefulmedicine = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_gratefulmedicine
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_gratefulmedicine }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.6 0.5 }
+}
+language_warlikeregret = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_warlikeregret
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_warlikeregret }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.7 0.6 }
+}
+language_warlikeregret = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_warlikeregret
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_warlikeregret }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.6 0.5 }
+}
+language_evenunique = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_evenunique
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_evenunique }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.9 0.6 }
+}
+language_evenunique = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_evenunique
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_evenunique }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.8 0.9 }
+}
+language_knottytrainer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_knottytrainer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_knottytrainer }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.7 0.9 }
+}
+language_knottytrainer = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_knottytrainer
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_knottytrainer }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.3 0.2 }
+}
+language_zealousbite = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_zealousbite
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_zealousbite }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.8 0.7 }
+}
+language_zealousbite = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_zealousbite
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_zealousbite }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.9 0.2 }
+}
+language_functionalnothing = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_functionalnothing
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_functionalnothing }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.5 0.4 }
+}
+language_functionalnothing = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_functionalnothing
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_functionalnothing }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.7 0.8 }
+}
+language_pricklypopulation = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_pricklypopulation
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_pricklypopulation }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.6 0.2 }
+}
+language_pricklypopulation = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_pricklypopulation
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_pricklypopulation }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.4 0.2 }
+}
+language_wideeyedjuice = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_wideeyedjuice
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_wideeyedjuice }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.5 0.3 }
+}
+language_wideeyedjuice = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_wideeyedjuice
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_wideeyedjuice }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.8 0.1 }
+}
+language_agileideal = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_agileideal
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_agileideal }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.4 0.8 }
+}
+language_agileideal = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_agileideal
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_agileideal }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.3 0.7 }
+}
+language_difficultorganization = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_difficultorganization
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_difficultorganization }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.4 0.2 }
+}
+language_difficultorganization = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_difficultorganization
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_difficultorganization }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.3 0.3 }
+}
+language_noxiouspitch = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_noxiouspitch
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_noxiouspitch }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.3 0.5 }
+}
+language_noxiouspitch = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_noxiouspitch
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_noxiouspitch }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.7 0.6 }
+}
+language_enlighteneduncle = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_enlighteneduncle
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_enlighteneduncle }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.4 0.3 }
+}
+language_enlighteneduncle = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_enlighteneduncle
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_enlighteneduncle }
+			multiply = 10
+		}
+	}
+	color = { 0.9 0.6 0.2 }
+}
+language_upbeatsalad = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_upbeatsalad
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_upbeatsalad }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.7 0.3 }
+}
+language_upbeatsalad = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_upbeatsalad
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_upbeatsalad }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.8 0.4 }
+}
+language_educatednight = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_educatednight
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_educatednight }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.5 0.8 }
+}
+language_educatednight = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_educatednight
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_educatednight }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.8 0.9 }
+}
+language_studioussound = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_studioussound
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_studioussound }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.5 0.2 }
+}
+language_studioussound = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_studioussound
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_studioussound }
+			multiply = 10
+		}
+	}
+	color = { 0.8 0.4 0.6 }
+}
+language_excitableinfluence = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_excitableinfluence
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_excitableinfluence }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.2 0.9 }
+}
+language_excitableinfluence = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_excitableinfluence
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_excitableinfluence }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.7 0.2 }
+}
+language_educatedbed = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_educatedbed
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_educatedbed }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.6 0.4 }
+}
+language_educatedbed = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_educatedbed
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_educatedbed }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.8 0.6 }
+}
+language_embellishedcloud = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_embellishedcloud
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_embellishedcloud }
+			multiply = 10
+		}
+	}
+	color = { 0.1 0.8 0.1 }
+}
+language_embellishedcloud = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_embellishedcloud
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_embellishedcloud }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.3 0.8 }
+}
+language_viciouspoem = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_viciouspoem
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_viciouspoem }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.6 0.1 }
+}
+language_viciouspoem = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_viciouspoem
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_viciouspoem }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.8 0.6 }
+}
+language_selfrelianttwist = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_selfrelianttwist
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_selfrelianttwist }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.1 0.3 }
+}
+language_selfrelianttwist = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_selfrelianttwist
+		}	}	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_selfrelianttwist }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.3 0.2 }
+}

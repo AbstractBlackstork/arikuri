@@ -1,0 +1,10273 @@
+﻿
+#b_R244G204B166
+1 = {
+  winter_severity_bias = 0.2
+}
+#b_R226G130B228
+2 = {
+  winter_severity_bias = 0.1
+}
+#b_R17G145B229
+3 = {
+  winter_severity_bias = 0.2
+}
+#b_R158G149B213
+4 = {
+  winter_severity_bias = 0.1
+}
+#b_R39G19B218
+5 = {
+  winter_severity_bias = 0.1
+}
+#b_R80G141B189
+6 = {
+  winter_severity_bias = 0.1
+}
+#b_R60G34B109
+7 = {
+  winter_severity_bias = 0.1
+}
+#b_R158G19B219
+8 = {
+  winter_severity_bias = 0.1
+}
+#b_R228G7B61
+9 = {
+  winter_severity_bias = 0.2
+}
+#b_R230G168B252
+10 = {
+  winter_severity_bias = 0.1
+}
+#b_R197G154B85
+11 = {
+  winter_severity_bias = 0.1
+}
+#b_R209G83B88
+12 = {
+  winter_severity_bias = 0.2
+}
+#b_R177G220B73
+13 = {
+  winter_severity_bias = 0.2
+}
+#b_R171G188B163
+14 = {
+  winter_severity_bias = 0.2
+}
+#b_R50G58B119
+15 = {
+  winter_severity_bias = 0.2
+}
+#b_R189G98B93
+16 = {
+  winter_severity_bias = 0.1
+}
+#b_R233G171B43
+17 = {
+  winter_severity_bias = 0.1
+}
+#b_R48G123B96
+18 = {
+  winter_severity_bias = 0.1
+}
+#b_R186G212B235
+19 = {
+  winter_severity_bias = 0.1
+}
+#b_R123G196B2
+20 = {
+  winter_severity_bias = 0.1
+}
+#b_R153G226B29
+21 = {
+  winter_severity_bias = 0.1
+}
+#b_R123G236B106
+22 = {
+  winter_severity_bias = 0.1
+}
+#b_R143G232B39
+23 = {
+  winter_severity_bias = 0.2
+}
+#b_R73G155B191
+24 = {
+  winter_severity_bias = 0.1
+}
+#b_R49G77B131
+25 = {
+  winter_severity_bias = 0.1
+}
+#b_R140G6B81
+26 = {
+  winter_severity_bias = 0.1
+}
+#b_R28G110B213
+27 = {
+  winter_severity_bias = 0.1
+}
+#b_R32G157B166
+28 = {
+  winter_severity_bias = 0.1
+}
+#b_R248G8B86
+29 = {
+  winter_severity_bias = 0.1
+}
+#b_R205G37B107
+30 = {
+  winter_severity_bias = 0.1
+}
+#b_R222G201B108
+31 = {
+  winter_severity_bias = 0.1
+}
+#b_R110G217B100
+32 = {
+  winter_severity_bias = 0.1
+}
+#b_R63G29B51
+33 = {
+  winter_severity_bias = 0.1
+}
+#b_R147G203B168
+34 = {
+  winter_severity_bias = 0.1
+}
+#b_R175G65B115
+35 = {
+  winter_severity_bias = 0.2
+}
+#b_R47G41B46
+36 = {
+  winter_severity_bias = 0.1
+}
+#b_R14G143B254
+37 = {
+  winter_severity_bias = 0.2
+}
+#b_R37G59B218
+38 = {
+  winter_severity_bias = 0.1
+}
+#b_R204G119B115
+39 = {
+  winter_severity_bias = 0.2
+}
+#b_R90G131B186
+40 = {
+  winter_severity_bias = 0.1
+}
+#b_R73G16B78
+41 = {
+  winter_severity_bias = 0.1
+}
+#b_R17G127B101
+42 = {
+  winter_severity_bias = 0.1
+}
+#b_R171G104B52
+43 = {
+  winter_severity_bias = 0.1
+}
+#b_R40G163B223
+44 = {
+  winter_severity_bias = 0.2
+}
+#b_R174G103B172
+45 = {
+  winter_severity_bias = 0.1
+}
+#b_R229G100B90
+46 = {
+  winter_severity_bias = 0.1
+}
+#b_R0G184B26
+47 = {
+  winter_severity_bias = 0.1
+}
+#b_R73G127B159
+48 = {
+  winter_severity_bias = 0.2
+}
+#b_R6G108B65
+49 = {
+  winter_severity_bias = 0.2
+}
+#b_R63G134B154
+50 = {
+  winter_severity_bias = 0.1
+}
+#b_R176G37B16
+51 = {
+  winter_severity_bias = 0.2
+}
+#b_R50G118B20
+52 = {
+  winter_severity_bias = 0.2
+}
+#b_R131G218B118
+53 = {
+  winter_severity_bias = 0.1
+}
+#b_R78G0B114
+54 = {
+  winter_severity_bias = 0.1
+}
+#b_R95G0B76
+55 = {
+  winter_severity_bias = 0.2
+}
+#b_R174G95B18
+56 = {
+  winter_severity_bias = 0.1
+}
+#b_R212G244B254
+57 = {
+  winter_severity_bias = 0.2
+}
+#b_R157G241B28
+58 = {
+  winter_severity_bias = 0.1
+}
+#b_R248G138B60
+59 = {
+  winter_severity_bias = 0.1
+}
+#b_R179G39B199
+60 = {
+  winter_severity_bias = 0.2
+}
+#b_R1G42B28
+61 = {
+  winter_severity_bias = 0.1
+}
+#b_R213G95B19
+62 = {
+  winter_severity_bias = 0.1
+}
+#b_R94G205B216
+63 = {
+  winter_severity_bias = 0.1
+}
+#b_R56G194B65
+64 = {
+  winter_severity_bias = 0.1
+}
+#b_R250G62B206
+65 = {
+  winter_severity_bias = 0.2
+}
+#b_R3G222B82
+66 = {
+  winter_severity_bias = 0.2
+}
+#b_R0G72B34
+67 = {
+  winter_severity_bias = 0.1
+}
+#b_R193G4B45
+68 = {
+  winter_severity_bias = 0.1
+}
+#b_R125G250B109
+69 = {
+  winter_severity_bias = 0.2
+}
+#b_R79G115B31
+70 = {
+  winter_severity_bias = 0.1
+}
+#b_R207G241B233
+71 = {
+  winter_severity_bias = 0.1
+}
+#b_R41G251B10
+72 = {
+  winter_severity_bias = 0.2
+}
+#b_R242G121B27
+73 = {
+  winter_severity_bias = 0.2
+}
+#b_R231G111B59
+74 = {
+  winter_severity_bias = 0.2
+}
+#b_R157G89B221
+75 = {
+  winter_severity_bias = 0.1
+}
+#b_R96G81B106
+76 = {
+  winter_severity_bias = 0.2
+}
+#b_R203G137B84
+77 = {
+  winter_severity_bias = 0.2
+}
+#b_R4G85B31
+78 = {
+  winter_severity_bias = 0.2
+}
+#b_R172G165B210
+79 = {
+  winter_severity_bias = 0.1
+}
+#b_R217G148B185
+80 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G66B12
+81 = {
+  winter_severity_bias = 0.1
+}
+#b_R55G253B180
+82 = {
+  winter_severity_bias = 0.2
+}
+#b_R201G112B209
+83 = {
+  winter_severity_bias = 0.1
+}
+#b_R153G156B220
+84 = {
+  winter_severity_bias = 0.1
+}
+#b_R150G7B254
+85 = {
+  winter_severity_bias = 0.2
+}
+#b_R175G242B172
+86 = {
+  winter_severity_bias = 0.1
+}
+#b_R221G131B30
+87 = {
+  winter_severity_bias = 0.1
+}
+#b_R67G27B196
+88 = {
+  winter_severity_bias = 0.1
+}
+#b_R193G6B102
+89 = {
+  winter_severity_bias = 0.1
+}
+#b_R104G117B56
+90 = {
+  winter_severity_bias = 0.1
+}
+#b_R124G28B186
+91 = {
+  winter_severity_bias = 0.2
+}
+#b_R51G174B230
+92 = {
+  winter_severity_bias = 0.1
+}
+#b_R122G168B46
+93 = {
+  winter_severity_bias = 0.2
+}
+#b_R38G164B108
+94 = {
+  winter_severity_bias = 0.2
+}
+#b_R228G170B81
+95 = {
+  winter_severity_bias = 0.1
+}
+#b_R160G139B201
+96 = {
+  winter_severity_bias = 0.2
+}
+#b_R0G130B157
+97 = {
+  winter_severity_bias = 0.2
+}
+#b_R209G24B56
+98 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G209B77
+99 = {
+  winter_severity_bias = 0.1
+}
+#b_R187G92B194
+100 = {
+  winter_severity_bias = 0.2
+}
+#b_R252G153B175
+101 = {
+  winter_severity_bias = 0.2
+}
+#b_R79G168B198
+102 = {
+  winter_severity_bias = 0.1
+}
+#b_R60G218B254
+103 = {
+  winter_severity_bias = 0.2
+}
+#b_R251G114B81
+104 = {
+  winter_severity_bias = 0.1
+}
+#b_R164G32B243
+105 = {
+  winter_severity_bias = 0.2
+}
+#b_R21G155B18
+106 = {
+  winter_severity_bias = 0.2
+}
+#b_R106G133B253
+107 = {
+  winter_severity_bias = 0.1
+}
+#b_R33G19B192
+108 = {
+  winter_severity_bias = 0.1
+}
+#b_R104G12B138
+109 = {
+  winter_severity_bias = 0.1
+}
+#b_R90G202B167
+110 = {
+  winter_severity_bias = 0.1
+}
+#b_R255G223B214
+111 = {
+  winter_severity_bias = 0.1
+}
+#b_R115G16B41
+112 = {
+  winter_severity_bias = 0.1
+}
+#b_R145G120B244
+113 = {
+  winter_severity_bias = 0.1
+}
+#b_R249G219B124
+114 = {
+  winter_severity_bias = 0.1
+}
+#b_R246G153B154
+115 = {
+  winter_severity_bias = 0.2
+}
+#b_R24G228B110
+116 = {
+  winter_severity_bias = 0.1
+}
+#b_R49G49B85
+117 = {
+  winter_severity_bias = 0.1
+}
+#b_R166G207B48
+118 = {
+  winter_severity_bias = 0.1
+}
+#b_R185G39B12
+119 = {
+  winter_severity_bias = 0.2
+}
+#b_R83G181B30
+120 = {
+  winter_severity_bias = 0.2
+}
+#b_R92G226B188
+121 = {
+  winter_severity_bias = 0.1
+}
+#b_R25G183B120
+122 = {
+  winter_severity_bias = 0.1
+}
+#b_R140G181B81
+123 = {
+  winter_severity_bias = 0.1
+}
+#b_R182G29B44
+124 = {
+  winter_severity_bias = 0.2
+}
+#b_R100G125B92
+125 = {
+  winter_severity_bias = 0.2
+}
+#b_R90G157B48
+126 = {
+  winter_severity_bias = 0.1
+}
+#b_R25G226B70
+127 = {
+  winter_severity_bias = 0.1
+}
+#b_R136G218B32
+128 = {
+  winter_severity_bias = 0.2
+}
+#b_R230G234B131
+129 = {
+  winter_severity_bias = 0.2
+}
+#b_R153G61B190
+130 = {
+  winter_severity_bias = 0.2
+}
+#b_R255G140B203
+131 = {
+  winter_severity_bias = 0.2
+}
+#b_R84G228B220
+132 = {
+  winter_severity_bias = 0.1
+}
+#b_R162G29B200
+133 = {
+  winter_severity_bias = 0.1
+}
+#b_R91G56B144
+134 = {
+  winter_severity_bias = 0.2
+}
+#b_R160G46B61
+135 = {
+  winter_severity_bias = 0.1
+}
+#b_R167G107B29
+136 = {
+  winter_severity_bias = 0.1
+}
+#b_R25G64B199
+137 = {
+  winter_severity_bias = 0.2
+}
+#b_R87G202B62
+138 = {
+  winter_severity_bias = 0.1
+}
+#b_R105G6B114
+139 = {
+  winter_severity_bias = 0.2
+}
+#b_R194G85B134
+140 = {
+  winter_severity_bias = 0.2
+}
+#b_R104G250B184
+141 = {
+  winter_severity_bias = 0.1
+}
+#b_R114G58B178
+142 = {
+  winter_severity_bias = 0.1
+}
+#b_R201G87B222
+143 = {
+  winter_severity_bias = 0.1
+}
+#b_R45G158B230
+144 = {
+  winter_severity_bias = 0.1
+}
+#b_R49G57B95
+145 = {
+  winter_severity_bias = 0.1
+}
+#b_R29G152B235
+146 = {
+  winter_severity_bias = 0.1
+}
+#b_R254G130B55
+147 = {
+  winter_severity_bias = 0.1
+}
+#b_R250G21B41
+148 = {
+  winter_severity_bias = 0.2
+}
+#b_R75G90B209
+149 = {
+  winter_severity_bias = 0.1
+}
+#b_R164G187B234
+150 = {
+  winter_severity_bias = 0.1
+}
+#b_R254G89B70
+151 = {
+  winter_severity_bias = 0.1
+}
+#b_R68G72B65
+152 = {
+  winter_severity_bias = 0.1
+}
+#b_R9G237B215
+153 = {
+  winter_severity_bias = 0.1
+}
+#b_R214G66B210
+154 = {
+  winter_severity_bias = 0.2
+}
+#b_R193G135B175
+155 = {
+  winter_severity_bias = 0.1
+}
+#b_R143G83B18
+156 = {
+  winter_severity_bias = 0.1
+}
+#b_R107G238B127
+157 = {
+  winter_severity_bias = 0.1
+}
+#b_R250G201B125
+158 = {
+  winter_severity_bias = 0.1
+}
+#b_R41G119B206
+159 = {
+  winter_severity_bias = 0.2
+}
+#b_R249G227B228
+160 = {
+  winter_severity_bias = 0.1
+}
+#b_R201G14B147
+161 = {
+  winter_severity_bias = 0.2
+}
+#b_R167G255B205
+162 = {
+  winter_severity_bias = 0.2
+}
+#b_R82G138B246
+163 = {
+  winter_severity_bias = 0.1
+}
+#b_R201G141B170
+164 = {
+  winter_severity_bias = 0.2
+}
+#b_R5G254B82
+165 = {
+  winter_severity_bias = 0.1
+}
+#b_R88G130B144
+166 = {
+  winter_severity_bias = 0.2
+}
+#b_R148G171B218
+167 = {
+  winter_severity_bias = 0.1
+}
+#b_R53G176B219
+168 = {
+  winter_severity_bias = 0.1
+}
+#b_R95G17B168
+169 = {
+  winter_severity_bias = 0.2
+}
+#b_R17G57B213
+170 = {
+  winter_severity_bias = 0.1
+}
+#b_R7G38B53
+171 = {
+  winter_severity_bias = 0.1
+}
+#b_R74G165B71
+172 = {
+  winter_severity_bias = 0.1
+}
+#b_R211G230B60
+173 = {
+  winter_severity_bias = 0.2
+}
+#b_R111G83B124
+174 = {
+  winter_severity_bias = 0.1
+}
+#b_R240G91B248
+175 = {
+  winter_severity_bias = 0.2
+}
+#b_R54G189B115
+176 = {
+  winter_severity_bias = 0.1
+}
+#b_R129G82B215
+177 = {
+  winter_severity_bias = 0.2
+}
+#b_R215G125B13
+178 = {
+  winter_severity_bias = 0.1
+}
+#b_R7G76B52
+179 = {
+  winter_severity_bias = 0.1
+}
+#b_R105G67B92
+180 = {
+  winter_severity_bias = 0.1
+}
+#b_R130G34B106
+181 = {
+  winter_severity_bias = 0.1
+}
+#b_R54G252B30
+182 = {
+  winter_severity_bias = 0.2
+}
+#b_R231G86B200
+183 = {
+  winter_severity_bias = 0.2
+}
+#b_R117G82B245
+184 = {
+  winter_severity_bias = 0.1
+}
+#b_R106G184B252
+185 = {
+  winter_severity_bias = 0.2
+}
+#b_R25G42B112
+186 = {
+  winter_severity_bias = 0.2
+}
+#b_R247G96B135
+187 = {
+  winter_severity_bias = 0.1
+}
+#b_R214G10B24
+188 = {
+  winter_severity_bias = 0.1
+}
+#b_R158G184B248
+189 = {
+  winter_severity_bias = 0.1
+}
+#b_R27G231B242
+190 = {
+  winter_severity_bias = 0.1
+}
+#b_R176G39B72
+191 = {
+  winter_severity_bias = 0.1
+}
+#b_R38G83B250
+192 = {
+  winter_severity_bias = 0.1
+}
+#b_R179G175B77
+193 = {
+  winter_severity_bias = 0.1
+}
+#b_R192G137B242
+194 = {
+  winter_severity_bias = 0.1
+}
+#b_R192G235B182
+195 = {
+  winter_severity_bias = 0.1
+}
+#b_R72G219B42
+196 = {
+  winter_severity_bias = 0.1
+}
+#b_R106G9B216
+197 = {
+  winter_severity_bias = 0.2
+}
+#b_R51G191B50
+198 = {
+  winter_severity_bias = 0.1
+}
+#b_R90G135B140
+199 = {
+  winter_severity_bias = 0.1
+}
+#b_R177G17B230
+200 = {
+  winter_severity_bias = 0.2
+}
+#b_R143G64B78
+201 = {
+  winter_severity_bias = 0.1
+}
+#b_R4G156B28
+202 = {
+  winter_severity_bias = 0.2
+}
+#b_R114G124B222
+203 = {
+  winter_severity_bias = 0.1
+}
+#b_R210G65B28
+204 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G191B226
+205 = {
+  winter_severity_bias = 0.1
+}
+#b_R109G203B98
+206 = {
+  winter_severity_bias = 0.1
+}
+#b_R222G159B194
+207 = {
+  winter_severity_bias = 0.1
+}
+#b_R148G137B245
+208 = {
+  winter_severity_bias = 0.1
+}
+#b_R255G207B183
+209 = {
+  winter_severity_bias = 0.1
+}
+#b_R165G38B143
+210 = {
+  winter_severity_bias = 0.1
+}
+#b_R160G75B161
+211 = {
+  winter_severity_bias = 0.1
+}
+#b_R162G220B156
+212 = {
+  winter_severity_bias = 0.2
+}
+#b_R255G128B36
+213 = {
+  winter_severity_bias = 0.1
+}
+#b_R36G133B178
+214 = {
+  winter_severity_bias = 0.1
+}
+#b_R210G250B235
+215 = {
+  winter_severity_bias = 0.1
+}
+#b_R34G91B37
+216 = {
+  winter_severity_bias = 0.2
+}
+#b_R178G101B47
+217 = {
+  winter_severity_bias = 0.1
+}
+#b_R248G49B201
+218 = {
+  winter_severity_bias = 0.1
+}
+#b_R197G70B226
+219 = {
+  winter_severity_bias = 0.1
+}
+#b_R111G136B141
+220 = {
+  winter_severity_bias = 0.2
+}
+#b_R158G158B17
+221 = {
+  winter_severity_bias = 0.1
+}
+#b_R160G29B22
+222 = {
+  winter_severity_bias = 0.1
+}
+#b_R116G26B40
+223 = {
+  winter_severity_bias = 0.1
+}
+#b_R139G172B182
+224 = {
+  winter_severity_bias = 0.1
+}
+#b_R158G78B51
+225 = {
+  winter_severity_bias = 0.2
+}
+#b_R140G88B130
+226 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G57B19
+227 = {
+  winter_severity_bias = 0.1
+}
+#b_R6G80B229
+228 = {
+  winter_severity_bias = 0.2
+}
+#b_R253G53B226
+229 = {
+  winter_severity_bias = 0.1
+}
+#b_R2G113B241
+230 = {
+  winter_severity_bias = 0.1
+}
+#b_R133G138B130
+231 = {
+  winter_severity_bias = 0.1
+}
+#b_R126G200B154
+232 = {
+  winter_severity_bias = 0.1
+}
+#b_R104G248B140
+233 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G84B236
+234 = {
+  winter_severity_bias = 0.1
+}
+#b_R36G165B141
+235 = {
+  winter_severity_bias = 0.2
+}
+#b_R132G255B191
+236 = {
+  winter_severity_bias = 0.2
+}
+#b_R246G196B222
+237 = {
+  winter_severity_bias = 0.2
+}
+#b_R129G37B154
+238 = {
+  winter_severity_bias = 0.2
+}
+#b_R150G255B14
+239 = {
+  winter_severity_bias = 0.1
+}
+#b_R228G20B103
+240 = {
+  winter_severity_bias = 0.1
+}
+#b_R130G39B180
+241 = {
+  winter_severity_bias = 0.1
+}
+#b_R44G230B64
+242 = {
+  winter_severity_bias = 0.1
+}
+#b_R205G60B21
+243 = {
+  winter_severity_bias = 0.1
+}
+#b_R235G137B43
+244 = {
+  winter_severity_bias = 0.1
+}
+#b_R204G51B205
+245 = {
+  winter_severity_bias = 0.1
+}
+#b_R149G119B110
+246 = {
+  winter_severity_bias = 0.1
+}
+#b_R53G191B41
+247 = {
+  winter_severity_bias = 0.1
+}
+#b_R232G190B21
+248 = {
+  winter_severity_bias = 0.2
+}
+#b_R144G235B128
+249 = {
+  winter_severity_bias = 0.2
+}
+#b_R109G4B35
+250 = {
+  winter_severity_bias = 0.1
+}
+#b_R81G105B94
+251 = {
+  winter_severity_bias = 0.1
+}
+#b_R76G128B144
+252 = {
+  winter_severity_bias = 0.1
+}
+#b_R228G165B162
+253 = {
+  winter_severity_bias = 0.1
+}
+#b_R167G238B109
+254 = {
+  winter_severity_bias = 0.1
+}
+#b_R32G142B81
+255 = {
+  winter_severity_bias = 0.1
+}
+#b_R250G66B1
+256 = {
+  winter_severity_bias = 0.2
+}
+#b_R179G27B76
+257 = {
+  winter_severity_bias = 0.1
+}
+#b_R176G146B253
+258 = {
+  winter_severity_bias = 0.1
+}
+#b_R214G142B38
+259 = {
+  winter_severity_bias = 0.1
+}
+#b_R8G86B104
+260 = {
+  winter_severity_bias = 0.2
+}
+#b_R117G97B135
+261 = {
+  winter_severity_bias = 0.1
+}
+#b_R210G27B183
+262 = {
+  winter_severity_bias = 0.2
+}
+#b_R142G20B57
+263 = {
+  winter_severity_bias = 0.2
+}
+#b_R30G183B49
+264 = {
+  winter_severity_bias = 0.1
+}
+#b_R113G164B210
+265 = {
+  winter_severity_bias = 0.1
+}
+#b_R189G237B132
+266 = {
+  winter_severity_bias = 0.2
+}
+#b_R21G185B129
+267 = {
+  winter_severity_bias = 0.2
+}
+#b_R116G10B69
+268 = {
+  winter_severity_bias = 0.2
+}
+#b_R52G247B214
+269 = {
+  winter_severity_bias = 0.2
+}
+#b_R57G8B124
+270 = {
+  winter_severity_bias = 0.1
+}
+#b_R79G40B3
+271 = {
+  winter_severity_bias = 0.1
+}
+#b_R212G141B146
+272 = {
+  winter_severity_bias = 0.2
+}
+#b_R187G13B157
+273 = {
+  winter_severity_bias = 0.1
+}
+#b_R64G152B165
+274 = {
+  winter_severity_bias = 0.1
+}
+#b_R24G248B212
+275 = {
+  winter_severity_bias = 0.1
+}
+#b_R215G60B20
+276 = {
+  winter_severity_bias = 0.2
+}
+#b_R197G66B115
+277 = {
+  winter_severity_bias = 0.1
+}
+#b_R238G209B34
+278 = {
+  winter_severity_bias = 0.1
+}
+#b_R171G33B51
+279 = {
+  winter_severity_bias = 0.1
+}
+#b_R148G92B63
+280 = {
+  winter_severity_bias = 0.1
+}
+#b_R26G94B168
+281 = {
+  winter_severity_bias = 0.1
+}
+#b_R21G172B150
+282 = {
+  winter_severity_bias = 0.2
+}
+#b_R62G219B226
+283 = {
+  winter_severity_bias = 0.1
+}
+#b_R78G60B115
+284 = {
+  winter_severity_bias = 0.1
+}
+#b_R154G189B124
+285 = {
+  winter_severity_bias = 0.2
+}
+#b_R33G226B255
+286 = {
+  winter_severity_bias = 0.1
+}
+#b_R239G234B217
+287 = {
+  winter_severity_bias = 0.1
+}
+#b_R91G189B90
+288 = {
+  winter_severity_bias = 0.1
+}
+#b_R123G95B252
+289 = {
+  winter_severity_bias = 0.2
+}
+#b_R155G20B95
+290 = {
+  winter_severity_bias = 0.1
+}
+#b_R239G40B66
+291 = {
+  winter_severity_bias = 0.1
+}
+#b_R178G163B225
+292 = {
+  winter_severity_bias = 0.2
+}
+#b_R129G212B161
+293 = {
+  winter_severity_bias = 0.1
+}
+#b_R175G5B63
+294 = {
+  winter_severity_bias = 0.1
+}
+#b_R210G217B83
+295 = {
+  winter_severity_bias = 0.1
+}
+#b_R24G98B167
+296 = {
+  winter_severity_bias = 0.1
+}
+#b_R195G208B59
+297 = {
+  winter_severity_bias = 0.1
+}
+#b_R9G137B177
+298 = {
+  winter_severity_bias = 0.1
+}
+#b_R133G138B152
+299 = {
+  winter_severity_bias = 0.1
+}
+#b_R125G104B240
+300 = {
+  winter_severity_bias = 0.1
+}
+#b_R137G21B235
+301 = {
+  winter_severity_bias = 0.2
+}
+#b_R83G213B154
+302 = {
+  winter_severity_bias = 0.2
+}
+#b_R86G174B76
+303 = {
+  winter_severity_bias = 0.1
+}
+#b_R175G74B209
+304 = {
+  winter_severity_bias = 0.1
+}
+#b_R75G210B229
+305 = {
+  winter_severity_bias = 0.2
+}
+#b_R220G248B77
+306 = {
+  winter_severity_bias = 0.2
+}
+#b_R25G232B75
+307 = {
+  winter_severity_bias = 0.1
+}
+#b_R129G68B222
+308 = {
+  winter_severity_bias = 0.1
+}
+#b_R178G85B70
+309 = {
+  winter_severity_bias = 0.1
+}
+#b_R184G24B215
+310 = {
+  winter_severity_bias = 0.1
+}
+#b_R68G92B9
+311 = {
+  winter_severity_bias = 0.1
+}
+#b_R20G174B219
+312 = {
+  winter_severity_bias = 0.1
+}
+#b_R51G37B84
+313 = {
+  winter_severity_bias = 0.1
+}
+#b_R44G250B199
+314 = {
+  winter_severity_bias = 0.1
+}
+#b_R213G62B151
+315 = {
+  winter_severity_bias = 0.1
+}
+#b_R22G231B0
+316 = {
+  winter_severity_bias = 0.1
+}
+#b_R100G11B125
+317 = {
+  winter_severity_bias = 0.1
+}
+#b_R75G58B185
+318 = {
+  winter_severity_bias = 0.1
+}
+#b_R171G130B228
+319 = {
+  winter_severity_bias = 0.1
+}
+#b_R107G200B93
+320 = {
+  winter_severity_bias = 0.2
+}
+#b_R44G153B113
+321 = {
+  winter_severity_bias = 0.1
+}
+#b_R188G135B173
+322 = {
+  winter_severity_bias = 0.1
+}
+#b_R103G253B31
+323 = {
+  winter_severity_bias = 0.2
+}
+#b_R236G136B89
+324 = {
+  winter_severity_bias = 0.1
+}
+#b_R190G202B241
+325 = {
+  winter_severity_bias = 0.1
+}
+#b_R131G11B33
+326 = {
+  winter_severity_bias = 0.1
+}
+#b_R133G31B141
+327 = {
+  winter_severity_bias = 0.2
+}
+#b_R192G172B34
+328 = {
+  winter_severity_bias = 0.1
+}
+#b_R122G183B250
+329 = {
+  winter_severity_bias = 0.1
+}
+#b_R77G168B229
+330 = {
+  winter_severity_bias = 0.2
+}
+#b_R31G88B176
+331 = {
+  winter_severity_bias = 0.2
+}
+#b_R97G205B243
+332 = {
+  winter_severity_bias = 0.1
+}
+#b_R147G178B54
+333 = {
+  winter_severity_bias = 0.2
+}
+#b_R157G243B51
+334 = {
+  winter_severity_bias = 0.1
+}
+#b_R214G140B15
+335 = {
+  winter_severity_bias = 0.1
+}
+#b_R111G56B143
+336 = {
+  winter_severity_bias = 0.2
+}
+#b_R72G248B165
+337 = {
+  winter_severity_bias = 0.2
+}
+#b_R242G162B185
+338 = {
+  winter_severity_bias = 0.1
+}
+#b_R221G73B132
+339 = {
+  winter_severity_bias = 0.1
+}
+#b_R215G208B233
+340 = {
+  winter_severity_bias = 0.1
+}
+#b_R192G179B198
+341 = {
+  winter_severity_bias = 0.2
+}
+#b_R63G40B72
+342 = {
+  winter_severity_bias = 0.1
+}
+#b_R198G109B206
+343 = {
+  winter_severity_bias = 0.1
+}
+#b_R128G7B210
+344 = {
+  winter_severity_bias = 0.2
+}
+#b_R242G27B42
+345 = {
+  winter_severity_bias = 0.1
+}
+#b_R74G83B234
+346 = {
+  winter_severity_bias = 0.2
+}
+#b_R227G131B30
+347 = {
+  winter_severity_bias = 0.2
+}
+#b_R175G11B54
+348 = {
+  winter_severity_bias = 0.1
+}
+#b_R1G66B233
+349 = {
+  winter_severity_bias = 0.1
+}
+#b_R30G171B92
+350 = {
+  winter_severity_bias = 0.2
+}
+#b_R101G14B170
+351 = {
+  winter_severity_bias = 0.1
+}
+#b_R226G168B52
+352 = {
+  winter_severity_bias = 0.1
+}
+#b_R227G121B82
+353 = {
+  winter_severity_bias = 0.1
+}
+#b_R124G213B247
+354 = {
+  winter_severity_bias = 0.2
+}
+#b_R3G154B152
+355 = {
+  winter_severity_bias = 0.1
+}
+#b_R82G33B198
+356 = {
+  winter_severity_bias = 0.2
+}
+#b_R185G138B238
+357 = {
+  winter_severity_bias = 0.1
+}
+#b_R167G48B170
+358 = {
+  winter_severity_bias = 0.1
+}
+#b_R245G222B102
+359 = {
+  winter_severity_bias = 0.2
+}
+#b_R163G124B136
+360 = {
+  winter_severity_bias = 0.1
+}
+#b_R95G128B168
+361 = {
+  winter_severity_bias = 0.2
+}
+#b_R245G21B228
+362 = {
+  winter_severity_bias = 0.1
+}
+#b_R68G211B156
+363 = {
+  winter_severity_bias = 0.1
+}
+#b_R1G236B38
+364 = {
+  winter_severity_bias = 0.1
+}
+#b_R214G208B141
+365 = {
+  winter_severity_bias = 0.2
+}
+#b_R140G97B104
+366 = {
+  winter_severity_bias = 0.1
+}
+#b_R81G24B181
+367 = {
+  winter_severity_bias = 0.1
+}
+#b_R255G15B208
+368 = {
+  winter_severity_bias = 0.2
+}
+#b_R47G169B180
+369 = {
+  winter_severity_bias = 0.1
+}
+#b_R64G76B195
+370 = {
+  winter_severity_bias = 0.1
+}
+#b_R150G185B184
+371 = {
+  winter_severity_bias = 0.1
+}
+#b_R253G199B156
+372 = {
+  winter_severity_bias = 0.1
+}
+#b_R61G50B224
+373 = {
+  winter_severity_bias = 0.1
+}
+#b_R4G107B35
+374 = {
+  winter_severity_bias = 0.1
+}
+#b_R236G69B110
+375 = {
+  winter_severity_bias = 0.1
+}
+#b_R151G75B169
+376 = {
+  winter_severity_bias = 0.1
+}
+#b_R222G17B193
+377 = {
+  winter_severity_bias = 0.1
+}
+#b_R233G180B242
+378 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G2B142
+379 = {
+  winter_severity_bias = 0.2
+}
+#b_R221G111B66
+380 = {
+  winter_severity_bias = 0.1
+}
+#b_R7G49B154
+381 = {
+  winter_severity_bias = 0.2
+}
+#b_R238G221B183
+382 = {
+  winter_severity_bias = 0.1
+}
+#b_R138G152B215
+383 = {
+  winter_severity_bias = 0.2
+}
+#b_R35G83B92
+384 = {
+  winter_severity_bias = 0.2
+}
+#b_R154G241B251
+385 = {
+  winter_severity_bias = 0.1
+}
+#b_R82G228B222
+386 = {
+  winter_severity_bias = 0.2
+}
+#b_R231G163B125
+387 = {
+  winter_severity_bias = 0.2
+}
+#b_R230G15B79
+388 = {
+  winter_severity_bias = 0.1
+}
+#b_R211G42B238
+389 = {
+  winter_severity_bias = 0.1
+}
+#b_R220G114B56
+390 = {
+  winter_severity_bias = 0.1
+}
+#b_R214G255B136
+391 = {
+  winter_severity_bias = 0.2
+}
+#b_R82G226B226
+392 = {
+  winter_severity_bias = 0.2
+}
+#b_R101G241B78
+393 = {
+  winter_severity_bias = 0.2
+}
+#b_R83G150B49
+394 = {
+  winter_severity_bias = 0.1
+}
+#b_R16G32B17
+395 = {
+  winter_severity_bias = 0.1
+}
+#b_R43G186B70
+396 = {
+  winter_severity_bias = 0.1
+}
+#b_R122G124B121
+397 = {
+  winter_severity_bias = 0.2
+}
+#b_R51G148B235
+398 = {
+  winter_severity_bias = 0.1
+}
+#b_R103G160B9
+399 = {
+  winter_severity_bias = 0.2
+}
+#b_R96G103B184
+400 = {
+  winter_severity_bias = 0.1
+}
+#b_R106G56B221
+401 = {
+  winter_severity_bias = 0.1
+}
+#b_R171G198B54
+402 = {
+  winter_severity_bias = 0.2
+}
+#b_R99G135B123
+403 = {
+  winter_severity_bias = 0.1
+}
+#b_R196G249B205
+404 = {
+  winter_severity_bias = 0.2
+}
+#b_R65G179B160
+405 = {
+  winter_severity_bias = 0.1
+}
+#b_R2G90B126
+406 = {
+  winter_severity_bias = 0.1
+}
+#b_R42G194B95
+407 = {
+  winter_severity_bias = 0.1
+}
+#b_R142G93B99
+408 = {
+  winter_severity_bias = 0.1
+}
+#b_R136G177B87
+409 = {
+  winter_severity_bias = 0.2
+}
+#b_R71G198B21
+410 = {
+  winter_severity_bias = 0.2
+}
+#b_R9G42B209
+411 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G157B160
+412 = {
+  winter_severity_bias = 0.1
+}
+#b_R62G9B218
+413 = {
+  winter_severity_bias = 0.2
+}
+#b_R43G51B174
+414 = {
+  winter_severity_bias = 0.2
+}
+#b_R158G12B13
+415 = {
+  winter_severity_bias = 0.2
+}
+#b_R158G162B54
+416 = {
+  winter_severity_bias = 0.1
+}
+#b_R49G79B106
+417 = {
+  winter_severity_bias = 0.2
+}
+#b_R215G245B199
+418 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G218B169
+419 = {
+  winter_severity_bias = 0.2
+}
+#b_R222G234B147
+420 = {
+  winter_severity_bias = 0.1
+}
+#b_R251G82B112
+421 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G192B94
+422 = {
+  winter_severity_bias = 0.1
+}
+#b_R34G97B41
+423 = {
+  winter_severity_bias = 0.2
+}
+#b_R14G133B4
+424 = {
+  winter_severity_bias = 0.1
+}
+#b_R217G13B42
+425 = {
+  winter_severity_bias = 0.1
+}
+#b_R104G131B117
+426 = {
+  winter_severity_bias = 0.1
+}
+#b_R173G72B144
+427 = {
+  winter_severity_bias = 0.1
+}
+#b_R141G248B236
+428 = {
+  winter_severity_bias = 0.1
+}
+#b_R27G1B82
+429 = {
+  winter_severity_bias = 0.2
+}
+#b_R197G122B226
+430 = {
+  winter_severity_bias = 0.1
+}
+#b_R143G75B113
+431 = {
+  winter_severity_bias = 0.1
+}
+#b_R47G201B77
+432 = {
+  winter_severity_bias = 0.1
+}
+#b_R159G49B173
+433 = {
+  winter_severity_bias = 0.1
+}
+#b_R142G91B154
+434 = {
+  winter_severity_bias = 0.2
+}
+#b_R216G114B53
+435 = {
+  winter_severity_bias = 0.1
+}
+#b_R131G17B148
+436 = {
+  winter_severity_bias = 0.1
+}
+#b_R131G228B2
+437 = {
+  winter_severity_bias = 0.2
+}
+#b_R126G193B15
+438 = {
+  winter_severity_bias = 0.1
+}
+#b_R218G47B185
+439 = {
+  winter_severity_bias = 0.1
+}
+#b_R159G176B49
+440 = {
+  winter_severity_bias = 0.2
+}
+#b_R18G145B80
+441 = {
+  winter_severity_bias = 0.1
+}
+#b_R104G178B22
+442 = {
+  winter_severity_bias = 0.2
+}
+#b_R173G141B41
+443 = {
+  winter_severity_bias = 0.1
+}
+#b_R106G144B144
+444 = {
+  winter_severity_bias = 0.1
+}
+#b_R118G185B65
+445 = {
+  winter_severity_bias = 0.1
+}
+#b_R189G42B149
+446 = {
+  winter_severity_bias = 0.1
+}
+#b_R231G221B130
+447 = {
+  winter_severity_bias = 0.1
+}
+#b_R198G250B95
+448 = {
+  winter_severity_bias = 0.1
+}
+#b_R255G9B2
+449 = {
+  winter_severity_bias = 0.2
+}
+#b_R234G216B155
+450 = {
+  winter_severity_bias = 0.2
+}
+#b_R140G178B142
+451 = {
+  winter_severity_bias = 0.1
+}
+#b_R213G187B105
+452 = {
+  winter_severity_bias = 0.2
+}
+#b_R176G118B250
+453 = {
+  winter_severity_bias = 0.2
+}
+#b_R201G164B2
+454 = {
+  winter_severity_bias = 0.1
+}
+#b_R169G198B227
+455 = {
+  winter_severity_bias = 0.1
+}
+#b_R61G99B94
+456 = {
+  winter_severity_bias = 0.1
+}
+#b_R52G214B169
+457 = {
+  winter_severity_bias = 0.2
+}
+#b_R212G207B133
+458 = {
+  winter_severity_bias = 0.1
+}
+#b_R126G117B42
+459 = {
+  winter_severity_bias = 0.2
+}
+#b_R214G231B232
+460 = {
+  winter_severity_bias = 0.1
+}
+#b_R91G252B236
+461 = {
+  winter_severity_bias = 0.1
+}
+#b_R6G238B86
+462 = {
+  winter_severity_bias = 0.1
+}
+#b_R56G124B33
+463 = {
+  winter_severity_bias = 0.2
+}
+#b_R66G226B228
+464 = {
+  winter_severity_bias = 0.2
+}
+#b_R231G214B232
+465 = {
+  winter_severity_bias = 0.1
+}
+#b_R116G102B154
+466 = {
+  winter_severity_bias = 0.1
+}
+#b_R155G22B146
+467 = {
+  winter_severity_bias = 0.1
+}
+#b_R20G115B66
+468 = {
+  winter_severity_bias = 0.1
+}
+#b_R33G158B165
+469 = {
+  winter_severity_bias = 0.2
+}
+#b_R130G220B102
+470 = {
+  winter_severity_bias = 0.1
+}
+#b_R173G207B91
+471 = {
+  winter_severity_bias = 0.2
+}
+#b_R112G115B69
+472 = {
+  winter_severity_bias = 0.1
+}
+#b_R1G211B121
+473 = {
+  winter_severity_bias = 0.1
+}
+#b_R188G152B243
+474 = {
+  winter_severity_bias = 0.2
+}
+#b_R132G51B118
+475 = {
+  winter_severity_bias = 0.1
+}
+#b_R0G146B128
+476 = {
+  winter_severity_bias = 0.1
+}
+#b_R130G103B179
+477 = {
+  winter_severity_bias = 0.1
+}
+#b_R11G66B19
+478 = {
+  winter_severity_bias = 0.1
+}
+#b_R58G146B59
+479 = {
+  winter_severity_bias = 0.2
+}
+#b_R73G75B54
+480 = {
+  winter_severity_bias = 0.2
+}
+#b_R88G156B189
+481 = {
+  winter_severity_bias = 0.1
+}
+#b_R25G115B162
+482 = {
+  winter_severity_bias = 0.1
+}
+#b_R69G254B137
+483 = {
+  winter_severity_bias = 0.2
+}
+#b_R28G223B20
+484 = {
+  winter_severity_bias = 0.1
+}
+#b_R252G174B89
+485 = {
+  winter_severity_bias = 0.2
+}
+#b_R100G19B201
+486 = {
+  winter_severity_bias = 0.1
+}
+#b_R167G132B25
+487 = {
+  winter_severity_bias = 0.1
+}
+#b_R164G76B105
+488 = {
+  winter_severity_bias = 0.1
+}
+#b_R238G54B0
+489 = {
+  winter_severity_bias = 0.1
+}
+#b_R37G28B20
+490 = {
+  winter_severity_bias = 0.2
+}
+#b_R52G164B12
+491 = {
+  winter_severity_bias = 0.2
+}
+#b_R221G107B56
+492 = {
+  winter_severity_bias = 0.2
+}
+#b_R15G47B245
+493 = {
+  winter_severity_bias = 0.1
+}
+#b_R229G78B32
+494 = {
+  winter_severity_bias = 0.2
+}
+#b_R30G17B121
+495 = {
+  winter_severity_bias = 0.2
+}
+#b_R107G117B178
+496 = {
+  winter_severity_bias = 0.2
+}
+#b_R63G70B5
+497 = {
+  winter_severity_bias = 0.1
+}
+#b_R169G246B178
+498 = {
+  winter_severity_bias = 0.2
+}
+#b_R215G167B114
+499 = {
+  winter_severity_bias = 0.1
+}
+#b_R235G56B247
+500 = {
+  winter_severity_bias = 0.2
+}
+#b_R252G53B102
+501 = {
+  winter_severity_bias = 0.1
+}
+#b_R25G165B62
+502 = {
+  winter_severity_bias = 0.1
+}
+#b_R8G187B145
+503 = {
+  winter_severity_bias = 0.1
+}
+#b_R119G151B177
+504 = {
+  winter_severity_bias = 0.1
+}
+#b_R179G15B242
+505 = {
+  winter_severity_bias = 0.1
+}
+#b_R232G235B139
+506 = {
+  winter_severity_bias = 0.1
+}
+#b_R48G103B208
+507 = {
+  winter_severity_bias = 0.1
+}
+#b_R181G212B70
+508 = {
+  winter_severity_bias = 0.1
+}
+#b_R117G164B143
+509 = {
+  winter_severity_bias = 0.1
+}
+#b_R215G17B198
+510 = {
+  winter_severity_bias = 0.2
+}
+#b_R81G99B94
+511 = {
+  winter_severity_bias = 0.1
+}
+#b_R87G159B83
+512 = {
+  winter_severity_bias = 0.1
+}
+#b_R177G215B2
+513 = {
+  winter_severity_bias = 0.1
+}
+#b_R148G242B43
+514 = {
+  winter_severity_bias = 0.1
+}
+#b_R191G237B138
+515 = {
+  winter_severity_bias = 0.1
+}
+#b_R37G131B85
+516 = {
+  winter_severity_bias = 0.2
+}
+#b_R172G4B126
+517 = {
+  winter_severity_bias = 0.1
+}
+#b_R105G192B196
+518 = {
+  winter_severity_bias = 0.1
+}
+#b_R239G239B212
+519 = {
+  winter_severity_bias = 0.1
+}
+#b_R38G164B152
+520 = {
+  winter_severity_bias = 0.1
+}
+#b_R244G11B76
+521 = {
+  winter_severity_bias = 0.1
+}
+#b_R249G237B17
+522 = {
+  winter_severity_bias = 0.1
+}
+#b_R177G4B157
+523 = {
+  winter_severity_bias = 0.2
+}
+#b_R159G47B247
+524 = {
+  winter_severity_bias = 0.1
+}
+#b_R244G85B88
+525 = {
+  winter_severity_bias = 0.1
+}
+#b_R33G255B51
+526 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G195B98
+527 = {
+  winter_severity_bias = 0.2
+}
+#b_R56G197B203
+528 = {
+  winter_severity_bias = 0.2
+}
+#b_R76G137B54
+529 = {
+  winter_severity_bias = 0.1
+}
+#b_R165G199B17
+530 = {
+  winter_severity_bias = 0.1
+}
+#b_R28G54B122
+531 = {
+  winter_severity_bias = 0.1
+}
+#b_R194G121B34
+532 = {
+  winter_severity_bias = 0.1
+}
+#b_R150G117B189
+533 = {
+  winter_severity_bias = 0.2
+}
+#b_R194G178B58
+534 = {
+  winter_severity_bias = 0.1
+}
+#b_R245G69B150
+535 = {
+  winter_severity_bias = 0.2
+}
+#b_R3G7B38
+536 = {
+  winter_severity_bias = 0.2
+}
+#b_R98G235B136
+537 = {
+  winter_severity_bias = 0.1
+}
+#b_R213G165B232
+538 = {
+  winter_severity_bias = 0.1
+}
+#b_R119G184B128
+539 = {
+  winter_severity_bias = 0.1
+}
+#b_R255G93B191
+540 = {
+  winter_severity_bias = 0.1
+}
+#b_R27G184B214
+541 = {
+  winter_severity_bias = 0.1
+}
+#b_R199G111B4
+542 = {
+  winter_severity_bias = 0.1
+}
+#b_R132G42B168
+543 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G219B182
+544 = {
+  winter_severity_bias = 0.1
+}
+#b_R22G237B232
+545 = {
+  winter_severity_bias = 0.1
+}
+#b_R109G61B103
+546 = {
+  winter_severity_bias = 0.2
+}
+#b_R246G167B80
+547 = {
+  winter_severity_bias = 0.1
+}
+#b_R49G198B251
+548 = {
+  winter_severity_bias = 0.1
+}
+#b_R109G90B182
+549 = {
+  winter_severity_bias = 0.1
+}
+#b_R236G56B75
+550 = {
+  winter_severity_bias = 0.1
+}
+#b_R193G238B100
+551 = {
+  winter_severity_bias = 0.2
+}
+#b_R126G202B221
+552 = {
+  winter_severity_bias = 0.1
+}
+#b_R80G204B128
+553 = {
+  winter_severity_bias = 0.1
+}
+#b_R207G136B86
+554 = {
+  winter_severity_bias = 0.1
+}
+#b_R62G204B76
+555 = {
+  winter_severity_bias = 0.2
+}
+#b_R151G31B212
+556 = {
+  winter_severity_bias = 0.1
+}
+#b_R214G33B202
+557 = {
+  winter_severity_bias = 0.1
+}
+#b_R91G229B144
+558 = {
+  winter_severity_bias = 0.1
+}
+#b_R84G105B194
+559 = {
+  winter_severity_bias = 0.1
+}
+#b_R98G8B18
+560 = {
+  winter_severity_bias = 0.1
+}
+#b_R61G148B65
+561 = {
+  winter_severity_bias = 0.1
+}
+#b_R32G76B253
+562 = {
+  winter_severity_bias = 0.1
+}
+#b_R155G5B228
+563 = {
+  winter_severity_bias = 0.1
+}
+#b_R217G59B75
+564 = {
+  winter_severity_bias = 0.1
+}
+#b_R78G242B88
+565 = {
+  winter_severity_bias = 0.1
+}
+#b_R199G194B94
+566 = {
+  winter_severity_bias = 0.2
+}
+#b_R191G10B199
+567 = {
+  winter_severity_bias = 0.1
+}
+#b_R143G162B240
+568 = {
+  winter_severity_bias = 0.2
+}
+#b_R218G169B115
+569 = {
+  winter_severity_bias = 0.1
+}
+#b_R121G151B230
+570 = {
+  winter_severity_bias = 0.2
+}
+#b_R61G89B251
+571 = {
+  winter_severity_bias = 0.2
+}
+#b_R251G11B186
+572 = {
+  winter_severity_bias = 0.1
+}
+#b_R202G142B86
+573 = {
+  winter_severity_bias = 0.2
+}
+#b_R70G8B112
+574 = {
+  winter_severity_bias = 0.1
+}
+#b_R232G55B52
+575 = {
+  winter_severity_bias = 0.1
+}
+#b_R114G21B141
+576 = {
+  winter_severity_bias = 0.2
+}
+#b_R87G37B137
+577 = {
+  winter_severity_bias = 0.1
+}
+#b_R97G207B41
+578 = {
+  winter_severity_bias = 0.1
+}
+#b_R48G228B145
+579 = {
+  winter_severity_bias = 0.1
+}
+#b_R171G227B172
+580 = {
+  winter_severity_bias = 0.1
+}
+#b_R110G36B140
+581 = {
+  winter_severity_bias = 0.1
+}
+#b_R248G234B113
+582 = {
+  winter_severity_bias = 0.1
+}
+#b_R135G154B48
+583 = {
+  winter_severity_bias = 0.1
+}
+#b_R222G149B77
+584 = {
+  winter_severity_bias = 0.1
+}
+#b_R25G64B179
+585 = {
+  winter_severity_bias = 0.1
+}
+#b_R2G5B51
+586 = {
+  winter_severity_bias = 0.2
+}
+#b_R92G140B125
+587 = {
+  winter_severity_bias = 0.1
+}
+#b_R185G233B107
+588 = {
+  winter_severity_bias = 0.1
+}
+#b_R157G11B0
+589 = {
+  winter_severity_bias = 0.1
+}
+#b_R90G60B224
+590 = {
+  winter_severity_bias = 0.1
+}
+#b_R177G66B71
+591 = {
+  winter_severity_bias = 0.1
+}
+#b_R156G220B117
+592 = {
+  winter_severity_bias = 0.1
+}
+#b_R235G194B64
+593 = {
+  winter_severity_bias = 0.1
+}
+#b_R97G24B10
+594 = {
+  winter_severity_bias = 0.1
+}
+#b_R14G92B30
+595 = {
+  winter_severity_bias = 0.2
+}
+#b_R200G104B210
+596 = {
+  winter_severity_bias = 0.1
+}
+#b_R136G240B197
+597 = {
+  winter_severity_bias = 0.1
+}
+#b_R225G199B172
+598 = {
+  winter_severity_bias = 0.1
+}
+#b_R174G239B127
+599 = {
+  winter_severity_bias = 0.1
+}
+#b_R217G122B225
+600 = {
+  winter_severity_bias = 0.2
+}
+#b_R200G37B85
+601 = {
+  winter_severity_bias = 0.1
+}
+#b_R191G157B53
+602 = {
+  winter_severity_bias = 0.2
+}
+#b_R4G199B46
+603 = {
+  winter_severity_bias = 0.1
+}
+#b_R132G196B41
+604 = {
+  winter_severity_bias = 0.2
+}
+#b_R214G126B7
+605 = {
+  winter_severity_bias = 0.1
+}
+#b_R242G39B181
+606 = {
+  winter_severity_bias = 0.1
+}
+#b_R254G212B68
+607 = {
+  winter_severity_bias = 0.1
+}
+#b_R117G252B154
+608 = {
+  winter_severity_bias = 0.1
+}
+#b_R243G126B74
+609 = {
+  winter_severity_bias = 0.1
+}
+#b_R232G223B119
+610 = {
+  winter_severity_bias = 0.1
+}
+#b_R216G69B206
+611 = {
+  winter_severity_bias = 0.2
+}
+#b_R200G250B70
+612 = {
+  winter_severity_bias = 0.2
+}
+#b_R222G217B3
+613 = {
+  winter_severity_bias = 0.1
+}
+#b_R134G194B117
+614 = {
+  winter_severity_bias = 0.1
+}
+#b_R113G93B179
+615 = {
+  winter_severity_bias = 0.1
+}
+#b_R70G28B5
+616 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G167B248
+617 = {
+  winter_severity_bias = 0.2
+}
+#b_R73G184B27
+618 = {
+  winter_severity_bias = 0.2
+}
+#b_R145G222B95
+619 = {
+  winter_severity_bias = 0.2
+}
+#b_R247G65B101
+620 = {
+  winter_severity_bias = 0.1
+}
+#b_R64G251B73
+621 = {
+  winter_severity_bias = 0.2
+}
+#b_R249G164B169
+622 = {
+  winter_severity_bias = 0.2
+}
+#b_R155G210B56
+623 = {
+  winter_severity_bias = 0.2
+}
+#b_R216G113B104
+624 = {
+  winter_severity_bias = 0.2
+}
+#b_R227G41B100
+625 = {
+  winter_severity_bias = 0.2
+}
+#b_R53G204B4
+626 = {
+  winter_severity_bias = 0.1
+}
+#b_R89G47B211
+627 = {
+  winter_severity_bias = 0.2
+}
+#b_R4G58B251
+628 = {
+  winter_severity_bias = 0.1
+}
+#b_R154G143B114
+629 = {
+  winter_severity_bias = 0.1
+}
+#b_R81G22B156
+630 = {
+  winter_severity_bias = 0.1
+}
+#b_R247G105B60
+631 = {
+  winter_severity_bias = 0.1
+}
+#b_R70G69B157
+632 = {
+  winter_severity_bias = 0.2
+}
+#b_R14G153B176
+633 = {
+  winter_severity_bias = 0.1
+}
+#b_R237G80B55
+634 = {
+  winter_severity_bias = 0.2
+}
+#b_R9G90B162
+635 = {
+  winter_severity_bias = 0.1
+}
+#b_R224G200B18
+636 = {
+  winter_severity_bias = 0.1
+}
+#b_R114G68B48
+637 = {
+  winter_severity_bias = 0.2
+}
+#b_R242G129B214
+638 = {
+  winter_severity_bias = 0.1
+}
+#b_R112G107B187
+639 = {
+  winter_severity_bias = 0.1
+}
+#b_R153G226B107
+640 = {
+  winter_severity_bias = 0.1
+}
+#b_R127G249B10
+641 = {
+  winter_severity_bias = 0.1
+}
+#b_R37G42B195
+642 = {
+  winter_severity_bias = 0.2
+}
+#b_R28G244B54
+643 = {
+  winter_severity_bias = 0.2
+}
+#b_R228G130B171
+644 = {
+  winter_severity_bias = 0.1
+}
+#b_R183G134B132
+645 = {
+  winter_severity_bias = 0.1
+}
+#b_R115G13B243
+646 = {
+  winter_severity_bias = 0.1
+}
+#b_R165G234B176
+647 = {
+  winter_severity_bias = 0.1
+}
+#b_R105G11B45
+648 = {
+  winter_severity_bias = 0.1
+}
+#b_R165G235B82
+649 = {
+  winter_severity_bias = 0.2
+}
+#b_R220G74B47
+650 = {
+  winter_severity_bias = 0.1
+}
+#b_R114G101B103
+651 = {
+  winter_severity_bias = 0.2
+}
+#b_R100G99B179
+652 = {
+  winter_severity_bias = 0.1
+}
+#b_R33G19B133
+653 = {
+  winter_severity_bias = 0.2
+}
+#b_R220G112B195
+654 = {
+  winter_severity_bias = 0.1
+}
+#b_R13G70B134
+655 = {
+  winter_severity_bias = 0.1
+}
+#b_R47G225B147
+656 = {
+  winter_severity_bias = 0.2
+}
+#b_R200G214B30
+657 = {
+  winter_severity_bias = 0.1
+}
+#b_R26G224B194
+658 = {
+  winter_severity_bias = 0.1
+}
+#b_R119G17B105
+659 = {
+  winter_severity_bias = 0.1
+}
+#b_R247G216B19
+660 = {
+  winter_severity_bias = 0.1
+}
+#b_R248G200B3
+661 = {
+  winter_severity_bias = 0.1
+}
+#b_R3G87B67
+662 = {
+  winter_severity_bias = 0.1
+}
+#b_R222G25B40
+663 = {
+  winter_severity_bias = 0.1
+}
+#b_R57G22B38
+664 = {
+  winter_severity_bias = 0.1
+}
+#b_R6G125B241
+665 = {
+  winter_severity_bias = 0.1
+}
+#b_R56G128B98
+666 = {
+  winter_severity_bias = 0.1
+}
+#b_R140G179B41
+667 = {
+  winter_severity_bias = 0.2
+}
+#b_R229G135B174
+668 = {
+  winter_severity_bias = 0.1
+}
+#b_R208G187B102
+669 = {
+  winter_severity_bias = 0.1
+}
+#b_R35G108B166
+670 = {
+  winter_severity_bias = 0.2
+}
+#b_R250G204B165
+671 = {
+  winter_severity_bias = 0.2
+}
+#b_R172G6B143
+672 = {
+  winter_severity_bias = 0.1
+}
+#b_R77G176B161
+673 = {
+  winter_severity_bias = 0.1
+}
+#b_R160G87B81
+674 = {
+  winter_severity_bias = 0.1
+}
+#b_R121G201B223
+675 = {
+  winter_severity_bias = 0.1
+}
+#b_R101G170B98
+676 = {
+  winter_severity_bias = 0.1
+}
+#b_R131G131B189
+677 = {
+  winter_severity_bias = 0.1
+}
+#b_R129G215B236
+678 = {
+  winter_severity_bias = 0.2
+}
+#b_R82G106B134
+679 = {
+  winter_severity_bias = 0.2
+}
+#b_R172G69B140
+680 = {
+  winter_severity_bias = 0.2
+}
+#b_R198G187B48
+681 = {
+  winter_severity_bias = 0.1
+}
+#b_R155G50B205
+682 = {
+  winter_severity_bias = 0.1
+}
+#b_R43G117B94
+683 = {
+  winter_severity_bias = 0.2
+}
+#b_R147G61B241
+684 = {
+  winter_severity_bias = 0.1
+}
+#b_R80G97B6
+685 = {
+  winter_severity_bias = 0.1
+}
+#b_R117G145B181
+686 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G118B2
+687 = {
+  winter_severity_bias = 0.1
+}
+#b_R25G120B17
+688 = {
+  winter_severity_bias = 0.1
+}
+#b_R189G109B212
+689 = {
+  winter_severity_bias = 0.1
+}
+#b_R120G124B248
+690 = {
+  winter_severity_bias = 0.1
+}
+#b_R180G133B216
+691 = {
+  winter_severity_bias = 0.1
+}
+#b_R220G248B220
+692 = {
+  winter_severity_bias = 0.1
+}
+#b_R232G178B91
+693 = {
+  winter_severity_bias = 0.2
+}
+#b_R206G193B10
+694 = {
+  winter_severity_bias = 0.1
+}
+#b_R17G222B206
+695 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G5B80
+696 = {
+  winter_severity_bias = 0.2
+}
+#b_R83G106B134
+697 = {
+  winter_severity_bias = 0.1
+}
+#b_R114G9B159
+698 = {
+  winter_severity_bias = 0.1
+}
+#b_R99G185B22
+699 = {
+  winter_severity_bias = 0.1
+}
+#b_R209G145B228
+700 = {
+  winter_severity_bias = 0.1
+}
+#b_R180G206B120
+701 = {
+  winter_severity_bias = 0.1
+}
+#b_R253G131B142
+702 = {
+  winter_severity_bias = 0.2
+}
+#b_R224G172B131
+703 = {
+  winter_severity_bias = 0.1
+}
+#b_R235G191B29
+704 = {
+  winter_severity_bias = 0.1
+}
+#b_R204G60B160
+705 = {
+  winter_severity_bias = 0.1
+}
+#b_R83G91B106
+706 = {
+  winter_severity_bias = 0.1
+}
+#b_R93G10B220
+707 = {
+  winter_severity_bias = 0.1
+}
+#b_R64G115B248
+708 = {
+  winter_severity_bias = 0.2
+}
+#b_R111G51B5
+709 = {
+  winter_severity_bias = 0.1
+}
+#b_R212G85B103
+710 = {
+  winter_severity_bias = 0.1
+}
+#b_R7G148B113
+711 = {
+  winter_severity_bias = 0.1
+}
+#b_R179G3B31
+712 = {
+  winter_severity_bias = 0.1
+}
+#b_R252G87B222
+713 = {
+  winter_severity_bias = 0.1
+}
+#b_R1G214B0
+714 = {
+  winter_severity_bias = 0.1
+}
+#b_R245G72B129
+715 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G183B179
+716 = {
+  winter_severity_bias = 0.1
+}
+#b_R179G40B238
+717 = {
+  winter_severity_bias = 0.1
+}
+#b_R74G83B194
+718 = {
+  winter_severity_bias = 0.1
+}
+#b_R111G8B21
+719 = {
+  winter_severity_bias = 0.1
+}
+#b_R157G138B80
+720 = {
+  winter_severity_bias = 0.1
+}
+#b_R74G70B14
+721 = {
+  winter_severity_bias = 0.1
+}
+#b_R42G15B0
+722 = {
+  winter_severity_bias = 0.1
+}
+#b_R198G198B148
+723 = {
+  winter_severity_bias = 0.2
+}
+#b_R84G126B205
+724 = {
+  winter_severity_bias = 0.2
+}
+#b_R102G247B192
+725 = {
+  winter_severity_bias = 0.1
+}
+#b_R86G240B182
+726 = {
+  winter_severity_bias = 0.1
+}
+#b_R64G226B215
+727 = {
+  winter_severity_bias = 0.1
+}
+#b_R139G207B98
+728 = {
+  winter_severity_bias = 0.1
+}
+#b_R171G107B85
+729 = {
+  winter_severity_bias = 0.1
+}
+#b_R88G116B19
+730 = {
+  winter_severity_bias = 0.1
+}
+#b_R146G218B6
+731 = {
+  winter_severity_bias = 0.1
+}
+#b_R167G180B108
+732 = {
+  winter_severity_bias = 0.1
+}
+#b_R226G242B145
+733 = {
+  winter_severity_bias = 0.1
+}
+#b_R242G21B166
+734 = {
+  winter_severity_bias = 0.1
+}
+#b_R182G249B126
+735 = {
+  winter_severity_bias = 0.1
+}
+#b_R80G81B51
+736 = {
+  winter_severity_bias = 0.1
+}
+#b_R200G104B124
+737 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G12B3
+738 = {
+  winter_severity_bias = 0.2
+}
+#b_R167G90B144
+739 = {
+  winter_severity_bias = 0.1
+}
+#b_R168G244B224
+740 = {
+  winter_severity_bias = 0.1
+}
+#b_R162G25B55
+741 = {
+  winter_severity_bias = 0.1
+}
+#b_R111G114B44
+742 = {
+  winter_severity_bias = 0.2
+}
+#b_R54G207B203
+743 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G110B191
+744 = {
+  winter_severity_bias = 0.1
+}
+#b_R116G18B54
+745 = {
+  winter_severity_bias = 0.1
+}
+#b_R232G156B157
+746 = {
+  winter_severity_bias = 0.2
+}
+#b_R25G119B188
+747 = {
+  winter_severity_bias = 0.2
+}
+#b_R28G237B250
+748 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G146B37
+749 = {
+  winter_severity_bias = 0.1
+}
+#b_R213G214B212
+750 = {
+  winter_severity_bias = 0.1
+}
+#b_R49G224B107
+751 = {
+  winter_severity_bias = 0.1
+}
+#b_R106G119B35
+752 = {
+  winter_severity_bias = 0.1
+}
+#b_R159G190B101
+753 = {
+  winter_severity_bias = 0.2
+}
+#b_R126G211B218
+754 = {
+  winter_severity_bias = 0.2
+}
+#b_R6G135B28
+755 = {
+  winter_severity_bias = 0.1
+}
+#b_R140G130B181
+756 = {
+  winter_severity_bias = 0.2
+}
+#b_R37G113B15
+757 = {
+  winter_severity_bias = 0.2
+}
+#b_R178G61B235
+758 = {
+  winter_severity_bias = 0.2
+}
+#b_R87G58B151
+759 = {
+  winter_severity_bias = 0.1
+}
+#b_R94G125B74
+760 = {
+  winter_severity_bias = 0.1
+}
+#b_R255G164B31
+761 = {
+  winter_severity_bias = 0.1
+}
+#b_R105G79B225
+762 = {
+  winter_severity_bias = 0.1
+}
+#b_R9G251B114
+763 = {
+  winter_severity_bias = 0.1
+}
+#b_R38G47B28
+764 = {
+  winter_severity_bias = 0.1
+}
+#b_R54G153B60
+765 = {
+  winter_severity_bias = 0.1
+}
+#b_R231G32B122
+766 = {
+  winter_severity_bias = 0.2
+}
+#b_R248G20B109
+767 = {
+  winter_severity_bias = 0.1
+}
+#b_R15G34B127
+768 = {
+  winter_severity_bias = 0.1
+}
+#b_R16G94B202
+769 = {
+  winter_severity_bias = 0.2
+}
+#b_R182G145B203
+770 = {
+  winter_severity_bias = 0.2
+}
+#b_R175G11B234
+771 = {
+  winter_severity_bias = 0.1
+}
+#b_R66G200B12
+772 = {
+  winter_severity_bias = 0.2
+}
+#b_R156G166B66
+773 = {
+  winter_severity_bias = 0.1
+}
+#b_R114G250B47
+774 = {
+  winter_severity_bias = 0.2
+}
+#b_R128G156B217
+775 = {
+  winter_severity_bias = 0.2
+}
+#b_R90G254B202
+776 = {
+  winter_severity_bias = 0.1
+}
+#b_R127G29B247
+777 = {
+  winter_severity_bias = 0.1
+}
+#b_R197G5B50
+778 = {
+  winter_severity_bias = 0.1
+}
+#b_R99G150B169
+779 = {
+  winter_severity_bias = 0.2
+}
+#b_R116G222B46
+780 = {
+  winter_severity_bias = 0.1
+}
+#b_R121G104B20
+781 = {
+  winter_severity_bias = 0.2
+}
+#b_R54G212B94
+782 = {
+  winter_severity_bias = 0.1
+}
+#b_R25G236B95
+783 = {
+  winter_severity_bias = 0.1
+}
+#b_R123G83B139
+784 = {
+  winter_severity_bias = 0.1
+}
+#b_R179G99B230
+785 = {
+  winter_severity_bias = 0.1
+}
+#b_R204G117B176
+786 = {
+  winter_severity_bias = 0.1
+}
+#b_R235G38B137
+787 = {
+  winter_severity_bias = 0.1
+}
+#b_R205G72B236
+788 = {
+  winter_severity_bias = 0.2
+}
+#b_R2G26B142
+789 = {
+  winter_severity_bias = 0.1
+}
+#b_R23G79B55
+790 = {
+  winter_severity_bias = 0.2
+}
+#b_R235G230B27
+791 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G174B98
+792 = {
+  winter_severity_bias = 0.1
+}
+#b_R124G77B229
+793 = {
+  winter_severity_bias = 0.1
+}
+#b_R8G240B71
+794 = {
+  winter_severity_bias = 0.1
+}
+#b_R76G62B106
+795 = {
+  winter_severity_bias = 0.1
+}
+#b_R98G247B117
+796 = {
+  winter_severity_bias = 0.1
+}
+#b_R71G199B254
+797 = {
+  winter_severity_bias = 0.1
+}
+#b_R67G217B12
+798 = {
+  winter_severity_bias = 0.1
+}
+#b_R226G5B189
+799 = {
+  winter_severity_bias = 0.1
+}
+#b_R216G224B141
+800 = {
+  winter_severity_bias = 0.1
+}
+#b_R56G102B202
+801 = {
+  winter_severity_bias = 0.1
+}
+#b_R235G190B148
+802 = {
+  winter_severity_bias = 0.1
+}
+#b_R219G31B104
+803 = {
+  winter_severity_bias = 0.1
+}
+#b_R202G220B189
+804 = {
+  winter_severity_bias = 0.1
+}
+#b_R177G189B246
+805 = {
+  winter_severity_bias = 0.1
+}
+#b_R106G98B193
+806 = {
+  winter_severity_bias = 0.1
+}
+#b_R2G186B62
+807 = {
+  winter_severity_bias = 0.2
+}
+#b_R75G131B65
+808 = {
+  winter_severity_bias = 0.1
+}
+#b_R124G192B129
+809 = {
+  winter_severity_bias = 0.2
+}
+#b_R230G141B114
+810 = {
+  winter_severity_bias = 0.2
+}
+#b_R251G64B80
+811 = {
+  winter_severity_bias = 0.2
+}
+#b_R55G201B40
+812 = {
+  winter_severity_bias = 0.2
+}
+#b_R80G236B62
+813 = {
+  winter_severity_bias = 0.2
+}
+#b_R254G41B179
+814 = {
+  winter_severity_bias = 0.1
+}
+#b_R182G55B169
+815 = {
+  winter_severity_bias = 0.1
+}
+#b_R52G251B31
+816 = {
+  winter_severity_bias = 0.1
+}
+#b_R252G147B110
+817 = {
+  winter_severity_bias = 0.2
+}
+#b_R144G1B110
+818 = {
+  winter_severity_bias = 0.1
+}
+#b_R183G93B31
+819 = {
+  winter_severity_bias = 0.1
+}
+#b_R120G106B24
+820 = {
+  winter_severity_bias = 0.2
+}
+#b_R40G240B135
+821 = {
+  winter_severity_bias = 0.2
+}
+#b_R255G255B245
+822 = {
+  winter_severity_bias = 0.2
+}
+#b_R23G116B2
+823 = {
+  winter_severity_bias = 0.1
+}
+#b_R141G231B105
+824 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G90B145
+825 = {
+  winter_severity_bias = 0.1
+}
+#b_R210G53B182
+826 = {
+  winter_severity_bias = 0.1
+}
+#b_R69G17B48
+827 = {
+  winter_severity_bias = 0.1
+}
+#b_R226G194B39
+828 = {
+  winter_severity_bias = 0.1
+}
+#b_R246G198B108
+829 = {
+  winter_severity_bias = 0.1
+}
+#b_R29G41B110
+830 = {
+  winter_severity_bias = 0.1
+}
+#b_R94G143B105
+831 = {
+  winter_severity_bias = 0.1
+}
+#b_R160G151B46
+832 = {
+  winter_severity_bias = 0.1
+}
+#b_R132G205B161
+833 = {
+  winter_severity_bias = 0.2
+}
+#b_R245G162B192
+834 = {
+  winter_severity_bias = 0.1
+}
+#b_R199G76B209
+835 = {
+  winter_severity_bias = 0.2
+}
+#b_R176G24B82
+836 = {
+  winter_severity_bias = 0.1
+}
+#b_R105G25B13
+837 = {
+  winter_severity_bias = 0.1
+}
+#b_R41G195B30
+838 = {
+  winter_severity_bias = 0.1
+}
+#b_R62G196B111
+839 = {
+  winter_severity_bias = 0.1
+}
+#b_R8G37B101
+840 = {
+  winter_severity_bias = 0.1
+}
+#b_R103G177B187
+841 = {
+  winter_severity_bias = 0.1
+}
+#b_R219G212B115
+842 = {
+  winter_severity_bias = 0.1
+}
+#b_R13G98B186
+843 = {
+  winter_severity_bias = 0.1
+}
+#b_R226G126B44
+844 = {
+  winter_severity_bias = 0.2
+}
+#b_R180G177B217
+845 = {
+  winter_severity_bias = 0.1
+}
+#b_R131G84B240
+846 = {
+  winter_severity_bias = 0.2
+}
+#b_R20G192B176
+847 = {
+  winter_severity_bias = 0.1
+}
+#b_R206G8B108
+848 = {
+  winter_severity_bias = 0.1
+}
+#b_R166G8B84
+849 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G201B94
+850 = {
+  winter_severity_bias = 0.2
+}
+#b_R18G121B245
+851 = {
+  winter_severity_bias = 0.2
+}
+#b_R39G194B177
+852 = {
+  winter_severity_bias = 0.2
+}
+#b_R41G252B60
+853 = {
+  winter_severity_bias = 0.1
+}
+#b_R2G246B188
+854 = {
+  winter_severity_bias = 0.1
+}
+#b_R2G152B105
+855 = {
+  winter_severity_bias = 0.2
+}
+#b_R158G58B219
+856 = {
+  winter_severity_bias = 0.2
+}
+#b_R69G177B17
+857 = {
+  winter_severity_bias = 0.2
+}
+#b_R235G143B141
+858 = {
+  winter_severity_bias = 0.2
+}
+#b_R212G128B6
+859 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G19B155
+860 = {
+  winter_severity_bias = 0.2
+}
+#b_R93G107B246
+861 = {
+  winter_severity_bias = 0.1
+}
+#b_R96G111B95
+862 = {
+  winter_severity_bias = 0.2
+}
+#b_R239G32B93
+863 = {
+  winter_severity_bias = 0.1
+}
+#b_R5G18B6
+864 = {
+  winter_severity_bias = 0.1
+}
+#b_R94G35B161
+865 = {
+  winter_severity_bias = 0.2
+}
+#b_R228G211B220
+866 = {
+  winter_severity_bias = 0.1
+}
+#b_R37G143B208
+867 = {
+  winter_severity_bias = 0.1
+}
+#b_R201G190B98
+868 = {
+  winter_severity_bias = 0.2
+}
+#b_R95G194B177
+869 = {
+  winter_severity_bias = 0.2
+}
+#b_R68G194B24
+870 = {
+  winter_severity_bias = 0.2
+}
+#b_R110G22B235
+871 = {
+  winter_severity_bias = 0.1
+}
+#b_R179G81B46
+872 = {
+  winter_severity_bias = 0.1
+}
+#b_R168G57B54
+873 = {
+  winter_severity_bias = 0.2
+}
+#b_R38G53B206
+874 = {
+  winter_severity_bias = 0.1
+}
+#b_R210G230B124
+875 = {
+  winter_severity_bias = 0.1
+}
+#b_R225G162B99
+876 = {
+  winter_severity_bias = 0.1
+}
+#b_R198G114B148
+877 = {
+  winter_severity_bias = 0.1
+}
+#b_R147G177B247
+878 = {
+  winter_severity_bias = 0.1
+}
+#b_R213G168B240
+879 = {
+  winter_severity_bias = 0.2
+}
+#b_R114G77B153
+880 = {
+  winter_severity_bias = 0.2
+}
+#b_R255G208B109
+881 = {
+  winter_severity_bias = 0.2
+}
+#b_R219G10B14
+882 = {
+  winter_severity_bias = 0.2
+}
+#b_R133G112B105
+883 = {
+  winter_severity_bias = 0.2
+}
+#b_R135G20B175
+884 = {
+  winter_severity_bias = 0.1
+}
+#b_R164G49B51
+885 = {
+  winter_severity_bias = 0.2
+}
+#b_R61G80B202
+886 = {
+  winter_severity_bias = 0.1
+}
+#b_R124G136B129
+887 = {
+  winter_severity_bias = 0.1
+}
+#b_R141G110B238
+888 = {
+  winter_severity_bias = 0.2
+}
+#b_R100G230B126
+889 = {
+  winter_severity_bias = 0.2
+}
+#b_R40G9B52
+890 = {
+  winter_severity_bias = 0.2
+}
+#b_R7G85B215
+891 = {
+  winter_severity_bias = 0.1
+}
+#b_R34G50B132
+892 = {
+  winter_severity_bias = 0.2
+}
+#b_R112G75B223
+893 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G210B22
+894 = {
+  winter_severity_bias = 0.1
+}
+#b_R36G108B7
+895 = {
+  winter_severity_bias = 0.2
+}
+#b_R118G133B54
+896 = {
+  winter_severity_bias = 0.2
+}
+#b_R198G149B158
+897 = {
+  winter_severity_bias = 0.1
+}
+#b_R38G213B118
+898 = {
+  winter_severity_bias = 0.2
+}
+#b_R191G47B78
+899 = {
+  winter_severity_bias = 0.1
+}
+#b_R137G184B136
+900 = {
+  winter_severity_bias = 0.1
+}
+#b_R145G108B106
+901 = {
+  winter_severity_bias = 0.2
+}
+#b_R95G214B88
+902 = {
+  winter_severity_bias = 0.1
+}
+#b_R185G148B22
+903 = {
+  winter_severity_bias = 0.2
+}
+#b_R28G41B123
+904 = {
+  winter_severity_bias = 0.2
+}
+#b_R29G243B111
+905 = {
+  winter_severity_bias = 0.1
+}
+#b_R128G163B35
+906 = {
+  winter_severity_bias = 0.2
+}
+#b_R239G30B121
+907 = {
+  winter_severity_bias = 0.1
+}
+#b_R90G186B165
+908 = {
+  winter_severity_bias = 0.2
+}
+#b_R54G171B77
+909 = {
+  winter_severity_bias = 0.1
+}
+#b_R231G229B140
+910 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G117B74
+911 = {
+  winter_severity_bias = 0.2
+}
+#b_R49G136B242
+912 = {
+  winter_severity_bias = 0.1
+}
+#b_R248G141B210
+913 = {
+  winter_severity_bias = 0.2
+}
+#b_R20G170B140
+914 = {
+  winter_severity_bias = 0.2
+}
+#b_R224G195B204
+915 = {
+  winter_severity_bias = 0.1
+}
+#b_R20G110B135
+916 = {
+  winter_severity_bias = 0.2
+}
+#b_R134G220B36
+917 = {
+  winter_severity_bias = 0.1
+}
+#b_R71G176B113
+918 = {
+  winter_severity_bias = 0.1
+}
+#b_R127G74B104
+919 = {
+  winter_severity_bias = 0.2
+}
+#b_R82G22B6
+920 = {
+  winter_severity_bias = 0.1
+}
+#b_R69G105B186
+921 = {
+  winter_severity_bias = 0.1
+}
+#b_R225G136B57
+922 = {
+  winter_severity_bias = 0.2
+}
+#b_R83G137B32
+923 = {
+  winter_severity_bias = 0.1
+}
+#b_R71G143B70
+924 = {
+  winter_severity_bias = 0.1
+}
+#b_R72G245B229
+925 = {
+  winter_severity_bias = 0.1
+}
+#b_R107G83B117
+926 = {
+  winter_severity_bias = 0.2
+}
+#b_R110G221B134
+927 = {
+  winter_severity_bias = 0.2
+}
+#b_R88G12B186
+928 = {
+  winter_severity_bias = 0.1
+}
+#b_R99G6B36
+929 = {
+  winter_severity_bias = 0.2
+}
+#b_R6G92B63
+930 = {
+  winter_severity_bias = 0.1
+}
+#b_R90G154B186
+931 = {
+  winter_severity_bias = 0.1
+}
+#b_R102G202B99
+932 = {
+  winter_severity_bias = 0.1
+}
+#b_R94G152B143
+933 = {
+  winter_severity_bias = 0.2
+}
+#b_R254G74B151
+934 = {
+  winter_severity_bias = 0.1
+}
+#b_R253G175B23
+935 = {
+  winter_severity_bias = 0.2
+}
+#b_R44G157B3
+936 = {
+  winter_severity_bias = 0.1
+}
+#b_R133G194B187
+937 = {
+  winter_severity_bias = 0.1
+}
+#b_R95G104B233
+938 = {
+  winter_severity_bias = 0.1
+}
+#b_R183G116B163
+939 = {
+  winter_severity_bias = 0.1
+}
+#b_R56G28B242
+940 = {
+  winter_severity_bias = 0.1
+}
+#b_R181G253B147
+941 = {
+  winter_severity_bias = 0.1
+}
+#b_R48G134B170
+942 = {
+  winter_severity_bias = 0.1
+}
+#b_R46G219B255
+943 = {
+  winter_severity_bias = 0.2
+}
+#b_R49G161B57
+944 = {
+  winter_severity_bias = 0.1
+}
+#b_R185G86B138
+945 = {
+  winter_severity_bias = 0.2
+}
+#b_R166G81B99
+946 = {
+  winter_severity_bias = 0.2
+}
+#b_R183G85B81
+947 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G255B249
+948 = {
+  winter_severity_bias = 0.2
+}
+#b_R234G60B156
+949 = {
+  winter_severity_bias = 0.1
+}
+#b_R222G38B88
+950 = {
+  winter_severity_bias = 0.1
+}
+#b_R46G0B250
+951 = {
+  winter_severity_bias = 0.2
+}
+#b_R72G207B33
+952 = {
+  winter_severity_bias = 0.1
+}
+#b_R12G41B24
+953 = {
+  winter_severity_bias = 0.2
+}
+#b_R69G156B139
+954 = {
+  winter_severity_bias = 0.1
+}
+#b_R74G110B215
+955 = {
+  winter_severity_bias = 0.1
+}
+#b_R104G149B197
+956 = {
+  winter_severity_bias = 0.1
+}
+#b_R165G57B249
+957 = {
+  winter_severity_bias = 0.1
+}
+#b_R118G194B175
+958 = {
+  winter_severity_bias = 0.2
+}
+#b_R115G245B10
+959 = {
+  winter_severity_bias = 0.1
+}
+#b_R151G177B96
+960 = {
+  winter_severity_bias = 0.1
+}
+#b_R22G210B231
+961 = {
+  winter_severity_bias = 0.1
+}
+#b_R174G126B105
+962 = {
+  winter_severity_bias = 0.2
+}
+#b_R130G127B211
+963 = {
+  winter_severity_bias = 0.2
+}
+#b_R229G175B140
+964 = {
+  winter_severity_bias = 0.1
+}
+#b_R96G91B58
+965 = {
+  winter_severity_bias = 0.1
+}
+#b_R81G189B100
+966 = {
+  winter_severity_bias = 0.2
+}
+#b_R44G176B5
+967 = {
+  winter_severity_bias = 0.2
+}
+#b_R39G208B168
+968 = {
+  winter_severity_bias = 0.1
+}
+#b_R32G110B232
+969 = {
+  winter_severity_bias = 0.1
+}
+#b_R136G244B216
+970 = {
+  winter_severity_bias = 0.2
+}
+#b_R170G92B139
+971 = {
+  winter_severity_bias = 0.2
+}
+#b_R94G232B148
+972 = {
+  winter_severity_bias = 0.1
+}
+#b_R22G167B173
+973 = {
+  winter_severity_bias = 0.1
+}
+#b_R193G115B127
+974 = {
+  winter_severity_bias = 0.1
+}
+#b_R137G128B16
+975 = {
+  winter_severity_bias = 0.1
+}
+#b_R30G18B191
+976 = {
+  winter_severity_bias = 0.2
+}
+#b_R175G234B22
+977 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G180B247
+978 = {
+  winter_severity_bias = 0.1
+}
+#b_R76G45B90
+979 = {
+  winter_severity_bias = 0.2
+}
+#b_R39G108B105
+980 = {
+  winter_severity_bias = 0.1
+}
+#b_R89G252B100
+981 = {
+  winter_severity_bias = 0.1
+}
+#b_R166G48B85
+982 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G17B95
+983 = {
+  winter_severity_bias = 0.1
+}
+#b_R20G57B117
+984 = {
+  winter_severity_bias = 0.1
+}
+#b_R144G253B116
+985 = {
+  winter_severity_bias = 0.1
+}
+#b_R124G132B48
+986 = {
+  winter_severity_bias = 0.1
+}
+#b_R152G52B30
+987 = {
+  winter_severity_bias = 0.1
+}
+#b_R188G118B19
+988 = {
+  winter_severity_bias = 0.2
+}
+#b_R239G134B210
+989 = {
+  winter_severity_bias = 0.2
+}
+#b_R27G194B35
+990 = {
+  winter_severity_bias = 0.2
+}
+#b_R143G204B187
+991 = {
+  winter_severity_bias = 0.2
+}
+#b_R208G14B113
+992 = {
+  winter_severity_bias = 0.2
+}
+#b_R146G90B152
+993 = {
+  winter_severity_bias = 0.1
+}
+#b_R3G220B24
+994 = {
+  winter_severity_bias = 0.2
+}
+#b_R17G69B37
+995 = {
+  winter_severity_bias = 0.1
+}
+#b_R39G200B9
+996 = {
+  winter_severity_bias = 0.1
+}
+#b_R217G3B110
+997 = {
+  winter_severity_bias = 0.2
+}
+#b_R187G228B75
+998 = {
+  winter_severity_bias = 0.1
+}
+#b_R59G93B182
+999 = {
+  winter_severity_bias = 0.1
+}
+#b_R227G88B148
+1000 = {
+  winter_severity_bias = 0.1
+}
+#b_R209G92B154
+1001 = {
+  winter_severity_bias = 0.2
+}
+#b_R175G77B157
+1002 = {
+  winter_severity_bias = 0.1
+}
+#b_R32G11B115
+1003 = {
+  winter_severity_bias = 0.2
+}
+#b_R183G234B220
+1004 = {
+  winter_severity_bias = 0.1
+}
+#b_R46G74B131
+1005 = {
+  winter_severity_bias = 0.1
+}
+#b_R146G146B171
+1006 = {
+  winter_severity_bias = 0.1
+}
+#b_R186G146B136
+1007 = {
+  winter_severity_bias = 0.1
+}
+#b_R246G54B89
+1008 = {
+  winter_severity_bias = 0.1
+}
+#b_R239G88B140
+1009 = {
+  winter_severity_bias = 0.2
+}
+#b_R228G63B230
+1010 = {
+  winter_severity_bias = 0.1
+}
+#b_R167G69B81
+1011 = {
+  winter_severity_bias = 0.1
+}
+#b_R106G61B143
+1012 = {
+  winter_severity_bias = 0.2
+}
+#b_R32G117B250
+1013 = {
+  winter_severity_bias = 0.2
+}
+#b_R95G4B111
+1014 = {
+  winter_severity_bias = 0.2
+}
+#b_R240G207B6
+1015 = {
+  winter_severity_bias = 0.2
+}
+#b_R103G82B179
+1016 = {
+  winter_severity_bias = 0.1
+}
+#b_R199G4B87
+1017 = {
+  winter_severity_bias = 0.2
+}
+#b_R247G71B209
+1018 = {
+  winter_severity_bias = 0.1
+}
+#b_R145G176B212
+1019 = {
+  winter_severity_bias = 0.1
+}
+#b_R112G77B31
+1020 = {
+  winter_severity_bias = 0.1
+}
+#b_R193G13B7
+1021 = {
+  winter_severity_bias = 0.2
+}
+#b_R34G101B204
+1022 = {
+  winter_severity_bias = 0.2
+}
+#b_R55G213B249
+1023 = {
+  winter_severity_bias = 0.2
+}
+#b_R242G219B126
+1024 = {
+  winter_severity_bias = 0.2
+}
+#b_R10G61B95
+1025 = {
+  winter_severity_bias = 0.2
+}
+#b_R31G132B251
+1026 = {
+  winter_severity_bias = 0.2
+}
+#b_R198G255B64
+1027 = {
+  winter_severity_bias = 0.2
+}
+#b_R235G237B238
+1028 = {
+  winter_severity_bias = 0.2
+}
+#b_R171G230B92
+1029 = {
+  winter_severity_bias = 0.1
+}
+#b_R142G229B134
+1030 = {
+  winter_severity_bias = 0.2
+}
+#b_R36G98B127
+1031 = {
+  winter_severity_bias = 0.1
+}
+#b_R85G239B19
+1032 = {
+  winter_severity_bias = 0.1
+}
+#b_R195G206B244
+1033 = {
+  winter_severity_bias = 0.1
+}
+#b_R49G250B0
+1034 = {
+  winter_severity_bias = 0.2
+}
+#b_R112G239B101
+1035 = {
+  winter_severity_bias = 0.1
+}
+#b_R60G116B29
+1036 = {
+  winter_severity_bias = 0.2
+}
+#b_R177G188B170
+1037 = {
+  winter_severity_bias = 0.1
+}
+#b_R226G227B33
+1038 = {
+  winter_severity_bias = 0.1
+}
+#b_R137G84B136
+1039 = {
+  winter_severity_bias = 0.1
+}
+#b_R209G16B95
+1040 = {
+  winter_severity_bias = 0.1
+}
+#b_R56G183B101
+1041 = {
+  winter_severity_bias = 0.2
+}
+#b_R190G196B148
+1042 = {
+  winter_severity_bias = 0.1
+}
+#b_R248G53B15
+1043 = {
+  winter_severity_bias = 0.1
+}
+#b_R69G122B55
+1044 = {
+  winter_severity_bias = 0.1
+}
+#b_R211G143B244
+1045 = {
+  winter_severity_bias = 0.1
+}
+#b_R109G210B151
+1046 = {
+  winter_severity_bias = 0.2
+}
+#b_R154G130B220
+1047 = {
+  winter_severity_bias = 0.2
+}
+#b_R11G238B249
+1048 = {
+  winter_severity_bias = 0.1
+}
+#b_R116G112B222
+1049 = {
+  winter_severity_bias = 0.1
+}
+#b_R59G221B26
+1050 = {
+  winter_severity_bias = 0.2
+}
+#b_R194G104B216
+1051 = {
+  winter_severity_bias = 0.1
+}
+#b_R160G113B224
+1052 = {
+  winter_severity_bias = 0.1
+}
+#b_R22G99B255
+1053 = {
+  winter_severity_bias = 0.1
+}
+#b_R215G142B201
+1054 = {
+  winter_severity_bias = 0.1
+}
+#b_R54G22B178
+1055 = {
+  winter_severity_bias = 0.2
+}
+#b_R221G119B164
+1056 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G149B192
+1057 = {
+  winter_severity_bias = 0.2
+}
+#b_R204G195B78
+1058 = {
+  winter_severity_bias = 0.1
+}
+#b_R244G110B29
+1059 = {
+  winter_severity_bias = 0.2
+}
+#b_R236G94B112
+1060 = {
+  winter_severity_bias = 0.2
+}
+#b_R160G239B62
+1061 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G15B152
+1062 = {
+  winter_severity_bias = 0.2
+}
+#b_R54G32B43
+1063 = {
+  winter_severity_bias = 0.2
+}
+#b_R180G175B83
+1064 = {
+  winter_severity_bias = 0.1
+}
+#b_R51G191B195
+1065 = {
+  winter_severity_bias = 0.1
+}
+#b_R188G98B32
+1066 = {
+  winter_severity_bias = 0.1
+}
+#b_R60G53B100
+1067 = {
+  winter_severity_bias = 0.1
+}
+#b_R78G100B190
+1068 = {
+  winter_severity_bias = 0.1
+}
+#b_R124G169B155
+1069 = {
+  winter_severity_bias = 0.1
+}
+#b_R100G87B11
+1070 = {
+  winter_severity_bias = 0.2
+}
+#b_R192G34B242
+1071 = {
+  winter_severity_bias = 0.1
+}
+#b_R169G45B144
+1072 = {
+  winter_severity_bias = 0.1
+}
+#b_R150G151B161
+1073 = {
+  winter_severity_bias = 0.2
+}
+#b_R108G34B43
+1074 = {
+  winter_severity_bias = 0.2
+}
+#b_R87G141B181
+1075 = {
+  winter_severity_bias = 0.2
+}
+#b_R169G244B227
+1076 = {
+  winter_severity_bias = 0.1
+}
+#b_R187G227B129
+1077 = {
+  winter_severity_bias = 0.1
+}
+#b_R122G78B37
+1078 = {
+  winter_severity_bias = 0.1
+}
+#b_R70G127B134
+1079 = {
+  winter_severity_bias = 0.2
+}
+#b_R188G120B128
+1080 = {
+  winter_severity_bias = 0.1
+}
+#b_R227G109B234
+1081 = {
+  winter_severity_bias = 0.2
+}
+#b_R100G189B170
+1082 = {
+  winter_severity_bias = 0.2
+}
+#b_R32G82B7
+1083 = {
+  winter_severity_bias = 0.2
+}
+#b_R194G182B16
+1084 = {
+  winter_severity_bias = 0.2
+}
+#b_R127G197B204
+1085 = {
+  winter_severity_bias = 0.2
+}
+#b_R38G163B200
+1086 = {
+  winter_severity_bias = 0.1
+}
+#b_R73G240B2
+1087 = {
+  winter_severity_bias = 0.2
+}
+#b_R56G64B138
+1088 = {
+  winter_severity_bias = 0.2
+}
+#b_R111G30B221
+1089 = {
+  winter_severity_bias = 0.2
+}
+#b_R136G104B160
+1090 = {
+  winter_severity_bias = 0.1
+}
+#b_R190G55B92
+1091 = {
+  winter_severity_bias = 0.1
+}
+#b_R234G116B182
+1092 = {
+  winter_severity_bias = 0.1
+}
+#b_R251G135B187
+1093 = {
+  winter_severity_bias = 0.1
+}
+#b_R171G224B226
+1094 = {
+  winter_severity_bias = 0.2
+}
+#b_R216G232B122
+1095 = {
+  winter_severity_bias = 0.1
+}
+#b_R188G98B136
+1096 = {
+  winter_severity_bias = 0.2
+}
+#b_R112G106B11
+1097 = {
+  winter_severity_bias = 0.1
+}
+#b_R148G39B30
+1098 = {
+  winter_severity_bias = 0.1
+}
+#b_R119G54B111
+1099 = {
+  winter_severity_bias = 0.1
+}
+#b_R79G86B123
+1100 = {
+  winter_severity_bias = 0.1
+}
+#b_R181G151B112
+1101 = {
+  winter_severity_bias = 0.1
+}
+#b_R237G209B240
+1102 = {
+  winter_severity_bias = 0.1
+}
+#b_R202G65B178
+1103 = {
+  winter_severity_bias = 0.1
+}
+#b_R14G154B157
+1104 = {
+  winter_severity_bias = 0.1
+}
+#b_R17G35B166
+1105 = {
+  winter_severity_bias = 0.1
+}
+#b_R18G48B72
+1106 = {
+  winter_severity_bias = 0.1
+}
+#b_R195G161B12
+1107 = {
+  winter_severity_bias = 0.1
+}
+#b_R152G91B95
+1108 = {
+  winter_severity_bias = 0.1
+}
+#b_R135G182B83
+1109 = {
+  winter_severity_bias = 0.1
+}
+#b_R23G68B177
+1110 = {
+  winter_severity_bias = 0.1
+}
+#b_R186G185B227
+1111 = {
+  winter_severity_bias = 0.1
+}
+#b_R251G98B181
+1112 = {
+  winter_severity_bias = 0.1
+}
+#b_R131G169B8
+1113 = {
+  winter_severity_bias = 0.1
+}
+#b_R131G111B50
+1114 = {
+  winter_severity_bias = 0.1
+}
+#b_R13G132B128
+1115 = {
+  winter_severity_bias = 0.2
+}
+#b_R134G236B156
+1116 = {
+  winter_severity_bias = 0.2
+}
+#b_R109G235B168
+1117 = {
+  winter_severity_bias = 0.2
+}
+#b_R65G67B154
+1118 = {
+  winter_severity_bias = 0.1
+}
+#b_R26G218B184
+1119 = {
+  winter_severity_bias = 0.2
+}
+#b_R71G225B58
+1120 = {
+  winter_severity_bias = 0.1
+}
+#b_R229G8B149
+1121 = {
+  winter_severity_bias = 0.2
+}
+#b_R230G83B136
+1122 = {
+  winter_severity_bias = 0.2
+}
+#b_R219G193B175
+1123 = {
+  winter_severity_bias = 0.1
+}
+#b_R5G147B8
+1124 = {
+  winter_severity_bias = 0.1
+}
+#b_R143G238B13
+1125 = {
+  winter_severity_bias = 0.1
+}
+#b_R100G118B144
+1126 = {
+  winter_severity_bias = 0.1
+}
+#b_R36G9B31
+1127 = {
+  winter_severity_bias = 0.2
+}
+#b_R204G131B65
+1128 = {
+  winter_severity_bias = 0.2
+}
+#b_R116G149B214
+1129 = {
+  winter_severity_bias = 0.2
+}
+#b_R230G142B161
+1130 = {
+  winter_severity_bias = 0.2
+}
+#b_R230G225B203
+1131 = {
+  winter_severity_bias = 0.1
+}
+#b_R30G116B125
+1132 = {
+  winter_severity_bias = 0.2
+}
+#b_R52G14B250
+1133 = {
+  winter_severity_bias = 0.2
+}
+#b_R88G226B65
+1134 = {
+  winter_severity_bias = 0.1
+}
+#b_R49G181B140
+1135 = {
+  winter_severity_bias = 0.1
+}
+#b_R189G125B37
+1136 = {
+  winter_severity_bias = 0.1
+}
+#b_R26G195B220
+1137 = {
+  winter_severity_bias = 0.2
+}
+#b_R224G166B201
+1138 = {
+  winter_severity_bias = 0.1
+}
+#b_R112G177B229
+1139 = {
+  winter_severity_bias = 0.2
+}
+#b_R215G242B252
+1140 = {
+  winter_severity_bias = 0.2
+}
+#b_R132G183B6
+1141 = {
+  winter_severity_bias = 0.1
+}
+#b_R87G142B185
+1142 = {
+  winter_severity_bias = 0.1
+}
+#b_R81G217B154
+1143 = {
+  winter_severity_bias = 0.1
+}
+#b_R232G30B169
+1144 = {
+  winter_severity_bias = 0.2
+}
+#b_R163G13B126
+1145 = {
+  winter_severity_bias = 0.2
+}
+#b_R149G194B148
+1146 = {
+  winter_severity_bias = 0.1
+}
+#b_R191G152B13
+1147 = {
+  winter_severity_bias = 0.1
+}
+#b_R229G250B230
+1148 = {
+  winter_severity_bias = 0.2
+}
+#b_R72G7B199
+1149 = {
+  winter_severity_bias = 0.1
+}
+#b_R149G126B5
+1150 = {
+  winter_severity_bias = 0.1
+}
+#b_R237G38B248
+1151 = {
+  winter_severity_bias = 0.1
+}
+#b_R66G249B99
+1152 = {
+  winter_severity_bias = 0.2
+}
+#b_R233G126B121
+1153 = {
+  winter_severity_bias = 0.2
+}
+#b_R77G138B216
+1154 = {
+  winter_severity_bias = 0.1
+}
+#b_R242G141B148
+1155 = {
+  winter_severity_bias = 0.1
+}
+#b_R252G160B241
+1156 = {
+  winter_severity_bias = 0.1
+}
+#b_R21G28B63
+1157 = {
+  winter_severity_bias = 0.1
+}
+#b_R181G133B220
+1158 = {
+  winter_severity_bias = 0.2
+}
+#b_R215G36B201
+1159 = {
+  winter_severity_bias = 0.1
+}
+#b_R22G174B117
+1160 = {
+  winter_severity_bias = 0.1
+}
+#b_R139G3B75
+1161 = {
+  winter_severity_bias = 0.1
+}
+#b_R244G214B112
+1162 = {
+  winter_severity_bias = 0.1
+}
+#b_R231G100B28
+1163 = {
+  winter_severity_bias = 0.1
+}
+#b_R97G235B250
+1164 = {
+  winter_severity_bias = 0.2
+}
+#b_R229G163B86
+1165 = {
+  winter_severity_bias = 0.1
+}
+#b_R243G134B251
+1166 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G49B61
+1167 = {
+  winter_severity_bias = 0.1
+}
+#b_R79G61B101
+1168 = {
+  winter_severity_bias = 0.1
+}
+#b_R227G185B83
+1169 = {
+  winter_severity_bias = 0.1
+}
+#b_R81G27B214
+1170 = {
+  winter_severity_bias = 0.2
+}
+#b_R66G41B37
+1171 = {
+  winter_severity_bias = 0.1
+}
+#b_R226G24B158
+1172 = {
+  winter_severity_bias = 0.1
+}
+#b_R14G29B34
+1173 = {
+  winter_severity_bias = 0.1
+}
+#b_R198G205B217
+1174 = {
+  winter_severity_bias = 0.2
+}
+#b_R19G33B186
+1175 = {
+  winter_severity_bias = 0.1
+}
+#b_R24G145B32
+1176 = {
+  winter_severity_bias = 0.1
+}
+#b_R192G82B58
+1177 = {
+  winter_severity_bias = 0.2
+}
+#b_R192G224B242
+1178 = {
+  winter_severity_bias = 0.2
+}
+#b_R185G43B167
+1179 = {
+  winter_severity_bias = 0.1
+}
+#b_R217G107B247
+1180 = {
+  winter_severity_bias = 0.2
+}
+#b_R76G134B133
+1181 = {
+  winter_severity_bias = 0.1
+}
+#b_R30G185B45
+1182 = {
+  winter_severity_bias = 0.2
+}
+#b_R241G82B220
+1183 = {
+  winter_severity_bias = 0.1
+}
+#b_R242G205B19
+1184 = {
+  winter_severity_bias = 0.2
+}
+#b_R172G217B41
+1185 = {
+  winter_severity_bias = 0.1
+}
+#b_R147G84B81
+1186 = {
+  winter_severity_bias = 0.1
+}
+#b_R188G255B22
+1187 = {
+  winter_severity_bias = 0.1
+}
+#b_R28G64B121
+1188 = {
+  winter_severity_bias = 0.2
+}
+#b_R76G229B91
+1189 = {
+  winter_severity_bias = 0.1
+}
+#b_R173G31B159
+1190 = {
+  winter_severity_bias = 0.1
+}
+#b_R91G60B209
+1191 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G18B141
+1192 = {
+  winter_severity_bias = 0.1
+}
+#b_R104G32B156
+1193 = {
+  winter_severity_bias = 0.1
+}
+#b_R173G205B182
+1194 = {
+  winter_severity_bias = 0.1
+}
+#b_R234G255B119
+1195 = {
+  winter_severity_bias = 0.1
+}
+#b_R182G208B17
+1196 = {
+  winter_severity_bias = 0.2
+}
+#b_R16G157B135
+1197 = {
+  winter_severity_bias = 0.2
+}
+#b_R131G89B203
+1198 = {
+  winter_severity_bias = 0.1
+}
+#b_R199G136B189
+1199 = {
+  winter_severity_bias = 0.1
+}
+#b_R5G180B86
+1200 = {
+  winter_severity_bias = 0.2
+}
+#b_R200G69B10
+1201 = {
+  winter_severity_bias = 0.1
+}
+#b_R28G31B140
+1202 = {
+  winter_severity_bias = 0.1
+}
+#b_R115G183B104
+1203 = {
+  winter_severity_bias = 0.1
+}
+#b_R96G86B76
+1204 = {
+  winter_severity_bias = 0.1
+}
+#b_R184G191B73
+1205 = {
+  winter_severity_bias = 0.1
+}
+#b_R97G231B107
+1206 = {
+  winter_severity_bias = 0.1
+}
+#b_R2G177B190
+1207 = {
+  winter_severity_bias = 0.2
+}
+#b_R109G29B65
+1208 = {
+  winter_severity_bias = 0.1
+}
+#b_R59G136B206
+1209 = {
+  winter_severity_bias = 0.2
+}
+#b_R64G74B221
+1210 = {
+  winter_severity_bias = 0.2
+}
+#b_R0G23B166
+1211 = {
+  winter_severity_bias = 0.1
+}
+#b_R30G44B232
+1212 = {
+  winter_severity_bias = 0.1
+}
+#b_R77G251B12
+1213 = {
+  winter_severity_bias = 0.1
+}
+#b_R152G30B74
+1214 = {
+  winter_severity_bias = 0.2
+}
+#b_R54G105B249
+1215 = {
+  winter_severity_bias = 0.2
+}
+#b_R29G247B241
+1216 = {
+  winter_severity_bias = 0.1
+}
+#b_R67G83B127
+1217 = {
+  winter_severity_bias = 0.1
+}
+#b_R244G152B8
+1218 = {
+  winter_severity_bias = 0.2
+}
+#b_R61G67B27
+1219 = {
+  winter_severity_bias = 0.1
+}
+#b_R61G116B35
+1220 = {
+  winter_severity_bias = 0.1
+}
+#b_R207G166B51
+1221 = {
+  winter_severity_bias = 0.1
+}
+#b_R157G14B192
+1222 = {
+  winter_severity_bias = 0.2
+}
+#b_R100G65B71
+1223 = {
+  winter_severity_bias = 0.2
+}
+#b_R193G118B36
+1224 = {
+  winter_severity_bias = 0.2
+}
+#b_R101G117B157
+1225 = {
+  winter_severity_bias = 0.2
+}
+#b_R184G16B29
+1226 = {
+  winter_severity_bias = 0.1
+}
+#b_R125G108B250
+1227 = {
+  winter_severity_bias = 0.2
+}
+#b_R63G242B162
+1228 = {
+  winter_severity_bias = 0.1
+}
+#b_R203G194B179
+1229 = {
+  winter_severity_bias = 0.1
+}
+#b_R1G195B112
+1230 = {
+  winter_severity_bias = 0.2
+}
+#b_R52G152B83
+1231 = {
+  winter_severity_bias = 0.2
+}
+#b_R211G107B212
+1232 = {
+  winter_severity_bias = 0.2
+}
+#b_R38G165B154
+1233 = {
+  winter_severity_bias = 0.1
+}
+#b_R237G1B89
+1234 = {
+  winter_severity_bias = 0.1
+}
+#b_R231G146B88
+1235 = {
+  winter_severity_bias = 0.1
+}
+#b_R116G113B41
+1236 = {
+  winter_severity_bias = 0.1
+}
+#b_R62G63B234
+1237 = {
+  winter_severity_bias = 0.1
+}
+#b_R156G237B89
+1238 = {
+  winter_severity_bias = 0.1
+}
+#b_R238G144B218
+1239 = {
+  winter_severity_bias = 0.1
+}
+#b_R212G247B1
+1240 = {
+  winter_severity_bias = 0.1
+}
+#b_R142G252B240
+1241 = {
+  winter_severity_bias = 0.2
+}
+#b_R9G134B165
+1242 = {
+  winter_severity_bias = 0.1
+}
+#b_R137G127B196
+1243 = {
+  winter_severity_bias = 0.1
+}
+#b_R99G201B21
+1244 = {
+  winter_severity_bias = 0.2
+}
+#b_R72G213B64
+1245 = {
+  winter_severity_bias = 0.2
+}
+#b_R30G9B252
+1246 = {
+  winter_severity_bias = 0.2
+}
+#b_R137G114B252
+1247 = {
+  winter_severity_bias = 0.1
+}
+#b_R55G68B248
+1248 = {
+  winter_severity_bias = 0.1
+}
+#b_R76G125B194
+1249 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G169B112
+1250 = {
+  winter_severity_bias = 0.2
+}
+#b_R97G227B204
+1251 = {
+  winter_severity_bias = 0.1
+}
+#b_R125G138B152
+1252 = {
+  winter_severity_bias = 0.2
+}
+#b_R132G252B213
+1253 = {
+  winter_severity_bias = 0.1
+}
+#b_R66G94B73
+1254 = {
+  winter_severity_bias = 0.1
+}
+#b_R72G75B216
+1255 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G136B231
+1256 = {
+  winter_severity_bias = 0.1
+}
+#b_R158G172B232
+1257 = {
+  winter_severity_bias = 0.2
+}
+#b_R6G25B29
+1258 = {
+  winter_severity_bias = 0.1
+}
+#b_R67G230B129
+1259 = {
+  winter_severity_bias = 0.1
+}
+#b_R152G254B158
+1260 = {
+  winter_severity_bias = 0.1
+}
+#b_R138G165B152
+1261 = {
+  winter_severity_bias = 0.2
+}
+#b_R1G36B39
+1262 = {
+  winter_severity_bias = 0.1
+}
+#b_R136G72B56
+1263 = {
+  winter_severity_bias = 0.2
+}
+#b_R96G59B26
+1264 = {
+  winter_severity_bias = 0.1
+}
+#b_R113G217B28
+1265 = {
+  winter_severity_bias = 0.1
+}
+#b_R3G85B205
+1266 = {
+  winter_severity_bias = 0.2
+}
+#b_R87G213B130
+1267 = {
+  winter_severity_bias = 0.1
+}
+#b_R183G217B186
+1268 = {
+  winter_severity_bias = 0.2
+}
+#b_R12G134B9
+1269 = {
+  winter_severity_bias = 0.1
+}
+#b_R193G103B207
+1270 = {
+  winter_severity_bias = 0.2
+}
+#b_R18G63B155
+1271 = {
+  winter_severity_bias = 0.2
+}
+#b_R133G61B148
+1272 = {
+  winter_severity_bias = 0.1
+}
+#b_R84G87B101
+1273 = {
+  winter_severity_bias = 0.1
+}
+#b_R153G123B41
+1274 = {
+  winter_severity_bias = 0.2
+}
+#b_R14G35B216
+1275 = {
+  winter_severity_bias = 0.2
+}
+#b_R39G168B71
+1276 = {
+  winter_severity_bias = 0.1
+}
+#b_R86G219B201
+1277 = {
+  winter_severity_bias = 0.1
+}
+#b_R185G18B183
+1278 = {
+  winter_severity_bias = 0.1
+}
+#b_R246G167B59
+1279 = {
+  winter_severity_bias = 0.1
+}
+#b_R162G243B32
+1280 = {
+  winter_severity_bias = 0.1
+}
+#b_R197G49B130
+1281 = {
+  winter_severity_bias = 0.1
+}
+#b_R225G196B219
+1282 = {
+  winter_severity_bias = 0.1
+}
+#b_R164G15B175
+1283 = {
+  winter_severity_bias = 0.2
+}
+#b_R49G85B205
+1284 = {
+  winter_severity_bias = 0.1
+}
+#b_R218G117B161
+1285 = {
+  winter_severity_bias = 0.2
+}
+#b_R104G1B160
+1286 = {
+  winter_severity_bias = 0.1
+}
+#b_R41G211B78
+1287 = {
+  winter_severity_bias = 0.1
+}
+#b_R161G58B236
+1288 = {
+  winter_severity_bias = 0.1
+}
+#b_R141G215B144
+1289 = {
+  winter_severity_bias = 0.1
+}
+#b_R62G119B164
+1290 = {
+  winter_severity_bias = 0.1
+}
+#b_R111G79B254
+1291 = {
+  winter_severity_bias = 0.2
+}
+#b_R200G202B130
+1292 = {
+  winter_severity_bias = 0.1
+}
+#b_R66G69B123
+1293 = {
+  winter_severity_bias = 0.1
+}
+#b_R27G116B124
+1294 = {
+  winter_severity_bias = 0.1
+}
+#b_R209G175B210
+1295 = {
+  winter_severity_bias = 0.2
+}
+#b_R141G176B30
+1296 = {
+  winter_severity_bias = 0.1
+}
+#b_R138G2B242
+1297 = {
+  winter_severity_bias = 0.2
+}
+#b_R87G17B226
+1298 = {
+  winter_severity_bias = 0.1
+}
+#b_R246G114B107
+1299 = {
+  winter_severity_bias = 0.1
+}
+#b_R74G160B82
+1300 = {
+  winter_severity_bias = 0.2
+}
+#b_R1G12B66
+1301 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G115B103
+1302 = {
+  winter_severity_bias = 0.2
+}
+#b_R223G33B65
+1303 = {
+  winter_severity_bias = 0.1
+}
+#b_R177G81B162
+1304 = {
+  winter_severity_bias = 0.1
+}
+#b_R172G143B122
+1305 = {
+  winter_severity_bias = 0.1
+}
+#b_R149G4B167
+1306 = {
+  winter_severity_bias = 0.2
+}
+#b_R246G15B212
+1307 = {
+  winter_severity_bias = 0.1
+}
+#b_R207G25B46
+1308 = {
+  winter_severity_bias = 0.1
+}
+#b_R143G60B220
+1309 = {
+  winter_severity_bias = 0.2
+}
+#b_R235G79B241
+1310 = {
+  winter_severity_bias = 0.1
+}
+#b_R226G127B150
+1311 = {
+  winter_severity_bias = 0.2
+}
+#b_R178G86B107
+1312 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G228B86
+1313 = {
+  winter_severity_bias = 0.2
+}
+#b_R101G155B16
+1314 = {
+  winter_severity_bias = 0.1
+}
+#b_R64G35B38
+1315 = {
+  winter_severity_bias = 0.1
+}
+#b_R206G118B227
+1316 = {
+  winter_severity_bias = 0.1
+}
+#b_R134G11B211
+1317 = {
+  winter_severity_bias = 0.1
+}
+#b_R75G10B161
+1318 = {
+  winter_severity_bias = 0.1
+}
+#b_R114G196B231
+1319 = {
+  winter_severity_bias = 0.1
+}
+#b_R192G165B85
+1320 = {
+  winter_severity_bias = 0.1
+}
+#b_R88G125B254
+1321 = {
+  winter_severity_bias = 0.1
+}
+#b_R113G71B162
+1322 = {
+  winter_severity_bias = 0.1
+}
+#b_R193G236B253
+1323 = {
+  winter_severity_bias = 0.1
+}
+#b_R138G240B106
+1324 = {
+  winter_severity_bias = 0.1
+}
+#b_R121G21B14
+1325 = {
+  winter_severity_bias = 0.2
+}
+#b_R134G200B148
+1326 = {
+  winter_severity_bias = 0.2
+}
+#b_R190G12B121
+1327 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G146B144
+1328 = {
+  winter_severity_bias = 0.1
+}
+#b_R222G101B164
+1329 = {
+  winter_severity_bias = 0.2
+}
+#b_R86G228B202
+1330 = {
+  winter_severity_bias = 0.1
+}
+#b_R94G211B78
+1331 = {
+  winter_severity_bias = 0.2
+}
+#b_R141G103B179
+1332 = {
+  winter_severity_bias = 0.1
+}
+#b_R169G223B76
+1333 = {
+  winter_severity_bias = 0.2
+}
+#b_R233G112B61
+1334 = {
+  winter_severity_bias = 0.1
+}
+#b_R97G64B145
+1335 = {
+  winter_severity_bias = 0.1
+}
+#b_R249G47B88
+1336 = {
+  winter_severity_bias = 0.1
+}
+#b_R68G136B247
+1337 = {
+  winter_severity_bias = 0.2
+}
+#b_R222G219B250
+1338 = {
+  winter_severity_bias = 0.2
+}
+#b_R138G62B10
+1339 = {
+  winter_severity_bias = 0.1
+}
+#b_R147G92B85
+1340 = {
+  winter_severity_bias = 0.1
+}
+#b_R172G28B65
+1341 = {
+  winter_severity_bias = 0.1
+}
+#b_R193G16B115
+1342 = {
+  winter_severity_bias = 0.1
+}
+#b_R245G4B180
+1343 = {
+  winter_severity_bias = 0.1
+}
+#b_R152G191B97
+1344 = {
+  winter_severity_bias = 0.2
+}
+#b_R6G202B227
+1345 = {
+  winter_severity_bias = 0.1
+}
+#b_R55G166B170
+1346 = {
+  winter_severity_bias = 0.1
+}
+#b_R177G112B99
+1347 = {
+  winter_severity_bias = 0.2
+}
+#b_R200G42B35
+1348 = {
+  winter_severity_bias = 0.1
+}
+#b_R188G228B49
+1349 = {
+  winter_severity_bias = 0.1
+}
+#b_R128G112B158
+1350 = {
+  winter_severity_bias = 0.1
+}
+#b_R9G46B56
+1351 = {
+  winter_severity_bias = 0.1
+}
+#b_R252G85B81
+1352 = {
+  winter_severity_bias = 0.1
+}
+#b_R116G134B194
+1353 = {
+  winter_severity_bias = 0.2
+}
+#b_R188G2B193
+1354 = {
+  winter_severity_bias = 0.1
+}
+#b_R254G99B162
+1355 = {
+  winter_severity_bias = 0.1
+}
+#b_R137G1B97
+1356 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G51B37
+1357 = {
+  winter_severity_bias = 0.1
+}
+#b_R26G91B210
+1358 = {
+  winter_severity_bias = 0.1
+}
+#b_R182G34B77
+1359 = {
+  winter_severity_bias = 0.1
+}
+#b_R183G250B74
+1360 = {
+  winter_severity_bias = 0.1
+}
+#b_R122G240B49
+1361 = {
+  winter_severity_bias = 0.1
+}
+#b_R233G251B72
+1362 = {
+  winter_severity_bias = 0.1
+}
+#b_R196G126B168
+1363 = {
+  winter_severity_bias = 0.2
+}
+#b_R82G71B138
+1364 = {
+  winter_severity_bias = 0.1
+}
+#b_R225G112B109
+1365 = {
+  winter_severity_bias = 0.2
+}
+#b_R187G171B77
+1366 = {
+  winter_severity_bias = 0.2
+}
+#b_R124G86B222
+1367 = {
+  winter_severity_bias = 0.1
+}
+#b_R38G40B218
+1368 = {
+  winter_severity_bias = 0.1
+}
+#b_R192G35B126
+1369 = {
+  winter_severity_bias = 0.1
+}
+#b_R117G11B132
+1370 = {
+  winter_severity_bias = 0.1
+}
+#b_R189G51B12
+1371 = {
+  winter_severity_bias = 0.1
+}
+#b_R108G166B0
+1372 = {
+  winter_severity_bias = 0.1
+}
+#b_R15G79B199
+1373 = {
+  winter_severity_bias = 0.1
+}
+#b_R92G54B220
+1374 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G99B181
+1375 = {
+  winter_severity_bias = 0.2
+}
+#b_R19G62B224
+1376 = {
+  winter_severity_bias = 0.2
+}
+#b_R139G57B137
+1377 = {
+  winter_severity_bias = 0.1
+}
+#b_R83G207B196
+1378 = {
+  winter_severity_bias = 0.2
+}
+#b_R10G91B220
+1379 = {
+  winter_severity_bias = 0.1
+}
+#b_R175G160B108
+1380 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G37B11
+1381 = {
+  winter_severity_bias = 0.2
+}
+#b_R37G158B43
+1382 = {
+  winter_severity_bias = 0.1
+}
+#b_R22G124B195
+1383 = {
+  winter_severity_bias = 0.1
+}
+#b_R58G251B44
+1384 = {
+  winter_severity_bias = 0.2
+}
+#b_R169G45B50
+1385 = {
+  winter_severity_bias = 0.2
+}
+#b_R212G0B80
+1386 = {
+  winter_severity_bias = 0.1
+}
+#b_R234G206B200
+1387 = {
+  winter_severity_bias = 0.2
+}
+#b_R69G205B20
+1388 = {
+  winter_severity_bias = 0.1
+}
+#b_R68G115B188
+1389 = {
+  winter_severity_bias = 0.1
+}
+#b_R63G39B249
+1390 = {
+  winter_severity_bias = 0.2
+}
+#b_R252G164B123
+1391 = {
+  winter_severity_bias = 0.1
+}
+#b_R165G195B225
+1392 = {
+  winter_severity_bias = 0.1
+}
+#b_R227G54B40
+1393 = {
+  winter_severity_bias = 0.1
+}
+#b_R16G139B4
+1394 = {
+  winter_severity_bias = 0.1
+}
+#b_R217G249B61
+1395 = {
+  winter_severity_bias = 0.1
+}
+#b_R179G37B138
+1396 = {
+  winter_severity_bias = 0.2
+}
+#b_R193G139B73
+1397 = {
+  winter_severity_bias = 0.2
+}
+#b_R207G49B215
+1398 = {
+  winter_severity_bias = 0.1
+}
+#b_R181G136B137
+1399 = {
+  winter_severity_bias = 0.1
+}
+#b_R151G75B176
+1400 = {
+  winter_severity_bias = 0.2
+}
+#b_R250G93B119
+1401 = {
+  winter_severity_bias = 0.1
+}
+#b_R153G63B42
+1402 = {
+  winter_severity_bias = 0.1
+}
+#b_R218G184B184
+1403 = {
+  winter_severity_bias = 0.1
+}
+#b_R84G43B140
+1404 = {
+  winter_severity_bias = 0.1
+}
+#b_R138G117B245
+1405 = {
+  winter_severity_bias = 0.1
+}
+#b_R187G161B80
+1406 = {
+  winter_severity_bias = 0.1
+}
+#b_R35G133B85
+1407 = {
+  winter_severity_bias = 0.1
+}
+#b_R98G25B211
+1408 = {
+  winter_severity_bias = 0.1
+}
+#b_R37G215B50
+1409 = {
+  winter_severity_bias = 0.1
+}
+#b_R238G166B173
+1410 = {
+  winter_severity_bias = 0.1
+}
+#b_R37G140B187
+1411 = {
+  winter_severity_bias = 0.1
+}
+#b_R169G210B42
+1412 = {
+  winter_severity_bias = 0.2
+}
+#b_R247G19B107
+1413 = {
+  winter_severity_bias = 0.1
+}
+#b_R105G232B235
+1414 = {
+  winter_severity_bias = 0.1
+}
+#b_R218G24B79
+1415 = {
+  winter_severity_bias = 0.1
+}
+#b_R148G134B3
+1416 = {
+  winter_severity_bias = 0.1
+}
+#b_R181G147B79
+1417 = {
+  winter_severity_bias = 0.1
+}
+#b_R113G214B34
+1418 = {
+  winter_severity_bias = 0.1
+}
+#b_R38G134B73
+1419 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G21B217
+1420 = {
+  winter_severity_bias = 0.1
+}
+#b_R166G160B117
+1421 = {
+  winter_severity_bias = 0.1
+}
+#b_R29G186B22
+1422 = {
+  winter_severity_bias = 0.2
+}
+#b_R108G238B231
+1423 = {
+  winter_severity_bias = 0.1
+}
+#b_R255G226B255
+1424 = {
+  winter_severity_bias = 0.2
+}
+#b_R221G196B142
+1425 = {
+  winter_severity_bias = 0.2
+}
+#b_R146G53B143
+1426 = {
+  winter_severity_bias = 0.1
+}
+#b_R78G75B1
+1427 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G88B246
+1428 = {
+  winter_severity_bias = 0.1
+}
+#b_R137G188B68
+1429 = {
+  winter_severity_bias = 0.1
+}
+#b_R5G190B84
+1430 = {
+  winter_severity_bias = 0.1
+}
+#b_R165G218B219
+1431 = {
+  winter_severity_bias = 0.2
+}
+#b_R163G49B105
+1432 = {
+  winter_severity_bias = 0.1
+}
+#b_R43G110B80
+1433 = {
+  winter_severity_bias = 0.2
+}
+#b_R114G87B7
+1434 = {
+  winter_severity_bias = 0.2
+}
+#b_R242G173B221
+1435 = {
+  winter_severity_bias = 0.2
+}
+#b_R207G252B48
+1436 = {
+  winter_severity_bias = 0.1
+}
+#b_R89G192B189
+1437 = {
+  winter_severity_bias = 0.2
+}
+#b_R150G1B105
+1438 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G150B78
+1439 = {
+  winter_severity_bias = 0.2
+}
+#b_R178G150B129
+1440 = {
+  winter_severity_bias = 0.1
+}
+#b_R159G118B211
+1441 = {
+  winter_severity_bias = 0.1
+}
+#b_R181G216B157
+1442 = {
+  winter_severity_bias = 0.1
+}
+#b_R77G204B214
+1443 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G77B137
+1444 = {
+  winter_severity_bias = 0.2
+}
+#b_R93G134B40
+1445 = {
+  winter_severity_bias = 0.1
+}
+#b_R217G207B14
+1446 = {
+  winter_severity_bias = 0.1
+}
+#b_R202G18B135
+1447 = {
+  winter_severity_bias = 0.1
+}
+#b_R183G204B123
+1448 = {
+  winter_severity_bias = 0.1
+}
+#b_R67G232B135
+1449 = {
+  winter_severity_bias = 0.2
+}
+#b_R140G214B16
+1450 = {
+  winter_severity_bias = 0.1
+}
+#b_R171G185B109
+1451 = {
+  winter_severity_bias = 0.1
+}
+#b_R140G65B131
+1452 = {
+  winter_severity_bias = 0.1
+}
+#b_R54G171B236
+1453 = {
+  winter_severity_bias = 0.1
+}
+#b_R201G203B132
+1454 = {
+  winter_severity_bias = 0.2
+}
+#b_R156G22B198
+1455 = {
+  winter_severity_bias = 0.1
+}
+#b_R182G213B123
+1456 = {
+  winter_severity_bias = 0.1
+}
+#b_R213G56B188
+1457 = {
+  winter_severity_bias = 0.2
+}
+#b_R82G163B201
+1458 = {
+  winter_severity_bias = 0.2
+}
+#b_R69G211B94
+1459 = {
+  winter_severity_bias = 0.2
+}
+#b_R106G239B127
+1460 = {
+  winter_severity_bias = 0.1
+}
+#b_R86G235B226
+1461 = {
+  winter_severity_bias = 0.1
+}
+#b_R69G75B150
+1462 = {
+  winter_severity_bias = 0.2
+}
+#b_R52G5B176
+1463 = {
+  winter_severity_bias = 0.1
+}
+#b_R80G44B143
+1464 = {
+  winter_severity_bias = 0.2
+}
+#b_R150G214B27
+1465 = {
+  winter_severity_bias = 0.1
+}
+#b_R211G138B31
+1466 = {
+  winter_severity_bias = 0.1
+}
+#b_R3G52B206
+1467 = {
+  winter_severity_bias = 0.2
+}
+#b_R151G43B32
+1468 = {
+  winter_severity_bias = 0.1
+}
+#b_R105G66B132
+1469 = {
+  winter_severity_bias = 0.1
+}
+#b_R145G210B45
+1470 = {
+  winter_severity_bias = 0.1
+}
+#b_R70G52B119
+1471 = {
+  winter_severity_bias = 0.1
+}
+#b_R34G199B71
+1472 = {
+  winter_severity_bias = 0.1
+}
+#b_R117G191B214
+1473 = {
+  winter_severity_bias = 0.2
+}
+#b_R238G70B174
+1474 = {
+  winter_severity_bias = 0.1
+}
+#b_R218G139B191
+1475 = {
+  winter_severity_bias = 0.1
+}
+#b_R91G121B55
+1476 = {
+  winter_severity_bias = 0.2
+}
+#b_R2G98B175
+1477 = {
+  winter_severity_bias = 0.2
+}
+#b_R205G168B67
+1478 = {
+  winter_severity_bias = 0.2
+}
+#b_R106G235B15
+1479 = {
+  winter_severity_bias = 0.2
+}
+#b_R174G4B90
+1480 = {
+  winter_severity_bias = 0.1
+}
+#b_R82G35B5
+1481 = {
+  winter_severity_bias = 0.2
+}
+#b_R245G61B85
+1482 = {
+  winter_severity_bias = 0.1
+}
+#b_R1G87B47
+1483 = {
+  winter_severity_bias = 0.1
+}
+#b_R145G80B82
+1484 = {
+  winter_severity_bias = 0.1
+}
+#b_R99G57B11
+1485 = {
+  winter_severity_bias = 0.2
+}
+#b_R47G39B24
+1486 = {
+  winter_severity_bias = 0.1
+}
+#b_R248G139B185
+1487 = {
+  winter_severity_bias = 0.1
+}
+#b_R173G11B63
+1488 = {
+  winter_severity_bias = 0.1
+}
+#b_R92G50B24
+1489 = {
+  winter_severity_bias = 0.2
+}
+#b_R251G56B214
+1490 = {
+  winter_severity_bias = 0.1
+}
+#b_R251G36B1
+1491 = {
+  winter_severity_bias = 0.1
+}
+#b_R58G150B246
+1492 = {
+  winter_severity_bias = 0.1
+}
+#b_R132G82B206
+1493 = {
+  winter_severity_bias = 0.2
+}
+#b_R197G227B100
+1494 = {
+  winter_severity_bias = 0.2
+}
+#b_R150G81B128
+1495 = {
+  winter_severity_bias = 0.2
+}
+#b_R197G199B244
+1496 = {
+  winter_severity_bias = 0.1
+}
+#b_R51G13B157
+1497 = {
+  winter_severity_bias = 0.1
+}
+#b_R238G168B224
+1498 = {
+  winter_severity_bias = 0.1
+}
+#b_R202G130B60
+1499 = {
+  winter_severity_bias = 0.2
+}
+#b_R201G217B16
+1500 = {
+  winter_severity_bias = 0.2
+}
+#b_R70G133B92
+1501 = {
+  winter_severity_bias = 0.1
+}
+#b_R242G252B207
+1502 = {
+  winter_severity_bias = 0.1
+}
+#b_R216G68B178
+1503 = {
+  winter_severity_bias = 0.1
+}
+#b_R253G68B156
+1504 = {
+  winter_severity_bias = 0.1
+}
+#b_R90G157B88
+1505 = {
+  winter_severity_bias = 0.1
+}
+#b_R52G176B93
+1506 = {
+  winter_severity_bias = 0.1
+}
+#b_R192G104B65
+1507 = {
+  winter_severity_bias = 0.1
+}
+#b_R35G14B208
+1508 = {
+  winter_severity_bias = 0.1
+}
+#b_R38G145B175
+1509 = {
+  winter_severity_bias = 0.1
+}
+#b_R176G100B17
+1510 = {
+  winter_severity_bias = 0.1
+}
+#b_R8G53B194
+1511 = {
+  winter_severity_bias = 0.1
+}
+#b_R58G32B73
+1512 = {
+  winter_severity_bias = 0.2
+}
+#b_R165G228B43
+1513 = {
+  winter_severity_bias = 0.1
+}
+#b_R221G162B113
+1514 = {
+  winter_severity_bias = 0.1
+}
+#b_R250G214B26
+1515 = {
+  winter_severity_bias = 0.2
+}
+#b_R212G94B89
+1516 = {
+  winter_severity_bias = 0.1
+}
+#b_R98G57B162
+1517 = {
+  winter_severity_bias = 0.1
+}
+#b_R8G149B102
+1518 = {
+  winter_severity_bias = 0.1
+}
+#b_R23G8B39
+1519 = {
+  winter_severity_bias = 0.1
+}
+#b_R188G30B67
+1520 = {
+  winter_severity_bias = 0.1
+}
+#b_R210G34B198
+1521 = {
+  winter_severity_bias = 0.1
+}
+#b_R86G220B33
+1522 = {
+  winter_severity_bias = 0.1
+}
+#b_R125G93B247
+1523 = {
+  winter_severity_bias = 0.2
+}
+#b_R64G55B114
+1524 = {
+  winter_severity_bias = 0.1
+}
+#b_R238G7B251
+1525 = {
+  winter_severity_bias = 0.1
+}
+#b_R131G225B156
+1526 = {
+  winter_severity_bias = 0.1
+}
+#b_R98G221B249
+1527 = {
+  winter_severity_bias = 0.1
+}
+#b_R186G72B192
+1528 = {
+  winter_severity_bias = 0.1
+}
+#b_R170G133B98
+1529 = {
+  winter_severity_bias = 0.2
+}
+#b_R222G1B230
+1530 = {
+  winter_severity_bias = 0.2
+}
+#b_R118G44B37
+1531 = {
+  winter_severity_bias = 0.1
+}
+#b_R112G26B106
+1532 = {
+  winter_severity_bias = 0.2
+}
+#b_R202G135B89
+1533 = {
+  winter_severity_bias = 0.1
+}
+#b_R33G190B149
+1534 = {
+  winter_severity_bias = 0.1
+}
+#b_R66G247B88
+1535 = {
+  winter_severity_bias = 0.1
+}
+#b_R251G4B187
+1536 = {
+  winter_severity_bias = 0.1
+}
+#b_R199G235B113
+1537 = {
+  winter_severity_bias = 0.1
+}
+#b_R48G111B179
+1538 = {
+  winter_severity_bias = 0.1
+}
+#b_R209G243B192
+1539 = {
+  winter_severity_bias = 0.1
+}
+#b_R108G101B33
+1540 = {
+  winter_severity_bias = 0.2
+}
+#b_R152G65B4
+1541 = {
+  winter_severity_bias = 0.2
+}
+#b_R69G44B3
+1542 = {
+  winter_severity_bias = 0.1
+}
+#b_R226G153B150
+1543 = {
+  winter_severity_bias = 0.2
+}
+#b_R45G176B186
+1544 = {
+  winter_severity_bias = 0.1
+}
+#b_R166G253B96
+1545 = {
+  winter_severity_bias = 0.2
+}
+#b_R205G78B51
+1546 = {
+  winter_severity_bias = 0.1
+}
+#b_R200G43B106
+1547 = {
+  winter_severity_bias = 0.1
+}
+#b_R203G150B243
+1548 = {
+  winter_severity_bias = 0.2
+}
+#b_R237G38B151
+1549 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G199B168
+1550 = {
+  winter_severity_bias = 0.1
+}
+#b_R16G181B17
+1551 = {
+  winter_severity_bias = 0.2
+}
+#b_R36G238B166
+1552 = {
+  winter_severity_bias = 0.2
+}
+#b_R81G42B13
+1553 = {
+  winter_severity_bias = 0.1
+}
+#b_R16G194B117
+1554 = {
+  winter_severity_bias = 0.1
+}
+#b_R194G30B37
+1555 = {
+  winter_severity_bias = 0.2
+}
+#b_R170G49B86
+1556 = {
+  winter_severity_bias = 0.1
+}
+#b_R158G94B43
+1557 = {
+  winter_severity_bias = 0.1
+}
+#b_R250G212B84
+1558 = {
+  winter_severity_bias = 0.1
+}
+#b_R149G193B83
+1559 = {
+  winter_severity_bias = 0.1
+}
+#b_R186G120B112
+1560 = {
+  winter_severity_bias = 0.1
+}
+#b_R228G130B69
+1561 = {
+  winter_severity_bias = 0.1
+}
+#b_R0G145B125
+1562 = {
+  winter_severity_bias = 0.2
+}
+#b_R172G97B51
+1563 = {
+  winter_severity_bias = 0.1
+}
+#b_R235G59B181
+1564 = {
+  winter_severity_bias = 0.2
+}
+#b_R48G51B86
+1565 = {
+  winter_severity_bias = 0.2
+}
+#b_R63G130B48
+1566 = {
+  winter_severity_bias = 0.1
+}
+#b_R252G235B10
+1567 = {
+  winter_severity_bias = 0.2
+}
+#b_R51G244B208
+1568 = {
+  winter_severity_bias = 0.2
+}
+#b_R169G191B99
+1569 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G205B246
+1570 = {
+  winter_severity_bias = 0.1
+}
+#b_R254G25B130
+1571 = {
+  winter_severity_bias = 0.2
+}
+#b_R220G133B5
+1572 = {
+  winter_severity_bias = 0.1
+}
+#b_R104G81B74
+1573 = {
+  winter_severity_bias = 0.1
+}
+#b_R181G16B114
+1574 = {
+  winter_severity_bias = 0.1
+}
+#b_R254G137B97
+1575 = {
+  winter_severity_bias = 0.2
+}
+#b_R254G240B214
+1576 = {
+  winter_severity_bias = 0.1
+}
+#b_R160G192B52
+1577 = {
+  winter_severity_bias = 0.2
+}
+#b_R99G247B105
+1578 = {
+  winter_severity_bias = 0.1
+}
+#b_R78G127B37
+1579 = {
+  winter_severity_bias = 0.1
+}
+#b_R197G2B213
+1580 = {
+  winter_severity_bias = 0.1
+}
+#b_R34G212B82
+1581 = {
+  winter_severity_bias = 0.2
+}
+#b_R147G161B167
+1582 = {
+  winter_severity_bias = 0.2
+}
+#b_R1G82B153
+1583 = {
+  winter_severity_bias = 0.1
+}
+#b_R17G41B234
+1584 = {
+  winter_severity_bias = 0.1
+}
+#b_R234G62B173
+1585 = {
+  winter_severity_bias = 0.1
+}
+#b_R214G139B221
+1586 = {
+  winter_severity_bias = 0.1
+}
+#b_R163G218B156
+1587 = {
+  winter_severity_bias = 0.2
+}
+#b_R127G10B194
+1588 = {
+  winter_severity_bias = 0.1
+}
+#b_R130G76B8
+1589 = {
+  winter_severity_bias = 0.1
+}
+#b_R173G103B196
+1590 = {
+  winter_severity_bias = 0.2
+}
+#b_R215G106B212
+1591 = {
+  winter_severity_bias = 0.1
+}
+#b_R95G4B253
+1592 = {
+  winter_severity_bias = 0.1
+}
+#b_R242G175B191
+1593 = {
+  winter_severity_bias = 0.1
+}
+#b_R75G214B161
+1594 = {
+  winter_severity_bias = 0.1
+}
+#b_R68G162B220
+1595 = {
+  winter_severity_bias = 0.2
+}
+#b_R15G143B98
+1596 = {
+  winter_severity_bias = 0.2
+}
+#b_R222G74B233
+1597 = {
+  winter_severity_bias = 0.1
+}
+#b_R252G164B28
+1598 = {
+  winter_severity_bias = 0.2
+}
+#b_R100G140B171
+1599 = {
+  winter_severity_bias = 0.1
+}
+#b_R131G237B117
+1600 = {
+  winter_severity_bias = 0.1
+}
+#b_R27G192B233
+1601 = {
+  winter_severity_bias = 0.2
+}
+#b_R237G19B82
+1602 = {
+  winter_severity_bias = 0.1
+}
+#b_R111G115B50
+1603 = {
+  winter_severity_bias = 0.1
+}
+#b_R154G16B26
+1604 = {
+  winter_severity_bias = 0.1
+}
+#b_R156G86B139
+1605 = {
+  winter_severity_bias = 0.1
+}
+#b_R239G56B16
+1606 = {
+  winter_severity_bias = 0.2
+}
+#b_R240G211B214
+1607 = {
+  winter_severity_bias = 0.1
+}
+#b_R147G99B15
+1608 = {
+  winter_severity_bias = 0.2
+}
+#b_R117G155B134
+1609 = {
+  winter_severity_bias = 0.1
+}
+#b_R15G108B95
+1610 = {
+  winter_severity_bias = 0.2
+}
+#b_R208G155B242
+1611 = {
+  winter_severity_bias = 0.1
+}
+#b_R165G53B251
+1612 = {
+  winter_severity_bias = 0.1
+}
+#b_R242G231B67
+1613 = {
+  winter_severity_bias = 0.1
+}
+#b_R64G203B128
+1614 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G166B197
+1615 = {
+  winter_severity_bias = 0.1
+}
+#b_R62G97B78
+1616 = {
+  winter_severity_bias = 0.1
+}
+#b_R85G66B26
+1617 = {
+  winter_severity_bias = 0.1
+}
+#b_R157G139B146
+1618 = {
+  winter_severity_bias = 0.2
+}
+#b_R117G102B75
+1619 = {
+  winter_severity_bias = 0.1
+}
+#b_R87G63B40
+1620 = {
+  winter_severity_bias = 0.1
+}
+#b_R53G134B15
+1621 = {
+  winter_severity_bias = 0.1
+}
+#b_R33G7B144
+1622 = {
+  winter_severity_bias = 0.2
+}
+#b_R174G86B241
+1623 = {
+  winter_severity_bias = 0.2
+}
+#b_R82G76B108
+1624 = {
+  winter_severity_bias = 0.1
+}
+#b_R76G211B53
+1625 = {
+  winter_severity_bias = 0.1
+}
+#b_R119G173B107
+1626 = {
+  winter_severity_bias = 0.2
+}
+#b_R165G132B24
+1627 = {
+  winter_severity_bias = 0.2
+}
+#b_R207G173B114
+1628 = {
+  winter_severity_bias = 0.2
+}
+#b_R41G226B39
+1629 = {
+  winter_severity_bias = 0.1
+}
+#b_R174G15B101
+1630 = {
+  winter_severity_bias = 0.1
+}
+#b_R113G89B146
+1631 = {
+  winter_severity_bias = 0.2
+}
+#b_R171G233B71
+1632 = {
+  winter_severity_bias = 0.2
+}
+#b_R97G219B216
+1633 = {
+  winter_severity_bias = 0.1
+}
+#b_R130G14B250
+1634 = {
+  winter_severity_bias = 0.2
+}
+#b_R139G161B192
+1635 = {
+  winter_severity_bias = 0.2
+}
+#b_R11G157B149
+1636 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G156B227
+1637 = {
+  winter_severity_bias = 0.1
+}
+#b_R24G238B239
+1638 = {
+  winter_severity_bias = 0.1
+}
+#b_R67G142B46
+1639 = {
+  winter_severity_bias = 0.1
+}
+#b_R68G86B75
+1640 = {
+  winter_severity_bias = 0.1
+}
+#b_R4G193B87
+1641 = {
+  winter_severity_bias = 0.2
+}
+#b_R17G146B182
+1642 = {
+  winter_severity_bias = 0.1
+}
+#b_R59G120B79
+1643 = {
+  winter_severity_bias = 0.2
+}
+#b_R249G20B218
+1644 = {
+  winter_severity_bias = 0.1
+}
+#b_R239G74B90
+1645 = {
+  winter_severity_bias = 0.2
+}
+#b_R102G240B36
+1646 = {
+  winter_severity_bias = 0.1
+}
+#b_R45G238B91
+1647 = {
+  winter_severity_bias = 0.1
+}
+#b_R112G108B119
+1648 = {
+  winter_severity_bias = 0.1
+}
+#b_R164G55B83
+1649 = {
+  winter_severity_bias = 0.2
+}
+#b_R135G72B40
+1650 = {
+  winter_severity_bias = 0.2
+}
+#b_R111G57B189
+1651 = {
+  winter_severity_bias = 0.2
+}
+#b_R27G98B212
+1652 = {
+  winter_severity_bias = 0.1
+}
+#b_R249G97B180
+1653 = {
+  winter_severity_bias = 0.1
+}
+#b_R152G222B237
+1654 = {
+  winter_severity_bias = 0.1
+}
+#b_R127G214B165
+1655 = {
+  winter_severity_bias = 0.1
+}
+#b_R104G151B0
+1656 = {
+  winter_severity_bias = 0.2
+}
+#b_R142G211B6
+1657 = {
+  winter_severity_bias = 0.1
+}
+#b_R70G212B133
+1658 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G55B186
+1659 = {
+  winter_severity_bias = 0.2
+}
+#b_R178G94B28
+1660 = {
+  winter_severity_bias = 0.1
+}
+#b_R255G30B150
+1661 = {
+  winter_severity_bias = 0.1
+}
+#b_R249G80B201
+1662 = {
+  winter_severity_bias = 0.1
+}
+#b_R106G252B186
+1663 = {
+  winter_severity_bias = 0.2
+}
+#b_R100G254B227
+1664 = {
+  winter_severity_bias = 0.2
+}
+#b_R225G220B183
+1665 = {
+  winter_severity_bias = 0.1
+}
+#b_R224G218B220
+1666 = {
+  winter_severity_bias = 0.1
+}
+#b_R162G228B157
+1667 = {
+  winter_severity_bias = 0.2
+}
+#b_R108G202B27
+1668 = {
+  winter_severity_bias = 0.2
+}
+#b_R189G238B28
+1669 = {
+  winter_severity_bias = 0.2
+}
+#b_R161G227B51
+1670 = {
+  winter_severity_bias = 0.1
+}
+#b_R3G55B33
+1671 = {
+  winter_severity_bias = 0.1
+}
+#b_R205G93B178
+1672 = {
+  winter_severity_bias = 0.1
+}
+#b_R223G222B112
+1673 = {
+  winter_severity_bias = 0.1
+}
+#b_R239G24B183
+1674 = {
+  winter_severity_bias = 0.1
+}
+#b_R72G57B183
+1675 = {
+  winter_severity_bias = 0.1
+}
+#b_R52G155B61
+1676 = {
+  winter_severity_bias = 0.2
+}
+#b_R53G157B9
+1677 = {
+  winter_severity_bias = 0.1
+}
+#b_R105G223B46
+1678 = {
+  winter_severity_bias = 0.1
+}
+#b_R207G69B212
+1679 = {
+  winter_severity_bias = 0.2
+}
+#b_R57G129B24
+1680 = {
+  winter_severity_bias = 0.1
+}
+#b_R238G159B77
+1681 = {
+  winter_severity_bias = 0.2
+}
+#b_R159G83B34
+1682 = {
+  winter_severity_bias = 0.1
+}
+#b_R159G174B240
+1683 = {
+  winter_severity_bias = 0.1
+}
+#b_R235G121B39
+1684 = {
+  winter_severity_bias = 0.1
+}
+#b_R200G80B53
+1685 = {
+  winter_severity_bias = 0.1
+}
+#b_R123G48B87
+1686 = {
+  winter_severity_bias = 0.1
+}
+#b_R64G191B48
+1687 = {
+  winter_severity_bias = 0.1
+}
+#b_R14G125B169
+1688 = {
+  winter_severity_bias = 0.1
+}
+#b_R87G137B82
+1689 = {
+  winter_severity_bias = 0.2
+}
+#b_R131G52B164
+1690 = {
+  winter_severity_bias = 0.2
+}
+#b_R37G130B72
+1691 = {
+  winter_severity_bias = 0.2
+}
+#b_R225G96B250
+1692 = {
+  winter_severity_bias = 0.1
+}
+#b_R147G7B93
+1693 = {
+  winter_severity_bias = 0.2
+}
+#b_R156G166B223
+1694 = {
+  winter_severity_bias = 0.2
+}
+#b_R220G40B116
+1695 = {
+  winter_severity_bias = 0.2
+}
+#b_R172G215B47
+1696 = {
+  winter_severity_bias = 0.1
+}
+#b_R124G10B53
+1697 = {
+  winter_severity_bias = 0.1
+}
+#b_R242G41B144
+1698 = {
+  winter_severity_bias = 0.1
+}
+#b_R50G183B112
+1699 = {
+  winter_severity_bias = 0.2
+}
+#b_R217G102B110
+1700 = {
+  winter_severity_bias = 0.1
+}
+#b_R137G87B243
+1701 = {
+  winter_severity_bias = 0.2
+}
+#b_R38G157B168
+1702 = {
+  winter_severity_bias = 0.1
+}
+#b_R84G58B119
+1703 = {
+  winter_severity_bias = 0.1
+}
+#b_R244G107B59
+1704 = {
+  winter_severity_bias = 0.1
+}
+#b_R152G13B58
+1705 = {
+  winter_severity_bias = 0.2
+}
+#b_R209G216B103
+1706 = {
+  winter_severity_bias = 0.1
+}
+#b_R112G215B71
+1707 = {
+  winter_severity_bias = 0.1
+}
+#b_R70G22B69
+1708 = {
+  winter_severity_bias = 0.1
+}
+#b_R174G88B98
+1709 = {
+  winter_severity_bias = 0.1
+}
+#b_R37G65B64
+1710 = {
+  winter_severity_bias = 0.2
+}
+#b_R247G124B235
+1711 = {
+  winter_severity_bias = 0.1
+}
+#b_R156G136B59
+1712 = {
+  winter_severity_bias = 0.1
+}
+#b_R243G167B77
+1713 = {
+  winter_severity_bias = 0.2
+}
+#b_R32G20B28
+1714 = {
+  winter_severity_bias = 0.1
+}
+#b_R109G48B181
+1715 = {
+  winter_severity_bias = 0.2
+}
+#b_R187G220B233
+1716 = {
+  winter_severity_bias = 0.1
+}
+#b_R170G178B27
+1717 = {
+  winter_severity_bias = 0.2
+}
+#b_R91G113B80
+1718 = {
+  winter_severity_bias = 0.1
+}
+#b_R228G212B181
+1719 = {
+  winter_severity_bias = 0.1
+}
+#b_R174G252B176
+1720 = {
+  winter_severity_bias = 0.2
+}
+#b_R87G214B81
+1721 = {
+  winter_severity_bias = 0.1
+}
+#b_R42G80B146
+1722 = {
+  winter_severity_bias = 0.1
+}
+#b_R220G100B238
+1723 = {
+  winter_severity_bias = 0.1
+}
+#b_R192G106B87
+1724 = {
+  winter_severity_bias = 0.2
+}
+#b_R73G29B45
+1725 = {
+  winter_severity_bias = 0.2
+}
+#b_R30G115B148
+1726 = {
+  winter_severity_bias = 0.2
+}
+#b_R160G237B118
+1727 = {
+  winter_severity_bias = 0.1
+}
+#b_R6G135B45
+1728 = {
+  winter_severity_bias = 0.1
+}
+#b_R114G146B40
+1729 = {
+  winter_severity_bias = 0.2
+}
+#b_R219G78B35
+1730 = {
+  winter_severity_bias = 0.1
+}
+#b_R215G104B66
+1731 = {
+  winter_severity_bias = 0.1
+}
+#b_R247G147B198
+1732 = {
+  winter_severity_bias = 0.1
+}
+#b_R201G78B9
+1733 = {
+  winter_severity_bias = 0.1
+}
+#b_R42G54B107
+1734 = {
+  winter_severity_bias = 0.2
+}
+#b_R202G197B178
+1735 = {
+  winter_severity_bias = 0.1
+}
+#b_R28G116B140
+1736 = {
+  winter_severity_bias = 0.1
+}
+#b_R88G155B194
+1737 = {
+  winter_severity_bias = 0.2
+}
+#b_R144G112B158
+1738 = {
+  winter_severity_bias = 0.2
+}
+#b_R217G204B150
+1739 = {
+  winter_severity_bias = 0.1
+}
+#b_R5G227B24
+1740 = {
+  winter_severity_bias = 0.1
+}
+#b_R78G247B77
+1741 = {
+  winter_severity_bias = 0.2
+}
+#b_R29G99B174
+1742 = {
+  winter_severity_bias = 0.1
+}
+#b_R240G120B249
+1743 = {
+  winter_severity_bias = 0.1
+}
+#b_R76G117B44
+1744 = {
+  winter_severity_bias = 0.1
+}
+#b_R240G75B254
+1745 = {
+  winter_severity_bias = 0.1
+}
+#b_R250G77B226
+1746 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G72B104
+1747 = {
+  winter_severity_bias = 0.2
+}
+#b_R202G155B112
+1748 = {
+  winter_severity_bias = 0.2
+}
+#b_R248G238B76
+1749 = {
+  winter_severity_bias = 0.2
+}
+#b_R94G200B150
+1750 = {
+  winter_severity_bias = 0.1
+}
+#b_R107G173B91
+1751 = {
+  winter_severity_bias = 0.2
+}
+#b_R224G20B92
+1752 = {
+  winter_severity_bias = 0.1
+}
+#b_R10G214B215
+1753 = {
+  winter_severity_bias = 0.1
+}
+#b_R56G118B156
+1754 = {
+  winter_severity_bias = 0.2
+}
+#b_R179G181B20
+1755 = {
+  winter_severity_bias = 0.2
+}
+#b_R213G34B224
+1756 = {
+  winter_severity_bias = 0.1
+}
+#b_R174G165B137
+1757 = {
+  winter_severity_bias = 0.2
+}
+#b_R213G161B157
+1758 = {
+  winter_severity_bias = 0.1
+}
+#b_R136G230B88
+1759 = {
+  winter_severity_bias = 0.1
+}
+#b_R207G116B202
+1760 = {
+  winter_severity_bias = 0.1
+}
+#b_R198G96B26
+1761 = {
+  winter_severity_bias = 0.2
+}
+#b_R172G112B195
+1762 = {
+  winter_severity_bias = 0.2
+}
+#b_R105G31B212
+1763 = {
+  winter_severity_bias = 0.1
+}
+#b_R86G247B255
+1764 = {
+  winter_severity_bias = 0.2
+}
+#b_R90G123B185
+1765 = {
+  winter_severity_bias = 0.1
+}
+#b_R228G201B150
+1766 = {
+  winter_severity_bias = 0.2
+}
+#b_R194G242B119
+1767 = {
+  winter_severity_bias = 0.2
+}
+#b_R143G40B25
+1768 = {
+  winter_severity_bias = 0.1
+}
+#b_R134G182B58
+1769 = {
+  winter_severity_bias = 0.1
+}
+#b_R101G209B216
+1770 = {
+  winter_severity_bias = 0.1
+}
+#b_R161G85B115
+1771 = {
+  winter_severity_bias = 0.1
+}
+#b_R60G200B195
+1772 = {
+  winter_severity_bias = 0.1
+}
+#b_R217G10B200
+1773 = {
+  winter_severity_bias = 0.1
+}
+#b_R246G164B86
+1774 = {
+  winter_severity_bias = 0.1
+}
+#b_R253G105B188
+1775 = {
+  winter_severity_bias = 0.1
+}
+#b_R33G4B19
+1776 = {
+  winter_severity_bias = 0.2
+}
+#b_R254G67B220
+1777 = {
+  winter_severity_bias = 0.1
+}
+#b_R52G186B21
+1778 = {
+  winter_severity_bias = 0.1
+}
+#b_R46G250B110
+1779 = {
+  winter_severity_bias = 0.1
+}
+#b_R76G147B35
+1780 = {
+  winter_severity_bias = 0.1
+}
+#b_R178G37B43
+1781 = {
+  winter_severity_bias = 0.1
+}
+#b_R129G171B6
+1782 = {
+  winter_severity_bias = 0.2
+}
+#b_R90G182B248
+1783 = {
+  winter_severity_bias = 0.1
+}
+#b_R129G236B98
+1784 = {
+  winter_severity_bias = 0.1
+}
+#b_R96G97B210
+1785 = {
+  winter_severity_bias = 0.2
+}
+#b_R96G93B16
+1786 = {
+  winter_severity_bias = 0.1
+}
+#b_R147G77B26
+1787 = {
+  winter_severity_bias = 0.1
+}
+#b_R12G69B203
+1788 = {
+  winter_severity_bias = 0.1
+}
+#b_R239G183B203
+1789 = {
+  winter_severity_bias = 0.1
+}
+#b_R19G153B133
+1790 = {
+  winter_severity_bias = 0.1
+}
+#b_R5G111B87
+1791 = {
+  winter_severity_bias = 0.1
+}
+#b_R181G230B209
+1792 = {
+  winter_severity_bias = 0.1
+}
+#b_R91G181B221
+1793 = {
+  winter_severity_bias = 0.1
+}
+#b_R74G98B189
+1794 = {
+  winter_severity_bias = 0.1
+}
+#b_R121G234B115
+1795 = {
+  winter_severity_bias = 0.1
+}
+#b_R150G158B88
+1796 = {
+  winter_severity_bias = 0.2
+}
+#b_R42G86B54
+1797 = {
+  winter_severity_bias = 0.2
+}
+#b_R158G170B99
+1798 = {
+  winter_severity_bias = 0.1
+}
+#b_R218G83B79
+1799 = {
+  winter_severity_bias = 0.1
+}
+#b_R250G132B188
+1800 = {
+  winter_severity_bias = 0.1
+}
+#b_R68G166B77
+1801 = {
+  winter_severity_bias = 0.1
+}
+#b_R34G115B216
+1802 = {
+  winter_severity_bias = 0.2
+}
+#b_R218G9B53
+1803 = {
+  winter_severity_bias = 0.1
+}
+#b_R113G201B119
+1804 = {
+  winter_severity_bias = 0.2
+}
+#b_R61G94B97
+1805 = {
+  winter_severity_bias = 0.1
+}
+#b_R153G40B92
+1806 = {
+  winter_severity_bias = 0.1
+}
+#b_R211G38B249
+1807 = {
+  winter_severity_bias = 0.1
+}
+#b_R142G227B144
+1808 = {
+  winter_severity_bias = 0.2
+}
+#b_R157G224B9
+1809 = {
+  winter_severity_bias = 0.2
+}
+#b_R185G231B144
+1810 = {
+  winter_severity_bias = 0.1
+}
+#b_R222G37B85
+1811 = {
+  winter_severity_bias = 0.1
+}
+#b_R252G26B124
+1812 = {
+  winter_severity_bias = 0.1
+}
+#b_R175G147B100
+1813 = {
+  winter_severity_bias = 0.1
+}
+#b_R253G168B127
+1814 = {
+  winter_severity_bias = 0.2
+}
+#b_R162G39B230
+1815 = {
+  winter_severity_bias = 0.2
+}
+#b_R84G184B248
+1816 = {
+  winter_severity_bias = 0.1
+}
+#b_R202G226B251
+1817 = {
+  winter_severity_bias = 0.2
+}
+#b_R233G53B220
+1818 = {
+  winter_severity_bias = 0.2
+}
+#b_R228G28B16
+1819 = {
+  winter_severity_bias = 0.1
+}
+#b_R14G79B75
+1820 = {
+  winter_severity_bias = 0.1
+}
+#b_R220G241B154
+1821 = {
+  winter_severity_bias = 0.2
+}
+#b_R222G57B183
+1822 = {
+  winter_severity_bias = 0.1
+}
+#b_R121G147B76
+1823 = {
+  winter_severity_bias = 0.1
+}
+#b_R170G207B48
+1824 = {
+  winter_severity_bias = 0.1
+}
+#b_R57G133B26
+1825 = {
+  winter_severity_bias = 0.2
+}
+#b_R254G222B133
+1826 = {
+  winter_severity_bias = 0.1
+}
+#b_R55G127B245
+1827 = {
+  winter_severity_bias = 0.1
+}
+#b_R32G241B41
+1828 = {
+  winter_severity_bias = 0.1
+}
+#b_R205G14B208
+1829 = {
+  winter_severity_bias = 0.2
+}
+#b_R116G89B232
+1830 = {
+  winter_severity_bias = 0.1
+}
+#b_R123G248B23
+1831 = {
+  winter_severity_bias = 0.1
+}
+#b_R0G55B118
+1832 = {
+  winter_severity_bias = 0.1
+}
+#b_R145G59B179
+1833 = {
+  winter_severity_bias = 0.1
+}
+#b_R67G107B60
+1834 = {
+  winter_severity_bias = 0.2
+}
+#b_R194G47B19
+1835 = {
+  winter_severity_bias = 0.1
+}
+#b_R250G36B146
+1836 = {
+  winter_severity_bias = 0.1
+}
+#b_R204G19B87
+1837 = {
+  winter_severity_bias = 0.1
+}
+#b_R153G45B182
+1838 = {
+  winter_severity_bias = 0.1
+}
+#b_R215G191B228
+1839 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G59B34
+1840 = {
+  winter_severity_bias = 0.2
+}
+#b_R47G81B38
+1841 = {
+  winter_severity_bias = 0.1
+}
+#b_R78G123B174
+1842 = {
+  winter_severity_bias = 0.2
+}
+#b_R170G7B238
+1843 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G136B175
+1844 = {
+  winter_severity_bias = 0.2
+}
+#b_R101G33B166
+1845 = {
+  winter_severity_bias = 0.1
+}
+#b_R191G174B152
+1846 = {
+  winter_severity_bias = 0.2
+}
+#b_R147G79B148
+1847 = {
+  winter_severity_bias = 0.1
+}
+#b_R234G44B10
+1848 = {
+  winter_severity_bias = 0.1
+}
+#b_R144G32B89
+1849 = {
+  winter_severity_bias = 0.1
+}
+#b_R106G237B197
+1850 = {
+  winter_severity_bias = 0.1
+}
+#b_R238G80B127
+1851 = {
+  winter_severity_bias = 0.2
+}
+#b_R142G85B94
+1852 = {
+  winter_severity_bias = 0.2
+}
+#b_R163G252B224
+1853 = {
+  winter_severity_bias = 0.1
+}
+#b_R217G19B134
+1854 = {
+  winter_severity_bias = 0.1
+}
+#b_R98G127B130
+1855 = {
+  winter_severity_bias = 0.2
+}
+#b_R119G234B79
+1856 = {
+  winter_severity_bias = 0.1
+}
+#b_R154G182B87
+1857 = {
+  winter_severity_bias = 0.2
+}
+#b_R47G118B137
+1858 = {
+  winter_severity_bias = 0.2
+}
+#b_R106G165B14
+1859 = {
+  winter_severity_bias = 0.1
+}
+#b_R184G87B55
+1860 = {
+  winter_severity_bias = 0.1
+}
+#b_R136G147B157
+1861 = {
+  winter_severity_bias = 0.1
+}
+#b_R211G250B221
+1862 = {
+  winter_severity_bias = 0.2
+}
+#b_R42G177B154
+1863 = {
+  winter_severity_bias = 0.1
+}
+#b_R214G135B17
+1864 = {
+  winter_severity_bias = 0.1
+}
+#b_R169G239B93
+1865 = {
+  winter_severity_bias = 0.2
+}
+#b_R117G43B9
+1866 = {
+  winter_severity_bias = 0.1
+}
+#b_R66G68B227
+1867 = {
+  winter_severity_bias = 0.2
+}
+#b_R124G238B125
+1868 = {
+  winter_severity_bias = 0.1
+}
+#b_R165G50B15
+1869 = {
+  winter_severity_bias = 0.1
+}
+#b_R150G15B54
+1870 = {
+  winter_severity_bias = 0.1
+}
+#b_R127G47B107
+1871 = {
+  winter_severity_bias = 0.1
+}
+#b_R109G102B75
+1872 = {
+  winter_severity_bias = 0.1
+}
+#b_R90G65B209
+1873 = {
+  winter_severity_bias = 0.1
+}
+#b_R197G150B18
+1874 = {
+  winter_severity_bias = 0.1
+}
+#b_R196G160B90
+1875 = {
+  winter_severity_bias = 0.1
+}
+#b_R184G180B79
+1876 = {
+  winter_severity_bias = 0.2
+}
+#b_R4G148B220
+1877 = {
+  winter_severity_bias = 0.2
+}
+#b_R160G191B70
+1878 = {
+  winter_severity_bias = 0.1
+}
+#b_R234G25B100
+1879 = {
+  winter_severity_bias = 0.1
+}
+#b_R114G229B70
+1880 = {
+  winter_severity_bias = 0.1
+}
+#b_R56G72B48
+1881 = {
+  winter_severity_bias = 0.2
+}
+#b_R247G142B204
+1882 = {
+  winter_severity_bias = 0.2
+}
+#b_R230G48B33
+1883 = {
+  winter_severity_bias = 0.1
+}
+#b_R173G103B115
+1884 = {
+  winter_severity_bias = 0.1
+}
+#b_R4G145B38
+1885 = {
+  winter_severity_bias = 0.2
+}
+#b_R252G46B189
+1886 = {
+  winter_severity_bias = 0.1
+}
+#b_R171G38B49
+1887 = {
+  winter_severity_bias = 0.1
+}
+#b_R36G144B177
+1888 = {
+  winter_severity_bias = 0.2
+}
+#b_R202G225B179
+1889 = {
+  winter_severity_bias = 0.1
+}
+#b_R159G0B138
+1890 = {
+  winter_severity_bias = 0.2
+}
+#b_R255G32B192
+1891 = {
+  winter_severity_bias = 0.1
+}
+#b_R230G0B169
+1892 = {
+  winter_severity_bias = 0.2
+}
+#b_R135G215B8
+1893 = {
+  winter_severity_bias = 0.2
+}
+#b_R233G149B51
+1894 = {
+  winter_severity_bias = 0.1
+}
+#b_R250G201B163
+1895 = {
+  winter_severity_bias = 0.2
+}
+#b_R91G101B228
+1896 = {
+  winter_severity_bias = 0.1
+}
+#b_R244G218B105
+1897 = {
+  winter_severity_bias = 0.1
+}
+#b_R131G4B14
+1898 = {
+  winter_severity_bias = 0.1
+}
+#b_R53G124B136
+1899 = {
+  winter_severity_bias = 0.1
+}
+#b_R59G95B179
+1900 = {
+  winter_severity_bias = 0.2
+}
+#b_R20G183B99
+1901 = {
+  winter_severity_bias = 0.1
+}
+#b_R65G62B54
+1902 = {
+  winter_severity_bias = 0.1
+}
+#b_R36G30B194
+1903 = {
+  winter_severity_bias = 0.1
+}
+#b_R132G89B86
+1904 = {
+  winter_severity_bias = 0.1
+}
+#b_R160G134B136
+1905 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1906 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1907 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1908 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1909 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1910 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1911 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1912 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1913 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1914 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1915 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1916 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1917 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1918 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1919 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1920 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1921 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1922 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1923 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1924 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1925 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1926 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1927 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1928 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1929 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1930 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1931 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1932 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1933 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1934 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1935 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1936 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1937 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1938 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1939 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1940 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1941 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1942 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1943 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1944 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1945 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1946 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1947 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1948 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1949 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1950 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1951 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1952 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1953 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1954 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1955 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1956 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1957 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1958 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1959 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1960 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1961 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1962 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1963 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1964 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1965 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1966 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1967 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1968 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1969 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1970 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1971 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1972 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1973 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1974 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1975 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1976 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1977 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1978 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1979 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1980 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1981 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1982 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1983 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1984 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1985 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1986 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1987 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1988 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1989 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1990 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1991 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1992 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1993 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1994 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1995 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1996 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+1997 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1998 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+1999 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2000 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2001 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2002 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2003 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2004 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2005 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2006 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2007 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2008 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2009 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2010 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2011 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2012 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2013 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2014 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2015 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2016 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2017 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2018 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2019 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2020 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2021 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2022 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2023 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2024 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2025 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2026 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2027 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2028 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2029 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2030 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2031 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2032 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2033 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2034 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2035 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2036 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2037 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2038 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2039 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2040 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2041 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2042 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2043 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2044 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2045 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2046 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2047 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2048 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2049 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2050 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2051 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2052 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2053 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2054 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2055 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2056 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2057 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2058 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2059 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2060 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2061 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2062 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2063 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2064 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2065 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2066 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2067 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2068 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2069 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2070 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2071 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2072 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2073 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2074 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2075 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2076 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2077 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2078 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2079 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2080 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2081 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2082 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2083 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2084 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2085 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2086 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2087 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2088 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2089 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2090 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2091 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2092 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2093 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2094 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2095 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2096 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2097 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2098 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2099 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2100 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2101 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2102 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2103 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2104 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2105 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2106 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2107 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2108 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2109 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2110 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2111 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2112 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2113 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2114 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2115 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2116 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2117 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2118 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2119 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2120 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2121 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2122 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2123 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2124 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2125 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2126 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2127 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2128 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2129 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2130 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2131 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2132 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2133 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2134 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2135 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2136 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2137 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2138 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2139 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2140 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2141 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2142 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2143 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2144 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2145 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2146 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2147 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2148 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2149 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2150 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2151 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2152 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2153 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2154 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2155 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2156 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2157 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2158 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2159 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2160 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2161 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2162 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2163 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2164 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2165 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2166 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2167 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2168 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2169 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2170 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2171 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2172 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2173 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2174 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2175 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2176 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2177 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2178 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2179 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2180 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2181 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2182 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2183 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2184 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2185 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2186 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2187 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2188 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2189 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2190 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2191 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2192 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2193 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2194 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2195 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2196 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2197 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2198 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2199 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2200 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2201 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2202 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2203 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2204 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2205 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2206 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2207 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2208 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2209 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2210 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2211 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2212 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2213 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2214 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2215 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2216 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2217 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2218 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2219 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2220 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2221 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2222 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2223 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2224 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2225 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2226 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2227 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2228 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2229 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2230 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2231 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2232 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2233 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2234 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2235 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2236 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2237 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2238 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2239 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2240 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2241 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2242 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2243 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2244 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2245 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2246 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2247 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2248 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2249 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2250 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2251 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2252 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2253 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2254 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2255 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2256 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2257 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2258 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2259 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2260 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2261 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2262 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2263 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2264 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2265 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2266 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2267 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2268 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2269 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2270 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2271 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2272 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2273 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2274 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2275 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2276 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2277 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2278 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2279 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2280 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2281 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2282 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2283 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2284 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2285 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2286 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2287 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2288 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2289 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2290 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2291 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2292 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2293 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2294 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2295 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2296 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2297 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2298 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2299 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2300 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2301 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2302 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2303 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2304 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2305 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2306 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2307 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2308 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2309 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2310 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2311 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2312 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2313 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2314 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2315 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2316 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2317 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2318 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2319 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2320 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2321 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2322 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2323 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2324 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2325 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2326 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2327 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2328 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2329 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2330 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2331 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2332 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2333 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2334 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2335 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2336 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2337 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2338 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2339 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2340 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2341 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2342 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2343 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2344 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2345 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2346 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2347 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2348 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2349 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2350 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2351 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2352 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2353 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2354 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2355 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2356 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2357 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2358 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2359 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2360 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2361 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2362 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2363 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2364 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2365 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2366 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2367 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2368 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2369 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2370 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2371 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2372 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2373 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2374 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2375 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2376 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2377 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2378 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2379 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2380 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2381 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2382 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2383 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2384 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2385 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2386 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2387 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2388 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2389 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2390 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2391 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2392 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2393 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2394 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2395 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2396 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2397 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2398 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2399 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2400 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2401 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2402 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2403 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2404 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2405 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2406 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2407 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2408 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2409 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2410 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2411 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2412 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2413 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2414 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2415 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2416 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2417 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2418 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2419 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2420 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2421 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2422 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2423 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2424 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2425 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2426 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2427 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2428 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2429 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2430 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2431 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2432 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2433 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2434 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2435 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2436 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2437 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2438 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2439 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2440 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2441 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2442 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2443 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2444 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2445 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2446 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2447 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2448 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2449 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2450 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2451 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2452 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2453 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2454 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2455 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2456 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2457 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2458 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2459 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2460 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2461 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2462 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2463 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2464 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2465 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2466 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2467 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2468 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2469 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2470 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2471 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2472 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2473 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2474 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2475 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2476 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2477 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2478 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2479 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2480 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2481 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2482 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2483 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2484 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2485 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2486 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2487 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2488 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2489 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2490 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2491 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2492 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2493 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2494 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2495 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2496 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2497 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2498 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2499 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2500 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2501 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2502 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2503 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2504 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2505 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2506 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2507 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2508 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2509 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2510 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2511 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2512 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2513 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2514 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2515 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2516 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2517 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2518 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2519 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2520 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2521 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2522 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2523 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2524 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2525 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2526 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2527 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2528 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2529 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2530 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2531 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2532 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2533 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2534 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2535 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2536 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2537 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2538 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2539 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2540 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2541 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2542 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2543 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2544 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2545 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2546 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2547 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2548 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2549 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2550 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2551 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2552 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2553 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2554 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2555 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2556 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2557 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2558 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2559 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2560 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2561 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2562 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2563 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2564 = {
+  winter_severity_bias = 0.2
+}
+#b_undefined
+2565 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2566 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2567 = {
+  winter_severity_bias = 0.1
+}
+#b_undefined
+2568 = {
+  winter_severity_bias = 0.2
+}

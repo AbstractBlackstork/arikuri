@@ -1,0 +1,17 @@
+﻿
+arikurimountains1 = {
+	show_first = yes
+	priority = 100 
+}
+arikurieebjiewarrior = {
+	show_first = no
+	priority = 100
+}
+arikurieniolcourtlady = {
+	show_first = no
+	priority = 100
+}
+arikuriaigmicduchess = {
+	show_first = no
+	priority = 100
+}

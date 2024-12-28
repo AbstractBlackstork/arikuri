@@ -2592,33 +2592,7 @@ R171G104B52 = {
 # faith: imperfectprint_faith
 # helm.20.done
 R226G24B158 = {
-  county = c_R226G24B158
-  barony = b_R226G24B158
-
-  character_modifier = {
-    name = holy_site_R226G24B158_effect_name
-    health = 0.1
-  }
-}
-
-# religion: stainedend
-# faith: imperfectprint_faith
-# helm.20.done
-R171G104B52 = {
   county = c_R171G104B52
-  barony = b_R171G104B52
-
-  character_modifier = {
-    name = holy_site_R171G104B52_effect_name
-    martial_per_piety_level = 1
-  }
-}
-
-# religion: stainedend
-# faith: imperfectprint_faith
-# helm.20.done
-R226G24B158 = {
-  county = c_R226G24B158
   barony = b_R226G24B158
 
   character_modifier = {
@@ -2972,7 +2946,7 @@ R103G160B9 = {
 # faith: fortunateemployee_faith
 # tree.9.done
 R36G238B166 = {
-  county = c_R176G37B16
+  county = c_R103G160B9
   barony = b_R36G238B166
 
   character_modifier = {
@@ -3020,19 +2994,6 @@ R103G160B9 = {
 # religion: excitedact
 # faith: fortunateemployee_faith
 # tree.9.done
-R36G238B166 = {
-  county = c_R176G37B16
-  barony = b_R36G238B166
-
-  character_modifier = {
-    name = holy_site_R36G238B166_effect_name
-    monthly_piety_gain_mult = 0.15
-  }
-}
-
-# religion: excitedact
-# faith: fortunateemployee_faith
-# tree.9.done
 R38G164B108 = {
   county = c_R176G37B16
   barony = b_R38G164B108
@@ -6301,7 +6262,7 @@ R234G206B200 = {
 # faith: beautifulpain_faith
 # qavi.done.25
 R109G210B151 = {
-  county = c_R252G153B175
+  county = c_R132G255B191
   barony = b_R109G210B151
 
   character_modifier = {
@@ -6343,25 +6304,13 @@ R249G164B169 = {
   barony = b_R249G164B169
 }
 R12G41B24 = {
-  county = c_R176G118B250
+  county = d_R30G17B121
   barony = b_R12G41B24
 }
 R188G98B136 = {
   county = c_R4G156B28
   barony = b_R188G98B136
 }
-# religion: glasscommon
-# faith: beautifulpain_faith
-# qavi.done.25
-R109G210B151 = {
-  county = c_R252G153B175
-  barony = b_R109G210B151
-
-  character_modifier = {
-    name = holy_site_R109G210B151_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
-  }
-}
 
 # religion: glasscommon
 # faith: beautifulpain_faith
@@ -6394,10 +6343,6 @@ prowess_per_piety_level = 1
 R249G164B169 = {
   county = c_R176G118B250
   barony = b_R249G164B169
-}
-R12G41B24 = {
-  county = c_R176G118B250
-  barony = b_R12G41B24
 }
 R188G98B136 = {
   county = c_R4G156B28
@@ -7556,7 +7501,7 @@ R171G198B54 = {
 # faith: novelwelcome_faith
 # xes.done.22
 R32G117B250 = {
-  county = c_R96G81B106
+  county = c_R21G155B18
   barony = b_R32G117B250
 
   character_modifier = {
@@ -7581,7 +7526,7 @@ prowess_per_piety_level = 1
 }
 
 R100G230B126 = {
-  county = c_R96G81B106
+  county = c_R95G0B76
   barony = b_R100G230B126
 }
 # religion: shockingnumber
@@ -7613,19 +7558,6 @@ R171G198B54 = {
 # religion: shockingnumber
 # faith: novelwelcome_faith
 # xes.done.22
-R32G117B250 = {
-  county = c_R96G81B106
-  barony = b_R32G117B250
-
-  character_modifier = {
-    name = holy_site_R32G117B250_effect_name
-    monthly_piety_gain_mult = 0.15
-  }
-}
-
-# religion: shockingnumber
-# faith: novelwelcome_faith
-# xes.done.22
 R96G81B106 = {
   county = c_R96G81B106
   barony = b_R96G81B106
@@ -7638,10 +7570,6 @@ prowess_per_piety_level = 1
   }
 }
 
-R100G230B126 = {
-  county = c_R96G81B106
-  barony = b_R100G230B126
-}
 # religion: shockingnumber
 # faith: soulfulmap_faith
 # xes.done.22
@@ -8229,7 +8157,7 @@ R90G135B140 = {
 # faith: hugeagent_faith
 # capes.6.done
 R152G91B95 = {
-  county = c_R222G38B88
+  county = c_R88G226B65
   barony = b_R152G91B95
 
   character_modifier = {
@@ -8274,21 +8202,6 @@ R90G135B140 = {
   }
 }
 
-# religion: abandonedspell
-# faith: hugeagent_faith
-# capes.6.done
-R152G91B95 = {
-  county = c_R222G38B88
-  barony = b_R152G91B95
-
-  character_modifier = {
-    name = holy_site_R152G91B95_effect_name
-    knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
-
-  }
-}
-
 R239G234B217 = {
   county = c_R90G135B140
   barony = b_R239G234B217
@@ -8953,7 +8866,7 @@ R15G79B199 = {
 # faith: marvelousresponse_faith
 # triple.30.done
 R116G222B46 = {
-  county = c_R207G241B233
+  county = c_R10G51B37
   barony = b_R116G222B46
 
   character_modifier = {
@@ -8985,19 +8898,6 @@ R252G160B241 = {
   character_modifier = {
     name = holy_site_R252G160B241_effect_name
     diplomacy_per_piety_level = 1
-  }
-}
-
-# religion: astonishingsteak
-# faith: marvelousresponse_faith
-# triple.30.done
-R116G222B46 = {
-  county = c_R207G241B233
-  barony = b_R116G222B46
-
-  character_modifier = {
-    name = holy_site_R116G222B46_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
   }
 }
 
@@ -9934,19 +9834,6 @@ R132G252B213 = {
 # religion: infamousfishing
 # faith: admiredprofessional_faith
 # southnature.done.18
-R173G103B196 = {
-  county = c_R142G91B154
-  barony = b_R173G103B196
-
-  character_modifier = {
-    name = holy_site_R173G103B196_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
-  }
-}
-
-# religion: infamousfishing
-# faith: admiredprofessional_faith
-# southnature.done.18
 R142G91B154 = {
   county = c_R142G91B154
   barony = b_R142G91B154
@@ -9989,7 +9876,7 @@ R217G3B110 = {
 # faith: admiredprofessional_faith
 # southnature.done.18
 R173G103B196 = {
-  county = c_R142G91B154
+  county = c_R194G30B37
   barony = b_R173G103B196
 
   character_modifier = {
@@ -10056,7 +9943,7 @@ R220G241B154 = {
 # faith: apprehensivepresentation_faith
 # southnature.done.18
 R147G7B93 = {
-  county = c_R252G174B89
+  county = c_R114G87B7
   barony = b_R147G7B93
 
   character_modifier = {
@@ -10081,7 +9968,7 @@ prowess_per_piety_level = 1
 }
 
 R65G117B74 = {
-  county = c_R252G174B89
+  county = c_R150G158B88
   barony = b_R65G117B74
 }
 # religion: infamousfishing
@@ -10100,19 +9987,6 @@ R220G241B154 = {
 # religion: infamousfishing
 # faith: apprehensivepresentation_faith
 # southnature.done.18
-R147G7B93 = {
-  county = c_R252G174B89
-  barony = b_R147G7B93
-
-  character_modifier = {
-    name = holy_site_R147G7B93_effect_name
-    monthly_piety_gain_mult = 0.15
-  }
-}
-
-# religion: infamousfishing
-# faith: apprehensivepresentation_faith
-# southnature.done.18
 R158G12B13 = {
   county = c_R158G12B13
   barony = b_R158G12B13
@@ -10123,11 +9997,6 @@ R158G12B13 = {
 prowess_per_piety_level = 1
 
   }
-}
-
-R65G117B74 = {
-  county = c_R252G174B89
-  barony = b_R65G117B74
 }
 R150G158B88 = {
   county = c_R150G158B88
@@ -12324,7 +12193,7 @@ R185G231B144 = {
 # faith: unrealistictell_faith
 # flower.41.done
 R84G58B119 = {
-  county = c_R105G79B225
+  county = c_R20G174B219
   barony = b_R84G58B119
 
   character_modifier = {
@@ -12372,19 +12241,6 @@ R185G231B144 = {
   }
 }
 
-# religion: grosscommittee
-# faith: unrealistictell_faith
-# flower.41.done
-R84G58B119 = {
-  county = c_R105G79B225
-  barony = b_R84G58B119
-
-  character_modifier = {
-    name = holy_site_R84G58B119_effect_name
-    fertility = 0.18
-  }
-}
-
 R88G156B189 = {
   county = c_R88G156B189
   barony = b_R88G156B189
@@ -12508,7 +12364,7 @@ R30G17B121 = {
 # faith: soulfulmap_faith
 # xes.done.22
 R73G29B45 = {
-  county = c_R30G17B121
+  county = c_R215G17B198
   barony = b_R73G29B45
 
   character_modifier = {
@@ -12546,7 +12402,7 @@ R80G44B143 = {
 }
 
 R117G191B214 = {
-  county = c_R30G17B121
+  county = c_R215G17B198
   barony = b_R117G191B214
 }
 # religion: shockingnumber
@@ -12565,19 +12421,6 @@ R30G17B121 = {
 # religion: shockingnumber
 # faith: soulfulmap_faith
 # xes.done.22
-R73G29B45 = {
-  county = c_R30G17B121
-  barony = b_R73G29B45
-
-  character_modifier = {
-    name = holy_site_R73G29B45_effect_name
-    monthly_piety_gain_mult = 0.15
-  }
-}
-
-# religion: shockingnumber
-# faith: soulfulmap_faith
-# xes.done.22
 R56G197B203 = {
   county = c_R30G17B121
   barony = b_R56G197B203
@@ -12603,10 +12446,6 @@ R80G44B143 = {
   }
 }
 
-R117G191B214 = {
-  county = c_R30G17B121
-  barony = b_R117G191B214
-}
 # religion: smoothsock
 # faith: suddensound_faith
 # pile.19.done
@@ -13274,7 +13113,7 @@ R80G81B51 = {
 # faith: leftnorth_faith
 # pyramid.24.done
 R214G135B17 = {
-  county = c_R80G81B51
+  county = c_R242G21B166
   barony = b_R214G135B17
 
   character_modifier = {
@@ -13312,19 +13151,6 @@ R80G81B51 = {
   character_modifier = {
     name = holy_site_R80G81B51_effect_name
     monthly_lifestyle_xp_gain_mult = 0.15
-  }
-}
-
-# religion: squigglyaction
-# faith: leftnorth_faith
-# pyramid.24.done
-R214G135B17 = {
-  county = c_R80G81B51
-  barony = b_R214G135B17
-
-  character_modifier = {
-    name = holy_site_R214G135B17_effect_name
-    monthly_piety_gain_mult = 0.15
   }
 }
 

@@ -1,23 +1,4 @@
-﻿e_R244G204B166 = {
-  color = {244 204 166}
-  capital = c_R244G204B166
-  k_R244G204B166 = {
-    color = {244 204 166}
-    capital = c_R244G204B166
-    d_R244G204B166 = {
-      color = { 244 204 166 }
-      capital = c_R244G204B166
-      c_R244G204B166 = {
-        color = {244 204 166}
-        b_R244G204B166 = {
-          province = 1
-          color = {244 204 166}
-        }
-      }
-    }
-  }
-}
-e_R226G130B228 = {
+﻿e_R226G130B228 = {
   color = {226 130 228}
   capital = c_R226G130B228
   k_R226G130B228 = {
@@ -68,120 +49,6 @@ e_R226G130B228 = {
         b_R157G11B0 = {
           province = 589
           color = {157 11 0}
-        }
-      }
-    }
-  }
-  k_R158G149B213 = {
-    color = {158 149 213}
-    capital = c_R158G149B213
-    d_R158G149B213 = {
-      color = { 158 149 213 }
-      capital = c_R158G149B213
-      c_R158G149B213 = {
-        color = {158 149 213}
-        b_R158G149B213 = {
-          province = 4
-          color = {158 149 213}
-        }
-        b_R99G185B22 = {
-          province = 699
-          color = {158 149 213}
-        }
-      }
-    }
-    d_R73G16B78 = {
-      color = { 73 16 78 }
-      capital = c_R73G16B78
-      c_R73G16B78 = {
-        color = {73 16 78}
-        b_R73G16B78 = {
-          province = 41
-          color = {73 16 78}
-        }
-        b_R247G19B107 = {
-          province = 1413
-          color = {73 16 78}
-        }
-        b_R212G128B6 = {
-          province = 859
-          color = {73 16 78}
-        }
-        b_R252G164B123 = {
-          province = 1391
-          color = {73 16 78}
-        }
-        b_R234G62B173 = {
-          province = 1585
-          color = {73 16 78}
-        }
-        b_R79G40B3 = {
-          province = 271
-          color = {73 16 78}
-        }
-      }
-      c_R22G99B255 = {
-        color = {22 99 255}
-        b_R22G99B255 = {
-          province = 1053
-          color = {22 99 255}
-        }
-        b_R75G10B161 = {
-          province = 1318
-          color = {22 99 255}
-        }
-      }
-    }
-    d_R253G53B226 = {
-      color = { 253 53 226 }
-      capital = c_R253G53B226
-      c_R253G53B226 = {
-        color = {253 53 226}
-        b_R253G53B226 = {
-          province = 229
-          color = {253 53 226}
-        }
-        b_R218G169B115 = {
-          province = 569
-          color = {253 53 226}
-        }
-      }
-      c_R248G234B113 = {
-        color = {248 234 113}
-        b_R248G234B113 = {
-          province = 582
-          color = {248 234 113}
-        }
-        b_R205G93B178 = {
-          province = 1672
-          color = {248 234 113}
-        }
-        b_R184G191B73 = {
-          province = 1205
-          color = {248 234 113}
-        }
-        b_R160G191B70 = {
-          province = 1878
-          color = {248 234 113}
-        }
-        b_R65G180B247 = {
-          province = 978
-          color = {248 234 113}
-        }
-      }
-      c_R235G191B29 = {
-        color = {235 191 29}
-        b_R235G191B29 = {
-          province = 704
-          color = {235 191 29}
-        }
-        b_R244G107B59 = {
-          province = 1704
-          color = {235 191 29}
-        }
-        b_R148G39B30 = {
-          province = 1098
-          color = {235 191 29}
         }
       }
     }
@@ -318,48 +185,6 @@ e_R226G130B228 = {
         b_R79G61B101 = {
           province = 1168
           color = {11 66 19}
-        }
-      }
-    }
-    d_R143G83B18 = {
-      color = { 143 83 18 }
-      capital = c_R143G83B18
-      c_R143G83B18 = {
-        color = {143 83 18}
-        b_R143G83B18 = {
-          province = 156
-          color = {143 83 18}
-        }
-        b_R175G77B157 = {
-          province = 1002
-          color = {143 83 18}
-        }
-        b_R175G160B108 = {
-          province = 1380
-          color = {143 83 18}
-        }
-        b_R48G134B170 = {
-          province = 942
-          color = {143 83 18}
-        }
-      }
-    }
-    d_R139G172B182 = {
-      color = { 139 172 182 }
-      capital = c_R139G172B182
-      c_R139G172B182 = {
-        color = {139 172 182}
-        b_R139G172B182 = {
-          province = 224
-          color = {139 172 182}
-        }
-        b_R214G139B221 = {
-          province = 1586
-          color = {139 172 182}
-        }
-        b_R226G194B39 = {
-          province = 828
-          color = {139 172 182}
         }
       }
     }
@@ -832,6 +657,120 @@ e_R39G19B218 = {
   k_R39G19B218 = {
     color = {39 19 218}
     capital = c_R39G19B218
+    d_R222G234B147 = {
+      color = { 222 234 147 }
+      capital = c_R222G234B147
+      c_R222G234B147 = {
+        color = {222 234 147}
+        b_R222G234B147 = {
+          province = 420
+          color = {222 234 147}
+        }
+        b_R173G11B63 = {
+          province = 1488
+          color = {222 234 147}
+        }
+        b_R177G81B162 = {
+          province = 1304
+          color = {222 234 147}
+        }
+      }
+      c_R159G118B211 = {
+        color = {159 118 211}
+        b_R159G118B211 = {
+          province = 1441
+          color = {159 118 211}
+        }
+      }
+      c_R156G136B59 = {
+        color = {156 136 59}
+        b_R156G136B59 = {
+          province = 1712
+          color = {156 136 59}
+        }
+      }
+    }
+    d_R1G66B233 = {
+      color = { 1 66 233 }
+      capital = c_R1G66B233
+      c_R1G66B233 = {
+        color = {1 66 233}
+        b_R1G66B233 = {
+          province = 349
+          color = {1 66 233}
+        }
+      }
+      c_R64G226B215 = {
+        color = {64 226 215}
+        b_R64G226B215 = {
+          province = 727
+          color = {64 226 215}
+        }
+        b_R137G1B97 = {
+          province = 1356
+          color = {64 226 215}
+        }
+        b_R207G49B215 = {
+          province = 1398
+          color = {64 226 215}
+        }
+        b_R91G60B209 = {
+          province = 1191
+          color = {64 226 215}
+        }
+      }
+      c_R175G11B234 = {
+        color = {175 11 234}
+        b_R175G11B234 = {
+          province = 771
+          color = {175 11 234}
+        }
+      }
+      c_R35G14B208 = {
+        color = {35 14 208}
+        b_R35G14B208 = {
+          province = 1508
+          color = {35 14 208}
+        }
+      }
+    }
+    d_R155G5B228 = {
+      color = { 155 5 228 }
+      capital = c_R155G5B228
+      c_R155G5B228 = {
+        color = {155 5 228}
+        b_R155G5B228 = {
+          province = 563
+          color = {155 5 228}
+        }
+        b_R102G202B99 = {
+          province = 932
+          color = {155 5 228}
+        }
+        b_R54G171B77 = {
+          province = 909
+          color = {155 5 228}
+        }
+      }
+      c_R144G32B89 = {
+        color = {144 32 89}
+        b_R144G32B89 = {
+          province = 1849
+          color = {144 32 89}
+        }
+      }
+    }
+    d_R53G204B4 = {
+      color = { 53 204 4 }
+      capital = c_R53G204B4
+      c_R53G204B4 = {
+        color = {53 204 4}
+        b_R53G204B4 = {
+          province = 626
+          color = {53 204 4}
+        }
+      }
+    }
     d_R39G19B218 = {
       color = { 39 19 218 }
       capital = c_R39G19B218
@@ -1126,39 +1065,6 @@ e_R39G19B218 = {
         }
       }
     }
-    d_R222G234B147 = {
-      color = { 222 234 147 }
-      capital = c_R222G234B147
-      c_R222G234B147 = {
-        color = {222 234 147}
-        b_R222G234B147 = {
-          province = 420
-          color = {222 234 147}
-        }
-        b_R173G11B63 = {
-          province = 1488
-          color = {222 234 147}
-        }
-        b_R177G81B162 = {
-          province = 1304
-          color = {222 234 147}
-        }
-      }
-      c_R159G118B211 = {
-        color = {159 118 211}
-        b_R159G118B211 = {
-          province = 1441
-          color = {159 118 211}
-        }
-      }
-      c_R156G136B59 = {
-        color = {156 136 59}
-        b_R156G136B59 = {
-          province = 1712
-          color = {156 136 59}
-        }
-      }
-    }
   }
   k_R110G217B100 = {
     color = {110 217 100}
@@ -1183,6 +1089,13 @@ e_R39G19B218 = {
         b_R69G122B55 = {
           province = 1044
           color = {110 217 100}
+        }
+      }
+      c_R147G92B85 = {
+        color = {147 92 85}
+        b_R147G92B85 = {
+          province = 1340
+          color = {147 92 85}
         }
       }
       c_R222G159B194 = {
@@ -1270,91 +1183,6 @@ e_R39G19B218 = {
         b_R181G212B70 = {
           province = 508
           color = {53 191 41}
-        }
-      }
-    }
-  }
-  k_R1G66B233 = {
-    color = {1 66 233}
-    capital = c_R1G66B233
-    d_R1G66B233 = {
-      color = { 1 66 233 }
-      capital = c_R1G66B233
-      c_R1G66B233 = {
-        color = {1 66 233}
-        b_R1G66B233 = {
-          province = 349
-          color = {1 66 233}
-        }
-      }
-      c_R64G226B215 = {
-        color = {64 226 215}
-        b_R64G226B215 = {
-          province = 727
-          color = {64 226 215}
-        }
-        b_R137G1B97 = {
-          province = 1356
-          color = {64 226 215}
-        }
-        b_R207G49B215 = {
-          province = 1398
-          color = {64 226 215}
-        }
-        b_R91G60B209 = {
-          province = 1191
-          color = {64 226 215}
-        }
-      }
-      c_R175G11B234 = {
-        color = {175 11 234}
-        b_R175G11B234 = {
-          province = 771
-          color = {175 11 234}
-        }
-      }
-      c_R35G14B208 = {
-        color = {35 14 208}
-        b_R35G14B208 = {
-          province = 1508
-          color = {35 14 208}
-        }
-      }
-    }
-    d_R155G5B228 = {
-      color = { 155 5 228 }
-      capital = c_R155G5B228
-      c_R155G5B228 = {
-        color = {155 5 228}
-        b_R155G5B228 = {
-          province = 563
-          color = {155 5 228}
-        }
-        b_R102G202B99 = {
-          province = 932
-          color = {155 5 228}
-        }
-        b_R54G171B77 = {
-          province = 909
-          color = {155 5 228}
-        }
-      }
-      c_R144G32B89 = {
-        color = {144 32 89}
-        b_R144G32B89 = {
-          province = 1849
-          color = {144 32 89}
-        }
-      }
-    }
-    d_R53G204B4 = {
-      color = { 53 204 4 }
-      capital = c_R53G204B4
-      c_R53G204B4 = {
-        color = {53 204 4}
-        b_R53G204B4 = {
-          province = 626
-          color = {53 204 4}
         }
       }
     }
@@ -1495,283 +1323,6 @@ e_R39G19B218 = {
         b_R121G147B76 = {
           province = 1823
           color = {121 147 76}
-        }
-      }
-    }
-  }
-}
-e_R80G141B189 = {
-  color = {80 141 189}
-  capital = c_R80G141B189
-  k_R80G141B189 = {
-    color = {80 141 189}
-    capital = c_R80G141B189
-    d_R80G141B189 = {
-      color = { 80 141 189 }
-      capital = c_R80G141B189
-      c_R80G141B189 = {
-        color = {80 141 189}
-        b_R80G141B189 = {
-          province = 6
-          color = {80 141 189}
-        }
-        b_R220G114B56 = {
-          province = 390
-          color = {80 141 189}
-        }
-        b_R148G242B43 = {
-          province = 514
-          color = {80 141 189}
-        }
-        b_R56G102B202 = {
-          province = 801
-          color = {80 141 189}
-        }
-        b_R129G236B98 = {
-          province = 1784
-          color = {80 141 189}
-        }
-        b_R78G242B88 = {
-          province = 565
-          color = {80 141 189}
-        }
-      }
-      c_R201G87B222 = {
-        color = {201 87 222}
-        b_R201G87B222 = {
-          province = 143
-          color = {201 87 222}
-        }
-      }
-      c_R248G49B201 = {
-        color = {248 49 201}
-        b_R248G49B201 = {
-          province = 218
-          color = {248 49 201}
-        }
-        b_R76G125B194 = {
-          province = 1249
-          color = {248 49 201}
-        }
-        b_R63G70B5 = {
-          province = 497
-          color = {248 49 201}
-        }
-      }
-      c_R224G172B131 = {
-        color = {224 172 131}
-        b_R224G172B131 = {
-          province = 703
-          color = {224 172 131}
-        }
-        b_R106G237B197 = {
-          province = 1850
-          color = {224 172 131}
-        }
-        b_R246G167B59 = {
-          province = 1279
-          color = {224 172 131}
-        }
-      }
-    }
-    d_R230G168B252 = {
-      color = { 230 168 252 }
-      capital = c_R230G168B252
-      c_R230G168B252 = {
-        color = {230 168 252}
-        b_R230G168B252 = {
-          province = 10
-          color = {230 168 252}
-        }
-        b_R219G212B115 = {
-          province = 842
-          color = {230 168 252}
-        }
-        b_R87G37B137 = {
-          province = 577
-          color = {230 168 252}
-        }
-        b_R131G17B148 = {
-          province = 436
-          color = {230 168 252}
-        }
-        b_R242G39B181 = {
-          province = 606
-          color = {230 168 252}
-        }
-      }
-      c_R6G25B29 = {
-        color = {6 25 29}
-        b_R6G25B29 = {
-          province = 1258
-          color = {6 25 29}
-        }
-      }
-      c_R254G240B214 = {
-        color = {254 240 214}
-        b_R254G240B214 = {
-          province = 1576
-          color = {254 240 214}
-        }
-      }
-    }
-    d_R160G46B61 = {
-      color = { 160 46 61 }
-      capital = c_R160G46B61
-      c_R160G46B61 = {
-        color = {160 46 61}
-        b_R160G46B61 = {
-          province = 135
-          color = {160 46 61}
-        }
-        b_R22G174B117 = {
-          province = 1160
-          color = {160 46 61}
-        }
-        b_R172G28B65 = {
-          province = 1341
-          color = {160 46 61}
-        }
-        b_R237G209B240 = {
-          province = 1102
-          color = {160 46 61}
-        }
-        b_R41G252B60 = {
-          province = 853
-          color = {160 46 61}
-        }
-        b_R75G90B209 = {
-          province = 149
-          color = {160 46 61}
-        }
-      }
-      c_R135G154B48 = {
-        color = {135 154 48}
-        b_R135G154B48 = {
-          province = 583
-          color = {135 154 48}
-        }
-        b_R207G116B202 = {
-          province = 1760
-          color = {135 154 48}
-        }
-      }
-      c_R188G98B32 = {
-        color = {188 98 32}
-        b_R188G98B32 = {
-          province = 1066
-          color = {188 98 32}
-        }
-      }
-    }
-  }
-}
-e_R60G34B109 = {
-  color = {60 34 109}
-  capital = c_R60G34B109
-  k_R60G34B109 = {
-    color = {60 34 109}
-    capital = c_R60G34B109
-    d_R60G34B109 = {
-      color = { 60 34 109 }
-      capital = c_R60G34B109
-      c_R60G34B109 = {
-        color = {60 34 109}
-        b_R60G34B109 = {
-          province = 7
-          color = {60 34 109}
-        }
-      }
-      c_R73G155B191 = {
-        color = {73 155 191}
-        b_R73G155B191 = {
-          province = 24
-          color = {73 155 191}
-        }
-        b_R82G22B6 = {
-          province = 920
-          color = {73 155 191}
-        }
-        b_R209G216B103 = {
-          province = 1706
-          color = {73 155 191}
-        }
-      }
-      c_R255G164B31 = {
-        color = {255 164 31}
-        b_R255G164B31 = {
-          province = 761
-          color = {255 164 31}
-        }
-        b_R39G200B9 = {
-          province = 996
-          color = {255 164 31}
-        }
-        b_R132G89B86 = {
-          province = 1904
-          color = {255 164 31}
-        }
-        b_R28G31B140 = {
-          province = 1202
-          color = {255 164 31}
-        }
-      }
-      c_R161G58B236 = {
-        color = {161 58 236}
-        b_R161G58B236 = {
-          province = 1288
-          color = {161 58 236}
-        }
-      }
-      c_R32G20B28 = {
-        color = {32 20 28}
-        b_R32G20B28 = {
-          province = 1714
-          color = {32 20 28}
-        }
-      }
-    }
-    d_R131G218B118 = {
-      color = { 131 218 118 }
-      capital = c_R131G218B118
-      c_R131G218B118 = {
-        color = {131 218 118}
-        b_R131G218B118 = {
-          province = 53
-          color = {131 218 118}
-        }
-        b_R71G143B70 = {
-          province = 924
-          color = {131 218 118}
-        }
-        b_R79G168B198 = {
-          province = 102
-          color = {131 218 118}
-        }
-      }
-      c_R49G161B57 = {
-        color = {49 161 57}
-        b_R49G161B57 = {
-          province = 944
-          color = {49 161 57}
-        }
-        b_R160G113B224 = {
-          province = 1052
-          color = {49 161 57}
-        }
-      }
-      c_R254G74B151 = {
-        color = {254 74 151}
-        b_R254G74B151 = {
-          province = 934
-          color = {254 74 151}
-        }
-      }
-      c_R190G55B92 = {
-        color = {190 55 92}
-        b_R190G55B92 = {
-          province = 1091
-          color = {190 55 92}
         }
       }
     }
@@ -2806,6 +2357,21 @@ e_R197G154B85 = {
   k_R66G41B37 = {
     color = {66 41 37}
     capital = c_R66G41B37
+    d_R215G142B201 = {
+      color = { 215 142 201 }
+      capital = c_R215G142B201
+      c_R215G142B201 = {
+        color = {215 142 201}
+        b_R215G142B201 = {
+          province = 1054
+          color = {215 142 201}
+        }
+        b_R46G250B110 = {
+          province = 1779
+          color = {215 142 201}
+        }
+      }
+    }
     d_R66G41B37 = {
       color = { 66 41 37 }
       capital = c_R66G41B37
@@ -3944,6 +3510,21 @@ e_R171G188B163 = {
   k_R187G92B194 = {
     color = {187 92 194}
     capital = c_R187G92B194
+    d_R101G117B157 = {
+      color = { 101 117 157 }
+      capital = c_R101G117B157
+      c_R101G117B157 = {
+        color = {101 117 157}
+        b_R101G117B157 = {
+          province = 1225
+          color = {101 117 157}
+        }
+        b_R138G165B152 = {
+          province = 1261
+          color = {101 117 157}
+        }
+      }
+    }
     d_R187G92B194 = {
       color = { 187 92 194 }
       capital = c_R187G92B194
@@ -4134,6 +3715,37 @@ e_R233G171B43 = {
         }
       }
     }
+    d_R9G137B177 = {
+      color = { 9 137 177 }
+      capital = c_R9G137B177
+      c_R9G137B177 = {
+        color = {9 137 177}
+        b_R9G137B177 = {
+          province = 298
+          color = {9 137 177}
+        }
+        b_R34G199B71 = {
+          province = 1472
+          color = {9 137 177}
+        }
+        b_R87G142B185 = {
+          province = 1142
+          color = {9 137 177}
+        }
+        b_R181G136B137 = {
+          province = 1399
+          color = {9 137 177}
+        }
+        b_R148G134B3 = {
+          province = 1416
+          color = {9 137 177}
+        }
+        b_R25G232B75 = {
+          province = 307
+          color = {9 137 177}
+        }
+      }
+    }
   }
   k_R248G138B60 = {
     color = {248 138 60}
@@ -4219,10 +3831,6 @@ e_R233G171B43 = {
         }
         b_R254G67B220 = {
           province = 1777
-          color = {176 39 72}
-        }
-        b_R216G232B122 = {
-          province = 1095
           color = {176 39 72}
         }
         b_R55G68B248 = {
@@ -4317,6 +3925,17 @@ e_R233G171B43 = {
           color = {250 201 125}
         }
       }
+      c_R245G69B150 = {
+        color = {245 69 150}
+        b_R245G69B150 = {
+          province = 535
+          color = {245 69 150}
+        }
+        b_R192G106B87 = {
+          province = 1724
+          color = {245 69 150}
+        }
+      }
     }
     d_R197G66B115 = {
       color = { 197 66 115 }
@@ -4372,37 +3991,6 @@ e_R233G171B43 = {
         }
       }
     }
-    d_R9G137B177 = {
-      color = { 9 137 177 }
-      capital = c_R9G137B177
-      c_R9G137B177 = {
-        color = {9 137 177}
-        b_R9G137B177 = {
-          province = 298
-          color = {9 137 177}
-        }
-        b_R34G199B71 = {
-          province = 1472
-          color = {9 137 177}
-        }
-        b_R87G142B185 = {
-          province = 1142
-          color = {9 137 177}
-        }
-        b_R181G136B137 = {
-          province = 1399
-          color = {9 137 177}
-        }
-        b_R148G134B3 = {
-          province = 1416
-          color = {9 137 177}
-        }
-        b_R25G232B75 = {
-          province = 307
-          color = {9 137 177}
-        }
-      }
-    }
   }
   k_R33G19B192 = {
     color = {33 19 192}
@@ -4441,25 +4029,6 @@ e_R233G171B43 = {
         }
       }
     }
-    d_R78G60B115 = {
-      color = { 78 60 115 }
-      capital = c_R78G60B115
-      c_R78G60B115 = {
-        color = {78 60 115}
-        b_R78G60B115 = {
-          province = 284
-          color = {78 60 115}
-        }
-        b_R159G174B240 = {
-          province = 1683
-          color = {78 60 115}
-        }
-        b_R228G211B220 = {
-          province = 866
-          color = {78 60 115}
-        }
-      }
-    }
     d_R185G43B167 = {
       color = { 185 43 167 }
       capital = c_R185G43B167
@@ -4476,6 +4045,98 @@ e_R233G171B43 = {
         b_R210G34B198 = {
           province = 1521
           color = {185 43 167}
+        } 
+        b_R216G232B122 = {
+          province = 1095
+          color = {185 43 167}
+        }
+      }
+    }
+  }
+  k_R205G60B21 = {
+    color = {205 60 21}
+    capital = c_R205G60B21
+    d_R205G60B21 = {
+      color = { 205 60 21 }
+      capital = c_R205G60B21
+      c_R205G60B21 = {
+        color = {205 60 21}
+        b_R205G60B21 = {
+          province = 243
+          color = {205 60 21}
+        }
+        b_R191G47B78 = {
+          province = 899
+          color = {205 60 21}
+        }
+        b_R121G234B115 = {
+          province = 1795
+          color = {205 60 21}
+        }
+      }
+    }
+    d_R3G154B152 = {
+      color = { 3 154 152 }
+      capital = c_R3G154B152
+      c_R3G154B152 = {
+        color = {3 154 152}
+        b_R3G154B152 = {
+          province = 355
+          color = {3 154 152}
+        }
+        b_R137G184B136 = {
+          province = 900
+          color = {3 154 152}
+        }
+        b_R29G243B111 = {
+          province = 905
+          color = {3 154 152}
+        }
+        b_R220G248B220 = {
+          province = 692
+          color = {3 154 152}
+        }
+        b_R141G215B144 = {
+          province = 1289
+          color = {3 154 152}
+        }
+        b_R32G241B41 = {
+          province = 1828
+          color = {3 154 152}
+        }
+      }
+    }
+    d_R32G110B232 = {
+      color = { 32 110 232 }
+      capital = c_R32G110B232
+      c_R32G110B232 = {
+        color = {32 110 232}
+        b_R32G110B232 = {
+          province = 969
+          color = {32 110 232}
+        }
+        b_R137G114B252 = {
+          province = 1247
+          color = {32 110 232}
+        }
+      }
+    }
+    d_R192G35B126 = {
+      color = { 192 35 126 }
+      capital = c_R192G35B126
+      c_R192G35B126 = {
+        color = {192 35 126}
+        b_R192G35B126 = {
+          province = 1369
+          color = {192 35 126}
+        }
+        b_R154G16B26 = {
+          province = 1604
+          color = {192 35 126}
+        }
+        b_R255G32B192 = {
+          province = 1891
+          color = {192 35 126}
         }
       }
     }
@@ -5159,344 +4820,120 @@ e_R123G196B2 = {
     }
   }
 }
-e_R153G226B29 = {
-  color = {153 226 29}
-  capital = c_R153G226B29
-  k_R153G226B29 = {
-    color = {153 226 29}
-    capital = c_R153G226B29
-    d_R153G226B29 = {
-      color = { 153 226 29 }
-      capital = c_R153G226B29
-      c_R153G226B29 = {
-        color = {153 226 29}
-        b_R153G226B29 = {
-          province = 21
-          color = {153 226 29}
-        }
-        b_R22G210B231 = {
-          province = 961
-          color = {153 226 29}
-        }
-      }
-      c_R238G209B34 = {
-        color = {238 209 34}
-        b_R238G209B34 = {
-          province = 278
-          color = {238 209 34}
-        }
-        b_R207G166B51 = {
-          province = 1221
-          color = {238 209 34}
-        }
-        b_R242G162B185 = {
-          province = 338
-          color = {238 209 34}
-        }
-        b_R221G119B164 = {
-          province = 1056
-          color = {238 209 34}
-        }
-        b_R212G247B1 = {
-          province = 1240
-          color = {238 209 34}
-        }
-        b_R185G18B183 = {
-          province = 1278
-          color = {238 209 34}
-        }
-      }
-      c_R17G57B213 = {
-        color = {17 57 213}
-        b_R17G57B213 = {
-          province = 170
-          color = {17 57 213}
-        }
-        b_R216G68B178 = {
-          province = 1503
-          color = {17 57 213}
-        }
-        b_R218G83B79 = {
-          province = 1799
-          color = {17 57 213}
-        }
-      }
-      c_R104G131B117 = {
-        color = {104 131 117}
-        b_R104G131B117 = {
-          province = 426
-          color = {104 131 117}
-        }
-        b_R146G146B171 = {
-          province = 1006
-          color = {104 131 117}
-        }
-      }
-      c_R70G133B92 = {
-        color = {70 133 92}
-        b_R70G133B92 = {
-          province = 1501
-          color = {70 133 92}
-        }
-        b_R119G234B79 = {
-          province = 1856
-          color = {70 133 92}
-        }
-      }
-    }
-  }
-  k_R221G131B30 = {
-    color = {221 131 30}
-    capital = c_R221G131B30
-    d_R221G131B30 = {
-      color = { 221 131 30 }
-      capital = c_R221G131B30
-      c_R221G131B30 = {
-        color = {221 131 30}
-        b_R221G131B30 = {
-          province = 87
-          color = {221 131 30}
-        }
-        b_R96G86B76 = {
-          province = 1204
-          color = {221 131 30}
-        }
-        b_R165G228B43 = {
-          province = 1513
-          color = {221 131 30}
-        }
-        b_R208G187B102 = {
-          province = 669
-          color = {221 131 30}
-        }
-      }
-      c_R5G254B82 = {
-        color = {5 254 82}
-        b_R5G254B82 = {
-          province = 165
-          color = {5 254 82}
-        }
-        b_R67G83B127 = {
-          province = 1217
-          color = {5 254 82}
-        }
-        b_R173G205B182 = {
-          province = 1194
-          color = {5 254 82}
-        }
-        b_R145G59B179 = {
-          province = 1833
-          color = {5 254 82}
-        }
-      }
-    }
-    d_R86G174B76 = {
-      color = { 86 174 76 }
-      capital = c_R86G174B76
-      c_R86G174B76 = {
-        color = {86 174 76}
-        b_R86G174B76 = {
-          province = 303
-          color = {86 174 76}
-        }
-        b_R149G193B83 = {
-          province = 1559
-          color = {86 174 76}
-        }
-        b_R13G70B134 = {
-          province = 655
-          color = {86 174 76}
-        }
-      }
-      c_R173G72B144 = {
-        color = {173 72 144}
-        b_R173G72B144 = {
-          province = 427
-          color = {173 72 144}
-        }
-        b_R189G109B212 = {
-          province = 689
-          color = {173 72 144}
-        }
-        b_R218G47B185 = {
-          province = 439
-          color = {173 72 144}
-        }
-      }
-    }
-    d_R188G135B173 = {
-      color = { 188 135 173 }
-      capital = c_R188G135B173
-      c_R188G135B173 = {
-        color = {188 135 173}
-        b_R188G135B173 = {
-          province = 322
-          color = {188 135 173}
-        }
-        b_R126G202B221 = {
-          province = 552
-          color = {188 135 173}
-        }
-      }
-    }
-    d_R122G183B250 = {
-      color = { 122 183 250 }
-      capital = c_R122G183B250
-      c_R122G183B250 = {
-        color = {122 183 250}
-        b_R122G183B250 = {
-          province = 329
-          color = {122 183 250}
-        }
-      }
-      c_R110G36B140 = {
-        color = {110 36 140}
-        b_R110G36B140 = {
-          province = 581
-          color = {110 36 140}
-        }
-        b_R83G137B32 = {
-          province = 923
-          color = {110 36 140}
-        }
-      }
-    }
-  }
-  k_R125G104B240 = {
-    color = {125 104 240}
-    capital = c_R125G104B240
-    d_R125G104B240 = {
-      color = { 125 104 240 }
-      capital = c_R125G104B240
-      c_R125G104B240 = {
-        color = {125 104 240}
-        b_R125G104B240 = {
-          province = 300
-          color = {125 104 240}
-        }
-        b_R84G87B101 = {
-          province = 1273
-          color = {125 104 240}
-        }
-        b_R119G184B128 = {
-          province = 539
-          color = {125 104 240}
-        }
-        b_R156G166B66 = {
-          province = 773
-          color = {125 104 240}
-        }
-        b_R242G27B42 = {
-          province = 345
-          color = {125 104 240}
-        }
-      }
-    }
-  }
-  k_R175G74B209 = {
-    color = {175 74 209}
-    capital = c_R175G74B209
-    d_R175G74B209 = {
-      color = { 175 74 209 }
-      capital = c_R175G74B209
-      c_R175G74B209 = {
-        color = {175 74 209}
-        b_R175G74B209 = {
-          province = 304
-          color = {175 74 209}
-        }
-        b_R176G100B17 = {
-          province = 1510
-          color = {175 74 209}
-        }
-        b_R9G251B114 = {
-          province = 763
-          color = {175 74 209}
-        }
-        b_R104G32B156 = {
-          province = 1193
-          color = {175 74 209}
-        }
-        b_R130G220B102 = {
-          province = 470
-          color = {175 74 209}
-        }
-      }
-    }
-    d_R251G82B112 = {
-      color = { 251 82 112 }
-      capital = c_R251G82B112
-      c_R251G82B112 = {
-        color = {251 82 112}
-        b_R251G82B112 = {
-          province = 421
-          color = {251 82 112}
-        }
-        b_R14G79B75 = {
-          province = 1820
-          color = {251 82 112}
-        }
-        b_R82G76B108 = {
-          province = 1624
-          color = {251 82 112}
-        }
-        b_R17G146B182 = {
-          province = 1642
-          color = {251 82 112}
-        }
-        b_R0G146B128 = {
-          province = 476
-          color = {251 82 112}
-        }
-        b_R240G120B249 = {
-          province = 1743
-          color = {251 82 112}
-        }
-      }
-    }
-    d_R232G55B52 = {
-      color = { 232 55 52 }
-      capital = c_R232G55B52
-      c_R232G55B52 = {
-        color = {232 55 52}
-        b_R232G55B52 = {
-          province = 575
-          color = {232 55 52}
-        }
-        b_R233G112B61 = {
-          province = 1334
-          color = {232 55 52}
-        }
-        b_R230G48B33 = {
-          province = 1883
-          color = {232 55 52}
-        }
-      }
-      c_R234G60B156 = {
-        color = {234 60 156}
-        b_R234G60B156 = {
-          province = 949
-          color = {234 60 156}
-        }
-        b_R247G71B209 = {
-          province = 1018
-          color = {234 60 156}
-        }
-        b_R19G199B168 = {
-          province = 1550
-          color = {234 60 156}
-        }
-        b_R105G232B235 = {
-          province = 1414
-          color = {234 60 156}
-        }
-      }
-    }
-  }
-}
 e_R49G77B131 = {
   color = {49 77 131}
   capital = c_R49G77B131
+  k_R214G142B38 = {
+    color = {214 142 38}
+    capital = c_R214G142B38
+    d_R214G142B38 = {
+      color = { 214 142 38 }
+      capital = c_R214G142B38
+      c_R214G142B38 = {
+        color = {214 142 38}
+        b_R214G142B38 = {
+          province = 259
+          color = {214 142 38}
+        }
+        b_R156G22B198 = {
+          province = 1455
+          color = {214 142 38}
+        }
+        b_R28G116B140 = {
+          province = 1736
+          color = {214 142 38}
+        }
+      }
+      c_R192G172B34 = {
+        color = {192 172 34}
+        b_R192G172B34 = {
+          province = 328
+          color = {192 172 34}
+        }
+        b_R2G246B188 = {
+          province = 854
+          color = {192 172 34}
+        }
+        b_R115G13B243 = {
+          province = 646
+          color = {192 172 34}
+        }
+        b_R147G177B247 = {
+          province = 878
+          color = {192 172 34}
+        }
+        b_R7G148B113 = {
+          province = 711
+          color = {192 172 34}
+        }
+      }
+    }
+    d_R235G194B64 = {
+      color = { 235 194 64 }
+      capital = c_R235G194B64
+      c_R235G194B64 = {
+        color = {235 194 64}
+        b_R235G194B64 = {
+          province = 593
+          color = {235 194 64}
+        }
+        b_R247G124B235 = {
+          province = 1711
+          color = {235 194 64}
+        }
+        b_R61G116B35 = {
+          province = 1220
+          color = {235 194 64}
+        }
+        b_R94G200B150 = {
+          province = 1750
+          color = {235 194 64}
+        }
+        b_R153G226B107 = {
+          province = 640
+          color = {235 194 64}
+        }
+      }
+    }
+    d_R26G224B194 = {
+      color = { 26 224 194 }
+      capital = c_R26G224B194
+      c_R26G224B194 = {
+        color = {26 224 194}
+        b_R26G224B194 = {
+          province = 658
+          color = {26 224 194}
+        }
+        b_R162G25B55 = {
+          province = 741
+          color = {26 224 194}
+        }
+        b_R72G245B229 = {
+          province = 925
+          color = {26 224 194}
+        }
+        b_R234G44B10 = {
+          province = 1848
+          color = {26 224 194}
+        }
+        b_R181G151B112 = {
+          province = 1101
+          color = {26 224 194}
+        }
+      }
+      c_R74G83B194 = {
+        color = {74 83 194}
+        b_R74G83B194 = {
+          province = 718
+          color = {74 83 194}
+        }
+        b_R90G123B185 = {
+          province = 1765
+          color = {74 83 194}
+        }
+      }
+    }
+  }
   k_R49G77B131 = {
     color = {49 77 131}
     capital = c_R49G77B131
@@ -5617,6 +5054,88 @@ e_R49G77B131 = {
         b_R67G230B129 = {
           province = 1259
           color = {113 164 210}
+        }
+      }
+    }
+  }
+  k_R193G135B175 = {
+    color = {193 135 175}
+    capital = c_R193G135B175
+    d_R193G135B175 = {
+      color = { 193 135 175 }
+      capital = c_R193G135B175
+      c_R193G135B175 = {
+        color = {193 135 175}
+        b_R193G135B175 = {
+          province = 155
+          color = {193 135 175}
+        }
+        b_R105G192B196 = {
+          province = 518
+          color = {193 135 175}
+        }
+      }
+      c_R116G112B222 = {
+        color = {116 112 222}
+        b_R116G112B222 = {
+          province = 1049
+          color = {116 112 222}
+        }
+        b_R234G255B119 = {
+          province = 1195
+          color = {116 112 222}
+        }
+      }
+    }
+    d_R155G20B95 = {
+      color = { 155 20 95 }
+      capital = c_R155G20B95
+      c_R155G20B95 = {
+        color = {155 20 95}
+        b_R155G20B95 = {
+          province = 290
+          color = {155 20 95}
+        }
+        b_R81G99B94 = {
+          province = 511
+          color = {155 20 95}
+        }
+      }
+      c_R167G132B25 = {
+        color = {167 132 25}
+        b_R167G132B25 = {
+          province = 487
+          color = {167 132 25}
+        }
+        b_R233G149B51 = {
+          province = 1894
+          color = {167 132 25}
+        }
+      }
+      c_R160G87B81 = {
+        color = {160 87 81}
+        b_R160G87B81 = {
+          province = 674
+          color = {160 87 81}
+        }
+        b_R101G155B16 = {
+          province = 1314
+          color = {160 87 81}
+        }
+        b_R77G204B214 = {
+          province = 1443
+          color = {160 87 81}
+        }
+      }
+      c_R200G69B10 = {
+        color = {200 69 10}
+        b_R200G69B10 = {
+          province = 1201
+          color = {200 69 10}
+        }
+        b_R207G25B46 = {
+          province = 1308
+          color = {200 69 10}
         }
       }
     }
@@ -6167,29 +5686,6 @@ e_R140G6B81 = {
         }
       }
     }
-    d_R116G102B154 = {
-      color = { 116 102 154 }
-      capital = c_R116G102B154
-      c_R116G102B154 = {
-        color = {116 102 154}
-        b_R116G102B154 = {
-          province = 466
-          color = {116 102 154}
-        }
-        b_R61G67B27 = {
-          province = 1219
-          color = {116 102 154}
-        }
-        b_R77G138B216 = {
-          province = 1154
-          color = {116 102 154}
-        }
-        b_R57G22B38 = {
-          province = 664
-          color = {116 102 154}
-        }
-      }
-    }
     d_R171G107B85 = {
       color = { 171 107 85 }
       capital = c_R171G107B85
@@ -6287,6 +5783,146 @@ e_R140G6B81 = {
 e_R248G8B86 = {
   color = {248 8 86}
   capital = c_R248G8B86
+  k_R221G131B30 = {
+    color = {221 131 30}
+    capital = c_R221G131B30
+    d_R116G102B154 = {
+      color = { 116 102 154 }
+      capital = c_R116G102B154
+      c_R116G102B154 = {
+        color = {116 102 154}
+        b_R116G102B154 = {
+          province = 466
+          color = {116 102 154}
+        }
+        b_R61G67B27 = {
+          province = 1219
+          color = {116 102 154}
+        }
+        b_R77G138B216 = {
+          province = 1154
+          color = {116 102 154}
+        }
+        b_R57G22B38 = {
+          province = 664
+          color = {116 102 154}
+        }
+      }
+    }
+    d_R221G131B30 = {
+      color = { 221 131 30 }
+      capital = c_R221G131B30
+      c_R221G131B30 = {
+        color = {221 131 30}
+        b_R221G131B30 = {
+          province = 87
+          color = {221 131 30}
+        }
+        b_R96G86B76 = {
+          province = 1204
+          color = {221 131 30}
+        }
+        b_R165G228B43 = {
+          province = 1513
+          color = {221 131 30}
+        }
+        b_R208G187B102 = {
+          province = 669
+          color = {221 131 30}
+        }
+      }
+      c_R5G254B82 = {
+        color = {5 254 82}
+        b_R5G254B82 = {
+          province = 165
+          color = {5 254 82}
+        }
+        b_R67G83B127 = {
+          province = 1217
+          color = {5 254 82}
+        }
+        b_R173G205B182 = {
+          province = 1194
+          color = {5 254 82}
+        }
+        b_R145G59B179 = {
+          province = 1833
+          color = {5 254 82}
+        }
+      }
+    }
+    d_R86G174B76 = {
+      color = { 86 174 76 }
+      capital = c_R86G174B76
+      c_R86G174B76 = {
+        color = {86 174 76}
+        b_R86G174B76 = {
+          province = 303
+          color = {86 174 76}
+        }
+        b_R149G193B83 = {
+          province = 1559
+          color = {86 174 76}
+        }
+        b_R13G70B134 = {
+          province = 655
+          color = {86 174 76}
+        }
+      }
+      c_R173G72B144 = {
+        color = {173 72 144}
+        b_R173G72B144 = {
+          province = 427
+          color = {173 72 144}
+        }
+        b_R189G109B212 = {
+          province = 689
+          color = {173 72 144}
+        }
+        b_R218G47B185 = {
+          province = 439
+          color = {173 72 144}
+        }
+      }
+    }
+    d_R188G135B173 = {
+      color = { 188 135 173 }
+      capital = c_R188G135B173
+      c_R188G135B173 = {
+        color = {188 135 173}
+        b_R188G135B173 = {
+          province = 322
+          color = {188 135 173}
+        }
+        b_R126G202B221 = {
+          province = 552
+          color = {188 135 173}
+        }
+      }
+    }
+    d_R122G183B250 = {
+      color = { 122 183 250 }
+      capital = c_R122G183B250
+      c_R122G183B250 = {
+        color = {122 183 250}
+        b_R122G183B250 = {
+          province = 329
+          color = {122 183 250}
+        }
+      }
+      c_R110G36B140 = {
+        color = {110 36 140}
+        b_R110G36B140 = {
+          province = 581
+          color = {110 36 140}
+        }
+        b_R83G137B32 = {
+          province = 923
+          color = {110 36 140}
+        }
+      }
+    }
+  }
   k_R63G134B154 = {
     color = {63 134 154}
     capital = c_R63G134B154
@@ -6434,67 +6070,48 @@ e_R248G8B86 = {
       }
     }
   }
-}
-e_R205G37B107 = {
-  color = {205 37 107}
-  capital = c_R205G37B107
-  k_R205G37B107 = {
-    color = {205 37 107}
-    capital = c_R205G37B107
-    d_R205G37B107 = {
-      color = { 205 37 107 }
-      capital = c_R205G37B107
-      c_R205G37B107 = {
-        color = {205 37 107}
-        b_R205G37B107 = {
-          province = 30
-          color = {205 37 107}
+  k_R217G148B185 = {
+    color = {217 148 185}
+    capital = c_R217G148B185
+    d_R217G148B185 = {
+      color = { 217 148 185 }
+      capital = c_R217G148B185
+      c_R217G148B185 = {
+        color = {217 148 185}
+        b_R217G148B185 = {
+          province = 80
+          color = {217 148 185}
         }
-        b_R100G11B125 = {
-          province = 317
-          color = {205 37 107}
+        b_R178G85B70 = {
+          province = 309
+          color = {217 148 185}
         }
-        b_R0G72B34 = {
-          province = 67
-          color = {205 37 107}
-        }
-        b_R255G93B191 = {
-          province = 540
-          color = {205 37 107}
-        }
-        b_R47G169B180 = {
-          province = 369
-          color = {205 37 107}
+        b_R85G239B19 = {
+          province = 1032
+          color = {217 148 185}
         }
       }
     }
-    d_R90G131B186 = {
-      color = { 90 131 186 }
-      capital = c_R90G131B186
-      c_R90G131B186 = {
-        color = {90 131 186}
-        b_R90G131B186 = {
-          province = 40
-          color = {90 131 186}
+    d_R28G237B250 = {
+      color = { 28 237 250 }
+      capital = c_R28G237B250
+      c_R28G237B250 = {
+        color = {28 237 250}
+        b_R28G237B250 = {
+          province = 748
+          color = {28 237 250}
         }
-        b_R172G4B126 = {
-          province = 517
-          color = {90 131 186}
+        b_R156G237B89 = {
+          province = 1238
+          color = {28 237 250}
         }
-        b_R118G185B65 = {
-          province = 445
-          color = {90 131 186}
+        b_R173G103B115 = {
+          province = 1884
+          color = {28 237 250}
         }
-        b_R101G170B98 = {
-          province = 676
-          color = {90 131 186}
-        }
-      }
-      c_R107G238B127 = {
-        color = {107 238 127}
-        b_R107G238B127 = {
-          province = 157
-          color = {107 238 127}
+        b_R143G238B13 = {
+          province = 1125
+          color = {28 237 250}
         }
       }
     }
@@ -6551,76 +6168,56 @@ e_R205G37B107 = {
         }
       }
     }
-    d_R255G207B183 = {
-      color = { 255 207 183 }
-      capital = c_R255G207B183
-      c_R255G207B183 = {
-        color = {255 207 183}
-        b_R255G207B183 = {
-          province = 209
-          color = {255 207 183}
+    d_R231G214B232 = {
+      color = { 231 214 232 }
+      capital = c_R231G214B232
+      c_R98G25B211 = {
+        color = {98 25 211}
+        b_R98G25B211 = {
+          province = 1408
+          color = {98 25 211}
         }
-        b_R109G29B65 = {
-          province = 1208
-          color = {255 207 183}
+        b_R161G85B115 = {
+          province = 1771
+          color = {98 25 211}
         }
-        b_R150G15B54 = {
-          province = 1870
-          color = {255 207 183}
-        }
-        b_R249G80B201 = {
-          province = 1662
-          color = {255 207 183}
-        }
-        b_R222G25B40 = {
-          province = 663
-          color = {255 207 183}
-        }
-        b_R94G143B105 = {
-          province = 831
-          color = {255 207 183}
+        b_R220G100B238 = {
+          province = 1723
+          color = {98 25 211}
         }
       }
-      c_R96G103B184 = {
-        color = {96 103 184}
-        b_R96G103B184 = {
-          province = 400
-          color = {96 103 184}
+      c_R231G214B232 = {
+        color = {231 214 232}
+        b_R231G214B232 = {
+          province = 465
+          color = {231 214 232}
         }
-        b_R105G11B45 = {
-          province = 648
-          color = {96 103 184}
+        b_R177G215B2 = {
+          province = 513
+          color = {231 214 232}
         }
-        b_R204G60B160 = {
-          province = 705
-          color = {96 103 184}
+        b_R176G24B82 = {
+          province = 836
+          color = {231 214 232}
         }
-        b_R137G127B196 = {
-          province = 1243
-          color = {96 103 184}
+        b_R50G88B246 = {
+          province = 1428
+          color = {231 214 232}
+        }
+        b_R167G90B144 = {
+          province = 739
+          color = {231 214 232}
         }
       }
-    }
-    d_R199G111B4 = {
-      color = { 199 111 4 }
-      capital = c_R199G111B4
-      c_R199G111B4 = {
-        color = {199 111 4}
-        b_R199G111B4 = {
-          province = 542
-          color = {199 111 4}
+      c_R131G111B50 = {
+        color = {131 111 50}
+        b_R131G111B50 = {
+          province = 1114
+          color = {131 111 50}
         }
-        b_R225G199B172 = {
-          province = 598
-          color = {199 111 4}
-        }
-        b_R10G21B217 = {
-          province = 1420
-          color = {199 111 4}
-        }
-        b_R173G31B159 = {
-          province = 1190
-          color = {199 111 4}
+        b_R225G220B183 = {
+          province = 1665
+          color = {131 111 50}
         }
       }
     }
@@ -6629,6 +6226,55 @@ e_R205G37B107 = {
 e_R175G65B115 = {
   color = {175 65 115}
   capital = c_R175G65B115
+  k_R73G184B27 = {
+    color = {73 184 27}
+    capital = c_R73G184B27
+    d_R73G184B27 = {
+      color = { 73 184 27 }
+      capital = c_R73G184B27
+      c_R73G184B27 = {
+        color = {73 184 27}
+        b_R73G184B27 = {
+          province = 618
+          color = {73 184 27}
+        }
+        b_R18G63B155 = {
+          province = 1271
+          color = {73 184 27}
+        }
+        b_R121G104B20 = {
+          province = 781
+          color = {73 184 27}
+        }
+      }
+      c_R139G161B192 = {
+        color = {139 161 192}
+        b_R139G161B192 = {
+          province = 1635
+          color = {139 161 192}
+        }
+        b_R129G215B236 = {
+          province = 678
+          color = {73 184 27}
+        }
+      }
+    }
+    d_R145G108B106 = {
+      color = { 145 108 106 }
+      capital = c_R145G108B106
+      c_R145G108B106 = {
+        color = {145 108 106}
+        b_R145G108B106 = {
+          province = 901
+          color = {145 108 106}
+        }
+        b_R130G14B250 = {
+          province = 1634
+          color = {145 108 106}
+        }
+      }
+    }
+  }
   k_R175G65B115 = {
     color = {175 65 115}
     capital = c_R175G65B115
@@ -6913,268 +6559,38 @@ e_R175G65B115 = {
       }
     }
   }
-  k_R242G121B27 = {
-    color = {242 121 27}
-    capital = c_R242G121B27
-    d_R242G121B27 = {
-      color = { 242 121 27 }
-      capital = c_R242G121B27
-      c_R242G121B27 = {
-        color = {242 121 27}
-        b_R242G121B27 = {
-          province = 73
-          color = {242 121 27}
-        }
-        b_R101G241B78 = {
-          province = 393
-          color = {242 121 27}
-        }
-        b_R230G99B181 = {
-          province = 1375
-          color = {242 121 27}
-        }
-        b_R36G108B7 = {
-          province = 895
-          color = {242 121 27}
-        }
-      }
-      c_R217G122B225 = {
-        color = {217 122 225}
-        b_R217G122B225 = {
-          province = 600
-          color = {217 122 225}
-        }
-        b_R225G136B57 = {
-          province = 922
-          color = {217 122 225}
-        }
-      }
-    }
-    d_R203G137B84 = {
-      color = { 203 137 84 }
-      capital = c_R203G137B84
-      c_R203G137B84 = {
-        color = {203 137 84}
-        b_R203G137B84 = {
-          province = 77
-          color = {203 137 84}
-        }
-        b_R251G64B80 = {
-          province = 811
-          color = {203 137 84}
-        }
-        b_R65G195B98 = {
-          province = 527
-          color = {203 137 84}
-        }
-        b_R65G149B192 = {
-          province = 1057
-          color = {203 137 84}
-        }
-      }
-    }
-    d_R114G58B178 = {
-      color = { 114 58 178 }
-      capital = c_R114G58B178
-      c_R114G58B178 = {
-        color = {114 58 178}
-        b_R114G58B178 = {
-          province = 142
-          color = {114 58 178}
-        }
-        b_R66G69B123 = {
-          province = 1293
-          color = {114 58 178}
-        }
-        b_R158G158B17 = {
-          province = 221
-          color = {114 58 178}
-        }
-        b_R37G215B50 = {
-          province = 1409
-          color = {114 58 178}
-        }
-        b_R141G248B236 = {
-          province = 428
-          color = {114 58 178}
-        }
-      }
-      c_R154G241B251 = {
-        color = {154 241 251}
-        b_R154G241B251 = {
-          province = 385
-          color = {154 241 251}
-        }
-      }
-    }
-    d_R147G178B54 = {
-      color = { 147 178 54 }
-      capital = c_R147G178B54
-      c_R147G178B54 = {
-        color = {147 178 54}
-        b_R147G178B54 = {
-          province = 333
-          color = {147 178 54}
-        }
-        b_R199G4B87 = {
-          province = 1017
-          color = {147 178 54}
-        }
-        b_R59G120B79 = {
-          province = 1643
-          color = {147 178 54}
-        }
-        b_R64G74B221 = {
-          province = 1210
-          color = {147 178 54}
-        }
-      }
-      c_R173G207B91 = {
-        color = {173 207 91}
-        b_R173G207B91 = {
-          province = 471
-          color = {173 207 91}
-        }
-        b_R234G206B200 = {
-          province = 1387
-          color = {173 207 91}
-        }
-        b_R104G151B0 = {
-          province = 1656
-          color = {173 207 91}
-        }
-        b_R235G237B238 = {
-          province = 1028
-          color = {173 207 91}
-        }
-      }
-    }
-  }
-  k_R252G153B175 = {
-    color = {252 153 175}
-    capital = c_R252G153B175
-    d_R252G153B175 = {
-      color = { 252 153 175 }
-      capital = c_R252G153B175
-      c_R252G153B175 = {
-        color = {252 153 175}
-        b_R252G153B175 = {
-          province = 101
-          color = {252 153 175}
-        }
-        b_R109G210B151 = {
-          province = 1046
-          color = {252 153 175}
-        }
-        b_R99G201B21 = {
-          province = 1244
-          color = {252 153 175}
-        }
-      }
-      c_R132G255B191 = {
-        color = {132 255 191}
-        b_R132G255B191 = {
-          province = 236
-          color = {132 255 191}
-        }
-      }
-    }
-    d_R194G85B134 = {
-      color = { 194 85 134 }
-      capital = c_R194G85B134
-      c_R194G85B134 = {
-        color = {194 85 134}
-        b_R194G85B134 = {
-          province = 140
-          color = {194 85 134}
-        }
-        b_R131G228B2 = {
-          province = 437
-          color = {194 85 134}
-        }
-        b_R154G189B124 = {
-          province = 285
-          color = {194 85 134}
-        }
-      }
-      c_R4G156B28 = {
-        color = {4 156 28}
-        b_R4G156B28 = {
-          province = 202
-          color = {4 156 28}
-        }
-        b_R126G117B42 = {
-          province = 459
-          color = {4 156 28}
-        }
-        b_R14G35B216 = {
-          province = 1275
-          color = {4 156 28}
-        }
-        b_R188G98B136 = {
-          province = 1096
-          color = {4 156 28}
-        }
-      }
-    }
-    d_R213G187B105 = {
-      color = { 213 187 105 }
-      capital = c_R213G187B105
-      c_R213G187B105 = {
-        color = {213 187 105}
-        b_R213G187B105 = {
-          province = 452
-          color = {213 187 105}
-        }
-        b_R155G210B56 = {
-          province = 623
-          color = {213 187 105}
-        }
-        b_R197G227B100 = {
-          province = 1494
-          color = {213 187 105}
-        }
-        b_R2G5B51 = {
-          province = 586
-          color = {213 187 105}
-        }
-        b_R169G210B42 = {
-          province = 1412
-          color = {213 187 105}
-        }
-      }
-    }
-    d_R176G118B250 = {
-      color = { 176 118 250 }
-      capital = c_R176G118B250
-      c_R176G118B250 = {
-        color = {176 118 250}
-        b_R176G118B250 = {
-          province = 453
-          color = {176 118 250}
-        }
-        b_R249G164B169 = {
-          province = 622
-          color = {176 118 250}
-        }
-        b_R177G4B157 = {
-          province = 523
-          color = {176 118 250}
-        }
-        b_R56G72B48 = {
-          province = 1881
-          color = {176 118 250}
-        }
-        b_R12G41B24 = {
-          province = 953
-          color = {176 118 250}
-        }
-      }
-    }
-  }
   k_R214G66B210 = {
     color = {214 66 210}
     capital = c_R214G66B210
+    d_R111G136B141 = {
+      color = { 111 136 141 }
+      capital = c_R111G136B141
+      c_R111G136B141 = {
+        color = {111 136 141}
+        b_R111G136B141 = {
+          province = 220
+          color = {111 136 141}
+        }
+        b_R65G115B103 = {
+          province = 1302
+          color = {111 136 141}
+        }
+      }
+      c_R19G5B80 = {
+        color = {19 5 80}
+        b_R19G5B80 = {
+          province = 696
+          color = {19 5 80}
+        }
+      }
+      c_R218G117B161 = {
+        color = {218 117 161}
+        b_R218G117B161 = {
+          province = 1285
+          color = {218 117 161}
+        }
+      }
+    }
     d_R214G66B210 = {
       color = { 214 66 210 }
       capital = c_R214G66B210
@@ -7263,202 +6679,6 @@ e_R47G41B46 = {
   k_R47G41B46 = {
     color = {47 41 46}
     capital = c_R47G41B46
-    d_R47G41B46 = {
-      color = { 47 41 46 }
-      capital = c_R47G41B46
-      c_R47G41B46 = {
-        color = {47 41 46}
-        b_R47G41B46 = {
-          province = 36
-          color = {47 41 46}
-        }
-      }
-      c_R247G105B60 = {
-        color = {247 105 60}
-        b_R247G105B60 = {
-          province = 631
-          color = {247 105 60}
-        }
-      }
-    }
-    d_R174G95B18 = {
-      color = { 174 95 18 }
-      capital = c_R174G95B18
-      c_R174G95B18 = {
-        color = {174 95 18}
-        b_R174G95B18 = {
-          province = 56
-          color = {174 95 18}
-        }
-        b_R38G164B152 = {
-          province = 520
-          color = {174 95 18}
-        }
-        b_R101G33B166 = {
-          province = 1845
-          color = {174 95 18}
-        }
-      }
-    }
-    d_R51G174B230 = {
-      color = { 51 174 230 }
-      capital = c_R51G174B230
-      c_R51G174B230 = {
-        color = {51 174 230}
-        b_R51G174B230 = {
-          province = 92
-          color = {51 174 230}
-        }
-        b_R106G133B253 = {
-          province = 107
-          color = {51 174 230}
-        }
-        b_R183G116B163 = {
-          province = 939
-          color = {51 174 230}
-        }
-        b_R163G124B136 = {
-          province = 360
-          color = {51 174 230}
-        }
-        b_R202G225B179 = {
-          province = 1889
-          color = {51 174 230}
-        }
-        b_R1G211B121 = {
-          province = 473
-          color = {51 174 230}
-        }
-      }
-      c_R24G228B110 = {
-        color = {24 228 110}
-        b_R24G228B110 = {
-          province = 116
-          color = {24 228 110}
-        }
-      }
-      c_R44G250B199 = {
-        color = {44 250 199}
-        b_R44G250B199 = {
-          province = 314
-          color = {44 250 199}
-        }
-      }
-      c_R4G58B251 = {
-        color = {4 58 251}
-        b_R4G58B251 = {
-          province = 628
-          color = {4 58 251}
-        }
-      }
-    }
-    d_R91G252B236 = {
-      color = { 91 252 236 }
-      capital = c_R91G252B236
-      c_R91G252B236 = {
-        color = {91 252 236}
-        b_R91G252B236 = {
-          province = 461
-          color = {91 252 236}
-        }
-        b_R194G104B216 = {
-          province = 1051
-          color = {91 252 236}
-        }
-        b_R153G45B182 = {
-          province = 1838
-          color = {91 252 236}
-        }
-        b_R228G130B171 = {
-          province = 644
-          color = {91 252 236}
-        }
-        b_R246G164B86 = {
-          province = 1774
-          color = {91 252 236}
-        }
-        b_R133G61B148 = {
-          province = 1272
-          color = {91 252 236}
-        }
-      }
-    }
-  }
-  k_R50G66B12 = {
-    color = {50 66 12}
-    capital = c_R50G66B12
-    d_R50G66B12 = {
-      color = { 50 66 12 }
-      capital = c_R50G66B12
-      c_R50G66B12 = {
-        color = {50 66 12}
-        b_R50G66B12 = {
-          province = 81
-          color = {50 66 12}
-        }
-        b_R117G11B132 = {
-          province = 1370
-          color = {50 66 12}
-        }
-      }
-      c_R192G137B242 = {
-        color = {192 137 242}
-        b_R192G137B242 = {
-          province = 194
-          color = {192 137 242}
-        }
-        b_R48G228B145 = {
-          province = 579
-          color = {192 137 242}
-        }
-        b_R117G102B75 = {
-          province = 1619
-          color = {192 137 242}
-        }
-      }
-      c_R206G8B108 = {
-        color = {206 8 108}
-        b_R206G8B108 = {
-          province = 848
-          color = {206 8 108}
-        }
-        b_R10G91B220 = {
-          province = 1379
-          color = {206 8 108}
-        }
-      }
-    }
-    d_R239G40B66 = {
-      color = { 239 40 66 }
-      capital = c_R239G40B66
-      c_R239G40B66 = {
-        color = {239 40 66}
-        b_R239G40B66 = {
-          province = 291
-          color = {239 40 66}
-        }
-        b_R175G234B22 = {
-          province = 977
-          color = {239 40 66}
-        }
-        b_R179G3B31 = {
-          province = 712
-          color = {239 40 66}
-        }
-        b_R93G107B246 = {
-          province = 861
-          color = {239 40 66}
-        }
-        b_R104G1B160 = {
-          province = 1286
-          color = {239 40 66}
-        }
-      }
-    }
-  }
-  k_R228G20B103 = {
-    color = {228 20 103}
-    capital = c_R228G20B103
     d_R228G20B103 = {
       color = { 228 20 103 }
       capital = c_R228G20B103
@@ -7517,14 +6737,182 @@ e_R47G41B46 = {
           color = {199 235 113}
         }
       }
+      c_R174G95B18 = {
+        color = {174 95 18}
+        b_R174G95B18 = {
+          province = 56
+          color = {174 95 18}
+        }
+        b_R38G164B152 = {
+          province = 520
+          color = {174 95 18}
+        }
+        b_R101G33B166 = {
+          province = 1845
+          color = {174 95 18}
+        }
+      }
+    }
+    d_R47G41B46 = {
+      color = { 47 41 46 }
+      capital = c_R47G41B46
+      c_R47G41B46 = {
+        color = {47 41 46}
+        b_R47G41B46 = {
+          province = 36
+          color = {47 41 46}
+        }
+      }
+      c_R247G105B60 = {
+        color = {247 105 60}
+        b_R247G105B60 = {
+          province = 631
+          color = {247 105 60}
+        }
+      }
+    }
+    d_R51G174B230 = {
+      color = { 51 174 230 }
+      capital = c_R51G174B230
+      c_R51G174B230 = {
+        color = {51 174 230}
+        b_R51G174B230 = {
+          province = 92
+          color = {51 174 230}
+        }
+        b_R106G133B253 = {
+          province = 107
+          color = {51 174 230}
+        }
+        b_R183G116B163 = {
+          province = 939
+          color = {51 174 230}
+        }
+        b_R163G124B136 = {
+          province = 360
+          color = {51 174 230}
+        }
+        b_R202G225B179 = {
+          province = 1889
+          color = {51 174 230}
+        }
+        b_R1G211B121 = {
+          province = 473
+          color = {51 174 230}
+        }
+      }
+      c_R24G228B110 = {
+        color = {24 228 110}
+        b_R24G228B110 = {
+          province = 116
+          color = {24 228 110}
+        }
+      }
+      c_R44G250B199 = {
+        color = {44 250 199}
+        b_R44G250B199 = {
+          province = 314
+          color = {44 250 199}
+        }
+      }
+      c_R4G58B251 = {
+        color = {4 58 251}
+        b_R4G58B251 = {
+          province = 628
+          color = {4 58 251}
+        }
+      }
     }
   }
-  k_R98G8B18 = {
-    color = {98 8 18}
-    capital = c_R98G8B18
-    d_R98G8B18 = {
-      color = { 98 8 18 }
-      capital = c_R98G8B18
+  k_R50G66B12 = {
+    color = {50 66 12}
+    capital = c_R50G66B12
+    d_R50G66B12 = {
+      color = { 50 66 12 }
+      capital = c_R50G66B12
+      c_R50G66B12 = {
+        color = {50 66 12}
+        b_R50G66B12 = {
+          province = 81
+          color = {50 66 12}
+        }
+        b_R117G11B132 = {
+          province = 1370
+          color = {50 66 12}
+        }
+      }
+      c_R192G137B242 = {
+        color = {192 137 242}
+        b_R192G137B242 = {
+          province = 194
+          color = {192 137 242}
+        }
+        b_R48G228B145 = {
+          province = 579
+          color = {192 137 242}
+        }
+        b_R117G102B75 = {
+          province = 1619
+          color = {192 137 242}
+        }
+      }
+      c_R206G8B108 = {
+        color = {206 8 108}
+        b_R206G8B108 = {
+          province = 848
+          color = {206 8 108}
+        }
+        b_R10G91B220 = {
+          province = 1379
+          color = {206 8 108}
+        }
+      }
+    }
+    d_R239G40B66 = {
+      color = { 239 40 66 }
+      capital = c_R239G40B66
+      c_R54G207B203 = {
+        color = {54 207 203}
+        b_R54G207B203 = {
+          province = 743
+          color = {54 207 203}
+        }
+        b_R70G212B133 = {
+          province = 1658
+          color = {54 207 203}
+        }
+        b_R6G135B45 = {
+          province = 1728
+          color = {54 207 203}
+        }
+      }
+      c_R239G40B66 = {
+        color = {239 40 66}
+        b_R239G40B66 = {
+          province = 291
+          color = {239 40 66}
+        }
+        b_R175G234B22 = {
+          province = 977
+          color = {239 40 66}
+        }
+        b_R179G3B31 = {
+          province = 712
+          color = {239 40 66}
+        }
+        b_R93G107B246 = {
+          province = 861
+          color = {239 40 66}
+        }
+        b_R104G1B160 = {
+          province = 1286
+          color = {239 40 66}
+        }
+      }
+    }
+    d_R91G252B236 = {
+      color = { 91 252 236 }
+      capital = c_R91G252B236
       c_R98G8B18 = {
         color = {98 8 18}
         b_R98G8B18 = {
@@ -7548,472 +6936,280 @@ e_R47G41B46 = {
           color = {98 8 18}
         }
       }
-    }
-  }
-  k_R54G207B203 = {
-    color = {54 207 203}
-    capital = c_R54G207B203
-    d_R54G207B203 = {
-      color = { 54 207 203 }
-      capital = c_R54G207B203
-      c_R54G207B203 = {
-        color = {54 207 203}
-        b_R54G207B203 = {
-          province = 743
-          color = {54 207 203}
+      c_R91G252B236 = {
+        color = {91 252 236}
+        b_R91G252B236 = {
+          province = 461
+          color = {91 252 236}
         }
-        b_R70G212B133 = {
-          province = 1658
-          color = {54 207 203}
+        b_R194G104B216 = {
+          province = 1051
+          color = {91 252 236}
         }
-        b_R6G135B45 = {
-          province = 1728
-          color = {54 207 203}
+        b_R153G45B182 = {
+          province = 1838
+          color = {91 252 236}
         }
-      }
-    }
-  }
-}
-e_R229G100B90 = {
-  color = {229 100 90}
-  capital = c_R229G100B90
-  k_R229G100B90 = {
-    color = {229 100 90}
-    capital = c_R229G100B90
-    d_R229G100B90 = {
-      color = { 229 100 90 }
-      capital = c_R229G100B90
-      c_R229G100B90 = {
-        color = {229 100 90}
-        b_R229G100B90 = {
-          province = 46
-          color = {229 100 90}
+        b_R228G130B171 = {
+          province = 644
+          color = {91 252 236}
         }
-        b_R234G116B182 = {
-          province = 1092
-          color = {229 100 90}
+        b_R246G164B86 = {
+          province = 1774
+          color = {91 252 236}
         }
-      }
-      c_R165G199B17 = {
-        color = {165 199 17}
-        b_R165G199B17 = {
-          province = 530
-          color = {165 199 17}
-        }
-        b_R181G253B147 = {
-          province = 941
-          color = {165 199 17}
-        }
-        b_R5G227B24 = {
-          province = 1740
-          color = {165 199 17}
-        }
-        b_R178G86B107 = {
-          province = 1312
-          color = {165 199 17}
-        }
-      }
-    }
-    d_R214G33B202 = {
-      color = { 214 33 202 }
-      capital = c_R214G33B202
-      c_R214G33B202 = {
-        color = {214 33 202}
-        b_R214G33B202 = {
-          province = 557
-          color = {214 33 202}
-        }
-      }
-      c_R172G6B143 = {
-        color = {172 6 143}
-        b_R172G6B143 = {
-          province = 672
-          color = {172 6 143}
-        }
-        b_R17G35B166 = {
-          province = 1105
-          color = {172 6 143}
-        }
-        b_R135G20B175 = {
-          province = 884
-          color = {172 6 143}
-        }
-      }
-      c_R215G104B66 = {
-        color = {215 104 66}
-        b_R215G104B66 = {
-          province = 1731
-          color = {215 104 66}
-        }
-      }
-    }
-    d_R187G227B129 = {
-      color = { 187 227 129 }
-      capital = c_R187G227B129
-      c_R187G227B129 = {
-        color = {187 227 129}
-        b_R187G227B129 = {
-          province = 1077
-          color = {187 227 129}
-        }
-        b_R108G166B0 = {
-          province = 1372
-          color = {187 227 129}
-        }
-        b_R10G214B215 = {
-          province = 1753
-          color = {187 227 129}
-        }
-      }
-      c_R79G86B123 = {
-        color = {79 86 123}
-        b_R79G86B123 = {
-          province = 1100
-          color = {79 86 123}
-        }
-        b_R170G207B48 = {
-          province = 1824
-          color = {79 86 123}
-        }
-        b_R141G103B179 = {
-          province = 1332
-          color = {79 86 123}
-        }
-      }
-      c_R135G182B83 = {
-        color = {135 182 83}
-        b_R135G182B83 = {
-          province = 1109
-          color = {135 182 83}
+        b_R133G61B148 = {
+          province = 1272
+          color = {91 252 236}
         }
       }
     }
   }
-  k_R29G152B235 = {
-    color = {29 152 235}
-    capital = c_R29G152B235
-    d_R29G152B235 = {
-      color = { 29 152 235 }
-      capital = c_R29G152B235
-      c_R29G152B235 = {
-        color = {29 152 235}
-        b_R29G152B235 = {
-          province = 146
-          color = {29 152 235}
-        }
-        b_R255G30B150 = {
-          province = 1661
-          color = {29 152 235}
-        }
-        b_R0G23B166 = {
-          province = 1211
-          color = {29 152 235}
-        }
-        b_R80G97B6 = {
-          province = 685
-          color = {29 152 235}
-        }
-        b_R101G14B170 = {
-          province = 351
-          color = {29 152 235}
-        }
-        b_R130G103B179 = {
-          province = 477
-          color = {29 152 235}
-        }
-      }
-      c_R6G238B86 = {
-        color = {6 238 86}
-        b_R6G238B86 = {
-          province = 462
-          color = {6 238 86}
-        }
-        b_R100G19B201 = {
-          province = 486
-          color = {6 238 86}
-        }
-        b_R42G15B0 = {
-          province = 722
-          color = {6 238 86}
-        }
-      }
-    }
-    d_R164G187B234 = {
-      color = { 164 187 234 }
-      capital = c_R164G187B234
-      c_R164G187B234 = {
-        color = {164 187 234}
-        b_R164G187B234 = {
-          province = 150
-          color = {164 187 234}
-        }
-        b_R7G85B215 = {
-          province = 891
-          color = {164 187 234}
-        }
-        b_R93G134B40 = {
-          province = 1445
-          color = {164 187 234}
-        }
-      }
-      c_R244G11B76 = {
-        color = {244 11 76}
-        b_R244G11B76 = {
-          province = 521
-          color = {244 11 76}
-        }
-        b_R238G166B173 = {
-          province = 1410
-          color = {244 11 76}
-        }
-        b_R10G49B61 = {
-          province = 1167
-          color = {244 11 76}
-        }
-        b_R186G72B192 = {
-          province = 1528
-          color = {244 11 76}
-        }
-        b_R202G65B178 = {
-          province = 1103
-          color = {244 11 76}
-        }
-      }
-    }
-    d_R81G105B94 = {
-      color = { 81 105 94 }
-      capital = c_R81G105B94
-      c_R81G105B94 = {
-        color = {81 105 94}
-        b_R81G105B94 = {
-          province = 251
-          color = {81 105 94}
-        }
-        b_R187G161B80 = {
-          province = 1406
-          color = {81 105 94}
-        }
-        b_R122G78B37 = {
-          province = 1078
-          color = {81 105 94}
-        }
-        b_R251G56B214 = {
-          province = 1490
-          color = {81 105 94}
-        }
-      }
-      c_R26G94B168 = {
-        color = {26 94 168}
-        b_R26G94B168 = {
-          province = 281
-          color = {26 94 168}
-        }
-      }
-      c_R171G130B228 = {
-        color = {171 130 228}
-        b_R171G130B228 = {
-          province = 319
-          color = {171 130 228}
-        }
-      }
-      c_R6G125B241 = {
-        color = {6 125 241}
-        b_R6G125B241 = {
-          province = 665
-          color = {6 125 241}
-        }
-        b_R50G183B179 = {
-          province = 716
-          color = {6 125 241}
-        }
-      }
-    }
-    d_R231G214B232 = {
-      color = { 231 214 232 }
-      capital = c_R231G214B232
-      c_R231G214B232 = {
-        color = {231 214 232}
-        b_R231G214B232 = {
-          province = 465
-          color = {231 214 232}
-        }
-        b_R177G215B2 = {
-          province = 513
-          color = {231 214 232}
-        }
-        b_R176G24B82 = {
-          province = 836
-          color = {231 214 232}
-        }
-        b_R50G88B246 = {
-          province = 1428
-          color = {231 214 232}
-        }
-        b_R167G90B144 = {
-          province = 739
-          color = {231 214 232}
-        }
-      }
-      c_R131G111B50 = {
-        color = {131 111 50}
-        b_R131G111B50 = {
-          province = 1114
-          color = {131 111 50}
-        }
-        b_R225G220B183 = {
-          province = 1665
-          color = {131 111 50}
-        }
-      }
-    }
-  }
-}
-e_R50G118B20 = {
-  color = {50 118 20}
-  capital = c_R50G118B20
-  k_R50G118B20 = {
-    color = {50 118 20}
-    capital = c_R50G118B20
-    d_R50G118B20 = {
-      color = { 50 118 20 }
-      capital = c_R50G118B20
-      c_R50G118B20 = {
-        color = {50 118 20}
-        b_R50G118B20 = {
-          province = 52
-          color = {50 118 20}
-        }
-        b_R28G244B54 = {
-          province = 643
-          color = {50 118 20}
-        }
-        b_R118G194B175 = {
-          province = 958
-          color = {50 118 20}
-        }
-        b_R227G131B30 = {
-          province = 347
-          color = {50 118 20}
-        }
-      }
-      c_R125G250B109 = {
-        color = {125 250 109}
-        b_R125G250B109 = {
-          province = 69
-          color = {125 250 109}
-        }
-        b_R147G161B167 = {
-          province = 1582
-          color = {125 250 109}
-        }
-      }
-      c_R59G95B179 = {
-        color = {59 95 179}
-        b_R59G95B179 = {
-          province = 1900
-          color = {59 95 179}
-        }
-      }
-    }
-  }
-  k_R31G132B251 = {
-    color = {31 132 251}
-    capital = c_R31G132B251
-    d_R31G132B251 = {
-      color = { 31 132 251 }
-      capital = c_R31G132B251
-      c_R31G132B251 = {
-        color = {31 132 251}
-        b_R31G132B251 = {
-          province = 1026
-          color = {31 132 251}
-        }
-        b_R42G54B107 = {
-          province = 1734
-          color = {31 132 251}
-        }
-      }
-    }
-  }
-}
-e_R78G0B114 = {
-  color = {78 0 114}
-  capital = c_R78G0B114
-  k_R78G0B114 = {
-    color = {78 0 114}
-    capital = c_R78G0B114
-    d_R78G0B114 = {
-      color = { 78 0 114 }
-      capital = c_R78G0B114
-      c_R78G0B114 = {
-        color = {78 0 114}
-        b_R78G0B114 = {
-          province = 54
-          color = {78 0 114}
-        }
-        b_R140G181B81 = {
-          province = 123
-          color = {78 0 114}
-        }
-        b_R133G138B130 = {
-          province = 231
-          color = {78 0 114}
-        }
-      }
-    }
-    d_R160G75B161 = {
-      color = { 160 75 161 }
-      capital = c_R160G75B161
-      c_R160G75B161 = {
-        color = {160 75 161}
-        b_R160G75B161 = {
-          province = 211
-          color = {160 75 161}
-        }
-        b_R38G165B154 = {
-          province = 1233
-          color = {160 75 161}
-        }
-        b_R90G182B248 = {
-          province = 1783
-          color = {160 75 161}
-        }
-        b_R151G75B169 = {
-          province = 376
-          color = {160 75 161}
-        }
-        b_R90G254B202 = {
-          province = 776
-          color = {160 75 161}
-        }
-      }
-      c_R215G245B199 = {
-        color = {215 245 199}
-        b_R215G245B199 = {
-          province = 418
-          color = {215 245 199}
-        }
-      }
-      c_R60G53B100 = {
-        color = {60 53 100}
-        b_R60G53B100 = {
-          province = 1067
-          color = {60 53 100}
-        }
-      }
-      c_R197G2B213 = {
-        color = {197 2 213}
-        b_R197G2B213 = {
-          province = 1580
-          color = {197 2 213}
-        }
-      }
+  k_R98G8B18 = {
+    color = {98 8 18}
+    capital = c_R98G8B18
+    d_R98G8B18 = {
+      color = { 98 8 18 }
+      capital = c_R98G8B18
+
     }
   }
 }
 e_R95G0B76 = {
   color = {95 0 76}
   capital = c_R95G0B76
+  k_R252G153B175 = {
+    color = {252 153 175}
+    capital = c_R252G153B175
+    d_R252G153B175 = {
+      color = { 252 153 175 }
+      capital = c_R252G153B175
+      c_R252G153B175 = {
+        color = {252 153 175}
+        b_R252G153B175 = {
+          province = 101
+          color = {252 153 175}
+        }
+        b_R99G201B21 = {
+          province = 1244
+          color = {252 153 175}
+        }
+      }
+      c_R132G255B191 = {
+        color = {132 255 191}
+        b_R132G255B191 = {
+          province = 236
+          color = {132 255 191}
+        }
+        b_R109G210B151 = {
+          province = 1046
+          color = {252 153 175}
+        }
+      }
+    }
+    d_R194G85B134 = {
+      color = { 194 85 134 }
+      capital = c_R194G85B134
+      c_R194G85B134 = {
+        color = {194 85 134}
+        b_R194G85B134 = {
+          province = 140
+          color = {194 85 134}
+        }
+        b_R131G228B2 = {
+          province = 437
+          color = {194 85 134}
+        }
+        b_R154G189B124 = {
+          province = 285
+          color = {194 85 134}
+        }
+      }
+      c_R4G156B28 = {
+        color = {4 156 28}
+        b_R4G156B28 = {
+          province = 202
+          color = {4 156 28}
+        }
+        b_R126G117B42 = {
+          province = 459
+          color = {4 156 28}
+        }
+        b_R14G35B216 = {
+          province = 1275
+          color = {4 156 28}
+        }
+        b_R188G98B136 = {
+          province = 1096
+          color = {4 156 28}
+        }
+      }
+    }
+    d_R213G187B105 = {
+      color = { 213 187 105 }
+      capital = c_R213G187B105
+      c_R213G187B105 = {
+        color = {213 187 105}
+        b_R213G187B105 = {
+          province = 452
+          color = {213 187 105}
+        }
+        b_R155G210B56 = {
+          province = 623
+          color = {213 187 105}
+        }
+        b_R197G227B100 = {
+          province = 1494
+          color = {213 187 105}
+        }
+        b_R2G5B51 = {
+          province = 586
+          color = {213 187 105}
+        }
+        b_R169G210B42 = {
+          province = 1412
+          color = {213 187 105}
+        }
+      }
+    }
+  }
+  k_R242G121B27 = {
+    color = {242 121 27}
+    capital = c_R242G121B27
+    d_R242G121B27 = {
+      color = { 242 121 27 }
+      capital = c_R242G121B27
+      c_R242G121B27 = {
+        color = {242 121 27}
+        b_R242G121B27 = {
+          province = 73
+          color = {242 121 27}
+        }
+        b_R101G241B78 = {
+          province = 393
+          color = {242 121 27}
+        }
+        b_R230G99B181 = {
+          province = 1375
+          color = {242 121 27}
+        }
+        b_R36G108B7 = {
+          province = 895
+          color = {242 121 27}
+        }
+      }
+      c_R217G122B225 = {
+        color = {217 122 225}
+        b_R217G122B225 = {
+          province = 600
+          color = {217 122 225}
+        }
+        b_R225G136B57 = {
+          province = 922
+          color = {217 122 225}
+        }
+      }
+    }
+    d_R203G137B84 = {
+      color = { 203 137 84 }
+      capital = c_R203G137B84
+      c_R203G137B84 = {
+        color = {203 137 84}
+        b_R203G137B84 = {
+          province = 77
+          color = {203 137 84}
+        }
+        b_R251G64B80 = {
+          province = 811
+          color = {203 137 84}
+        }
+        b_R65G195B98 = {
+          province = 527
+          color = {203 137 84}
+        }
+        b_R65G149B192 = {
+          province = 1057
+          color = {203 137 84}
+        }
+      }
+    }
+    d_R114G58B178 = {
+      color = { 114 58 178 }
+      capital = c_R114G58B178
+      c_R114G58B178 = {
+        color = {114 58 178}
+        b_R114G58B178 = {
+          province = 142
+          color = {114 58 178}
+        }
+        b_R66G69B123 = {
+          province = 1293
+          color = {114 58 178}
+        }
+        b_R158G158B17 = {
+          province = 221
+          color = {114 58 178}
+        }
+      }
+      c_R154G241B251 = {
+        color = {154 241 251}
+        b_R154G241B251 = {
+          province = 385
+          color = {154 241 251}
+        }
+        b_R141G248B236 = {
+          province = 428
+          color = {154 241 251}
+        }
+        b_R37G215B50 = {
+          province = 1409
+          color = {154 241 251}
+        }
+      }
+    }
+    d_R147G178B54 = {
+      color = { 147 178 54 }
+      capital = c_R147G178B54
+      c_R147G178B54 = {
+        color = {147 178 54}
+        b_R147G178B54 = {
+          province = 333
+          color = {147 178 54}
+        }
+        b_R199G4B87 = {
+          province = 1017
+          color = {147 178 54}
+        }
+        b_R59G120B79 = {
+          province = 1643
+          color = {147 178 54}
+        }
+        b_R64G74B221 = {
+          province = 1210
+          color = {147 178 54}
+        }
+      }
+      c_R173G207B91 = {
+        color = {173 207 91}
+        b_R173G207B91 = {
+          province = 471
+          color = {173 207 91}
+        }
+        b_R234G206B200 = {
+          province = 1387
+          color = {173 207 91}
+        }
+        b_R104G151B0 = {
+          province = 1656
+          color = {173 207 91}
+        }
+        b_R235G237B238 = {
+          province = 1028
+          color = {173 207 91}
+        }
+      }
+    }
+  }
   k_R95G0B76 = {
     color = {95 0 76}
     capital = c_R95G0B76
@@ -8029,6 +7225,14 @@ e_R95G0B76 = {
         b_R185G39B12 = {
           province = 119
           color = {95 0 76}
+        }
+        b_R67G232B135 = {
+          province = 1449
+          color = {95 0 76}
+        }
+        b_R100G230B126 = {
+          province = 889
+          color = {96 81 106}
         }
       }
       c_R171G198B54 = {
@@ -8052,24 +7256,12 @@ e_R95G0B76 = {
           province = 76
           color = {96 81 106}
         }
-        b_R67G232B135 = {
-          province = 1449
-          color = {96 81 106}
-        }
-        b_R100G230B126 = {
-          province = 889
-          color = {96 81 106}
-        }
         b_R126G211B218 = {
           province = 754
           color = {96 81 106}
         }
         b_R63G39B249 = {
           province = 1390
-          color = {96 81 106}
-        }
-        b_R32G117B250 = {
-          province = 1013
           color = {96 81 106}
         }
       }
@@ -8083,20 +7275,9 @@ e_R95G0B76 = {
           province = 1867
           color = {21 155 18}
         }
-        b_R100G87B11 = {
-          province = 1070
-          color = {21 155 18}
-        }
-        b_R87G137B82 = {
-          province = 1689
-          color = {21 155 18}
-        }
-      }
-      c_R215G17B198 = {
-        color = {215 17 198}
-        b_R215G17B198 = {
-          province = 510
-          color = {215 17 198}
+        b_R32G117B250 = {
+          province = 1013
+          color = {96 81 106}
         }
       }
       c_R120G106B24 = {
@@ -8104,6 +7285,75 @@ e_R95G0B76 = {
         b_R120G106B24 = {
           province = 820
           color = {120 106 24}
+        }
+        b_R87G137B82 = {
+          province = 1689
+          color = {120 106 24}
+        }
+        b_R100G87B11 = {
+          province = 1070
+          color = {21 155 18}
+        }
+      }
+    }
+    d_R176G118B250 = {
+      color = { 176 118 250 }
+      capital = c_R176G118B250
+      c_R176G118B250 = {
+        color = {176 118 250}
+        b_R176G118B250 = {
+          province = 453
+          color = {176 118 250}
+        }
+        b_R249G164B169 = {
+          province = 622
+          color = {176 118 250}
+        }
+        b_R177G4B157 = {
+          province = 523
+          color = {176 118 250}
+        }
+        b_R56G72B48 = {
+          province = 1881
+          color = {176 118 250}
+        }
+      }
+    }
+    d_R30G17B121 = {
+      color = { 30 17 121 }
+      capital = c_R30G17B121
+      c_R30G17B121 = {
+        color = {30 17 121}
+        b_R30G17B121 = {
+          province = 495
+          color = {30 17 121}
+        }
+        b_R56G197B203 = {
+          province = 528
+          color = {30 17 121}
+        }
+        b_R80G44B143 = {
+          province = 1464
+          color = {30 17 121}
+        }
+        b_R12G41B24 = {
+          province = 953
+          color = {30 17 121}
+        }
+      }
+      c_R215G17B198 = { 
+        color = {215 17 198}
+        b_R215G17B198 = {
+          province = 510
+          color = {215 17 198}
+        }
+        b_R73G29B45 = {
+          province = 1725
+          color = {215 17 198}
+        }
+        b_R117G191B214 = {
+          province = 1473
+          color = {215 17 198}
         }
       }
     }
@@ -8115,59 +7365,26 @@ e_R212G244B254 = {
   k_R212G244B254 = {
     color = {212 244 254}
     capital = c_R212G244B254
-    d_R212G244B254 = {
-      color = { 212 244 254 }
-      capital = c_R212G244B254
-      c_R212G244B254 = {
-        color = {212 244 254}
-        b_R212G244B254 = {
-          province = 57
-          color = {212 244 254}
+    d_R54G32B43 = {
+      color = { 54 32 43 }
+      capital = c_R54G32B43
+      c_R54G32B43 = {
+        color = {54 32 43}
+        b_R54G32B43 = {
+          province = 1063
+          color = {54 32 43}
         }
-      }
-      c_R3G222B82 = {
-        color = {3 222 82}
-        b_R3G222B82 = {
-          province = 66
-          color = {3 222 82}
+        b_R226G127B150 = {
+          province = 1311
+          color = {54 32 43}
         }
-      }
-    }
-  }
-  k_R250G62B206 = {
-    color = {250 62 206}
-    capital = c_R250G62B206
-    d_R250G62B206 = {
-      color = { 250 62 206 }
-      capital = c_R250G62B206
-      c_R250G62B206 = {
-        color = {250 62 206}
-        b_R250G62B206 = {
-          province = 65
-          color = {250 62 206}
+        b_R143G60B220 = {
+          province = 1309
+          color = {54 32 43}
         }
-        b_R111G56B143 = {
-          province = 336
-          color = {250 62 206}
-        }
-        b_R36G165B141 = {
-          province = 235
-          color = {250 62 206}
-        }
-        b_R27G1B82 = {
-          province = 429
-          color = {250 62 206}
-        }
-      }
-      c_R202G142B86 = {
-        color = {202 142 86}
-        b_R202G142B86 = {
-          province = 573
-          color = {202 142 86}
-        }
-        b_R27G194B35 = {
-          province = 990
-          color = {202 142 86}
+        b_R100G65B71 = {
+          province = 1223
+          color = {54 32 43}
         }
       }
     }
@@ -8186,10 +7403,6 @@ e_R212G244B254 = {
         }
         b_R84G126B205 = {
           province = 724
-          color = {201 14 147}
-        }
-        b_R165G218B219 = {
-          province = 1431
           color = {201 14 147}
         }
         b_R248G238B76 = {
@@ -8229,6 +7442,107 @@ e_R212G244B254 = {
         b_R65G72B104 = {
           province = 1747
           color = {81 189 100}
+        }
+      }
+    }
+    d_R212G244B254 = {
+      color = { 212 244 254 }
+      capital = c_R212G244B254
+      c_R244G204B166 = {
+        color = {244 204 166}
+        b_R244G204B166 = {
+          province = 1
+          color = {244 204 166}
+        }
+      }
+      c_R212G244B254 = {
+        color = {212 244 254}
+        b_R212G244B254 = {
+          province = 57
+          color = {212 244 254}
+        }
+      }
+      c_R3G222B82 = {
+        color = {3 222 82}
+        b_R3G222B82 = {
+          province = 66
+          color = {3 222 82}
+        }
+        b_R165G218B219 = {
+          province = 1431
+          color = {3 222 82}
+        }
+      }
+    }
+  }
+  k_R250G62B206 = {
+    color = {250 62 206}
+    capital = c_R250G62B206
+    d_R177G17B230 = {
+      color = { 177 17 230 }
+      capital = c_R177G17B230
+      c_R177G17B230 = {
+        color = {177 17 230}
+        b_R177G17B230 = {
+          province = 200
+          color = {177 17 230}
+        }
+        b_R162G39B230 = {
+          province = 1815
+          color = {177 17 230}
+        }
+        b_R205G72B236 = {
+          province = 788
+          color = {177 17 230}
+        }
+        b_R48G51B86 = {
+          province = 1565
+          color = {177 17 230}
+        }
+        b_R134G200B148 = {
+          province = 1326
+          color = {177 17 230}
+        }
+      }
+      c_R4G148B220 = {
+        color = {4 148 220}
+        b_R4G148B220 = {
+          province = 1877
+          color = {4 148 220}
+        }
+      }
+    }
+    d_R250G62B206 = {
+      color = { 250 62 206 }
+      capital = c_R250G62B206
+      c_R250G62B206 = {
+        color = {250 62 206}
+        b_R250G62B206 = {
+          province = 65
+          color = {250 62 206}
+        }
+        b_R111G56B143 = {
+          province = 336
+          color = {250 62 206}
+        }
+        b_R36G165B141 = {
+          province = 235
+          color = {250 62 206}
+        }
+        b_R27G1B82 = {
+          province = 429
+          color = {250 62 206}
+        }
+      }
+      c_R202G142B86 = {
+        color = {202 142 86}
+        b_R202G142B86 = {
+          province = 573
+          color = {202 142 86}
+        }
+        b_R27G194B35 = {
+          province = 990
+          color = {202 142 86}
         }
       }
     }
@@ -8286,574 +7600,382 @@ e_R212G244B254 = {
       }
     }
   }
-  k_R54G32B43 = {
-    color = {54 32 43}
-    capital = c_R54G32B43
-    d_R54G32B43 = {
-      color = { 54 32 43 }
-      capital = c_R54G32B43
-      c_R54G32B43 = {
-        color = {54 32 43}
-        b_R54G32B43 = {
-          province = 1063
-          color = {54 32 43}
-        }
-        b_R226G127B150 = {
-          province = 1311
-          color = {54 32 43}
-        }
-        b_R143G60B220 = {
-          province = 1309
-          color = {54 32 43}
-        }
-        b_R100G65B71 = {
-          province = 1223
-          color = {54 32 43}
-        }
-      }
-    }
-  }
-}
-e_R157G241B28 = {
-  color = {157 241 28}
-  capital = c_R157G241B28
-  k_R157G241B28 = {
-    color = {157 241 28}
-    capital = c_R157G241B28
-    d_R157G241B28 = {
-      color = { 157 241 28 }
-      capital = c_R157G241B28
-      c_R157G241B28 = {
-        color = {157 241 28}
-        b_R157G241B28 = {
-          province = 58
-          color = {157 241 28}
-        }
-        b_R76G211B53 = {
-          province = 1625
-          color = {157 241 28}
-        }
-      }
-      c_R84G228B220 = {
-        color = {84 228 220}
-        b_R84G228B220 = {
-          province = 132
-          color = {84 228 220}
-        }
-        b_R110G22B235 = {
-          province = 871
-          color = {84 228 220}
-        }
-        b_R33G226B255 = {
-          province = 286
-          color = {84 228 220}
-        }
-        b_R127G10B194 = {
-          province = 1588
-          color = {84 228 220}
-        }
-        b_R152G254B158 = {
-          province = 1260
-          color = {84 228 220}
-        }
-      }
-      c_R67G27B196 = {
-        color = {67 27 196}
-        b_R67G27B196 = {
-          province = 88
-          color = {67 27 196}
-        }
-      }
-    }
-    d_R213G95B19 = {
-      color = { 213 95 19 }
-      capital = c_R213G95B19
-      c_R213G95B19 = {
-        color = {213 95 19}
-        b_R213G95B19 = {
-          province = 62
-          color = {213 95 19}
-        }
-        b_R25G226B70 = {
-          province = 127
-          color = {213 95 19}
-        }
-      }
-      c_R90G202B167 = {
-        color = {90 202 167}
-        b_R90G202B167 = {
-          province = 110
-          color = {90 202 167}
-        }
-        b_R62G63B234 = {
-          province = 1237
-          color = {90 202 167}
-        }
-        b_R41G211B78 = {
-          province = 1287
-          color = {90 202 167}
-        }
-        b_R205G78B51 = {
-          province = 1546
-          color = {90 202 167}
-        }
-        b_R38G40B218 = {
-          province = 1368
-          color = {90 202 167}
-        }
-      }
-    }
-    d_R82G138B246 = {
-      color = { 82 138 246 }
-      capital = c_R82G138B246
-      c_R82G138B246 = {
-        color = {82 138 246}
-        b_R82G138B246 = {
-          province = 163
-          color = {82 138 246}
-        }
-      }
-    }
-    d_R68G211B156 = {
-      color = { 68 211 156 }
-      capital = c_R68G211B156
-      c_R68G211B156 = {
-        color = {68 211 156}
-        b_R68G211B156 = {
-          province = 363
-          color = {68 211 156}
-        }
-        b_R198G114B148 = {
-          province = 877
-          color = {68 211 156}
-        }
-        b_R197G199B244 = {
-          province = 1496
-          color = {68 211 156}
-        }
-        b_R201G78B9 = {
-          province = 1733
-          color = {68 211 156}
-        }
-        b_R27G98B212 = {
-          province = 1652
-          color = {68 211 156}
-        }
-      }
-      c_R134G194B117 = {
-        color = {134 194 117}
-        b_R134G194B117 = {
-          province = 614
-          color = {134 194 117}
-        }
-      }
-    }
-    d_R212G207B133 = {
-      color = { 212 207 133 }
-      capital = c_R212G207B133
-      c_R212G207B133 = {
-        color = {212 207 133}
-        b_R212G207B133 = {
-          province = 458
-          color = {212 207 133}
-        }
-        b_R144G253B116 = {
-          province = 985
-          color = {212 207 133}
-        }
-        b_R46G74B131 = {
-          province = 1005
-          color = {212 207 133}
-        }
-        b_R197G5B50 = {
-          province = 778
-          color = {212 207 133}
-        }
-      }
-      c_R91G101B228 = {
-        color = {91 101 228}
-        b_R91G101B228 = {
-          province = 1896
-          color = {91 101 228}
-        }
-      }
-    }
-  }
-  k_R94G205B216 = {
-    color = {94 205 216}
-    capital = c_R94G205B216
-    d_R94G205B216 = {
-      color = { 94 205 216 }
-      capital = c_R94G205B216
-      c_R94G205B216 = {
-        color = {94 205 216}
-        b_R94G205B216 = {
-          province = 63
-          color = {94 205 216}
-        }
-        b_R44G153B113 = {
-          province = 321
-          color = {94 205 216}
-        }
-      }
-      c_R187G13B157 = {
-        color = {187 13 157}
-        b_R187G13B157 = {
-          province = 273
-          color = {187 13 157}
-        }
-        b_R42G80B146 = {
-          province = 1722
-          color = {187 13 157}
-        }
-        b_R137G84B136 = {
-          province = 1039
-          color = {187 13 157}
-        }
-      }
-      c_R50G192B94 = {
-        color = {50 192 94}
-        b_R50G192B94 = {
-          province = 422
-          color = {50 192 94}
-        }
-      }
-      c_R207G136B86 = {
-        color = {207 136 86}
-        b_R207G136B86 = {
-          province = 554
-          color = {207 136 86}
-        }
-      }
-    }
-    d_R79G115B31 = {
-      color = { 79 115 31 }
-      capital = c_R79G115B31
-      c_R79G115B31 = {
-        color = {79 115 31}
-        b_R79G115B31 = {
-          province = 70
-          color = {79 115 31}
-        }
-        b_R94G232B148 = {
-          province = 972
-          color = {79 115 31}
-        }
-        b_R146G218B6 = {
-          province = 731
-          color = {79 115 31}
-        }
-        b_R113G217B28 = {
-          province = 1265
-          color = {79 115 31}
-        }
-        b_R223G33B65 = {
-          province = 1303
-          color = {79 115 31}
-        }
-      }
-      c_R49G49B85 = {
-        color = {49 49 85}
-        b_R49G49B85 = {
-          province = 117
-          color = {49 49 85}
-        }
-        b_R242G41B144 = {
-          province = 1698
-          color = {49 49 85}
-        }
-      }
-      c_R94G125B74 = {
-        color = {94 125 74}
-        b_R94G125B74 = {
-          province = 760
-          color = {94 125 74}
-        }
-      }
-    }
-  }
-  k_R90G157B48 = {
-    color = {90 157 48}
-    capital = c_R90G157B48
-    d_R90G157B48 = {
-      color = { 90 157 48 }
-      capital = c_R90G157B48
-      c_R90G157B48 = {
-        color = {90 157 48}
-        b_R90G157B48 = {
-          province = 126
-          color = {90 157 48}
-        }
-        b_R189G42B149 = {
-          province = 446
-          color = {90 157 48}
-        }
-        b_R243G134B251 = {
-          province = 1166
-          color = {90 157 48}
-        }
-        b_R33G255B51 = {
-          province = 526
-          color = {90 157 48}
-        }
-      }
-      c_R157G243B51 = {
-        color = {157 243 51}
-        b_R157G243B51 = {
-          province = 334
-          color = {157 243 51}
-        }
-      }
-      c_R69G156B139 = {
-        color = {69 156 139}
-        b_R69G156B139 = {
-          province = 954
-          color = {69 156 139}
-        }
-      }
-    }
-  }
-  k_R90G135B140 = {
-    color = {90 135 140}
-    capital = c_R90G135B140
-    d_R90G135B140 = {
-      color = { 90 135 140 }
-      capital = c_R90G135B140
-      c_R90G135B140 = {
-        color = {90 135 140}
-        b_R90G135B140 = {
-          province = 199
-          color = {90 135 140}
-        }
-        b_R239G234B217 = {
-          province = 287
-          color = {90 135 140}
-        }
-        b_R50G57B19 = {
-          province = 227
-          color = {90 135 140}
-        }
-      }
-    }
-    d_R185G233B107 = {
-      color = { 185 233 107 }
-      capital = c_R185G233B107
-      c_R185G233B107 = {
-        color = {185 233 107}
-        b_R185G233B107 = {
-          province = 588
-          color = {185 233 107}
-        }
-        b_R203G194B179 = {
-          province = 1229
-          color = {185 233 107}
-        }
-        b_R202G135B89 = {
-          province = 1533
-          color = {185 233 107}
-        }
-      }
-      c_R222G38B88 = {
-        color = {222 38 88}
-        b_R222G38B88 = {
-          province = 950
-          color = {222 38 88}
-        }
-        b_R57G129B24 = {
-          province = 1680
-          color = {222 38 88}
-        }
-        b_R152G91B95 = {
-          province = 1108
-          color = {222 38 88}
-        }
-        b_R77G251B12 = {
-          province = 1213
-          color = {222 38 88}
-        }
-        b_R113G214B34 = {
-          province = 1418
-          color = {222 38 88}
-        }
-      }
-    }
-    d_R88G226B65 = {
-      color = { 88 226 65 }
-      capital = c_R88G226B65
-      c_R88G226B65 = {
-        color = {88 226 65}
-        b_R88G226B65 = {
-          province = 1134
-          color = {88 226 65}
-        }
-      }
-    }
-  }
-  k_R148G137B245 = {
-    color = {148 137 245}
-    capital = c_R148G137B245
-    d_R148G137B245 = {
-      color = { 148 137 245 }
-      capital = c_R148G137B245
-      c_R148G137B245 = {
-        color = {148 137 245}
-        b_R148G137B245 = {
-          province = 208
-          color = {148 137 245}
-        }
-        b_R252G26B124 = {
-          province = 1812
-          color = {148 137 245}
-        }
-        b_R131G237B117 = {
-          province = 1600
-          color = {148 137 245}
-        }
-        b_R150G255B14 = {
-          province = 239
-          color = {148 137 245}
-        }
-        b_R127G29B247 = {
-          province = 777
-          color = {148 137 245}
-        }
-        b_R153G40B92 = {
-          province = 1806
-          color = {148 137 245}
-        }
-      }
-    }
-    d_R109G4B35 = {
-      color = { 109 4 35 }
-      capital = c_R109G4B35
-      c_R109G4B35 = {
-        color = {109 4 35}
-        b_R109G4B35 = {
-          province = 250
-          color = {109 4 35}
-        }
-        b_R211G42B238 = {
-          province = 389
-          color = {109 4 35}
-        }
-      }
-      c_R232G223B119 = {
-        color = {232 223 119}
-        b_R232G223B119 = {
-          province = 610
-          color = {232 223 119}
-        }
-        b_R127G47B107 = {
-          province = 1871
-          color = {232 223 119}
-        }
-        b_R87G214B81 = {
-          province = 1721
-          color = {232 223 119}
-        }
-        b_R168G244B224 = {
-          province = 740
-          color = {232 223 119}
-        }
-      }
-    }
-    d_R210G217B83 = {
-      color = { 210 217 83 }
-      capital = c_R210G217B83
-      c_R210G217B83 = {
-        color = {210 217 83}
-        b_R210G217B83 = {
-          province = 295
-          color = {210 217 83}
-        }
-        b_R39G208B168 = {
-          province = 968
-          color = {210 217 83}
-        }
-        b_R200G104B210 = {
-          province = 596
-          color = {210 217 83}
-        }
-        b_R242G141B148 = {
-          province = 1155
-          color = {210 217 83}
-        }
-        b_R9G46B56 = {
-          province = 1351
-          color = {210 217 83}
-        }
-        b_R188G30B67 = {
-          province = 1520
-          color = {210 217 83}
-        }
-      }
-      c_R254G99B162 = {
-        color = {254 99 162}
-        b_R254G99B162 = {
-          province = 1355
-          color = {254 99 162}
-        }
-        b_R64G203B128 = {
-          province = 1614
-          color = {254 99 162}
-        }
-      }
-    }
-  }
-  k_R57G8B124 = {
-    color = {57 8 124}
-    capital = c_R57G8B124
-    d_R57G8B124 = {
-      color = { 57 8 124 }
-      capital = c_R57G8B124
-      c_R57G8B124 = {
-        color = {57 8 124}
-        b_R57G8B124 = {
-          province = 270
-          color = {57 8 124}
-        }
-        b_R35G133B85 = {
-          province = 1407
-          color = {57 8 124}
-        }
-        b_R1G12B66 = {
-          province = 1301
-          color = {57 8 124}
-        }
-        b_R134G11B211 = {
-          province = 1317
-          color = {57 8 124}
-        }
-      }
-    }
-    d_R226G242B145 = {
-      color = { 226 242 145 }
-      capital = c_R226G242B145
-      c_R226G242B145 = {
-        color = {226 242 145}
-        b_R226G242B145 = {
-          province = 733
-          color = {226 242 145}
-        }
-        b_R172G215B47 = {
-          province = 1696
-          color = {226 242 145}
-        }
-        b_R215G191B228 = {
-          province = 1839
-          color = {226 242 145}
-        }
-        b_R95G214B88 = {
-          province = 902
-          color = {226 242 145}
-        }
-      }
-    }
-  }
 }
 e_R1G42B28 = {
   color = {1 42 28}
   capital = c_R1G42B28
+  k_R80G141B189 = {
+    color = {80 141 189}
+    capital = c_R80G141B189
+    d_R80G141B189 = {
+      color = { 80 141 189 }
+      capital = c_R80G141B189
+      c_R80G141B189 = {
+        color = {80 141 189}
+        b_R80G141B189 = {
+          province = 6
+          color = {80 141 189}
+        }
+        b_R220G114B56 = {
+          province = 390
+          color = {80 141 189}
+        }
+        b_R148G242B43 = {
+          province = 514
+          color = {80 141 189}
+        }
+        b_R56G102B202 = {
+          province = 801
+          color = {80 141 189}
+        }
+        b_R129G236B98 = {
+          province = 1784
+          color = {80 141 189}
+        }
+        b_R78G242B88 = {
+          province = 565
+          color = {80 141 189}
+        }
+      }
+      c_R201G87B222 = {
+        color = {201 87 222}
+        b_R201G87B222 = {
+          province = 143
+          color = {201 87 222}
+        }
+      }
+      c_R248G49B201 = {
+        color = {248 49 201}
+        b_R248G49B201 = {
+          province = 218
+          color = {248 49 201}
+        }
+        b_R76G125B194 = {
+          province = 1249
+          color = {248 49 201}
+        }
+        b_R63G70B5 = {
+          province = 497
+          color = {248 49 201}
+        }
+      }
+      c_R224G172B131 = {
+        color = {224 172 131}
+        b_R224G172B131 = {
+          province = 703
+          color = {224 172 131}
+        }
+        b_R106G237B197 = {
+          province = 1850
+          color = {224 172 131}
+        }
+        b_R246G167B59 = {
+          province = 1279
+          color = {224 172 131}
+        }
+      }
+    }
+    d_R230G168B252 = {
+      color = { 230 168 252 }
+      capital = c_R230G168B252
+      c_R230G168B252 = {
+        color = {230 168 252}
+        b_R230G168B252 = {
+          province = 10
+          color = {230 168 252}
+        }
+        b_R219G212B115 = {
+          province = 842
+          color = {230 168 252}
+        }
+        b_R87G37B137 = {
+          province = 577
+          color = {230 168 252}
+        }
+        b_R131G17B148 = {
+          province = 436
+          color = {230 168 252}
+        }
+        b_R242G39B181 = {
+          province = 606
+          color = {230 168 252}
+        }
+      }
+      c_R6G25B29 = {
+        color = {6 25 29}
+        b_R6G25B29 = {
+          province = 1258
+          color = {6 25 29}
+        }
+      }
+      c_R254G240B214 = {
+        color = {254 240 214}
+        b_R254G240B214 = {
+          province = 1576
+          color = {254 240 214}
+        }
+      }
+    }
+    d_R160G46B61 = {
+      color = { 160 46 61 }
+      capital = c_R160G46B61
+      c_R160G46B61 = {
+        color = {160 46 61}
+        b_R160G46B61 = {
+          province = 135
+          color = {160 46 61}
+        }
+        b_R22G174B117 = {
+          province = 1160
+          color = {160 46 61}
+        }
+        b_R172G28B65 = {
+          province = 1341
+          color = {160 46 61}
+        }
+        b_R237G209B240 = {
+          province = 1102
+          color = {160 46 61}
+        }
+        b_R41G252B60 = {
+          province = 853
+          color = {160 46 61}
+        }
+        b_R75G90B209 = {
+          province = 149
+          color = {160 46 61}
+        }
+      }
+      c_R135G154B48 = {
+        color = {135 154 48}
+        b_R135G154B48 = {
+          province = 583
+          color = {135 154 48}
+        }
+        b_R207G116B202 = {
+          province = 1760
+          color = {135 154 48}
+        }
+      }
+      c_R188G98B32 = {
+        color = {188 98 32}
+        b_R188G98B32 = {
+          province = 1066
+          color = {188 98 32}
+        }
+      }
+    }
+  }
+  k_R153G226B29 = {
+    color = {153 226 29}
+    capital = c_R153G226B29
+    d_R153G226B29 = {
+      color = { 153 226 29 }
+      capital = c_R153G226B29
+      c_R153G226B29 = {
+        color = {153 226 29}
+        b_R153G226B29 = {
+          province = 21
+          color = {153 226 29}
+        }
+        b_R22G210B231 = {
+          province = 961
+          color = {153 226 29}
+        }
+      }
+      c_R238G209B34 = {
+        color = {238 209 34}
+        b_R238G209B34 = {
+          province = 278
+          color = {238 209 34}
+        }
+        b_R207G166B51 = {
+          province = 1221
+          color = {238 209 34}
+        }
+        b_R242G162B185 = {
+          province = 338
+          color = {238 209 34}
+        }
+        b_R221G119B164 = {
+          province = 1056
+          color = {238 209 34}
+        }
+        b_R212G247B1 = {
+          province = 1240
+          color = {238 209 34}
+        }
+        b_R185G18B183 = {
+          province = 1278
+          color = {238 209 34}
+        }
+      }
+      c_R17G57B213 = {
+        color = {17 57 213}
+        b_R17G57B213 = {
+          province = 170
+          color = {17 57 213}
+        }
+        b_R216G68B178 = {
+          province = 1503
+          color = {17 57 213}
+        }
+        b_R218G83B79 = {
+          province = 1799
+          color = {17 57 213}
+        }
+      }
+      c_R104G131B117 = {
+        color = {104 131 117}
+        b_R104G131B117 = {
+          province = 426
+          color = {104 131 117}
+        }
+        b_R146G146B171 = {
+          province = 1006
+          color = {104 131 117}
+        }
+      }
+      c_R70G133B92 = {
+        color = {70 133 92}
+        b_R70G133B92 = {
+          province = 1501
+          color = {70 133 92}
+        }
+        b_R119G234B79 = {
+          province = 1856
+          color = {70 133 92}
+        }
+      }
+    }
+    d_R125G104B240 = {
+      color = { 125 104 240 }
+      capital = c_R125G104B240
+      c_R125G104B240 = {
+        color = {125 104 240}
+        b_R125G104B240 = {
+          province = 300
+          color = {125 104 240}
+        }
+        b_R84G87B101 = {
+          province = 1273
+          color = {125 104 240}
+        }
+        b_R119G184B128 = {
+          province = 539
+          color = {125 104 240}
+        }
+        b_R156G166B66 = {
+          province = 773
+          color = {125 104 240}
+        }
+        b_R242G27B42 = {
+          province = 345
+          color = {125 104 240}
+        }
+      }
+    }
+  }
+  k_R175G74B209 = {
+    color = {175 74 209}
+    capital = c_R175G74B209
+    d_R175G74B209 = {
+      color = { 175 74 209 }
+      capital = c_R175G74B209
+      c_R175G74B209 = {
+        color = {175 74 209}
+        b_R175G74B209 = {
+          province = 304
+          color = {175 74 209}
+        }
+        b_R176G100B17 = {
+          province = 1510
+          color = {175 74 209}
+        }
+        b_R9G251B114 = {
+          province = 763
+          color = {175 74 209}
+        }
+        b_R104G32B156 = {
+          province = 1193
+          color = {175 74 209}
+        }
+        b_R130G220B102 = {
+          province = 470
+          color = {175 74 209}
+        }
+      }
+    }
+    d_R251G82B112 = {
+      color = { 251 82 112 }
+      capital = c_R251G82B112
+      c_R251G82B112 = {
+        color = {251 82 112}
+        b_R251G82B112 = {
+          province = 421
+          color = {251 82 112}
+        }
+        b_R14G79B75 = {
+          province = 1820
+          color = {251 82 112}
+        }
+        b_R82G76B108 = {
+          province = 1624
+          color = {251 82 112}
+        }
+        b_R17G146B182 = {
+          province = 1642
+          color = {251 82 112}
+        }
+        b_R0G146B128 = {
+          province = 476
+          color = {251 82 112}
+        }
+        b_R240G120B249 = {
+          province = 1743
+          color = {251 82 112}
+        }
+      }
+    }
+    d_R232G55B52 = {
+      color = { 232 55 52 }
+      capital = c_R232G55B52
+      c_R232G55B52 = {
+        color = {232 55 52}
+        b_R232G55B52 = {
+          province = 575
+          color = {232 55 52}
+        }
+        b_R233G112B61 = {
+          province = 1334
+          color = {232 55 52}
+        }
+        b_R230G48B33 = {
+          province = 1883
+          color = {232 55 52}
+        }
+      }
+      c_R234G60B156 = {
+        color = {234 60 156}
+        b_R234G60B156 = {
+          province = 949
+          color = {234 60 156}
+        }
+        b_R247G71B209 = {
+          province = 1018
+          color = {234 60 156}
+        }
+        b_R19G199B168 = {
+          province = 1550
+          color = {234 60 156}
+        }
+        b_R105G232B235 = {
+          province = 1414
+          color = {234 60 156}
+        }
+      }
+    }
+  }
   k_R1G42B28 = {
     color = {1 42 28}
     capital = c_R1G42B28
@@ -9011,128 +8133,21 @@ e_R1G42B28 = {
         }
       }
     }
-    d_R97G205B243 = {
-      color = { 97 205 243 }
-      capital = c_R97G205B243
-      c_R97G205B243 = {
-        color = {97 205 243}
-        b_R97G205B243 = {
-          province = 332
-          color = {97 205 243}
-        }
-        b_R105G66B132 = {
-          province = 1469
-          color = {97 205 243}
-        }
-        b_R111G8B21 = {
-          province = 719
-          color = {97 205 243}
-        }
-        b_R239G32B93 = {
-          province = 863
-          color = {97 205 243}
-        }
-      }
-    }
-    d_R245G21B228 = {
-      color = { 245 21 228 }
-      capital = c_R245G21B228
-      c_R245G21B228 = {
-        color = {245 21 228}
-        b_R245G21B228 = {
-          province = 362
-          color = {245 21 228}
-        }
-        b_R83G91B106 = {
-          province = 706
-          color = {245 21 228}
-        }
-        b_R237G38B248 = {
-          province = 1151
-          color = {245 21 228}
-        }
-        b_R69G17B48 = {
-          province = 827
-          color = {245 21 228}
-        }
-      }
-    }
   }
-  k_R255G223B214 = {
-    color = {255 223 214}
-    capital = c_R255G223B214
-    d_R255G223B214 = {
-      color = { 255 223 214 }
-      capital = c_R255G223B214
-      c_R255G223B214 = {
-        color = {255 223 214}
-        b_R255G223B214 = {
-          province = 111
-          color = {255 223 214}
-        }
-        b_R119G54B111 = {
-          province = 1099
-          color = {255 223 214}
-        }
-      }
-      c_R4G199B46 = {
-        color = {4 199 46}
-        b_R4G199B46 = {
-          province = 603
-          color = {4 199 46}
+  k_R15G79B199 = {
+    color = {15 79 199}
+    capital = c_R15G79B199
+    d_R15G79B199 = {
+      color = { 15 79 199 }
+      capital = c_R15G79B199
+      c_R15G79B199 = {
+        color = {15 79 199}
+        b_R15G79B199 = {
+          province = 1373
+          color = {15 79 199}
         }
       }
     }
-    d_R106G144B144 = {
-      color = { 106 144 144 }
-      capital = c_R106G144B144
-      c_R106G144B144 = {
-        color = {106 144 144}
-        b_R106G144B144 = {
-          province = 444
-          color = {106 144 144}
-        }
-        b_R181G230B209 = {
-          province = 1792
-          color = {106 144 144}
-        }
-        b_R87G159B83 = {
-          province = 512
-          color = {106 144 144}
-        }
-        b_R98G247B117 = {
-          province = 796
-          color = {106 144 144}
-        }
-        b_R48G111B179 = {
-          province = 1538
-          color = {106 144 144}
-        }
-        b_R233G251B72 = {
-          province = 1362
-          color = {106 144 144}
-        }
-      }
-      c_R105G25B13 = {
-        color = {105 25 13}
-        b_R105G25B13 = {
-          province = 837
-          color = {105 25 13}
-        }
-        b_R237G38B151 = {
-          province = 1549
-          color = {105 25 13}
-        }
-        b_R39G168B71 = {
-          province = 1276
-          color = {105 25 13}
-        }
-      }
-    }
-  }
-  k_R111G83B124 = {
-    color = {111 83 124}
-    capital = c_R111G83B124
     d_R111G83B124 = {
       color = { 111 83 124 }
       capital = c_R111G83B124
@@ -9158,129 +8173,67 @@ e_R1G42B28 = {
         }
       }
     }
-  }
-  k_R214G142B38 = {
-    color = {214 142 38}
-    capital = c_R214G142B38
-    d_R214G142B38 = {
-      color = { 214 142 38 }
-      capital = c_R214G142B38
-      c_R214G142B38 = {
-        color = {214 142 38}
-        b_R214G142B38 = {
-          province = 259
-          color = {214 142 38}
+    d_R255G223B214 = {
+      color = { 255 223 214 }
+      capital = c_R255G223B214
+      c_R255G223B214 = {
+        color = {255 223 214}
+        b_R255G223B214 = {
+          province = 111
+          color = {255 223 214}
         }
-        b_R156G22B198 = {
-          province = 1455
-          color = {214 142 38}
-        }
-        b_R28G116B140 = {
-          province = 1736
-          color = {214 142 38}
+        b_R119G54B111 = {
+          province = 1099
+          color = {255 223 214}
         }
       }
-      c_R192G172B34 = {
-        color = {192 172 34}
-        b_R192G172B34 = {
-          province = 328
-          color = {192 172 34}
-        }
-        b_R2G246B188 = {
-          province = 854
-          color = {192 172 34}
-        }
-        b_R115G13B243 = {
-          province = 646
-          color = {192 172 34}
-        }
-        b_R147G177B247 = {
-          province = 878
-          color = {192 172 34}
-        }
-        b_R7G148B113 = {
-          province = 711
-          color = {192 172 34}
+      c_R4G199B46 = {
+        color = {4 199 46}
+        b_R4G199B46 = {
+          province = 603
+          color = {4 199 46}
         }
       }
     }
-    d_R235G194B64 = {
-      color = { 235 194 64 }
-      capital = c_R235G194B64
-      c_R235G194B64 = {
-        color = {235 194 64}
-        b_R235G194B64 = {
-          province = 593
-          color = {235 194 64}
+    d_R245G21B228 = {
+      color = { 245 21 228 }
+      capital = c_R245G21B228
+      c_R245G21B228 = {
+        color = {245 21 228}
+        b_R245G21B228 = {
+          province = 362
+          color = {245 21 228}
         }
-        b_R247G124B235 = {
-          province = 1711
-          color = {235 194 64}
+        b_R83G91B106 = {
+          province = 706
+          color = {245 21 228}
         }
-        b_R61G116B35 = {
-          province = 1220
-          color = {235 194 64}
+        b_R237G38B248 = {
+          province = 1151
+          color = {245 21 228}
         }
-        b_R94G200B150 = {
-          province = 1750
-          color = {235 194 64}
-        }
-        b_R153G226B107 = {
-          province = 640
-          color = {235 194 64}
+        b_R69G17B48 = {
+          province = 827
+          color = {245 21 228}
         }
       }
-    }
-    d_R26G224B194 = {
-      color = { 26 224 194 }
-      capital = c_R26G224B194
-      c_R26G224B194 = {
-        color = {26 224 194}
-        b_R26G224B194 = {
-          province = 658
-          color = {26 224 194}
+      c_R97G205B243 = {
+        color = {97 205 243}
+        b_R97G205B243 = {
+          province = 332
+          color = {97 205 243}
         }
-        b_R162G25B55 = {
-          province = 741
-          color = {26 224 194}
+        b_R105G66B132 = {
+          province = 1469
+          color = {97 205 243}
         }
-        b_R72G245B229 = {
-          province = 925
-          color = {26 224 194}
+        b_R111G8B21 = {
+          province = 719
+          color = {97 205 243}
         }
-        b_R234G44B10 = {
-          province = 1848
-          color = {26 224 194}
-        }
-        b_R181G151B112 = {
-          province = 1101
-          color = {26 224 194}
-        }
-      }
-      c_R74G83B194 = {
-        color = {74 83 194}
-        b_R74G83B194 = {
-          province = 718
-          color = {74 83 194}
-        }
-        b_R90G123B185 = {
-          province = 1765
-          color = {74 83 194}
-        }
-      }
-    }
-  }
-  k_R15G79B199 = {
-    color = {15 79 199}
-    capital = c_R15G79B199
-    d_R15G79B199 = {
-      color = { 15 79 199 }
-      capital = c_R15G79B199
-      c_R15G79B199 = {
-        color = {15 79 199}
-        b_R15G79B199 = {
-          province = 1373
-          color = {15 79 199}
+        b_R239G32B93 = {
+          province = 863
+          color = {97 205 243}
         }
       }
     }
@@ -9289,6 +8242,173 @@ e_R1G42B28 = {
 e_R207G241B233 = {
   color = {207 241 233}
   capital = c_R207G241B233
+  k_R148G137B245 = {
+    color = {148 137 245}
+    capital = c_R148G137B245
+    d_R148G137B245 = {
+      color = { 148 137 245 }
+      capital = c_R148G137B245
+      c_R148G137B245 = {
+        color = {148 137 245}
+        b_R148G137B245 = {
+          province = 208
+          color = {148 137 245}
+        }
+        b_R252G26B124 = {
+          province = 1812
+          color = {148 137 245}
+        }
+        b_R131G237B117 = {
+          province = 1600
+          color = {148 137 245}
+        }
+        b_R150G255B14 = {
+          province = 239
+          color = {148 137 245}
+        }
+        b_R127G29B247 = {
+          province = 777
+          color = {148 137 245}
+        }
+        b_R153G40B92 = {
+          province = 1806
+          color = {148 137 245}
+        }
+      }
+    }
+    d_R109G4B35 = {
+      color = { 109 4 35 }
+      capital = c_R109G4B35
+      c_R109G4B35 = {
+        color = {109 4 35}
+        b_R109G4B35 = {
+          province = 250
+          color = {109 4 35}
+        }
+        b_R211G42B238 = {
+          province = 389
+          color = {109 4 35}
+        }
+      }
+      c_R232G223B119 = {
+        color = {232 223 119}
+        b_R232G223B119 = {
+          province = 610
+          color = {232 223 119}
+        }
+        b_R127G47B107 = {
+          province = 1871
+          color = {232 223 119}
+        }
+        b_R87G214B81 = {
+          province = 1721
+          color = {232 223 119}
+        }
+        b_R168G244B224 = {
+          province = 740
+          color = {232 223 119}
+        }
+      }
+    }
+    d_R210G217B83 = {
+      color = { 210 217 83 }
+      capital = c_R210G217B83
+      c_R210G217B83 = {
+        color = {210 217 83}
+        b_R210G217B83 = {
+          province = 295
+          color = {210 217 83}
+        }
+        b_R39G208B168 = {
+          province = 968
+          color = {210 217 83}
+        }
+        b_R200G104B210 = {
+          province = 596
+          color = {210 217 83}
+        }
+        b_R242G141B148 = {
+          province = 1155
+          color = {210 217 83}
+        }
+        b_R9G46B56 = {
+          province = 1351
+          color = {210 217 83}
+        }
+        b_R188G30B67 = {
+          province = 1520
+          color = {210 217 83}
+        }
+      }
+      c_R254G99B162 = {
+        color = {254 99 162}
+        b_R254G99B162 = {
+          province = 1355
+          color = {254 99 162}
+        }
+        b_R64G203B128 = {
+          province = 1614
+          color = {254 99 162}
+        }
+      }
+    }
+  }
+  k_R90G157B48 = {
+    color = {90 157 48}
+    capital = c_R90G157B48
+    d_R49G198B251 = {
+      color = { 49 198 251 }
+      capital = c_R49G198B251
+      c_R49G198B251 = {
+        color = {49 198 251}
+        b_R49G198B251 = {
+          province = 548
+          color = {49 198 251}
+        }
+        b_R86G220B33 = {
+          province = 1522
+          color = {49 198 251}
+        }
+      }
+      c_R157G243B51 = {
+        color = {157 243 51}
+        b_R157G243B51 = {
+          province = 334
+          color = {157 243 51}
+        }
+      }
+    }
+    d_R90G157B48 = {
+      color = { 90 157 48 }
+      capital = c_R90G157B48
+      c_R90G157B48 = {
+        color = {90 157 48}
+        b_R90G157B48 = {
+          province = 126
+          color = {90 157 48}
+        }
+        b_R189G42B149 = {
+          province = 446
+          color = {90 157 48}
+        }
+        b_R243G134B251 = {
+          province = 1166
+          color = {90 157 48}
+        }
+        b_R33G255B51 = {
+          province = 526
+          color = {90 157 48}
+        }
+      }
+      c_R69G156B139 = {
+        color = {69 156 139}
+        b_R69G156B139 = {
+          province = 954
+          color = {69 156 139}
+        }
+      }
+    }
+  }
   k_R207G241B233 = {
     color = {207 241 233}
     capital = c_R207G241B233
@@ -9313,20 +8433,23 @@ e_R207G241B233 = {
           province = 1688
           color = {207 241 233}
         }
+      }
+      c_R10G51B37 = {
+        color = {10 51 37}
+        b_R10G51B37 = {
+          province = 1357
+          color = {10 51 37}
+        }
         b_R116G222B46 = {
           province = 780
-          color = {207 241 233}
+          color = {10 51 37}
         }
         b_R38G83B250 = {
           province = 192
-          color = {207 241 233}
+          color = {10 51 37}
         }
       }
     }
-  }
-  k_R173G141B41 = {
-    color = {173 141 41}
-    capital = c_R173G141B41
     d_R173G141B41 = {
       color = { 173 141 41 }
       capital = c_R173G141B41
@@ -9399,72 +8522,22 @@ e_R207G241B233 = {
         }
       }
     }
-  }
-  k_R10G51B37 = {
-    color = {10 51 37}
-    capital = c_R10G51B37
-    d_R10G51B37 = {
-      color = { 10 51 37 }
-      capital = c_R10G51B37
-      c_R10G51B37 = {
-        color = {10 51 37}
-        b_R10G51B37 = {
-          province = 1357
-          color = {10 51 37}
+    d_R88G156B189 = {
+      color = { 88 156 189 }
+      capital = c_R88G156B189
+      c_R88G156B189 = {
+        color = {88 156 189}
+        b_R88G156B189 = {
+          province = 481
+          color = {88 156 189}
         }
-      }
-    }
-  }
-}
-e_R217G148B185 = {
-  color = {217 148 185}
-  capital = c_R217G148B185
-  k_R217G148B185 = {
-    color = {217 148 185}
-    capital = c_R217G148B185
-    d_R217G148B185 = {
-      color = { 217 148 185 }
-      capital = c_R217G148B185
-      c_R217G148B185 = {
-        color = {217 148 185}
-        b_R217G148B185 = {
-          province = 80
-          color = {217 148 185}
+        b_R136G104B160 = {
+          province = 1090
+          color = {88 156 189}
         }
-        b_R178G85B70 = {
-          province = 309
-          color = {217 148 185}
-        }
-        b_R85G239B19 = {
-          province = 1032
-          color = {217 148 185}
-        }
-      }
-    }
-  }
-  k_R28G237B250 = {
-    color = {28 237 250}
-    capital = c_R28G237B250
-    d_R28G237B250 = {
-      color = { 28 237 250 }
-      capital = c_R28G237B250
-      c_R28G237B250 = {
-        color = {28 237 250}
-        b_R28G237B250 = {
-          province = 748
-          color = {28 237 250}
-        }
-        b_R156G237B89 = {
-          province = 1238
-          color = {28 237 250}
-        }
-        b_R173G103B115 = {
-          province = 1884
-          color = {28 237 250}
-        }
-        b_R143G238B13 = {
-          province = 1125
-          color = {28 237 250}
+        b_R85G66B26 = {
+          province = 1617
+          color = {88 156 189}
         }
       }
     }
@@ -9847,159 +8920,200 @@ e_R122G168B46 = {
     }
   }
 }
-e_R25G183B120 = {
-  color = {25 183 120}
-  capital = c_R25G183B120
-  k_R25G183B120 = {
-    color = {25 183 120}
-    capital = c_R25G183B120
-    d_R25G183B120 = {
-      color = { 25 183 120 }
-      capital = c_R25G183B120
-      c_R25G183B120 = {
-        color = {25 183 120}
-        b_R25G183B120 = {
-          province = 122
-          color = {25 183 120}
-        }
-        b_R132G252B213 = {
-          province = 1253
-          color = {25 183 120}
-        }
-        b_R70G52B119 = {
-          province = 1471
-          color = {25 183 120}
-        }
-        b_R204G19B87 = {
-          province = 1837
-          color = {25 183 120}
-        }
-        b_R126G200B154 = {
-          province = 232
-          color = {25 183 120}
-        }
-        b_R81G22B156 = {
-          province = 630
-          color = {25 183 120}
-        }
-      }
-      c_R78G100B190 = {
-        color = {78 100 190}
-        b_R78G100B190 = {
-          province = 1068
-          color = {78 100 190}
-        }
-      }
-      c_R175G147B100 = {
-        color = {175 147 100}
-        b_R175G147B100 = {
-          province = 1813
-          color = {175 147 100}
-        }
-      }
-    }
-  }
-}
-e_R193G135B175 = {
-  color = {193 135 175}
-  capital = c_R193G135B175
-  k_R193G135B175 = {
-    color = {193 135 175}
-    capital = c_R193G135B175
-    d_R193G135B175 = {
-      color = { 193 135 175 }
-      capital = c_R193G135B175
-      c_R193G135B175 = {
-        color = {193 135 175}
-        b_R193G135B175 = {
-          province = 155
-          color = {193 135 175}
-        }
-        b_R105G192B196 = {
-          province = 518
-          color = {193 135 175}
-        }
-      }
-      c_R116G112B222 = {
-        color = {116 112 222}
-        b_R116G112B222 = {
-          province = 1049
-          color = {116 112 222}
-        }
-        b_R234G255B119 = {
-          province = 1195
-          color = {116 112 222}
-        }
-      }
-    }
-    d_R155G20B95 = {
-      color = { 155 20 95 }
-      capital = c_R155G20B95
-      c_R155G20B95 = {
-        color = {155 20 95}
-        b_R155G20B95 = {
-          province = 290
-          color = {155 20 95}
-        }
-        b_R81G99B94 = {
-          province = 511
-          color = {155 20 95}
-        }
-      }
-      c_R167G132B25 = {
-        color = {167 132 25}
-        b_R167G132B25 = {
-          province = 487
-          color = {167 132 25}
-        }
-      }
-      c_R160G87B81 = {
-        color = {160 87 81}
-        b_R160G87B81 = {
-          province = 674
-          color = {160 87 81}
-        }
-        b_R101G155B16 = {
-          province = 1314
-          color = {160 87 81}
-        }
-        b_R77G204B214 = {
-          province = 1443
-          color = {160 87 81}
-        }
-        b_R233G149B51 = {
-          province = 1894
-          color = {160 87 81}
-        }
-        b_R207G25B46 = {
-          province = 1308
-          color = {160 87 81}
-        }
-      }
-    }
-  }
-  k_R200G69B10 = {
-    color = {200 69 10}
-    capital = c_R200G69B10
-    d_R200G69B10 = {
-      color = { 200 69 10 }
-      capital = c_R200G69B10
-      c_R200G69B10 = {
-        color = {200 69 10}
-        b_R200G69B10 = {
-          province = 1201
-          color = {200 69 10}
-        }
-      }
-    }
-  }
-}
 e_R148G171B218 = {
   color = {148 171 218}
   capital = c_R148G171B218
+  k_R119G17B105 = {
+    color = {119 17 105}
+    capital = c_R119G17B105
+    d_R160G75B161 = {
+      color = { 160 75 161 }
+      capital = c_R160G75B161
+      c_R160G75B161 = {
+        color = {160 75 161}
+        b_R160G75B161 = {
+          province = 211
+          color = {160 75 161}
+        }
+        b_R38G165B154 = {
+          province = 1233
+          color = {160 75 161}
+        }
+        b_R90G182B248 = {
+          province = 1783
+          color = {160 75 161}
+        }
+        b_R151G75B169 = {
+          province = 376
+          color = {160 75 161}
+        }
+        b_R90G254B202 = {
+          province = 776
+          color = {160 75 161}
+        }
+      }
+      c_R215G245B199 = {
+        color = {215 245 199}
+        b_R215G245B199 = {
+          province = 418
+          color = {215 245 199}
+        }
+      }
+      c_R60G53B100 = {
+        color = {60 53 100}
+        b_R60G53B100 = {
+          province = 1067
+          color = {60 53 100}
+        }
+      }
+      c_R197G2B213 = {
+        color = {197 2 213}
+        b_R197G2B213 = {
+          province = 1580
+          color = {197 2 213}
+        }
+      }
+    }
+    d_R106G144B144 = {
+      color = { 106 144 144 }
+      capital = c_R106G144B144
+      c_R106G144B144 = {
+        color = {106 144 144}
+        b_R106G144B144 = {
+          province = 444
+          color = {106 144 144}
+        }
+        b_R181G230B209 = {
+          province = 1792
+          color = {106 144 144}
+        }
+        b_R87G159B83 = {
+          province = 512
+          color = {106 144 144}
+        }
+        b_R98G247B117 = {
+          province = 796
+          color = {106 144 144}
+        }
+        b_R48G111B179 = {
+          province = 1538
+          color = {106 144 144}
+        }
+        b_R233G251B72 = {
+          province = 1362
+          color = {106 144 144}
+        }
+      }
+      c_R105G25B13 = {
+        color = {105 25 13}
+        b_R105G25B13 = {
+          province = 837
+          color = {105 25 13}
+        }
+        b_R237G38B151 = {
+          province = 1549
+          color = {105 25 13}
+        }
+        b_R39G168B71 = {
+          province = 1276
+          color = {105 25 13}
+        }
+      }
+    }
+    d_R119G17B105 = {
+      color = { 119 17 105 }
+      capital = c_R119G17B105
+      c_R119G17B105 = {
+        color = {119 17 105}
+        b_R119G17B105 = {
+          province = 659
+          color = {119 17 105}
+        }
+        b_R183G204B123 = {
+          province = 1448
+          color = {119 17 105}
+        }
+        b_R3G55B33 = {
+          province = 1671
+          color = {119 17 105}
+        }
+      }
+    }
+    d_R197G49B130 = {
+      color = { 197 49 130 }
+      capital = c_R197G49B130
+      c_R197G49B130 = {
+        color = {197 49 130}
+        b_R197G49B130 = {
+          province = 1281
+          color = {197 49 130}
+        }
+        b_R213G34B224 = {
+          province = 1756
+          color = {197 49 130}
+        }
+      }
+    }
+  }
   k_R148G171B218 = {
     color = {148 171 218}
     capital = c_R148G171B218
+    d_R78G0B114 = {
+      color = { 78 0 114 }
+      capital = c_R78G0B114
+      c_R78G0B114 = {
+        color = {78 0 114}
+        b_R78G0B114 = {
+          province = 54
+          color = {78 0 114}
+        }
+        b_R140G181B81 = {
+          province = 123
+          color = {78 0 114}
+        }
+        b_R133G138B130 = {
+          province = 231
+          color = {78 0 114}
+        }
+      }
+      c_R191G237B138 = {
+        color = {191 237 138}
+        b_R191G237B138 = {
+          province = 515
+          color = {191 237 138}
+        }
+        b_R229G175B140 = {
+          province = 964
+          color = {191 237 138}
+        }
+        b_R182G34B77 = {
+          province = 1359
+          color = {191 237 138}
+        }
+        b_R177G188B170 = {
+          province = 1037
+          color = {191 237 138}
+        }
+      }
+    }
+    d_R235G121B39 = {
+      color = { 235 121 39 }
+      capital = c_R235G121B39
+      c_R235G121B39 = {
+        color = {235 121 39}
+        b_R235G121B39 = {
+          province = 1684
+          color = {235 121 39}
+        }
+      }
+      c_R254G74B151 = {
+        color = {254 74 151}
+        b_R254G74B151 = {
+          province = 934
+          color = {254 74 151}
+        }
+      }
+    }
     d_R148G171B218 = {
       color = { 148 171 218 }
       capital = c_R148G171B218
@@ -10083,422 +9197,175 @@ e_R148G171B218 = {
         }
       }
     }
-    d_R191G237B138 = {
-      color = { 191 237 138 }
-      capital = c_R191G237B138
-      c_R191G237B138 = {
-        color = {191 237 138}
-        b_R191G237B138 = {
-          province = 515
-          color = {191 237 138}
+  }
+  k_R60G34B109 = {
+    color = {60 34 109}
+    capital = c_R60G34B109
+    d_R60G34B109 = {
+      color = { 60 34 109 }
+      capital = c_R60G34B109
+      c_R60G34B109 = {
+        color = {60 34 109}
+        b_R60G34B109 = {
+          province = 7
+          color = {60 34 109}
         }
-        b_R229G175B140 = {
-          province = 964
-          color = {191 237 138}
+      }
+      c_R73G155B191 = {
+        color = {73 155 191}
+        b_R73G155B191 = {
+          province = 24
+          color = {73 155 191}
         }
-        b_R182G34B77 = {
-          province = 1359
-          color = {191 237 138}
+        b_R82G22B6 = {
+          province = 920
+          color = {73 155 191}
         }
-        b_R177G188B170 = {
-          province = 1037
-          color = {191 237 138}
+        b_R209G216B103 = {
+          province = 1706
+          color = {73 155 191}
+        }
+      }
+      c_R255G164B31 = {
+        color = {255 164 31}
+        b_R255G164B31 = {
+          province = 761
+          color = {255 164 31}
+        }
+        b_R39G200B9 = {
+          province = 996
+          color = {255 164 31}
+        }
+        b_R132G89B86 = {
+          province = 1904
+          color = {255 164 31}
+        }
+        b_R28G31B140 = {
+          province = 1202
+          color = {255 164 31}
+        }
+      }
+      c_R161G58B236 = {
+        color = {161 58 236}
+        b_R161G58B236 = {
+          province = 1288
+          color = {161 58 236}
+        }
+      }
+      c_R32G20B28 = {
+        color = {32 20 28}
+        b_R32G20B28 = {
+          province = 1714
+          color = {32 20 28}
+        }
+      }
+    }
+    d_R131G218B118 = {
+      color = { 131 218 118 }
+      capital = c_R131G218B118
+      c_R131G218B118 = {
+        color = {131 218 118}
+        b_R131G218B118 = {
+          province = 53
+          color = {131 218 118}
+        }
+        b_R71G143B70 = {
+          province = 924
+          color = {131 218 118}
+        }
+        b_R79G168B198 = {
+          province = 102
+          color = {131 218 118}
+        }
+      }
+      c_R49G161B57 = {
+        color = {49 161 57}
+        b_R49G161B57 = {
+          province = 944
+          color = {49 161 57}
+        }
+        b_R160G113B224 = {
+          province = 1052
+          color = {49 161 57}
+        }
+      }
+      c_R190G55B92 = {
+        color = {190 55 92}
+        b_R190G55B92 = {
+          province = 1091
+          color = {190 55 92}
         }
       }
     }
   }
-  k_R235G121B39 = {
-    color = {235 121 39}
-    capital = c_R235G121B39
-    d_R235G121B39 = {
-      color = { 235 121 39 }
-      capital = c_R235G121B39
-      c_R235G121B39 = {
-        color = {235 121 39}
-        b_R235G121B39 = {
-          province = 1684
-          color = {235 121 39}
+  k_R157G138B80 = {
+    color = {157 138 80}
+    capital = c_R157G138B80
+    d_R139G172B182 = {
+      color = { 139 172 182 }
+      capital = c_R139G172B182
+      c_R139G172B182 = {
+        color = {139 172 182}
+        b_R139G172B182 = {
+          province = 224
+          color = {139 172 182}
+        }
+        b_R214G139B221 = {
+          province = 1586
+          color = {139 172 182}
+        }
+        b_R226G194B39 = {
+          province = 828
+          color = {139 172 182}
+        }
+      }
+      c_R72G75B216 = {
+        color = {72 75 216}
+        b_R72G75B216 = {
+          province = 1255
+          color = {72 75 216}
         }
       }
     }
-  }
-}
-e_R177G17B230 = {
-  color = {177 17 230}
-  capital = c_R177G17B230
-  k_R177G17B230 = {
-    color = {177 17 230}
-    capital = c_R177G17B230
-    d_R177G17B230 = {
-      color = { 177 17 230 }
-      capital = c_R177G17B230
-      c_R177G17B230 = {
-        color = {177 17 230}
-        b_R177G17B230 = {
-          province = 200
-          color = {177 17 230}
+    d_R143G83B18 = {
+      color = { 143 83 18 }
+      capital = c_R143G83B18
+      c_R143G83B18 = {
+        color = {143 83 18}
+        b_R143G83B18 = {
+          province = 156
+          color = {143 83 18}
         }
-        b_R162G39B230 = {
-          province = 1815
-          color = {177 17 230}
+        b_R175G77B157 = {
+          province = 1002
+          color = {143 83 18}
         }
-        b_R205G72B236 = {
-          province = 788
-          color = {177 17 230}
+        b_R175G160B108 = {
+          province = 1380
+          color = {143 83 18}
         }
-        b_R48G51B86 = {
-          province = 1565
-          color = {177 17 230}
-        }
-        b_R134G200B148 = {
-          province = 1326
-          color = {177 17 230}
-        }
-      }
-      c_R4G148B220 = {
-        color = {4 148 220}
-        b_R4G148B220 = {
-          province = 1877
-          color = {4 148 220}
+        b_R48G134B170 = {
+          province = 942
+          color = {143 83 18}
         }
       }
     }
-  }
-}
-e_R143G64B78 = {
-  color = {143 64 78}
-  capital = c_R143G64B78
-  k_R143G64B78 = {
-    color = {143 64 78}
-    capital = c_R143G64B78
-    d_R143G64B78 = {
-      color = { 143 64 78 }
-      capital = c_R143G64B78
-      c_R143G64B78 = {
-        color = {143 64 78}
-        b_R143G64B78 = {
-          province = 201
-          color = {143 64 78}
+    d_R157G138B80 = {
+      color = { 157 138 80 }
+      capital = c_R157G138B80
+      c_R157G138B80 = {
+        color = {157 138 80}
+        b_R157G138B80 = {
+          province = 720
+          color = {157 138 80}
         }
-        b_R68G166B77 = {
-          province = 1801
-          color = {143 64 78}
+        b_R5G190B84 = {
+          province = 1430
+          color = {157 138 80}
         }
-        b_R225G196B219 = {
-          province = 1282
-          color = {143 64 78}
-        }
-        b_R136G230B88 = {
-          province = 1759
-          color = {143 64 78}
-        }
-      }
-      c_R167G238B109 = {
-        color = {167 238 109}
-        b_R167G238B109 = {
-          province = 254
-          color = {167 238 109}
-        }
-        b_R250G93B119 = {
-          province = 1401
-          color = {167 238 109}
-        }
-        b_R9G90B162 = {
-          province = 635
-          color = {167 238 109}
-        }
-      }
-    }
-  }
-  k_R184G24B215 = {
-    color = {184 24 215}
-    capital = c_R184G24B215
-    d_R184G24B215 = {
-      color = { 184 24 215 }
-      capital = c_R184G24B215
-      c_R184G24B215 = {
-        color = {184 24 215}
-        b_R184G24B215 = {
-          province = 310
-          color = {184 24 215}
-        }
-      }
-    }
-  }
-  k_R121G201B223 = {
-    color = {121 201 223}
-    capital = c_R121G201B223
-    d_R121G201B223 = {
-      color = { 121 201 223 }
-      capital = c_R121G201B223
-      c_R121G201B223 = {
-        color = {121 201 223}
-        b_R121G201B223 = {
-          province = 675
-          color = {121 201 223}
-        }
-      }
-      c_R65G67B154 = {
-        color = {65 67 154}
-        b_R65G67B154 = {
-          province = 1118
-          color = {65 67 154}
-        }
-        b_R249G97B180 = {
-          province = 1653
-          color = {65 67 154}
-        }
-      }
-    }
-    d_R219G31B104 = {
-      color = { 219 31 104 }
-      capital = c_R219G31B104
-      c_R219G31B104 = {
-        color = {219 31 104}
-        b_R219G31B104 = {
-          province = 803
-          color = {219 31 104}
-        }
-        b_R81G42B13 = {
-          province = 1553
-          color = {219 31 104}
-        }
-        b_R131G169B8 = {
-          province = 1113
-          color = {219 31 104}
-        }
-        b_R81G217B154 = {
-          province = 1143
-          color = {219 31 104}
-        }
-        b_R188G2B193 = {
-          province = 1354
-          color = {219 31 104}
-        }
-      }
-    }
-  }
-}
-e_R34G91B37 = {
-  color = {34 91 37}
-  capital = c_R34G91B37
-  k_R34G91B37 = {
-    color = {34 91 37}
-    capital = c_R34G91B37
-    d_R34G91B37 = {
-      color = { 34 91 37 }
-      capital = c_R34G91B37
-      c_R34G91B37 = {
-        color = {34 91 37}
-        b_R34G91B37 = {
-          province = 216
-          color = {34 91 37}
-        }
-        b_R250G214B26 = {
-          province = 1515
-          color = {34 91 37}
-        }
-      }
-    }
-    d_R192G179B198 = {
-      color = { 192 179 198 }
-      capital = c_R192G179B198
-      c_R192G179B198 = {
-        color = {192 179 198}
-        b_R192G179B198 = {
-          province = 341
-          color = {192 179 198}
-        }
-        b_R216G113B104 = {
-          province = 624
-          color = {192 179 198}
-        }
-        b_R1G195B112 = {
-          province = 1230
-          color = {192 179 198}
-        }
-        b_R170G133B98 = {
-          province = 1529
-          color = {192 179 198}
-        }
-      }
-    }
-  }
-  k_R178G163B225 = {
-    color = {178 163 225}
-    capital = c_R178G163B225
-    d_R178G163B225 = {
-      color = { 178 163 225 }
-      capital = c_R178G163B225
-      c_R178G163B225 = {
-        color = {178 163 225}
-        b_R178G163B225 = {
-          province = 292
-          color = {178 163 225}
-        }
-        b_R242G219B126 = {
-          province = 1024
-          color = {178 163 225}
-        }
-        b_R193G118B36 = {
-          province = 1224
-          color = {178 163 225}
-        }
-        b_R189G238B28 = {
-          province = 1669
-          color = {178 163 225}
-        }
-      }
-    }
-    d_R95G128B168 = {
-      color = { 95 128 168 }
-      capital = c_R95G128B168
-      c_R95G128B168 = {
-        color = {95 128 168}
-        b_R95G128B168 = {
-          province = 361
-          color = {95 128 168}
-        }
-        b_R187G171B77 = {
-          province = 1366
-          color = {95 128 168}
-        }
-        b_R157G139B146 = {
-          province = 1618
-          color = {95 128 168}
-        }
-      }
-    }
-  }
-}
-e_R111G136B141 = {
-  color = {111 136 141}
-  capital = c_R111G136B141
-  k_R111G136B141 = {
-    color = {111 136 141}
-    capital = c_R111G136B141
-    d_R111G136B141 = {
-      color = { 111 136 141 }
-      capital = c_R111G136B141
-      c_R111G136B141 = {
-        color = {111 136 141}
-        b_R111G136B141 = {
-          province = 220
-          color = {111 136 141}
-        }
-        b_R65G115B103 = {
-          province = 1302
-          color = {111 136 141}
-        }
-      }
-    }
-    d_R19G5B80 = {
-      color = { 19 5 80 }
-      capital = c_R19G5B80
-      c_R19G5B80 = {
-        color = {19 5 80}
-        b_R19G5B80 = {
-          province = 696
-          color = {19 5 80}
-        }
-      }
-      c_R218G117B161 = {
-        color = {218 117 161}
-        b_R218G117B161 = {
-          province = 1285
-          color = {218 117 161}
-        }
-      }
-    }
-  }
-}
-e_R205G60B21 = {
-  color = {205 60 21}
-  capital = c_R205G60B21
-  k_R205G60B21 = {
-    color = {205 60 21}
-    capital = c_R205G60B21
-    d_R205G60B21 = {
-      color = { 205 60 21 }
-      capital = c_R205G60B21
-      c_R205G60B21 = {
-        color = {205 60 21}
-        b_R205G60B21 = {
-          province = 243
-          color = {205 60 21}
-        }
-        b_R191G47B78 = {
-          province = 899
-          color = {205 60 21}
-        }
-        b_R121G234B115 = {
-          province = 1795
-          color = {205 60 21}
-        }
-      }
-    }
-    d_R3G154B152 = {
-      color = { 3 154 152 }
-      capital = c_R3G154B152
-      c_R3G154B152 = {
-        color = {3 154 152}
-        b_R3G154B152 = {
-          province = 355
-          color = {3 154 152}
-        }
-        b_R137G184B136 = {
-          province = 900
-          color = {3 154 152}
-        }
-        b_R29G243B111 = {
-          province = 905
-          color = {3 154 152}
-        }
-        b_R220G248B220 = {
-          province = 692
-          color = {3 154 152}
-        }
-        b_R141G215B144 = {
-          province = 1289
-          color = {3 154 152}
-        }
-        b_R32G241B41 = {
-          province = 1828
-          color = {3 154 152}
-        }
-      }
-    }
-    d_R32G110B232 = {
-      color = { 32 110 232 }
-      capital = c_R32G110B232
-      c_R32G110B232 = {
-        color = {32 110 232}
-        b_R32G110B232 = {
-          province = 969
-          color = {32 110 232}
-        }
-        b_R137G114B252 = {
-          province = 1247
-          color = {32 110 232}
-        }
-      }
-    }
-    d_R192G35B126 = {
-      color = { 192 35 126 }
-      capital = c_R192G35B126
-      c_R192G35B126 = {
-        color = {192 35 126}
-        b_R192G35B126 = {
-          province = 1369
-          color = {192 35 126}
-        }
-        b_R154G16B26 = {
-          province = 1604
-          color = {192 35 126}
-        }
-        b_R255G32B192 = {
-          province = 1891
-          color = {192 35 126}
+        b_R89G252B100 = {
+          province = 981
+          color = {157 138 80}
         }
       }
     }
@@ -10867,29 +9734,484 @@ e_R235G137B43 = {
       }
     }
   }
-  k_R215G142B201 = {
-    color = {215 142 201}
-    capital = c_R215G142B201
-    d_R215G142B201 = {
-      color = { 215 142 201 }
-      capital = c_R215G142B201
-      c_R215G142B201 = {
-        color = {215 142 201}
-        b_R215G142B201 = {
-          province = 1054
-          color = {215 142 201}
-        }
-        b_R46G250B110 = {
-          province = 1779
-          color = {215 142 201}
-        }
-      }
-    }
-  }
 }
 e_R226G168B52 = {
   color = {226 168 52}
   capital = c_R226G168B52
+  k_R157G241B28 = {
+    color = {157 241 28}
+    capital = c_R157G241B28
+    d_R157G241B28 = {
+      color = { 157 241 28 }
+      capital = c_R157G241B28
+      c_R157G241B28 = {
+        color = {157 241 28}
+        b_R157G241B28 = {
+          province = 58
+          color = {157 241 28}
+        }
+        b_R76G211B53 = {
+          province = 1625
+          color = {157 241 28}
+        }
+      }
+      c_R84G228B220 = {
+        color = {84 228 220}
+        b_R84G228B220 = {
+          province = 132
+          color = {84 228 220}
+        }
+        b_R110G22B235 = {
+          province = 871
+          color = {84 228 220}
+        }
+        b_R33G226B255 = {
+          province = 286
+          color = {84 228 220}
+        }
+        b_R127G10B194 = {
+          province = 1588
+          color = {84 228 220}
+        }
+        b_R152G254B158 = {
+          province = 1260
+          color = {84 228 220}
+        }
+      }
+      c_R67G27B196 = {
+        color = {67 27 196}
+        b_R67G27B196 = {
+          province = 88
+          color = {67 27 196}
+        }
+      }
+    }
+    d_R213G95B19 = {
+      color = { 213 95 19 }
+      capital = c_R213G95B19
+      c_R213G95B19 = {
+        color = {213 95 19}
+        b_R213G95B19 = {
+          province = 62
+          color = {213 95 19}
+        }
+        b_R25G226B70 = {
+          province = 127
+          color = {213 95 19}
+        }
+      }
+      c_R90G202B167 = {
+        color = {90 202 167}
+        b_R90G202B167 = {
+          province = 110
+          color = {90 202 167}
+        }
+        b_R62G63B234 = {
+          province = 1237
+          color = {90 202 167}
+        }
+        b_R41G211B78 = {
+          province = 1287
+          color = {90 202 167}
+        }
+        b_R205G78B51 = {
+          province = 1546
+          color = {90 202 167}
+        }
+        b_R38G40B218 = {
+          province = 1368
+          color = {90 202 167}
+        }
+      }
+    }
+    d_R82G138B246 = {
+      color = { 82 138 246 }
+      capital = c_R82G138B246
+      c_R82G138B246 = {
+        color = {82 138 246}
+        b_R82G138B246 = {
+          province = 163
+          color = {82 138 246}
+        }
+      }
+    }
+    d_R68G211B156 = {
+      color = { 68 211 156 }
+      capital = c_R68G211B156
+      c_R68G211B156 = {
+        color = {68 211 156}
+        b_R68G211B156 = {
+          province = 363
+          color = {68 211 156}
+        }
+        b_R198G114B148 = {
+          province = 877
+          color = {68 211 156}
+        }
+        b_R197G199B244 = {
+          province = 1496
+          color = {68 211 156}
+        }
+        b_R201G78B9 = {
+          province = 1733
+          color = {68 211 156}
+        }
+        b_R27G98B212 = {
+          province = 1652
+          color = {68 211 156}
+        }
+      }
+      c_R134G194B117 = {
+        color = {134 194 117}
+        b_R134G194B117 = {
+          province = 614
+          color = {134 194 117}
+        }
+      }
+    }
+    d_R212G207B133 = {
+      color = { 212 207 133 }
+      capital = c_R212G207B133
+      c_R212G207B133 = {
+        color = {212 207 133}
+        b_R212G207B133 = {
+          province = 458
+          color = {212 207 133}
+        }
+        b_R144G253B116 = {
+          province = 985
+          color = {212 207 133}
+        }
+        b_R46G74B131 = {
+          province = 1005
+          color = {212 207 133}
+        }
+        b_R197G5B50 = {
+          province = 778
+          color = {212 207 133}
+        }
+      }
+      c_R91G101B228 = {
+        color = {91 101 228}
+        b_R91G101B228 = {
+          province = 1896
+          color = {91 101 228}
+        }
+      }
+    }
+  }
+  k_R94G205B216 = {
+    color = {94 205 216}
+    capital = c_R94G205B216
+    d_R94G205B216 = {
+      color = { 94 205 216 }
+      capital = c_R94G205B216
+      c_R94G205B216 = {
+        color = {94 205 216}
+        b_R94G205B216 = {
+          province = 63
+          color = {94 205 216}
+        }
+        b_R44G153B113 = {
+          province = 321
+          color = {94 205 216}
+        }
+      }
+      c_R187G13B157 = {
+        color = {187 13 157}
+        b_R187G13B157 = {
+          province = 273
+          color = {187 13 157}
+        }
+        b_R42G80B146 = {
+          province = 1722
+          color = {187 13 157}
+        }
+        b_R137G84B136 = {
+          province = 1039
+          color = {187 13 157}
+        }
+      }
+      c_R50G192B94 = {
+        color = {50 192 94}
+        b_R50G192B94 = {
+          province = 422
+          color = {50 192 94}
+        }
+      }
+      c_R207G136B86 = {
+        color = {207 136 86}
+        b_R207G136B86 = {
+          province = 554
+          color = {207 136 86}
+        }
+      }
+    }
+    d_R79G115B31 = {
+      color = { 79 115 31 }
+      capital = c_R79G115B31
+      c_R79G115B31 = {
+        color = {79 115 31}
+        b_R79G115B31 = {
+          province = 70
+          color = {79 115 31}
+        }
+        b_R94G232B148 = {
+          province = 972
+          color = {79 115 31}
+        }
+        b_R146G218B6 = {
+          province = 731
+          color = {79 115 31}
+        }
+        b_R113G217B28 = {
+          province = 1265
+          color = {79 115 31}
+        }
+        b_R223G33B65 = {
+          province = 1303
+          color = {79 115 31}
+        }
+      }
+      c_R49G49B85 = {
+        color = {49 49 85}
+        b_R49G49B85 = {
+          province = 117
+          color = {49 49 85}
+        }
+        b_R242G41B144 = {
+          province = 1698
+          color = {49 49 85}
+        }
+      }
+      c_R94G125B74 = {
+        color = {94 125 74}
+        b_R94G125B74 = {
+          province = 760
+          color = {94 125 74}
+        }
+      }
+    }
+    d_R179G15B242 = {
+      color = { 179 15 242 }
+      capital = c_R179G15B242
+      c_R179G15B242 = {
+        color = {179 15 242}
+        b_R179G15B242 = {
+          province = 505
+          color = {179 15 242}
+        }
+      }
+      c_R214G126B7 = {
+        color = {214 126 7}
+        b_R214G126B7 = {
+          province = 605
+          color = {214 126 7}
+        }
+        b_R101G209B216 = {
+          province = 1770
+          color = {214 126 7}
+        }
+      }
+    }
+    d_R136G240B197 = {
+      color = { 136 240 197 }
+      capital = c_R136G240B197
+      c_R136G240B197 = {
+        color = {136 240 197}
+        b_R136G240B197 = {
+          province = 597
+          color = {136 240 197}
+        }
+        b_R207G252B48 = {
+          province = 1436
+          color = {136 240 197}
+        }
+        b_R238G168B224 = {
+          province = 1498
+          color = {136 240 197}
+        }
+        b_R213G214B212 = {
+          province = 750
+          color = {136 240 197}
+        }
+      }
+      c_R137G128B16 = {
+        color = {137 128 16}
+        b_R137G128B16 = {
+          province = 975
+          color = {137 128 16}
+        }
+      }
+    }
+    d_R230G225B203 = {
+      color = { 230 225 203 }
+      capital = c_R230G225B203
+      c_R230G225B203 = {
+        color = {230 225 203}
+        b_R230G225B203 = {
+          province = 1131
+          color = {230 225 203}
+        }
+        b_R237G19B82 = {
+          province = 1602
+          color = {230 225 203}
+        }
+        b_R114G196B231 = {
+          province = 1319
+          color = {230 225 203}
+        }
+      }
+    }
+  }
+  k_R90G135B140 = {
+    color = {90 135 140}
+    capital = c_R90G135B140
+    d_R90G135B140 = {
+      color = { 90 135 140 }
+      capital = c_R90G135B140
+      c_R90G135B140 = {
+        color = {90 135 140}
+        b_R90G135B140 = {
+          province = 199
+          color = {90 135 140}
+        }
+        b_R239G234B217 = {
+          province = 287
+          color = {90 135 140}
+        }
+        b_R50G57B19 = {
+          province = 227
+          color = {90 135 140}
+        }
+      }
+      c_R88G226B65 = {
+        color = {88 226 65}
+        b_R88G226B65 = {
+          province = 1134
+          color = {88 226 65}
+        }
+        b_R152G91B95 = {
+          province = 1108
+          color = {88 226 65}
+        }
+      }
+    }
+    d_R185G233B107 = {
+      color = { 185 233 107 }
+      capital = c_R185G233B107
+      c_R185G233B107 = {
+        color = {185 233 107}
+        b_R185G233B107 = {
+          province = 588
+          color = {185 233 107}
+        }
+        b_R203G194B179 = {
+          province = 1229
+          color = {185 233 107}
+        }
+        b_R202G135B89 = {
+          province = 1533
+          color = {185 233 107}
+        }
+      }
+      c_R222G38B88 = {
+        color = {222 38 88}
+        b_R222G38B88 = {
+          province = 950
+          color = {222 38 88}
+        }
+        b_R57G129B24 = {
+          province = 1680
+          color = {222 38 88}
+        }
+        b_R77G251B12 = {
+          province = 1213
+          color = {222 38 88}
+        }
+        b_R113G214B34 = {
+          province = 1418
+          color = {222 38 88}
+        }
+      }
+    }
+    d_R181G16B114 = {
+      color = { 181 16 114 }
+      capital = c_R181G16B114
+      c_R181G16B114 = {
+        color = {181 16 114}
+        b_R181G16B114 = {
+          province = 1574
+          color = {181 16 114}
+        }
+      }
+    }
+    d_R188G228B49 = {
+      color = { 188 228 49 }
+      capital = c_R188G228B49
+      c_R188G228B49 = {
+        color = {188 228 49}
+        b_R188G228B49 = {
+          province = 1349
+          color = {188 228 49}
+        }
+        b_R165G53B251 = {
+          province = 1612
+          color = {188 228 49}
+        }
+      }
+    }
+  }
+  k_R57G8B124 = {
+    color = {57 8 124}
+    capital = c_R57G8B124
+    d_R57G8B124 = {
+      color = { 57 8 124 }
+      capital = c_R57G8B124
+      c_R57G8B124 = {
+        color = {57 8 124}
+        b_R57G8B124 = {
+          province = 270
+          color = {57 8 124}
+        }
+        b_R35G133B85 = {
+          province = 1407
+          color = {57 8 124}
+        }
+        b_R1G12B66 = {
+          province = 1301
+          color = {57 8 124}
+        }
+        b_R134G11B211 = {
+          province = 1317
+          color = {57 8 124}
+        }
+      }
+    }
+    d_R226G242B145 = {
+      color = { 226 242 145 }
+      capital = c_R226G242B145
+      c_R226G242B145 = {
+        color = {226 242 145}
+        b_R226G242B145 = {
+          province = 733
+          color = {226 242 145}
+        }
+        b_R172G215B47 = {
+          province = 1696
+          color = {226 242 145}
+        }
+        b_R215G191B228 = {
+          province = 1839
+          color = {226 242 145}
+        }
+        b_R95G214B88 = {
+          province = 902
+          color = {226 242 145}
+        }
+      }
+    }
+  }
   k_R226G168B52 = {
     color = {226 168 52}
     capital = c_R226G168B52
@@ -10965,9 +10287,206 @@ e_R226G168B52 = {
 e_R167G48B170 = {
   color = {167 48 170}
   capital = c_R167G48B170
+  k_R220G112B195 = {
+    color = {220 112 195}
+    capital = c_R220G112B195
+    d_R14G153B176 = {
+      color = { 14 153 176 }
+      capital = c_R14G153B176
+      c_R14G153B176 = {
+        color = {14 153 176}
+        b_R14G153B176 = {
+          province = 633
+          color = {14 153 176}
+        }
+        b_R51G191B195 = {
+          province = 1065
+          color = {14 153 176}
+        }
+        b_R127G249B10 = {
+          province = 641
+          color = {14 153 176}
+        }
+      }
+      c_R86G235B226 = {
+        color = {86 235 226}
+        b_R86G235B226 = {
+          province = 1461
+          color = {86 235 226}
+        }
+        b_R5G111B87 = {
+          province = 1791
+          color = {86 235 226}
+        }
+      }
+    }
+    d_R220G112B195 = {
+      color = { 220 112 195 }
+      capital = c_R220G112B195
+      c_R220G112B195 = {
+        color = {220 112 195}
+        b_R220G112B195 = {
+          province = 654
+          color = {220 112 195}
+        }
+        b_R96G91B58 = {
+          province = 965
+          color = {220 112 195}
+        }
+        b_R8G37B101 = {
+          province = 840
+          color = {220 112 195}
+        }
+      }
+    }
+  }
+  k_R158G149B213 = {
+    color = {158 149 213}
+    capital = c_R158G149B213
+    d_R158G149B213 = {
+      color = { 158 149 213 }
+      capital = c_R158G149B213
+      c_R158G149B213 = {
+        color = {158 149 213}
+        b_R158G149B213 = {
+          province = 4
+          color = {158 149 213}
+        }
+        b_R99G185B22 = {
+          province = 699
+          color = {158 149 213}
+        }
+      }
+    }
+    d_R73G16B78 = {
+      color = { 73 16 78 }
+      capital = c_R73G16B78
+      c_R73G16B78 = {
+        color = {73 16 78}
+        b_R73G16B78 = {
+          province = 41
+          color = {73 16 78}
+        }
+        b_R247G19B107 = {
+          province = 1413
+          color = {73 16 78}
+        }
+        b_R212G128B6 = {
+          province = 859
+          color = {73 16 78}
+        }
+        b_R252G164B123 = {
+          province = 1391
+          color = {73 16 78}
+        }
+        b_R234G62B173 = {
+          province = 1585
+          color = {73 16 78}
+        }
+        b_R79G40B3 = {
+          province = 271
+          color = {73 16 78}
+        }
+      }
+      c_R22G99B255 = {
+        color = {22 99 255}
+        b_R22G99B255 = {
+          province = 1053
+          color = {22 99 255}
+        }
+        b_R75G10B161 = {
+          province = 1318
+          color = {22 99 255}
+        }
+      }
+    }
+    d_R253G53B226 = {
+      color = { 253 53 226 }
+      capital = c_R253G53B226
+      c_R253G53B226 = {
+        color = {253 53 226}
+        b_R253G53B226 = {
+          province = 229
+          color = {253 53 226}
+        }
+        b_R218G169B115 = {
+          province = 569
+          color = {253 53 226}
+        }
+      }
+      c_R248G234B113 = {
+        color = {248 234 113}
+        b_R248G234B113 = {
+          province = 582
+          color = {248 234 113}
+        }
+        b_R205G93B178 = {
+          province = 1672
+          color = {248 234 113}
+        }
+        b_R184G191B73 = {
+          province = 1205
+          color = {248 234 113}
+        }
+        b_R160G191B70 = {
+          province = 1878
+          color = {248 234 113}
+        }
+        b_R65G180B247 = {
+          province = 978
+          color = {248 234 113}
+        }
+      }
+      c_R235G191B29 = {
+        color = {235 191 29}
+        b_R235G191B29 = {
+          province = 704
+          color = {235 191 29}
+        }
+        b_R244G107B59 = {
+          province = 1704
+          color = {235 191 29}
+        }
+        b_R148G39B30 = {
+          province = 1098
+          color = {235 191 29}
+        }
+      }
+    }
+  }
   k_R167G48B170 = {
     color = {167 48 170}
     capital = c_R167G48B170
+    d_R200G42B35 = {
+      color = { 200 42 35 }
+      capital = c_R200G42B35
+      c_R200G42B35 = {
+        color = {200 42 35}
+        b_R200G42B35 = {
+          province = 1348
+          color = {200 42 35}
+        }
+        b_R165G195B225 = {
+          province = 1392
+          color = {200 42 35}
+        }
+      }
+      c_R78G60B115 = {
+        color = {78 60 115}
+        b_R78G60B115 = {
+          province = 284
+          color = {78 60 115}
+        }
+        b_R159G174B240 = {
+          province = 1683
+          color = {78 60 115}
+        }
+        b_R228G211B220 = {
+          province = 866
+          color = {78 60 115}
+        }
+      }
+    }
     d_R167G48B170 = {
       color = { 167 48 170 }
       capital = c_R167G48B170
@@ -11076,90 +10595,6 @@ e_R167G48B170 = {
         }
       }
     }
-    d_R14G153B176 = {
-      color = { 14 153 176 }
-      capital = c_R14G153B176
-      c_R14G153B176 = {
-        color = {14 153 176}
-        b_R14G153B176 = {
-          province = 633
-          color = {14 153 176}
-        }
-        b_R51G191B195 = {
-          province = 1065
-          color = {14 153 176}
-        }
-        b_R127G249B10 = {
-          province = 641
-          color = {14 153 176}
-        }
-        b_R5G111B87 = {
-          province = 1791
-          color = {14 153 176}
-        }
-      }
-      c_R86G235B226 = {
-        color = {86 235 226}
-        b_R86G235B226 = {
-          province = 1461
-          color = {86 235 226}
-        }
-      }
-    }
-  }
-  k_R200G42B35 = {
-    color = {200 42 35}
-    capital = c_R200G42B35
-    d_R200G42B35 = {
-      color = { 200 42 35 }
-      capital = c_R200G42B35
-      c_R200G42B35 = {
-        color = {200 42 35}
-        b_R200G42B35 = {
-          province = 1348
-          color = {200 42 35}
-        }
-        b_R165G195B225 = {
-          province = 1392
-          color = {200 42 35}
-        }
-      }
-    }
-  }
-}
-e_R1G236B38 = {
-  color = {1 236 38}
-  capital = c_R1G236B38
-  k_R1G236B38 = {
-    color = {1 236 38}
-    capital = c_R1G236B38
-    d_R1G236B38 = {
-      color = { 1 236 38 }
-      capital = c_R1G236B38
-      c_R1G236B38 = {
-        color = {1 236 38}
-        b_R1G236B38 = {
-          province = 364
-          color = {1 236 38}
-        }
-        b_R193G115B127 = {
-          province = 974
-          color = {1 236 38}
-        }
-        b_R215G167B114 = {
-          province = 499
-          color = {1 236 38}
-        }
-        b_R63G242B162 = {
-          province = 1228
-          color = {1 236 38}
-        }
-        b_R218G9B53 = {
-          province = 1803
-          color = {1 236 38}
-        }
-      }
-    }
   }
 }
 e_R142G93B99 = {
@@ -11205,6 +10640,17 @@ e_R142G93B99 = {
     d_R105G79B225 = {
       color = { 105 79 225 }
       capital = c_R105G79B225
+      c_R20G174B219 = {
+        color = {20 174 219}
+        b_R20G174B219 = {
+          province = 312
+          color = {20 174 219}
+        }
+        b_R84G58B119 = {
+          province = 1703
+          color = {105 79 225}
+        }
+      }
       c_R105G79B225 = {
         color = {105 79 225}
         b_R105G79B225 = {
@@ -11217,10 +10663,6 @@ e_R142G93B99 = {
         }
         b_R174G88B98 = {
           province = 1709
-          color = {105 79 225}
-        }
-        b_R84G58B119 = {
-          province = 1703
           color = {105 79 225}
         }
       }
@@ -11244,17 +10686,6 @@ e_R142G93B99 = {
         b_R1G82B153 = {
           province = 1583
           color = {56 194 65}
-        }
-      }
-    }
-    d_R20G174B219 = {
-      color = { 20 174 219 }
-      capital = c_R20G174B219
-      c_R20G174B219 = {
-        color = {20 174 219}
-        b_R20G174B219 = {
-          province = 312
-          color = {20 174 219}
         }
       }
     }
@@ -11388,199 +10819,390 @@ e_R142G93B99 = {
     }
   }
 }
-e_R88G156B189 = {
-  color = {88 156 189}
-  capital = c_R88G156B189
-  k_R88G156B189 = {
-    color = {88 156 189}
-    capital = c_R88G156B189
-    d_R88G156B189 = {
-      color = { 88 156 189 }
-      capital = c_R88G156B189
-      c_R88G156B189 = {
-        color = {88 156 189}
-        b_R88G156B189 = {
-          province = 481
-          color = {88 156 189}
-        }
-        b_R136G104B160 = {
-          province = 1090
-          color = {88 156 189}
-        }
-        b_R85G66B26 = {
-          province = 1617
-          color = {88 156 189}
-        }
-      }
-    }
-  }
-}
-e_R30G17B121 = {
-  color = {30 17 121}
-  capital = c_R30G17B121
-  k_R30G17B121 = {
-    color = {30 17 121}
-    capital = c_R30G17B121
-    d_R30G17B121 = {
-      color = { 30 17 121 }
-      capital = c_R30G17B121
-      c_R30G17B121 = {
-        color = {30 17 121}
-        b_R30G17B121 = {
-          province = 495
-          color = {30 17 121}
-        }
-        b_R56G197B203 = {
-          province = 528
-          color = {30 17 121}
-        }
-        b_R80G44B143 = {
-          province = 1464
-          color = {30 17 121}
-        }
-        b_R117G191B214 = {
-          province = 1473
-          color = {30 17 121}
-        }
-        b_R73G29B45 = {
-          province = 1725
-          color = {30 17 121}
-        }
-      }
-    }
-  }
-}
-e_R179G15B242 = {
-  color = {179 15 242}
-  capital = c_R179G15B242
-  k_R179G15B242 = {
-    color = {179 15 242}
-    capital = c_R179G15B242
-    d_R179G15B242 = {
-      color = { 179 15 242 }
-      capital = c_R179G15B242
-      c_R179G15B242 = {
-        color = {179 15 242}
-        b_R179G15B242 = {
-          province = 505
-          color = {179 15 242}
-        }
-      }
-      c_R214G126B7 = {
-        color = {214 126 7}
-        b_R214G126B7 = {
-          province = 605
-          color = {214 126 7}
-        }
-        b_R101G209B216 = {
-          province = 1770
-          color = {214 126 7}
-        }
-      }
-    }
-    d_R136G240B197 = {
-      color = { 136 240 197 }
-      capital = c_R136G240B197
-      c_R136G240B197 = {
-        color = {136 240 197}
-        b_R136G240B197 = {
-          province = 597
-          color = {136 240 197}
-        }
-        b_R207G252B48 = {
-          province = 1436
-          color = {136 240 197}
-        }
-        b_R238G168B224 = {
-          province = 1498
-          color = {136 240 197}
-        }
-        b_R213G214B212 = {
-          province = 750
-          color = {136 240 197}
-        }
-      }
-      c_R137G128B16 = {
-        color = {137 128 16}
-        b_R137G128B16 = {
-          province = 975
-          color = {137 128 16}
-        }
-      }
-    }
-    d_R230G225B203 = {
-      color = { 230 225 203 }
-      capital = c_R230G225B203
-      c_R230G225B203 = {
-        color = {230 225 203}
-        b_R230G225B203 = {
-          province = 1131
-          color = {230 225 203}
-        }
-        b_R237G19B82 = {
-          province = 1602
-          color = {230 225 203}
-        }
-        b_R114G196B231 = {
-          province = 1319
-          color = {230 225 203}
-        }
-      }
-    }
-  }
-}
-e_R245G69B150 = {
-  color = {245 69 150}
-  capital = c_R245G69B150
-  k_R245G69B150 = {
-    color = {245 69 150}
-    capital = c_R245G69B150
-    d_R245G69B150 = {
-      color = { 245 69 150 }
-      capital = c_R245G69B150
-      c_R245G69B150 = {
-        color = {245 69 150}
-        b_R245G69B150 = {
-          province = 535
-          color = {245 69 150}
-        }
-        b_R192G106B87 = {
-          province = 1724
-          color = {245 69 150}
-        }
-      }
-    }
-  }
-}
-e_R49G198B251 = {
-  color = {49 198 251}
-  capital = c_R49G198B251
-  k_R49G198B251 = {
-    color = {49 198 251}
-    capital = c_R49G198B251
-    d_R49G198B251 = {
-      color = { 49 198 251 }
-      capital = c_R49G198B251
-      c_R49G198B251 = {
-        color = {49 198 251}
-        b_R49G198B251 = {
-          province = 548
-          color = {49 198 251}
-        }
-        b_R86G220B33 = {
-          province = 1522
-          color = {49 198 251}
-        }
-      }
-    }
-  }
-}
 e_R117G252B154 = {
   color = {117 252 154}
   capital = c_R117G252B154
+  k_R229G100B90 = {
+    color = {229 100 90}
+    capital = c_R229G100B90
+    d_R229G100B90 = {
+      color = { 229 100 90 }
+      capital = c_R229G100B90
+      c_R229G100B90 = {
+        color = {229 100 90}
+        b_R229G100B90 = {
+          province = 46
+          color = {229 100 90}
+        }
+        b_R234G116B182 = {
+          province = 1092
+          color = {229 100 90}
+        }
+      }
+      c_R165G199B17 = {
+        color = {165 199 17}
+        b_R165G199B17 = {
+          province = 530
+          color = {165 199 17}
+        }
+        b_R181G253B147 = {
+          province = 941
+          color = {165 199 17}
+        }
+        b_R5G227B24 = {
+          province = 1740
+          color = {165 199 17}
+        }
+        b_R178G86B107 = {
+          province = 1312
+          color = {165 199 17}
+        }
+      }
+    }
+    d_R214G33B202 = {
+      color = { 214 33 202 }
+      capital = c_R214G33B202
+      c_R214G33B202 = {
+        color = {214 33 202}
+        b_R214G33B202 = {
+          province = 557
+          color = {214 33 202}
+        }
+      }
+      c_R172G6B143 = {
+        color = {172 6 143}
+        b_R172G6B143 = {
+          province = 672
+          color = {172 6 143}
+        }
+        b_R17G35B166 = {
+          province = 1105
+          color = {172 6 143}
+        }
+        b_R135G20B175 = {
+          province = 884
+          color = {172 6 143}
+        }
+      }
+      c_R215G104B66 = {
+        color = {215 104 66}
+        b_R215G104B66 = {
+          province = 1731
+          color = {215 104 66}
+        }
+      }
+    }
+    d_R187G227B129 = {
+      color = { 187 227 129 }
+      capital = c_R187G227B129
+      c_R187G227B129 = {
+        color = {187 227 129}
+        b_R187G227B129 = {
+          province = 1077
+          color = {187 227 129}
+        }
+        b_R108G166B0 = {
+          province = 1372
+          color = {187 227 129}
+        }
+        b_R10G214B215 = {
+          province = 1753
+          color = {187 227 129}
+        }
+      }
+      c_R79G86B123 = {
+        color = {79 86 123}
+        b_R79G86B123 = {
+          province = 1100
+          color = {79 86 123}
+        }
+        b_R170G207B48 = {
+          province = 1824
+          color = {79 86 123}
+        }
+        b_R141G103B179 = {
+          province = 1332
+          color = {79 86 123}
+        }
+      }
+      c_R135G182B83 = {
+        color = {135 182 83}
+        b_R135G182B83 = {
+          province = 1109
+          color = {135 182 83}
+        }
+      }
+    }
+  }
+  k_R29G152B235 = {
+    color = {29 152 235}
+    capital = c_R29G152B235
+    d_R29G152B235 = {
+      color = { 29 152 235 }
+      capital = c_R29G152B235
+      c_R29G152B235 = {
+        color = {29 152 235}
+        b_R29G152B235 = {
+          province = 146
+          color = {29 152 235}
+        }
+        b_R255G30B150 = {
+          province = 1661
+          color = {29 152 235}
+        }
+        b_R0G23B166 = {
+          province = 1211
+          color = {29 152 235}
+        }
+        b_R80G97B6 = {
+          province = 685
+          color = {29 152 235}
+        }
+        b_R101G14B170 = {
+          province = 351
+          color = {29 152 235}
+        }
+        b_R130G103B179 = {
+          province = 477
+          color = {29 152 235}
+        }
+      }
+      c_R6G238B86 = {
+        color = {6 238 86}
+        b_R6G238B86 = {
+          province = 462
+          color = {6 238 86}
+        }
+        b_R100G19B201 = {
+          province = 486
+          color = {6 238 86}
+        }
+        b_R42G15B0 = {
+          province = 722
+          color = {6 238 86}
+        }
+      }
+    }
+    d_R164G187B234 = {
+      color = { 164 187 234 }
+      capital = c_R164G187B234
+      c_R164G187B234 = {
+        color = {164 187 234}
+        b_R164G187B234 = {
+          province = 150
+          color = {164 187 234}
+        }
+        b_R7G85B215 = {
+          province = 891
+          color = {164 187 234}
+        }
+        b_R93G134B40 = {
+          province = 1445
+          color = {164 187 234}
+        }
+      }
+      c_R244G11B76 = {
+        color = {244 11 76}
+        b_R244G11B76 = {
+          province = 521
+          color = {244 11 76}
+        }
+        b_R238G166B173 = {
+          province = 1410
+          color = {244 11 76}
+        }
+        b_R10G49B61 = {
+          province = 1167
+          color = {244 11 76}
+        }
+        b_R186G72B192 = {
+          province = 1528
+          color = {244 11 76}
+        }
+        b_R202G65B178 = {
+          province = 1103
+          color = {244 11 76}
+        }
+      }
+    }
+    d_R81G105B94 = {
+      color = { 81 105 94 }
+      capital = c_R81G105B94
+      c_R81G105B94 = {
+        color = {81 105 94}
+        b_R81G105B94 = {
+          province = 251
+          color = {81 105 94}
+        }
+        b_R187G161B80 = {
+          province = 1406
+          color = {81 105 94}
+        }
+        b_R122G78B37 = {
+          province = 1078
+          color = {81 105 94}
+        }
+        b_R251G56B214 = {
+          province = 1490
+          color = {81 105 94}
+        }
+      }
+      c_R26G94B168 = {
+        color = {26 94 168}
+        b_R26G94B168 = {
+          province = 281
+          color = {26 94 168}
+        }
+      }
+      c_R171G130B228 = {
+        color = {171 130 228}
+        b_R171G130B228 = {
+          province = 319
+          color = {171 130 228}
+        }
+      }
+      c_R6G125B241 = {
+        color = {6 125 241}
+        b_R6G125B241 = {
+          province = 665
+          color = {6 125 241}
+        }
+        b_R50G183B179 = {
+          province = 716
+          color = {6 125 241}
+        }
+      }
+    }
+  }
   k_R117G252B154 = {
     color = {117 252 154}
     capital = c_R117G252B154
+    d_R205G37B107 = {
+      color = { 205 37 107 }
+      capital = c_R205G37B107
+      c_R199G111B4 = {
+        color = {199 111 4}
+        b_R199G111B4 = {
+          province = 542
+          color = {199 111 4}
+        }
+        b_R225G199B172 = {
+          province = 598
+          color = {199 111 4}
+        }
+        b_R10G21B217 = {
+          province = 1420
+          color = {199 111 4}
+        }
+        b_R173G31B159 = {
+          province = 1190
+          color = {199 111 4}
+        }
+      }
+      c_R205G37B107 = {
+        color = {205 37 107}
+        b_R205G37B107 = {
+          province = 30
+          color = {205 37 107}
+        }
+        b_R100G11B125 = {
+          province = 317
+          color = {205 37 107}
+        }
+        b_R0G72B34 = {
+          province = 67
+          color = {205 37 107}
+        }
+        b_R255G93B191 = {
+          province = 540
+          color = {205 37 107}
+        }
+        b_R47G169B180 = {
+          province = 369
+          color = {205 37 107}
+        }
+      }
+    }
+    d_R90G131B186 = {
+      color = { 90 131 186 }
+      capital = c_R90G131B186
+      c_R90G131B186 = {
+        color = {90 131 186}
+        b_R90G131B186 = {
+          province = 40
+          color = {90 131 186}
+        }
+        b_R172G4B126 = {
+          province = 517
+          color = {90 131 186}
+        }
+        b_R118G185B65 = {
+          province = 445
+          color = {90 131 186}
+        }
+        b_R101G170B98 = {
+          province = 676
+          color = {90 131 186}
+        }
+      }
+      c_R107G238B127 = {
+        color = {107 238 127}
+        b_R107G238B127 = {
+          province = 157
+          color = {107 238 127}
+        }
+      }
+    }
+    d_R255G207B183 = {
+      color = { 255 207 183 }
+      capital = c_R255G207B183
+      c_R255G207B183 = {
+        color = {255 207 183}
+        b_R255G207B183 = {
+          province = 209
+          color = {255 207 183}
+        }
+        b_R109G29B65 = {
+          province = 1208
+          color = {255 207 183}
+        }
+        b_R150G15B54 = {
+          province = 1870
+          color = {255 207 183}
+        }
+        b_R249G80B201 = {
+          province = 1662
+          color = {255 207 183}
+        }
+        b_R222G25B40 = {
+          province = 663
+          color = {255 207 183}
+        }
+        b_R94G143B105 = {
+          province = 831
+          color = {255 207 183}
+        }
+      }
+      c_R96G103B184 = {
+        color = {96 103 184}
+        b_R96G103B184 = {
+          province = 400
+          color = {96 103 184}
+        }
+        b_R105G11B45 = {
+          province = 648
+          color = {96 103 184}
+        }
+        b_R204G60B160 = {
+          province = 705
+          color = {96 103 184}
+        }
+        b_R137G127B196 = {
+          province = 1243
+          color = {96 103 184}
+        }
+      }
+    }
     d_R117G252B154 = {
       color = { 117 252 154 }
       capital = c_R117G252B154
@@ -11609,151 +11231,78 @@ e_R117G252B154 = {
       }
     }
   }
-}
-e_R73G184B27 = {
-  color = {73 184 27}
-  capital = c_R73G184B27
-  k_R73G184B27 = {
-    color = {73 184 27}
-    capital = c_R73G184B27
-    d_R73G184B27 = {
-      color = { 73 184 27 }
-      capital = c_R73G184B27
-      c_R73G184B27 = {
-        color = {73 184 27}
-        b_R73G184B27 = {
-          province = 618
-          color = {73 184 27}
+  k_R25G183B120 = {
+    color = {25 183 120}
+    capital = c_R25G183B120
+    d_R1G236B38 = {
+      color = { 1 236 38 }
+      capital = c_R1G236B38
+      c_R1G236B38 = {
+        color = {1 236 38}
+        b_R1G236B38 = {
+          province = 364
+          color = {1 236 38}
         }
-        b_R129G215B236 = {
-          province = 678
-          color = {73 184 27}
+        b_R193G115B127 = {
+          province = 974
+          color = {1 236 38}
         }
-        b_R18G63B155 = {
-          province = 1271
-          color = {73 184 27}
+        b_R215G167B114 = {
+          province = 499
+          color = {1 236 38}
         }
-        b_R121G104B20 = {
-          province = 781
-          color = {73 184 27}
+        b_R63G242B162 = {
+          province = 1228
+          color = {1 236 38}
         }
-      }
-      c_R139G161B192 = {
-        color = {139 161 192}
-        b_R139G161B192 = {
-          province = 1635
-          color = {139 161 192}
+        b_R218G9B53 = {
+          province = 1803
+          color = {1 236 38}
         }
       }
     }
-    d_R145G108B106 = {
-      color = { 145 108 106 }
-      capital = c_R145G108B106
-      c_R145G108B106 = {
-        color = {145 108 106}
-        b_R145G108B106 = {
-          province = 901
-          color = {145 108 106}
+    d_R25G183B120 = {
+      color = { 25 183 120 }
+      capital = c_R25G183B120
+      c_R25G183B120 = {
+        color = {25 183 120}
+        b_R25G183B120 = {
+          province = 122
+          color = {25 183 120}
         }
-        b_R130G14B250 = {
-          province = 1634
-          color = {145 108 106}
+        b_R132G252B213 = {
+          province = 1253
+          color = {25 183 120}
         }
-      }
-    }
-  }
-}
-e_R220G112B195 = {
-  color = {220 112 195}
-  capital = c_R220G112B195
-  k_R220G112B195 = {
-    color = {220 112 195}
-    capital = c_R220G112B195
-    d_R220G112B195 = {
-      color = { 220 112 195 }
-      capital = c_R220G112B195
-      c_R220G112B195 = {
-        color = {220 112 195}
-        b_R220G112B195 = {
-          province = 654
-          color = {220 112 195}
+        b_R70G52B119 = {
+          province = 1471
+          color = {25 183 120}
         }
-        b_R96G91B58 = {
-          province = 965
-          color = {220 112 195}
+        b_R204G19B87 = {
+          province = 1837
+          color = {25 183 120}
         }
-        b_R8G37B101 = {
-          province = 840
-          color = {220 112 195}
+        b_R126G200B154 = {
+          province = 232
+          color = {25 183 120}
+        }
+        b_R81G22B156 = {
+          province = 630
+          color = {25 183 120}
         }
       }
-    }
-  }
-}
-e_R119G17B105 = {
-  color = {119 17 105}
-  capital = c_R119G17B105
-  k_R119G17B105 = {
-    color = {119 17 105}
-    capital = c_R119G17B105
-    d_R119G17B105 = {
-      color = { 119 17 105 }
-      capital = c_R119G17B105
-      c_R119G17B105 = {
-        color = {119 17 105}
-        b_R119G17B105 = {
-          province = 659
-          color = {119 17 105}
-        }
-        b_R183G204B123 = {
-          province = 1448
-          color = {119 17 105}
-        }
-        b_R3G55B33 = {
-          province = 1671
-          color = {119 17 105}
+      c_R78G100B190 = {
+        color = {78 100 190}
+        b_R78G100B190 = {
+          province = 1068
+          color = {78 100 190}
         }
       }
-    }
-    d_R197G49B130 = {
-      color = { 197 49 130 }
-      capital = c_R197G49B130
-      c_R197G49B130 = {
-        color = {197 49 130}
-        b_R197G49B130 = {
-          province = 1281
-          color = {197 49 130}
-        }
-        b_R213G34B224 = {
-          province = 1756
-          color = {197 49 130}
-        }
-      }
-    }
-  }
-}
-e_R157G138B80 = {
-  color = {157 138 80}
-  capital = c_R157G138B80
-  k_R157G138B80 = {
-    color = {157 138 80}
-    capital = c_R157G138B80
-    d_R157G138B80 = {
-      color = { 157 138 80 }
-      capital = c_R157G138B80
-      c_R157G138B80 = {
-        color = {157 138 80}
-        b_R157G138B80 = {
-          province = 720
-          color = {157 138 80}
-        }
-        b_R5G190B84 = {
-          province = 1430
-          color = {157 138 80}
-        }
-        b_R89G252B100 = {
-          province = 981
-          color = {157 138 80}
+      c_R175G147B100 = {
+        color = {175 147 100}
+        b_R175G147B100 = {
+          province = 1813
+          color = {175 147 100}
         }
       }
     }
@@ -11762,6 +11311,168 @@ e_R157G138B80 = {
 e_R166G81B99 = {
   color = {166 81 99}
   capital = c_R166G81B99
+  k_R143G64B78 = {
+    color = {143 64 78}
+    capital = c_R143G64B78
+    d_R143G64B78 = {
+      color = { 143 64 78 }
+      capital = c_R143G64B78
+      c_R143G64B78 = {
+        color = {143 64 78}
+        b_R143G64B78 = {
+          province = 201
+          color = {143 64 78}
+        }
+        b_R68G166B77 = {
+          province = 1801
+          color = {143 64 78}
+        }
+        b_R225G196B219 = {
+          province = 1282
+          color = {143 64 78}
+        }
+        b_R136G230B88 = {
+          province = 1759
+          color = {143 64 78}
+        }
+      }
+      c_R167G238B109 = {
+        color = {167 238 109}
+        b_R167G238B109 = {
+          province = 254
+          color = {167 238 109}
+        }
+        b_R250G93B119 = {
+          province = 1401
+          color = {167 238 109}
+        }
+        b_R9G90B162 = {
+          province = 635
+          color = {167 238 109}
+        }
+      }
+    }
+    d_R184G24B215 = {
+      color = { 184 24 215 }
+      capital = c_R184G24B215
+      c_R184G24B215 = {
+        color = {184 24 215}
+        b_R184G24B215 = {
+          province = 310
+          color = {184 24 215}
+        }
+      }
+    }
+    d_R121G201B223 = {
+      color = { 121 201 223 }
+      capital = c_R121G201B223
+      c_R121G201B223 = {
+        color = {121 201 223}
+        b_R121G201B223 = {
+          province = 675
+          color = {121 201 223}
+        }
+      }
+      c_R65G67B154 = {
+        color = {65 67 154}
+        b_R65G67B154 = {
+          province = 1118
+          color = {65 67 154}
+        }
+        b_R249G97B180 = {
+          province = 1653
+          color = {65 67 154}
+        }
+      }
+    }
+    d_R219G31B104 = {
+      color = { 219 31 104 }
+      capital = c_R219G31B104
+      c_R219G31B104 = {
+        color = {219 31 104}
+        b_R219G31B104 = {
+          province = 803
+          color = {219 31 104}
+        }
+        b_R81G42B13 = {
+          province = 1553
+          color = {219 31 104}
+        }
+        b_R131G169B8 = {
+          province = 1113
+          color = {219 31 104}
+        }
+        b_R81G217B154 = {
+          province = 1143
+          color = {219 31 104}
+        }
+        b_R188G2B193 = {
+          province = 1354
+          color = {219 31 104}
+        }
+      }
+    }
+  }
+  k_R50G118B20 = {
+    color = {50 118 20}
+    capital = c_R50G118B20
+    d_R31G132B251 = {
+      color = { 31 132 251 }
+      capital = c_R31G132B251
+      c_R31G132B251 = {
+        color = {31 132 251}
+        b_R31G132B251 = {
+          province = 1026
+          color = {31 132 251}
+        }
+        b_R42G54B107 = {
+          province = 1734
+          color = {31 132 251}
+        }
+      }
+    }
+    d_R50G118B20 = {
+      color = { 50 118 20 }
+      capital = c_R50G118B20
+      c_R50G118B20 = {
+        color = {50 118 20}
+        b_R50G118B20 = {
+          province = 52
+          color = {50 118 20}
+        }
+        b_R28G244B54 = {
+          province = 643
+          color = {50 118 20}
+        }
+        b_R118G194B175 = {
+          province = 958
+          color = {50 118 20}
+        }
+        b_R227G131B30 = {
+          province = 347
+          color = {50 118 20}
+        }
+      }
+      c_R125G250B109 = {
+        color = {125 250 109}
+        b_R125G250B109 = {
+          province = 69
+          color = {125 250 109}
+        }
+        b_R147G161B167 = {
+          province = 1582
+          color = {125 250 109}
+        }
+      }
+      c_R59G95B179 = {
+        color = {59 95 179}
+        b_R59G95B179 = {
+          province = 1900
+          color = {59 95 179}
+        }
+      }
+    }
+  }
   k_R166G81B99 = {
     color = {166 81 99}
     capital = c_R166G81B99
@@ -11776,14 +11487,6 @@ e_R166G81B99 = {
         }
       }
     }
-  }
-}
-e_R46G0B250 = {
-  color = {46 0 250}
-  capital = c_R46G0B250
-  k_R46G0B250 = {
-    color = {46 0 250}
-    capital = c_R46G0B250
     d_R46G0B250 = {
       color = { 46 0 250 }
       capital = c_R46G0B250
@@ -11802,26 +11505,98 @@ e_R46G0B250 = {
         }
       }
     }
-  }
-}
-e_R101G117B157 = {
-  color = {101 117 157}
-  capital = c_R101G117B157
-  k_R101G117B157 = {
-    color = {101 117 157}
-    capital = c_R101G117B157
-    d_R101G117B157 = {
-      color = { 101 117 157 }
-      capital = c_R101G117B157
-      c_R101G117B157 = {
-        color = {101 117 157}
-        b_R101G117B157 = {
-          province = 1225
-          color = {101 117 157}
+    d_R84G43B140 = {
+      color = { 84 43 140 }
+      capital = c_R84G43B140
+      c_R84G43B140 = {
+        color = {84 43 140}
+        b_R84G43B140 = {
+          province = 1404
+          color = {84 43 140}
         }
-        b_R138G165B152 = {
-          province = 1261
-          color = {101 117 157}
+      }
+    }
+  }
+  k_R178G163B225 = {
+    color = {178 163 225}
+    capital = c_R178G163B225
+    d_R34G91B37 = {
+      color = { 34 91 37 }
+      capital = c_R34G91B37
+      c_R34G91B37 = {
+        color = {34 91 37}
+        b_R34G91B37 = {
+          province = 216
+          color = {34 91 37}
+        }
+        b_R250G214B26 = {
+          province = 1515
+          color = {34 91 37}
+        }
+      }
+    }
+    d_R192G179B198 = {
+      color = { 192 179 198 }
+      capital = c_R192G179B198
+      c_R192G179B198 = {
+        color = {192 179 198}
+        b_R192G179B198 = {
+          province = 341
+          color = {192 179 198}
+        }
+        b_R216G113B104 = {
+          province = 624
+          color = {192 179 198}
+        }
+        b_R1G195B112 = {
+          province = 1230
+          color = {192 179 198}
+        }
+        b_R170G133B98 = {
+          province = 1529
+          color = {192 179 198}
+        }
+      }
+    }
+    d_R178G163B225 = {
+      color = { 178 163 225 }
+      capital = c_R178G163B225
+      c_R178G163B225 = {
+        color = {178 163 225}
+        b_R178G163B225 = {
+          province = 292
+          color = {178 163 225}
+        }
+        b_R242G219B126 = {
+          province = 1024
+          color = {178 163 225}
+        }
+        b_R193G118B36 = {
+          province = 1224
+          color = {178 163 225}
+        }
+        b_R189G238B28 = {
+          province = 1669
+          color = {178 163 225}
+        }
+      }
+    }
+    d_R95G128B168 = {
+      color = { 95 128 168 }
+      capital = c_R95G128B168
+      c_R95G128B168 = {
+        color = {95 128 168}
+        b_R95G128B168 = {
+          province = 361
+          color = {95 128 168}
+        }
+        b_R187G171B77 = {
+          province = 1366
+          color = {95 128 168}
+        }
+        b_R157G139B146 = {
+          province = 1618
+          color = {95 128 168}
         }
       }
     }
@@ -11836,120 +11611,7 @@ e_R72G75B216 = {
     d_R72G75B216 = {
       color = { 72 75 216 }
       capital = c_R72G75B216
-      c_R72G75B216 = {
-        color = {72 75 216}
-        b_R72G75B216 = {
-          province = 1255
-          color = {72 75 216}
-        }
-      }
-    }
-  }
-}
-e_R147G92B85 = {
-  color = {147 92 85}
-  capital = c_R147G92B85
-  k_R147G92B85 = {
-    color = {147 92 85}
-    capital = c_R147G92B85
-    d_R147G92B85 = {
-      color = { 147 92 85 }
-      capital = c_R147G92B85
-      c_R147G92B85 = {
-        color = {147 92 85}
-        b_R147G92B85 = {
-          province = 1340
-          color = {147 92 85}
-        }
-      }
-    }
-  }
-}
-e_R188G228B49 = {
-  color = {188 228 49}
-  capital = c_R188G228B49
-  k_R188G228B49 = {
-    color = {188 228 49}
-    capital = c_R188G228B49
-    d_R188G228B49 = {
-      color = { 188 228 49 }
-      capital = c_R188G228B49
-      c_R188G228B49 = {
-        color = {188 228 49}
-        b_R188G228B49 = {
-          province = 1349
-          color = {188 228 49}
-        }
-        b_R165G53B251 = {
-          province = 1612
-          color = {188 228 49}
-        }
-      }
-    }
-  }
-}
-e_R84G43B140 = {
-  color = {84 43 140}
-  capital = c_R84G43B140
-  k_R84G43B140 = {
-    color = {84 43 140}
-    capital = c_R84G43B140
-    d_R84G43B140 = {
-      color = { 84 43 140 }
-      capital = c_R84G43B140
-      c_R84G43B140 = {
-        color = {84 43 140}
-        b_R84G43B140 = {
-          province = 1404
-          color = {84 43 140}
-        }
-      }
-    }
-  }
-}
-e_R98G25B211 = {
-  color = {98 25 211}
-  capital = c_R98G25B211
-  k_R98G25B211 = {
-    color = {98 25 211}
-    capital = c_R98G25B211
-    d_R98G25B211 = {
-      color = { 98 25 211 }
-      capital = c_R98G25B211
-      c_R98G25B211 = {
-        color = {98 25 211}
-        b_R98G25B211 = {
-          province = 1408
-          color = {98 25 211}
-        }
-        b_R161G85B115 = {
-          province = 1771
-          color = {98 25 211}
-        }
-        b_R220G100B238 = {
-          province = 1723
-          color = {98 25 211}
-        }
-      }
-    }
-  }
-}
-e_R181G16B114 = {
-  color = {181 16 114}
-  capital = c_R181G16B114
-  k_R181G16B114 = {
-    color = {181 16 114}
-    capital = c_R181G16B114
-    d_R181G16B114 = {
-      color = { 181 16 114 }
-      capital = c_R181G16B114
-      c_R181G16B114 = {
-        color = {181 16 114}
-        b_R181G16B114 = {
-          province = 1574
-          color = {181 16 114}
-        }
-      }
+
     }
   }
 }

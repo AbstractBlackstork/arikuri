@@ -7,7 +7,6 @@ category = {
 		"march_of_southeners"
 		"when_the_twins_allign"
 		"bazanaq"
-		"sail_to_golden_shores"
 		"solemnity_of_aienci"
 		"the_choraman"
 		"the_smoke_and_the_sky"

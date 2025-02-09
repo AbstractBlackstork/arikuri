@@ -1,0 +1,485 @@
+color_lists = {
+	all_color_list = { # PM : basically the average of medieval frequencies in roll of arms (strong bias towards 13th c), with values cut in half
+		30 = "red"
+		12 = "blue"
+		1 = "green"
+		14 = "black"
+		0 = "purple"
+		24 = "yellow"
+		26 = "white"
+	}
+	
+	normal_colors = {
+		30 = "red"
+		12 = "blue"
+		1 = "green"
+		14 = "black"
+		0 = "purple"
+		special_selection = {
+			trigger = {
+				coa_breton_trigger = yes
+			}
+			25 = "red"
+			13 = "blue"
+			5 = "black"
+			5 = "green"
+		}
+		special_selection = {
+			trigger = {
+				coa_byzantine_trigger = yes
+			}
+			20 = "red"
+			8 = "blue"
+			7 = "black"
+			9 = "green"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = { has_coa_gfx = latin_group_coa_gfx }
+			}
+			20 = "red"
+			8 = "blue"
+			7 = "black"
+			9 = "green"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = {
+					OR = {
+						has_coa_gfx = anglo_saxon_coa_gfx
+						has_coa_gfx = welsh_coa_gfx
+					}
+				}
+			}
+			20 = "red"
+			8 = "blue"
+			16 = "black"
+			9 = "green"
+		}
+		special_selection = {
+			trigger = {
+				coa_french_trigger = yes
+			}
+			30 = "red"
+			9 = "blue"
+			6 = "black"
+			2 = "green"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = { has_coa_gfx = occitan_coa_gfx }
+			}
+			12 = "red"
+			28 = "blue"
+			1 = "black"
+			3 = "green"
+		}
+		special_selection = {
+			trigger = {  # PM : This can be split into South & North as there are stats for both
+				scope:culture = {
+					has_coa_gfx = german_group_coa_gfx
+					NOT = { has_coa_gfx = frisian_coa_gfx }
+				}
+			}
+			27 = "red"
+			10 = "blue"
+			18 = "black"
+			1 = "green"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = {
+					OR = {
+						has_coa_gfx = norse_coa_gfx
+						has_coa_gfx = norwegian_coa_gfx
+						has_coa_gfx = swedish_coa_gfx
+						has_coa_gfx = danish_coa_gfx
+					}
+				}
+			}
+			13 = "red"
+			22 = "blue"
+			11 = "black"
+			1 = "green"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = {
+					OR = {
+						has_coa_gfx = english_coa_gfx
+						has_coa_gfx = scottish_coa_gfx
+					}
+				}
+			}
+			26 = "red"
+			18 = "blue"
+			9 = "black"
+			1 = "green"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = { has_coa_gfx = frisian_coa_gfx }
+			}
+			31 = "red"
+			4 = "blue"
+			14 = "black"
+			2 = "green"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = { has_coa_gfx = norman_coa_gfx }
+			}
+			34 = "red"
+			11 = "blue"
+			3 = "black"
+			5 = "green"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = { has_coa_gfx = iberian_group_coa_gfx }
+			}
+			38 = "red"
+			3 = "blue"
+			20 = "black"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = {
+					OR = {
+						has_coa_gfx = magyar_group_coa_gfx
+						has_coa_gfx = west_slavic_group_coa_gfx
+					}
+				}
+			}
+			34 = "red"
+			8 = "blue"
+			13 = "black"
+		}
+		special_selection = {
+			trigger = {
+				coa_african_culture_trigger = yes
+			}
+			30 = "green"
+			30 = "black"
+		}
+		special_selection = {
+			trigger = {
+				coa_mena_trigger = yes
+			}
+			18 = "blue"
+			6 = "black"
+			29 = "green"
+		}
+		special_selection = {
+			trigger = {
+				coa_irish_trigger = yes
+			}
+			10 = "green"
+		}
+		special_selection = {
+			trigger = {
+				coa_leonese_trigger = yes
+			}
+			10 = "purple"
+		}
+		special_selection = {
+			trigger = {
+				coa_polish_trigger = yes
+			}
+			20 = "red"
+		}
+		special_selection = {
+			trigger = {
+				coa_indian_trigger = yes
+			}
+			1000 = "red"
+			1000 = "orange"
+			1000 = "blue"
+			1000 = "black"
+			1000 = "purple"
+			1000 = "green"
+		}
+	}
+	metal_colors = {
+		24 = "yellow"
+		26 = "white"
+		special_selection = {
+			trigger = {
+				OR = {
+					coa_indian_trigger = yes
+				}
+			}
+			10 = "white"
+		}
+		special_selection = {
+			trigger = {
+				coa_polish_trigger = yes
+			}
+			5 = "white"
+		}
+		special_selection = {
+			trigger = {
+				coa_breton_trigger = yes
+			}
+			26 = "yellow"
+			24 = "white"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = { has_coa_gfx = welsh_coa_gfx }
+			}
+			16 = "yellow"
+			34 = "white"
+		}
+		special_selection = {
+			trigger = {
+				coa_french_trigger = yes
+			}
+			26 = "yellow"
+			24 = "white"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = { has_coa_gfx = occitan_coa_gfx }
+			}
+			31 = "yellow"
+			19 = "white"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = {
+					has_coa_gfx = german_group_coa_gfx
+					NOT = { has_coa_gfx = frisian_coa_gfx }
+				}
+			}
+			14 = "yellow"
+			29 = "white"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = {
+					OR = {
+						has_coa_gfx = danish_coa_gfx
+						has_coa_gfx = norwegian_coa_gfx
+						has_coa_gfx = swedish_coa_gfx
+					}
+				}
+			}
+			8 = "yellow"
+			40 = "white"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = {
+					OR = {
+						has_coa_gfx = english_coa_gfx
+						has_coa_gfx = scottish_coa_gfx
+					}
+				}
+			}
+			15 = "yellow"
+			26 = "white"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = { has_coa_gfx = frisian_coa_gfx }
+			}
+			20 = "yellow"
+			26 = "white"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = { has_coa_gfx = norman_coa_gfx }
+			}
+			20 = "yellow"
+			16 = "white"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = { has_coa_gfx = iberian_group_coa_gfx }
+			}
+			37 = "yellow"
+			8 = "white"
+		}
+		special_selection = {
+			trigger = {
+				scope:culture = {
+					OR = {
+						has_coa_gfx = magyar_group_coa_gfx
+						has_coa_gfx = west_slavic_group_coa_gfx
+					}
+				}
+			}
+			15 = "yellow"
+			28 = "white"
+		}
+		special_selection = {
+			trigger = {
+				coa_mena_trigger = yes
+			}
+			9 = "yellow"
+			40 = "white"
+		}
+		special_selection = {
+			trigger = {
+				coa_african_culture_trigger = yes
+			}
+			15 = "yellow"
+		}
+	}
+	
+	ari_d_colors = {
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_plith_trigger = yes
+				}
+			}
+			25 = rgb { 0 25 25 }
+			20 = rgb { 0 2 2 }
+			15 = rgb { 48 9 43 }
+			15 = rgb { 38 18 21 }
+		}
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_queekwa_trigger = yes
+				}
+			}
+			25 = rgb { 51 19 0 }
+			20 = rgb { 41 21 0 }
+			15 = rgb { 0 28 18 }
+			15 = rgb { 10 5 0 }
+		}
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_pfaunkti_trigger = yes
+				}
+			}
+			15 = rgb { 23 23 21 }
+			15 = rgb { 22 28 14 }
+			15 = rgb { 20 6 6 }
+			15 = rgb { 18 11 7 }
+			15 = rgb { 48 33 15 }
+		}
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_gleuncti_trigger = yes
+				}
+			}
+			15 = rgb { 36 29 4 }
+			15 = rgb { 61 22 15 }
+			15 = rgb { 16 17 46 }
+			15 = rgb { 51 18 29 }
+			15 = rgb { 26 41 3 }
+			15 = rgb { 21 42 51 }
+		}
+	}
+	
+	ari_m_colors = {
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_plith_trigger = yes
+				}
+			}
+			25 = rgb { 54 72 71 }
+			20 = rgb { 97 57 92 }
+			15 = rgb { 115 33 47 }
+			15 = rgb { 138 86 93 }
+			13 = rgb { 99 123 99 }
+		}
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_queekwa_trigger = yes
+				}
+			}
+			15 = rgb { 110 88 0 }
+			15 = rgb { 143 72 40 }
+			15 = rgb { 0 153 51 }
+			15 = rgb { 158 114 27 }
+		}
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_pfaunkti_trigger = yes
+				}
+			}
+			15 = rgb { 90 102 57 }
+			15 = rgb { 85 102 74 }
+			15 = rgb { 125 84 60 }
+			15 = rgb { 115 66 14 }
+			15 = rgb { 166 75 40 }
+			15 = rgb { 122 61 21 }
+		}
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_gleuncti_trigger = yes
+				}
+			}
+			15 = rgb { 77 128 0 }
+			15 = rgb { 201 161 18 }
+			15 = rgb { 76 146 176 }
+			15 = rgb { 107 111 247 }
+			15 = rgb { 250 93 65 }
+			15 = rgb { 224 92 136 }
+		}
+	}
+	
+	ari_l_colors = {
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_plith_trigger = yes
+				}
+			}
+			25 = rgb { 157 217 197 }
+			25 = rgb { 199 237 199 }
+			25 = rgb { 182 179 179 }
+			25 = rgb { 181 148 153 }
+		}
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_queekwa_trigger = yes
+				}
+			}
+			25 = rgb { 255 188 140 }
+			20 = rgb { 230 230 230 }
+			15 = rgb { 255 121 76 }
+			15 = rgb { 255 255 102 }
+			25 = rgb { 204 255 102 }
+		}
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_pfaunkti_trigger = yes
+				}
+			}
+			15 = rgb { 245 200 63 }
+			15 = rgb { 255 192 143 }
+			15 = rgb { 255 190 92 }
+			15 = rgb { 228 250 218 }
+			15 = rgb { 214 232 162 }
+			15 = rgb { 255 248 153 }
+		}
+		special_selection = {
+			trigger = {
+				OR = {
+					arikuri_coa_gleuncti_trigger = yes
+				}
+			}
+			15 = rgb { 225 225 204 }
+			15 = rgb { 255 255 255 }
+			15 = rgb { 194 194 194 }
+			15 = rgb { 182 227 245 }
+			15 = rgb { 255 222 233 }
+			15 = rgb { 212 213 255 }
+			15 = rgb { 194 240 125 }
+		}
+	}
+}

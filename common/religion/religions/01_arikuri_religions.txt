@@ -1242,12 +1242,12 @@ weirdsort = {
 }
 
 astonishingsteak = {
-  family = rf_pagan
-  doctrine = pagan_hostility_doctrine
+  family = rf_queekwa
+  doctrine = queekwa_hostility_doctrine
   pagan_roots = yes
   doctrine = doctrine_no_head
   doctrine = doctrine_gender_equal
-  doctrine = doctrine_pluralism_fundamentalist
+  doctrine = doctrine_pluralism_righteous
   doctrine = doctrine_theocracy_temporal
   doctrine = doctrine_polygamy
   doctrine = doctrine_divorce_disallowed
@@ -2715,12 +2715,12 @@ hairyload = {
 }
 
 abandonedspell = {
-  family = rf_pagan
-  doctrine = pagan_hostility_doctrine
+  family = rf_plith
+  doctrine = plith_hostility_doctrine
   pagan_roots = yes
   doctrine = doctrine_spiritual_head
   doctrine = doctrine_gender_male_dominated
-  doctrine = doctrine_pluralism_righteous
+  doctrine = doctrine_pluralism_fundamentalist
   doctrine = doctrine_theocracy_lay_clergy
   doctrine = doctrine_polygamy
   doctrine = doctrine_divorce_allowed
@@ -2729,8 +2729,8 @@ abandonedspell = {
   doctrine = doctrine_adultery_men_accepted
   doctrine = doctrine_adultery_women_accepted
   doctrine = doctrine_kinslaying_accepted
-  doctrine = doctrine_deviancy_accepted
-  doctrine = doctrine_witchcraft_accepted
+  doctrine = doctrine_deviancy_crime
+  doctrine = doctrine_witchcraft_crime
   doctrine = doctrine_clerical_function_taxation
   doctrine = doctrine_clerical_gender_either
   doctrine = doctrine_clerical_marriage_disallowed
@@ -2739,14 +2739,14 @@ abandonedspell = {
   doctrine = doctrine_funeral_cremation
   traits = {
     virtues = {
-      shy
+      brave
       greedy
-      arbitrary
+      paranoid
     }
     sins = {
-      gregarious
+      craven
       generous
-      just
+      trusting
     }
   }
   custom_faith_icons = {
@@ -4917,8 +4917,8 @@ prettytax = {
 }
 
 smoothsock = {
-  family = rf_pagan
-  doctrine = pagan_hostility_doctrine
+  family = rf_pfaunkti
+  doctrine = pfaunkti_hostility_doctrine
   pagan_roots = yes
   doctrine = doctrine_temporal_head
   doctrine = doctrine_gender_female_dominated
@@ -6185,8 +6185,8 @@ threadbarequit = {
 }
 
 internalmail = {
-  family = rf_pagan
-  doctrine = pagan_hostility_doctrine
+  family = rf_gleuncti
+  doctrine = gleuncti_hostility_doctrine
   pagan_roots = yes
   doctrine = doctrine_spiritual_head
   doctrine = doctrine_gender_male_dominated
@@ -6758,8 +6758,8 @@ directjoin = {
 }
 
 rewardingapartment = {
-  family = rf_pagan
-  doctrine = pagan_hostility_doctrine
+  family = rf_pfaunkti
+  doctrine = pfaunkti_hostility_doctrine
   pagan_roots = yes
   doctrine = doctrine_no_head
   doctrine = doctrine_gender_female_dominated
@@ -6769,7 +6769,7 @@ rewardingapartment = {
   doctrine = doctrine_divorce_allowed
   doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
   doctrine = doctrine_homosexuality_shunned
-  doctrine = doctrine_adultery_men_shunned
+  doctrine = doctrine_adultery_men_accepted
   doctrine = doctrine_adultery_women_accepted
   doctrine = doctrine_kinslaying_shunned
   doctrine = doctrine_deviancy_accepted
@@ -8420,8 +8420,8 @@ clumsytrainer = {
 }
 
 sillysubject = {
-  family = rf_pagan
-  doctrine = pagan_hostility_doctrine
+  family = rf_gleuncti
+  doctrine = gleuncti_hostility_doctrine
   pagan_roots = yes
   doctrine = doctrine_no_head
   doctrine = doctrine_gender_male_dominated
@@ -9959,8 +9959,9 @@ exemplarymeaning = {
 }
 
 gaseouscelebration = {
-  family = rf_pagan
-  doctrine = pagan_hostility_doctrine
+  family = rf_plith
+  doctrine = plith_hostility_doctrine
+  doctrine_background_icon = core_tenet_banner_plithP.dds
   pagan_roots = yes
   doctrine = doctrine_spiritual_head
   doctrine = doctrine_gender_equal
@@ -9984,13 +9985,13 @@ gaseouscelebration = {
   traits = {
     virtues = {
       paranoid
-      shy
       cynical
+      shy
     }
     sins = {
       trusting
-      gregarious
       zealous
+      gregarious
     }
   }
   custom_faith_icons = {

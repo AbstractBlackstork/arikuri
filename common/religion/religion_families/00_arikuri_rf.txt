@@ -1,0 +1,31 @@
+rf_plith = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = plith_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_plith.dds
+}
+
+rf_queekwa = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = queekwa_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_queekwa.dds
+}
+
+rf_pfaunkti = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = pfaunkti_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pfaunkti.dds
+}
+
+rf_gleuncti = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = gleuncti_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_gleuncti.dds
+}

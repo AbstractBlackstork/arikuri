@@ -180,76 +180,6 @@ language_foolishknee = {
 	}
 	color = { 0.3 0.4 0.5 }
 }
-language_foolishknee = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_foolishknee
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_foolishknee }
-			multiply = 10
-		}
-	}
-	color = { 0.9 0.4 0.7 }
-}
-language_foolishknee = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_foolishknee
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_foolishknee }
-			multiply = 10
-		}
-	}
-	color = { 0.5 0.3 0.3 }
-}
-language_foolishknee = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_foolishknee
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_foolishknee }
-			multiply = 10
-		}
-	}
-	color = { 0.9 0.3 0.6 }
-}
-language_foolishknee = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_foolishknee
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_foolishknee }
-			multiply = 10
-		}
-	}
-	color = { 0.3 0.1 0.8 }
-}
-language_foolishknee = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_foolishknee
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_foolishknee }
-			multiply = 10
-		}
-	}
-	color = { 0.4 0.9 0.1 }
-}
 language_finediscussion = {
 	type = language
 	is_shown = {
@@ -1328,34 +1258,6 @@ language_dizzyexit = {
 	}
 	color = { 0.1 0.7 0.3 }
 }
-language_parchedtitle = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_parchedtitle
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_parchedtitle }
-			multiply = 10
-		}
-	}
-	color = { 0.2 0.8 0.3 }
-}
-language_parchedtitle = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_parchedtitle
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_parchedtitle }
-			multiply = 10
-		}
-	}
-	color = { 0.2 0.7 0.7 }
-}
 language_prettyholiday = {
 	type = language
 	is_shown = {
@@ -1454,90 +1356,6 @@ language_unusualwriter = {
 	}
 	color = { 0.8 0.1 0.1 }
 }
-language_unusualwriter = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_unusualwriter
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_unusualwriter }
-			multiply = 10
-		}
-	}
-	color = { 0.5 0.6 0.1 }
-}
-language_unusualwriter = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_unusualwriter
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_unusualwriter }
-			multiply = 10
-		}
-	}
-	color = { 0.8 0.6 0.2 }
-}
-language_unusualwriter = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_unusualwriter
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_unusualwriter }
-			multiply = 10
-		}
-	}
-	color = { 0.1 0.1 0.2 }
-}
-language_unusualwriter = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_unusualwriter
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_unusualwriter }
-			multiply = 10
-		}
-	}
-	color = { 0.8 0.7 0.5 }
-}
-language_unusualwriter = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_unusualwriter
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_unusualwriter }
-			multiply = 10
-		}
-	}
-	color = { 0.6 0.3 0.5 }
-}
-language_unusualwriter = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_unusualwriter
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_unusualwriter }
-			multiply = 10
-		}
-	}
-	color = { 0.5 0.6 0.7 }
-}
 language_unusualregister = {
 	type = language
 	is_shown = {
@@ -1622,75 +1440,19 @@ language_unusualregister = {
 	}
 	color = { 0.2 0.8 0.7 }
 }
-language_warmteaching = {
+language_queekwa = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_warmteaching
+			LANGUAGE = language_queekwa
 		}	}	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_warmteaching }
+			limit = { has_cultural_pillar = language_queekwa }
 			multiply = 10
 		}
 	}
 	color = { 0.4 0.5 0.9 }
-}
-language_warmteaching = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_warmteaching
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_warmteaching }
-			multiply = 10
-		}
-	}
-	color = { 0.2 0.7 0.7 }
-}
-language_warmteaching = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_warmteaching
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_warmteaching }
-			multiply = 10
-		}
-	}
-	color = { 0.7 0.2 0.5 }
-}
-language_warmteaching = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_warmteaching
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_warmteaching }
-			multiply = 10
-		}
-	}
-	color = { 0.1 0.9 0.9 }
-}
-language_warmteaching = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_warmteaching
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_warmteaching }
-			multiply = 10
-		}
-	}
-	color = { 0.6 0.3 0.3 }
 }
 language_unsteadysale = {
 	type = language
@@ -2112,34 +1874,6 @@ language_exemplaryfinal = {
 	}
 	color = { 0.3 0.3 0.7 }
 }
-language_exemplaryfinal = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_exemplaryfinal
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_exemplaryfinal }
-			multiply = 10
-		}
-	}
-	color = { 0.8 0.2 0.3 }
-}
-language_exemplaryfinal = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_exemplaryfinal
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_exemplaryfinal }
-			multiply = 10
-		}
-	}
-	color = { 0.7 0.9 0.7 }
-}
 language_sizzlingcoach = {
 	type = language
 	is_shown = {
@@ -2392,89 +2126,19 @@ language_lovingdesigner = {
 	}
 	color = { 0.7 0.6 0.5 }
 }
-language_criminalconclusion = {
+language_imperialplith = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_criminalconclusion
+			LANGUAGE = language_imperialplith
 		}	}	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_criminalconclusion }
+			limit = { has_cultural_pillar = language_imperialplith }
 			multiply = 10
 		}
 	}
 	color = { 0.2 0.5 0.5 }
-}
-language_criminalconclusion = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_criminalconclusion
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_criminalconclusion }
-			multiply = 10
-		}
-	}
-	color = { 0.3 0.2 0.9 }
-}
-language_worriedgame = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_worriedgame
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_worriedgame }
-			multiply = 10
-		}
-	}
-	color = { 0.3 0.4 0.5 }
-}
-language_worriedgame = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_worriedgame
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_worriedgame }
-			multiply = 10
-		}
-	}
-	color = { 0.1 0.8 0.8 }
-}
-language_worriedgame = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_worriedgame
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_worriedgame }
-			multiply = 10
-		}
-	}
-	color = { 0.9 0.7 0.2 }
-}
-language_worriedgame = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_worriedgame
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_worriedgame }
-			multiply = 10
-		}
-	}
-	color = { 0.6 0.4 0.9 }
 }
 language_remotetough = {
 	type = language
@@ -2615,34 +2279,6 @@ language_sugaryhearing = {
 		}
 	}
 	color = { 0.1 0.7 0.9 }
-}
-language_lonesouth = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_lonesouth
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_lonesouth }
-			multiply = 10
-		}
-	}
-	color = { 0.6 0.6 0.9 }
-}
-language_lonesouth = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_lonesouth
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_lonesouth }
-			multiply = 10
-		}
-	}
-	color = { 0.6 0.6 0.2 }
 }
 language_drearycandy = {
 	type = language
@@ -2840,61 +2476,19 @@ language_impossibleposition = {
 	}
 	color = { 0.5 0.7 0.3 }
 }
-language_indolentmall = {
+language_oldpfaun = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_indolentmall
+			LANGUAGE = language_oldpfaun
 		}	}	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_indolentmall }
-			multiply = 10
-		}
-	}
-	color = { 0.5 0.3 0.3 }
-}
-language_indolentmall = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_indolentmall
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_indolentmall }
-			multiply = 10
-		}
-	}
-	color = { 0.4 0.5 0.2 }
-}
-language_splendidneat = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_splendidneat
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_splendidneat }
+			limit = { has_cultural_pillar = language_oldpfaun }
 			multiply = 10
 		}
 	}
 	color = { 0.3 0.1 0.5 }
-}
-language_splendidneat = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_splendidneat
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_splendidneat }
-			multiply = 10
-		}
-	}
-	color = { 0.2 0.5 0.7 }
 }
 language_jointcalm = {
 	type = language
@@ -3246,62 +2840,6 @@ language_noxiouspitch = {
 	}
 	color = { 0.4 0.7 0.6 }
 }
-language_enlighteneduncle = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_enlighteneduncle
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_enlighteneduncle }
-			multiply = 10
-		}
-	}
-	color = { 0.3 0.4 0.3 }
-}
-language_enlighteneduncle = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_enlighteneduncle
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_enlighteneduncle }
-			multiply = 10
-		}
-	}
-	color = { 0.9 0.6 0.2 }
-}
-language_upbeatsalad = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_upbeatsalad
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_upbeatsalad }
-			multiply = 10
-		}
-	}
-	color = { 0.4 0.7 0.3 }
-}
-language_upbeatsalad = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_upbeatsalad
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_upbeatsalad }
-			multiply = 10
-		}
-	}
-	color = { 0.1 0.8 0.4 }
-}
 language_educatednight = {
 	type = language
 	is_shown = {
@@ -3385,34 +2923,6 @@ language_excitableinfluence = {
 		}
 	}
 	color = { 0.3 0.7 0.2 }
-}
-language_educatedbed = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_educatedbed
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_educatedbed }
-			multiply = 10
-		}
-	}
-	color = { 0.4 0.6 0.4 }
-}
-language_educatedbed = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_educatedbed
-		}	}	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_educatedbed }
-			multiply = 10
-		}
-	}
-	color = { 0.3 0.8 0.6 }
 }
 language_embellishedcloud = {
 	type = language

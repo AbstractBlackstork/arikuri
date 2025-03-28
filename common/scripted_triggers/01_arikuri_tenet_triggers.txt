@@ -1,0 +1,9 @@
+# Triggers to determine which special doctrines should be added to faiths based on their tenets
+
+has_paranoid_faith_doctrine_trigger = {
+    has_doctrine = tenet_vigilant_paranoia
+}
+
+has_benevolent_faith_doctrine_trigger = {
+    has_doctrine = tenet_benevolent_observers
+} 

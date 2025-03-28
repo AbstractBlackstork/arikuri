@@ -46,3 +46,44 @@ hostility_group = {
 	}
 
 }
+
+doctrine_group = {
+	group = arikuri_special_religion_doctrines
+	
+	doctrine_vigilant_paranoia = {
+		visible = no
+		parameters = {
+			hostility_override_tenet_benevolent_observers = 3
+			scheme_resistance_mult = 0.2
+			paranoid_stress_gain_mult = -0.5
+		}
+		character_modifier = {
+			prowess = 1
+			scheme_resistance = 0.2
+			paranoid_stress_gain_mult = -0.5
+		}
+		traits = {
+			virtues = { paranoid }
+			sins = { trusting }
+		}
+	}
+	
+	doctrine_benevolent_observers = {
+		visible = no
+		parameters = {
+			hostility_override_tenet_vigilant_paranoia = 3
+			monthly_prestige_gain = 0.1
+			development_growth = 0.1
+			trusting_stress_gain_mult = -0.5
+		}
+		character_modifier = {
+			monthly_prestige_gain_mult = 0.1
+			development_growth_factor = 0.1
+			trusting_stress_gain_mult = -0.5
+		}
+		traits = {
+			virtues = { trusting }
+			sins = { paranoid }
+		}
+	}
+}

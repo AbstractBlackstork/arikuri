@@ -7871,13 +7871,97 @@ character_view_bg = {
 			is_character_window_main_character = no
 		}
 	}
+##########################################
+	# pilgrimage, Queekwa holy site
+	####
+	texture = {
+		reference = "event_scenes/queekwa_temple.dds"
+		trigger = {
+			involved_activity ?= { has_activity_type = activity_pilgrimage }
+			involved_activity.activity_location.culture ?= { has_coa_gfx = queekwa_coa_gfx }
+			location ?= involved_activity.activity_location
+		}
+	}
 
+	environment = {
+		reference = "environment_ce1_study_physician_indian"
+		trigger = {
+			involved_activity ?= { has_activity_type = activity_pilgrimage }
+			involved_activity.activity_location.culture ?= { has_coa_gfx = queekwa_coa_gfx }
+			location ?= involved_activity.activity_location
+		}
+	}
+
+	####
+	# pilgrimage, Gleuncti holy site
+	####
+	texture = {
+		reference = "event_scenes/gleuncti_temple.dds"
+		trigger = {
+			involved_activity ?= { has_activity_type = activity_pilgrimage }
+			involved_activity.activity_location.culture ?= { has_coa_gfx = gleuncti_coa_gfx }
+			location ?= involved_activity.activity_location
+		}
+	}
+
+	environment = {
+		reference = "environment_gleuncti_temple"
+		trigger = {
+			involved_activity ?= { has_activity_type = activity_pilgrimage }
+			involved_activity.activity_location.culture ?= { has_coa_gfx = gleuncti_coa_gfx }
+			location ?= involved_activity.activity_location
+		}
+	}
+
+	####
+	# pilgrimage, Pfaunkti holy site
+	####
+	texture = {
+		reference = "event_scenes/pfaunkti_temple.dds"
+		trigger = {
+			involved_activity ?= { has_activity_type = activity_pilgrimage }
+			involved_activity.activity_location.culture ?= { has_coa_gfx = pfaunkti_coa_gfx }
+			location ?= involved_activity.activity_location
+		}
+	}
+
+	environment = {
+		reference = "environment_event_armory"
+		trigger = {
+			involved_activity ?= { has_activity_type = activity_pilgrimage }
+			involved_activity.activity_location.culture ?= { has_coa_gfx = pfaunkti_coa_gfx }
+			location ?= involved_activity.activity_location
+		}
+	}
+
+	####
+	# pilgrimage, Plith holy site
+	####
+	texture = {
+		reference = "event_scenes/plith_temple.dds"
+		trigger = {
+			involved_activity ?= { has_activity_type = activity_pilgrimage }
+			involved_activity.activity_location.culture ?= { has_coa_gfx = plith_coa_gfx }
+			location ?= involved_activity.activity_location
+		}
+	}
+
+
+	environment = {
+		reference = "environment_event_fp1_tribal_temple"
+		trigger = {
+			involved_activity ?= { has_activity_type = activity_pilgrimage }
+			involved_activity.activity_location.culture ?= { has_coa_gfx = plith_coa_gfx }
+			location ?= involved_activity.activity_location
+		}
+	}
 	##########################################
 
 	# Fallback Environment
 	environment = {
 		reference = "environment_event_temple"
 	}
+	
 }
 
 character_location_exterior = {
@@ -8311,9 +8395,10 @@ character_religion_interior = {
 	
 	environment = {
 		trigger = { religion = { is_in_family = rf_pfaunkti } }
-		reference = "eenvironment_event_armory"
+		reference = "environment_event_armory"
 	}
 	
+
 	texture = {
 		trigger = { religion = { is_in_family = rf_gleuncti } }
 		reference = "event_scenes/gleuncti_temple.dds"
@@ -8404,9 +8489,10 @@ religion_interior = {
 	
 	environment = {
 		trigger = { religion = { is_in_family = rf_pfaunkti } }
-		reference = "eenvironment_event_armory"
+		reference = "environment_event_armory"
 	}
 	
+
 	texture = {
 		trigger = { religion = { is_in_family = rf_gleuncti } }
 		reference = "event_scenes/gleuncti_temple_light.dds"
@@ -8543,9 +8629,10 @@ religion_holding = {
 	
 	environment = {
 		trigger = { religion = { is_in_family = rf_pfaunkti } }
-		reference = "eenvironment_event_armory"
+		reference = "environment_event_armory"
 	}
 	
+
 	texture = {
 		trigger = { religion = { is_in_family = rf_gleuncti } }
 		reference = "event_scenes/gleuncti_temple.dds"

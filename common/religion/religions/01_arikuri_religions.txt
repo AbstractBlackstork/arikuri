@@ -2737,6 +2737,7 @@ abandonedspell = {
   doctrine = doctrine_clerical_succession_spiritual_appointment
   doctrine = doctrine_pilgrimage_forbidden
   doctrine = doctrine_funeral_cremation
+  doctrine = doctrine_vigilant_paranoia
   traits = {
     virtues = {
       brave
@@ -8442,6 +8443,7 @@ sillysubject = {
   doctrine = doctrine_clerical_succession_spiritual_appointment
   doctrine = doctrine_pilgrimage_forbidden
   doctrine = doctrine_funeral_cremation
+  doctrine = doctrine_benevolent_observers
   traits = {
     virtues = {
       patient
@@ -9982,6 +9984,7 @@ gaseouscelebration = {
   doctrine = doctrine_clerical_succession_temporal_fixed_appointment
   doctrine = doctrine_pilgrimage_encouraged
   doctrine = doctrine_funeral_cremation
+  doctrine = doctrine_vigilant_paranoia
   traits = {
     virtues = {
       paranoid

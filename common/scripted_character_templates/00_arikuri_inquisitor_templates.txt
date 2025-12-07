@@ -1,0 +1,139 @@
+vaiomed_character = {
+    age = { 25 45 }
+    random_traits = no
+    culture = root.culture
+    faith = root.faith
+    dynasty = random
+    dynasty_house = random
+    dynasty_house_branch = random
+    
+    # Martial education and background
+    random_traits_list = {
+        count = 1
+        education_martial_3 = {}
+        education_martial_4 = {}
+    }
+    
+    # Core traits for Vaiomed
+    random_traits_list = {
+        count = 2
+        brave = {}
+        zealous = {}
+        paranoid = {}
+        ambitious = {}
+    }
+    
+    # Additional traits
+    random_traits_list = {
+        count = 1
+        wrathful = {}
+        arrogant = {}
+        deceitful = {}
+        sadistic = {}
+    }
+    
+    # Physical traits
+    random_traits_list = {
+        count = 1
+        athletic = {}
+        strong = {}
+        beauty_good_1 = {}
+    }
+    
+    # Combat traits
+    random_traits_list = {
+        count = 1
+        forest_fighter = {}
+        jungle_stalker = {}
+    }
+    
+    # Small chance for physical congenital trait
+    random_traits_list = {
+        count = { 0 1 }
+        beauty_bad_1 = {}
+        physique_good_1 = {}
+    }
+    
+    # High martial and prowess
+    martial = { 10 16 }
+    prowess = { 10 16 }
+    intrigue = { 10 18 }
+    
+    # Male only for abandonedspell
+    gender = male
+    
+    after_creation = {
+        add_trait = trait_arikuri_inquisitor_abandonedspell
+    }
+}
+
+tujmed_character = {
+    age = { 25 45 }
+    random_traits = no
+    culture = root.culture
+    faith = root.faith
+    dynasty = random
+    dynasty_house = random
+    dynasty_house_branch = random
+    
+    # Learning education and background
+    random_traits_list = {
+        count = 1
+        education_learning_3 = {}
+        education_learning_4 = {}
+    }
+    
+    # Core traits for Tujmed
+    random_traits_list = {
+        count = 2
+        zealous = {}
+        paranoid = {}
+        cynical = {}
+        ambitious = {}
+    }
+    
+    # Additional traits
+    random_traits_list = {
+        count = 1
+        deceitful = {}
+        shrewd = {}
+        patient = {}
+        diligent = {}
+    }
+    
+    # Physical traits
+    random_traits_list = {
+        count = 1
+        athletic = {}
+        strong = {}
+        beauty_good_1 = {}
+    }
+    
+    # Intelligence traits
+    random_traits_list = {
+        count = 1
+        shrewd = {}
+        patient = {}
+        diligent = {}
+    }
+    
+    # Small chance for intelligence congenital trait
+    random_traits_list = {
+        count = { 0 1 }
+        intellect_good_1 = {}
+        beauty_bad_1 = {}
+    }
+    
+    # High intrigue and learning
+    intrigue = { 10 18 }
+    learning = { 10 14 }
+    diplomacy = { 2 5 }
+    prowess = { 8 12 }
+    
+    # Health boost
+    health = 6
+    
+    after_creation = {
+        add_trait = trait_arikuri_inquisitor_gaseouscelebration
+    }
+} 

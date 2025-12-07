@@ -1,0 +1,106 @@
+plith_investigation_activity = {
+    type = activity
+    category = special_type
+    activity_group = religious_activity_group
+    
+    icon = "gfx/interface/icons/activity_icons/activity_icon_meditation.dds"
+    
+    is_shown = {
+        faith = {
+            OR = {
+                has_doctrine = doctrine_arikuri_vaiomed
+                has_doctrine = doctrine_arikuri_tujmed
+            }
+        }
+    }
+    
+    duration = 180
+    
+    cooldown = { years = 2 }
+    
+    can_start = {
+        is_ruler = yes
+        is_available_adult = yes
+        exists = cp:councillor_court_chaplain
+        exists = cp:councillor_spymaster
+        cp:councillor_court_chaplain = {
+            is_available_adult = yes
+            learning >= 10
+        }
+        cp:councillor_spymaster = {
+            is_available_adult = yes
+            intrigue >= 10
+        }
+    }
+    
+    on_start = {
+        # Calculate investigation success chance based on councilors
+        save_scope_value_as = {
+            name = investigation_success_chance
+            value = {
+                base = 0
+                add = {
+                    value = cp:councillor_court_chaplain.learning
+                    divide = 2
+                }
+                add = {
+                    value = cp:councillor_spymaster.intrigue
+                    divide = 2
+                }
+                add = {
+                    value = root.learning
+                    divide = 4
+                }
+                add = {
+                    value = root.intrigue
+                    divide = 4
+                }
+            }
+        }
+        
+        # Find potential targets
+        every_realm_character = {
+            limit = {
+                is_adult = yes
+                NOT = { this = root }
+                OR = {
+                    has_trait = witch
+                    has_trait = apostate
+                    any_secret = {
+                        secret_type = secret_witch
+                    }
+                }
+            }
+            save_scope_as = potential_target
+            random = {
+                chance = scope:investigation_success_chance
+                add_to_list = revealed_targets
+            }
+        }
+    }
+    
+    on_pulse = {
+        # Progress events during investigation
+        random_list = {
+            10 = {
+                trigger_event = plith_investigation.0001
+            }
+            10 = {
+                trigger_event = plith_investigation.0002
+            }
+            10 = {
+                trigger_event = plith_investigation.0003
+            }
+        }
+    }
+    
+    on_complete = {
+        # Reveal results
+        trigger_event = plith_investigation.0100
+    }
+    
+    on_cancel = {
+        # Clean up
+        remove_activity_flag = plith_investigation_activity
+    }
+} 

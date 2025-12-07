@@ -1,0 +1,115 @@
+namespace = plith_investigation
+
+# Progress events during investigation
+plith_investigation.0001 = {
+    type = character_event
+    title = plith_investigation.0001.t
+    desc = plith_investigation.0001.desc
+    theme = intrigue
+    
+    left_portrait = {
+        character = root
+        animation = thinking
+    }
+    right_portrait = {
+        character = cp:councillor_spymaster
+        animation = intrigue
+    }
+    
+    option = {
+        name = plith_investigation.0001.a
+        add_piety = minor_piety_gain
+        add_stress = minor_stress_gain
+    }
+}
+
+plith_investigation.0002 = {
+    type = character_event
+    title = plith_investigation.0002.t
+    desc = plith_investigation.0002.desc
+    theme = intrigue
+    
+    left_portrait = {
+        character = root
+        animation = thinking
+    }
+    right_portrait = {
+        character = cp:councillor_court_chaplain
+        animation = intrigue
+    }
+    
+    option = {
+        name = plith_investigation.0002.a
+        add_piety = minor_piety_gain
+        add_stress = minor_stress_gain
+    }
+}
+
+plith_investigation.0003 = {
+    type = character_event
+    title = plith_investigation.0003.t
+    desc = plith_investigation.0003.desc
+    theme = intrigue
+    
+    left_portrait = {
+        character = root
+        animation = thinking
+    }
+    right_portrait = {
+        character = cp:councillor_spymaster
+        animation = intrigue
+    }
+    
+    option = {
+        name = plith_investigation.0003.a
+        add_piety = minor_piety_gain
+        add_stress = minor_stress_gain
+    }
+}
+
+# Results event
+plith_investigation.0100 = {
+    type = character_event
+    title = plith_investigation.0100.t
+    desc = plith_investigation.0100.desc
+    theme = intrigue
+    
+    left_portrait = {
+        character = root
+        animation = thinking
+    }
+    right_portrait = {
+        character = cp:councillor_spymaster
+        animation = intrigue
+    }
+    
+    immediate = {
+        # Reveal all found targets
+        every_in_list = {
+            list = revealed_targets
+            add_opinion = {
+                target = root
+                modifier = accused_crime_opinion
+                opinion = -15
+            }
+            add_character_modifier = {
+                modifier = plith_investigation_suspicion_modifier
+                years = 5
+            }
+            # Reveal witch secrets if they exist
+            random_secret = {
+                limit = {
+                    secret_type = secret_witch
+                }
+                reveal_to = root
+            }
+        }
+    }
+    
+    option = {
+        name = plith_investigation.0100.a
+        add_piety = major_piety_gain
+        add_stress = medium_stress_gain
+        add_dread = medium_dread_gain
+    }
+} 

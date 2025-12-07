@@ -1,0 +1,113 @@
+plith_reveal_false_believers_decision = {
+    picture = {
+        reference = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+    }
+    desc = plith_reveal_false_believers_decision_desc
+    selection_tooltip = plith_reveal_false_believers_decision_tooltip
+    decision_group_type = major
+
+    ai_check_interval = 24
+
+    is_shown = {
+        faith = {
+            OR = {
+                has_doctrine = doctrine_arikuri_vaiomed
+                has_doctrine = doctrine_arikuri_tujmed
+            }
+        }
+        is_ruler = yes
+        is_available_adult = yes
+        NOT = { exists = involved_activity }
+    }
+
+    is_valid = {
+        exists = cp:councillor_court_chaplain
+        exists = cp:councillor_spymaster
+        cp:councillor_court_chaplain = {
+            is_available_adult = yes
+            learning >= 10
+        }
+        cp:councillor_spymaster = {
+            is_available_adult = yes
+            intrigue >= 10
+        }
+    }
+
+    is_valid_showing_failures_only = {
+        is_at_war = no
+        NOT = { exists = involved_activity }
+        is_imprisoned = no
+        has_contagious_deadly_disease_trigger = no
+    }
+
+    cost = {
+        if = {
+            limit = {
+                faith = {
+                    has_doctrine = doctrine_arikuri_vaiomed
+                    is_religious_head = yes
+                }
+            }
+            gold = 0
+        }
+        else_if = {
+            limit = {
+                faith = {
+                    has_doctrine = doctrine_arikuri_tujmed
+                    is_religious_head = yes
+                }
+            }
+            gold = 0
+        }
+        else = {
+            gold = 50
+        }
+        piety = 300
+    }
+
+    effect = {
+        # Start the investigation activity
+        start_activity = {
+            activity = plith_investigation_activity
+            duration = 180
+            location = capital_province
+        }
+    }
+
+    ai_potential = {
+        piety >= 300
+        if = {
+            limit = {
+                faith = {
+                    has_doctrine = doctrine_arikuri_vaiomed
+                    is_religious_head = yes
+                }
+            }
+            gold >= 0
+        }
+        else_if = {
+            limit = {
+                faith = {
+                    has_doctrine = doctrine_arikuri_tujmed
+                    is_religious_head = yes
+                }
+            }
+            gold >= 0
+        }
+        else = {
+            gold >= 50
+        }
+    }
+
+    ai_will_do = {
+        base = 50
+        modifier = {
+            factor = 2
+            has_trait = zealous
+        }
+        modifier = {
+            factor = 1.5
+            has_trait = paranoid
+        }
+    }
+} 

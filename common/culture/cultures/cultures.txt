@@ -157,6 +157,9 @@ cccwindingtomorrow = {
 	ethnicities = {
 		10 = heritage_cccwindingtomorrow_seed_eth
 	}
+	house_coa_frame = house_frame_12
+	house_coa_mask_offset = { 0.0 -0.04 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccpartialadvice = {
 	color = { 0.20 0.90 0.73 }
@@ -177,6 +180,10 @@ cccpartialadvice = {
 	ethnicities = {
 		10 = heritage_cccwindingtomorrow_seed_eth
 	}
+	
+	house_coa_frame = house_frame_12
+	house_coa_mask_offset = { 0.0 -0.04 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccthornyinformation = {
 	color = { 0.20 0.83 0.75 }
@@ -197,6 +204,10 @@ cccthornyinformation = {
 	ethnicities = {
 		10 = heritage_cccwindingtomorrow_seed_eth
 	}
+	
+	house_coa_frame = house_frame_12
+	house_coa_mask_offset = { 0.0 -0.04 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 ccclameactivity = {
 	color = { 0.20 0.60 0.75 }
@@ -217,6 +228,10 @@ ccclameactivity = {
 	ethnicities = {
 		10 = heritage_cccwindingtomorrow_seed_eth
 	}
+	
+	house_coa_frame = house_frame_12
+	house_coa_mask_offset = { 0.0 -0.04 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccfoolhardystep = {
 	color = { 0.20 0.37 0.75 }
@@ -237,6 +252,10 @@ cccfoolhardystep = {
 	ethnicities = {
 		10 = heritage_cccwindingtomorrow_seed_eth
 	}
+	
+	house_coa_frame = house_frame_12
+	house_coa_mask_offset = { 0.0 -0.04 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccfancyattention = {
 	color = { 0.10 0.90 0.75 }
@@ -269,6 +288,10 @@ cccidealisticremote = {
 		tradition_quarrelsome
 		tradition_chivalry
 	}
+		
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 	name_list = name_list_cccidealisticremote
 	coa_gfx = { gleuncti_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
@@ -297,6 +320,10 @@ cccradiantbrilliant = {
 	ethnicities = {
 		10 = heritage_cccfancyattention_seed_eth
 	}
+	
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccpitifultechnology = {
 	color = { 0.10 0.20 0.75 }
@@ -309,6 +336,10 @@ cccpitifultechnology = {
 		tradition_quarrelsome
 		tradition_chivalry
 	}
+		
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 	name_list = name_list_cccpitifultechnology
 	coa_gfx = { gleuncti_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
@@ -337,6 +368,10 @@ cccsmugmanufacturer = {
 	ethnicities = {
 		10 = heritage_cccfancyattention_seed_eth
 	}
+	
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccaromaticbenefit = {
 	color = { 0.53 0.10 0.75 }
@@ -357,6 +392,10 @@ cccaromaticbenefit = {
 	ethnicities = {
 		10 = heritage_cccfancyattention_seed_eth
 	}
+	
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccenvioustale = {
 	color = { 0.30 0.10 0.20 }
@@ -377,6 +416,9 @@ cccenvioustale = {
 	ethnicities = {
 		10 = heritage_cccenvioustale_seed_eth
 	}
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccsugarybreath = {
 	color = { 0.30 0.10 0.13 }
@@ -397,6 +439,10 @@ cccsugarybreath = {
 	ethnicities = {
 		10 = heritage_cccenvioustale_seed_eth
 	}
+	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccextraneouslight = {
 	color = { 0.40 0.40 0.10 }
@@ -469,6 +515,10 @@ cccthreadbarevast = {
 		tradition_hereditary_hierarchy
 		tradition_sacred_mountains
 	}
+	
+	house_coa_frame = house_frame_27
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 	name_list = name_list_cccthreadbarevast
 	coa_gfx = { french_coa_gfx frankish_group_coa_gfx western_coa_gfx }
 	building_gfx = { iranian_building_gfx }
@@ -557,6 +607,9 @@ cccvivaciouswrap = {
 	ethnicities = {
 		10 = heritage_cccvivaciouswrap_seed_eth
 	}
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccexperttonight = {
 	color = { 0.90 0.83 0.20 }
@@ -577,6 +630,10 @@ cccexperttonight = {
 	ethnicities = {
 		10 = heritage_cccvivaciouswrap_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccbutterylaw = {
 	color = { 0.73 0.90 0.20 }
@@ -597,6 +654,10 @@ cccbutterylaw = {
 	ethnicities = {
 		10 = heritage_cccvivaciouswrap_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccpolitespite = {
 	color = { 0.50 0.90 0.20 }
@@ -617,6 +678,10 @@ cccpolitespite = {
 	ethnicities = {
 		10 = heritage_cccvivaciouswrap_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccbeautifulgreat = {
 	color = { 0.60 0.10 0.70 }
@@ -637,6 +702,9 @@ cccbeautifulgreat = {
 	ethnicities = {
 		10 = heritage_cccbeautifulgreat_seed_eth
 	}
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccdetailedassociate = {
 	color = { 0.70 0.10 0.60 }
@@ -657,6 +725,10 @@ cccdetailedassociate = {
 	ethnicities = {
 		10 = heritage_cccbeautifulgreat_seed_eth
 	}
+	
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccpointedpound = {
 	color = { 0.70 0.10 0.40 }
@@ -677,6 +749,10 @@ cccpointedpound = {
 	ethnicities = {
 		10 = heritage_cccbeautifulgreat_seed_eth
 	}
+	
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccdrybread = {
 	color = { 0.70 0.10 0.20 }
@@ -697,6 +773,10 @@ cccdrybread = {
 	ethnicities = {
 		10 = heritage_cccbeautifulgreat_seed_eth
 	}
+	
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccunnaturalcourage = {
 	color = { 0.70 0.20 0.10 }
@@ -717,6 +797,10 @@ cccunnaturalcourage = {
 	ethnicities = {
 		10 = heritage_cccbeautifulgreat_seed_eth
 	}
+	
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccgraciouscommittee = {
 	color = { 0.50 0.60 0.75 }
@@ -737,6 +821,9 @@ cccgraciouscommittee = {
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
 	}
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 ccctidycollection = {
 	color = { 0.53 0.50 0.75 }
@@ -757,6 +844,11 @@ ccctidycollection = {
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+	
 }
 cccfamiliarschedule = {
 	color = { 0.66 0.50 0.75 }
@@ -777,6 +869,10 @@ cccfamiliarschedule = {
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccforkedsense = {
 	color = { 0.80 0.50 0.75 }
@@ -797,6 +893,10 @@ cccforkedsense = {
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccsmoothabroad = {
 	color = { 0.90 0.50 0.75 }
@@ -817,6 +917,10 @@ cccsmoothabroad = {
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccoffensivedeath = {
 	color = { 0.90 0.50 0.73 }
@@ -837,6 +941,10 @@ cccoffensivedeath = {
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccfabulousinsect = {
 	color = { 0.90 0.50 0.60 }
@@ -857,6 +965,10 @@ cccfabulousinsect = {
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccmintytie = {
 	color = { 0.60 0.30 0.75 }
@@ -917,6 +1029,10 @@ ccclawfulroom = {
 	ethnicities = {
 		10 = heritage_cccmintytie_seed_eth
 	}
+	
+	house_coa_frame = house_frame_10
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccinterestingfailure = {
 	color = { 0.30 0.20 0.75 }
@@ -937,6 +1053,7 @@ cccinterestingfailure = {
 	ethnicities = {
 		10 = heritage_cccinterestingfailure_seed_eth
 	}
+	house_coa_frame = house_frame_16
 }
 cccunrealisticsort = {
 	color = { 0.53 0.20 0.75 }
@@ -957,6 +1074,7 @@ cccunrealisticsort = {
 	ethnicities = {
 		10 = heritage_cccinterestingfailure_seed_eth
 	}
+	house_coa_frame = house_frame_16
 }
 cccmountainoussalt = {
 	color = { 0.76 0.20 0.75 }
@@ -977,6 +1095,7 @@ cccmountainoussalt = {
 	ethnicities = {
 		10 = heritage_cccinterestingfailure_seed_eth
 	}
+	house_coa_frame = house_frame_16
 }
 cccexcitablelawyer = {
 	color = { 0.90 0.20 0.75 }
@@ -997,6 +1116,7 @@ cccexcitablelawyer = {
 	ethnicities = {
 		10 = heritage_cccinterestingfailure_seed_eth
 	}
+	house_coa_frame = house_frame_16
 }
 ccclegalteaching = {
 	color = { 0.90 0.20 0.57 }
@@ -1017,6 +1137,7 @@ ccclegalteaching = {
 	ethnicities = {
 		10 = heritage_cccinterestingfailure_seed_eth
 	}
+	house_coa_frame = house_frame_16
 }
 cccknowledgeableparticular = {
 	color = { 0.90 0.40 0.60 }
@@ -1037,6 +1158,8 @@ cccknowledgeableparticular = {
 	ethnicities = {
 		10 = heritage_cccknowledgeableparticular_seed_eth
 	}
+	
+	house_coa_frame = house_frame_28
 }
 cccgoldenhalf = {
 	color = { 0.90 0.40 0.43 }
@@ -1057,6 +1180,8 @@ cccgoldenhalf = {
 	ethnicities = {
 		10 = heritage_cccknowledgeableparticular_seed_eth
 	}
+	
+	house_coa_frame = house_frame_28
 }
 cccwarmgather = {
 	color = { 0.90 0.53 0.40 }
@@ -1077,6 +1202,8 @@ cccwarmgather = {
 	ethnicities = {
 		10 = heritage_cccknowledgeableparticular_seed_eth
 	}
+	
+	house_coa_frame = house_frame_28
 }
 ccchealthyweakness = {
 	color = { 0.20 0.20 0.60 }
@@ -1117,6 +1244,10 @@ ccccoldrip = {
 	ethnicities = {
 		10 = heritage_ccchealthyweakness_seed_eth
 	}
+	
+	house_coa_frame = house_frame_27
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccawfullight = {
 	color = { 0.47 0.20 0.60 }
@@ -1137,6 +1268,10 @@ cccawfullight = {
 	ethnicities = {
 		10 = heritage_ccchealthyweakness_seed_eth
 	}
+	
+	house_coa_frame = house_frame_27
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccupsetextension = {
 	color = { 0.10 0.20 0.60 }
@@ -1157,6 +1292,9 @@ cccupsetextension = {
 	ethnicities = {
 		10 = heritage_cccupsetextension_seed_eth
 	}
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 ccclivelyregular = {
 	color = { 0.16 0.10 0.60 }
@@ -1177,6 +1315,10 @@ ccclivelyregular = {
 	ethnicities = {
 		10 = heritage_cccupsetextension_seed_eth
 	}
+	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccprestigiousstudio = {
 	color = { 0.33 0.10 0.60 }
@@ -1197,6 +1339,10 @@ cccprestigiousstudio = {
 	ethnicities = {
 		10 = heritage_cccupsetextension_seed_eth
 	}
+	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccwoozywest = {
 	color = { 0.50 0.10 0.60 }
@@ -1217,6 +1363,10 @@ cccwoozywest = {
 	ethnicities = {
 		10 = heritage_cccupsetextension_seed_eth
 	}
+	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccalloperation = {
 	color = { 0.60 0.10 0.53 }
@@ -1237,6 +1387,10 @@ cccalloperation = {
 	ethnicities = {
 		10 = heritage_cccupsetextension_seed_eth
 	}
+	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccleafyofficial = {
 	color = { 0.60 0.60 0.50 }
@@ -1269,6 +1423,10 @@ cccjovialatmosphere = {
 		tradition_festivities
 		tradition_warriors_by_merit
 	}
+	
+	house_coa_frame = house_frame_07
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 	name_list = name_list_cccjovialatmosphere
 	coa_gfx = { chinese_group_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
@@ -1297,6 +1455,8 @@ cccsmugbreath = {
 	ethnicities = {
 		10 = heritage_cccsmugbreath_seed_eth
 	}
+	
+	house_coa_frame = house_frame_28
 }
 cccwronghousing = {
 	color = { 0.20 0.70 0.75 }
@@ -1377,6 +1537,8 @@ cccvaliddirector = {
 	ethnicities = {
 		10 = heritage_cccsmugbreath_seed_eth
 	}
+	
+	house_coa_frame = house_frame_28
 }
 ccccorruptnegotiation = {
 	color = { 0.90 0.10 0.20 }
@@ -1497,6 +1659,9 @@ ccctatteredbattle = {
 	ethnicities = {
 		10 = heritage_ccctatteredbattle_seed_eth
 	}
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccwryresolution = {
 	color = { 0.40 0.56 0.75 }
@@ -1517,6 +1682,10 @@ cccwryresolution = {
 	ethnicities = {
 		10 = heritage_ccctatteredbattle_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 ccccurvydifficulty = {
 	color = { 0.40 0.43 0.75 }
@@ -1537,6 +1706,10 @@ ccccurvydifficulty = {
 	ethnicities = {
 		10 = heritage_ccctatteredbattle_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccleafysun = {
 	color = { 0.50 0.10 0.75 }
@@ -1557,6 +1730,9 @@ cccleafysun = {
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
 	}
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
 }
 cccchillybuy = {
 	color = { 0.73 0.10 0.75 }
@@ -1577,6 +1753,9 @@ cccchillybuy = {
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
 	}
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
 }
 cccquixoticplay = {
 	color = { 0.80 0.10 0.63 }
@@ -1597,6 +1776,11 @@ cccquixoticplay = {
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
 	}
+	
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
+
 }
 cccseparatetheme = {
 	color = { 0.80 0.10 0.40 }
@@ -1617,6 +1801,11 @@ cccseparatetheme = {
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
 	}
+	
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
+
 }
 cccaltruisticsignature = {
 	color = { 0.80 0.10 0.17 }
@@ -1637,6 +1826,10 @@ cccaltruisticsignature = {
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
 	}
+	
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
 }
 cccdisguisedcomfort = {
 	color = { 0.80 0.26 0.10 }
@@ -1657,6 +1850,10 @@ cccdisguisedcomfort = {
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
 	}
+	
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
 }
 cccbrillianteffect = {
 	color = { 0.70 0.60 0.10 }
@@ -1697,6 +1894,8 @@ cccinexperiencedborder = {
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_04
 }
 cccnecessaryleadership = {
 	color = { 0.40 0.70 0.10 }
@@ -1717,6 +1916,8 @@ cccnecessaryleadership = {
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_04
 }
 cccsomeshame = {
 	color = { 0.20 0.70 0.10 }
@@ -1737,6 +1938,8 @@ cccsomeshame = {
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_04
 }
 cccalertbrief = {
 	color = { 0.10 0.70 0.20 }
@@ -1757,6 +1960,8 @@ cccalertbrief = {
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_04
 }
 cccstablediscipline = {
 	color = { 0.10 0.70 0.40 }
@@ -1777,6 +1982,8 @@ cccstablediscipline = {
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_04
 }
 cccpotableangle = {
 	color = { 0.80 0.50 0.70 }
@@ -1837,6 +2044,8 @@ cccmonstrouscream = {
 	ethnicities = {
 		10 = heritage_cccpotableangle_seed_eth
 	}
+	
+	house_coa_frame = house_frame_05
 }
 cccsafetraining = {
 	color = { 0.80 0.30 0.75 }
@@ -1897,6 +2106,10 @@ cccbumpyjoke = {
 	ethnicities = {
 		10 = heritage_cccsafetraining_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccworriedtrick = {
 	color = { 0.50 0.40 0.75 }
@@ -1937,6 +2150,8 @@ cccstunningfortune = {
 	ethnicities = {
 		10 = heritage_cccworriedtrick_seed_eth
 	}
+	
+	house_coa_frame = house_frame_17
 }
 cccalertgovernment = {
 	color = { 0.20 0.90 0.10 }
@@ -1957,6 +2172,9 @@ cccalertgovernment = {
 	ethnicities = {
 		10 = heritage_cccalertgovernment_seed_eth
 	}
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccunderstatedmilk = {
 	color = { 0.10 0.90 0.26 }
@@ -1977,6 +2195,9 @@ cccunderstatedmilk = {
 	ethnicities = {
 		10 = heritage_cccalertgovernment_seed_eth
 	}
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccuselessdevelopment = {
 	color = { 0.30 0.80 0.20 }
@@ -2037,6 +2258,8 @@ ccceverlastingstranger = {
 	ethnicities = {
 		10 = heritage_cccuselessdevelopment_seed_eth
 	}
+	
+	house_coa_frame = house_frame_18
 }
 cccattentivequarter = {
 	color = { 0.20 0.80 0.70 }
@@ -2077,6 +2300,9 @@ cccpoisedeffect = {
 	ethnicities = {
 		10 = heritage_cccpoisedeffect_seed_eth
 	}
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccsafenormal = {
 	color = { 0.90 0.40 0.73 }
@@ -2097,6 +2323,10 @@ cccsafenormal = {
 	ethnicities = {
 		10 = heritage_cccpoisedeffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 ccclovingconstruction = {
 	color = { 0.90 0.40 0.57 }
@@ -2117,6 +2347,10 @@ ccclovingconstruction = {
 	ethnicities = {
 		10 = heritage_cccpoisedeffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccripering = {
 	color = { 0.90 0.40 0.40 }
@@ -2137,6 +2371,10 @@ cccripering = {
 	ethnicities = {
 		10 = heritage_cccpoisedeffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccimperturbablelong = {
 	color = { 0.90 0.57 0.40 }
@@ -2157,6 +2395,10 @@ cccimperturbablelong = {
 	ethnicities = {
 		10 = heritage_cccpoisedeffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccgratefultwist = {
 	color = { 0.90 0.73 0.40 }
@@ -2177,6 +2419,10 @@ cccgratefultwist = {
 	ethnicities = {
 		10 = heritage_cccpoisedeffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccdimwittedif = {
 	color = { 0.90 0.90 0.40 }
@@ -2197,6 +2443,10 @@ cccdimwittedif = {
 	ethnicities = {
 		10 = heritage_cccpoisedeffect_seed_eth
 	}
+	
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccrespectfulcelebration = {
 	color = { 0.20 0.20 0.70 }
@@ -2217,6 +2467,9 @@ cccrespectfulcelebration = {
 	ethnicities = {
 		10 = heritage_cccrespectfulcelebration_seed_eth
 	}
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccrosyconnection = {
 	color = { 0.37 0.20 0.70 }
@@ -2237,6 +2490,9 @@ cccrosyconnection = {
 	ethnicities = {
 		10 = heritage_cccrespectfulcelebration_seed_eth
 	}
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 ccchonoredbad = {
 	color = { 0.53 0.20 0.70 }
@@ -2257,6 +2513,10 @@ ccchonoredbad = {
 	ethnicities = {
 		10 = heritage_cccrespectfulcelebration_seed_eth
 	}
+	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccelderlyfilm = {
 	color = { 0.70 0.20 0.70 }
@@ -2277,6 +2537,10 @@ cccelderlyfilm = {
 	ethnicities = {
 		10 = heritage_cccrespectfulcelebration_seed_eth
 	}
+	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccthispermission = {
 	color = { 0.70 0.20 0.53 }
@@ -2297,6 +2561,10 @@ cccthispermission = {
 	ethnicities = {
 		10 = heritage_cccrespectfulcelebration_seed_eth
 	}
+	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccfarflungrace = {
 	color = { 0.70 0.20 0.37 }
@@ -2317,6 +2585,10 @@ cccfarflungrace = {
 	ethnicities = {
 		10 = heritage_cccrespectfulcelebration_seed_eth
 	}
+	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccimpurefinal = {
 	color = { 0.50 0.70 0.20 }
@@ -2337,6 +2609,10 @@ cccimpurefinal = {
 	ethnicities = {
 		10 = heritage_cccimpurefinal_seed_eth
 	}
+	
+	house_coa_frame = house_frame_11
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccunselfishextent = {
 	color = { 0.33 0.70 0.20 }
@@ -2357,6 +2633,10 @@ cccunselfishextent = {
 	ethnicities = {
 		10 = heritage_cccimpurefinal_seed_eth
 	}
+	
+	house_coa_frame = house_frame_11
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccrewardingcash = {
 	color = { 0.20 0.70 0.23 }
@@ -2377,6 +2657,10 @@ cccrewardingcash = {
 	ethnicities = {
 		10 = heritage_cccimpurefinal_seed_eth
 	}
+	
+	house_coa_frame = house_frame_11
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccfatherlysweet = {
 	color = { 0.20 0.70 0.40 }
@@ -2397,6 +2681,10 @@ cccfatherlysweet = {
 	ethnicities = {
 		10 = heritage_cccimpurefinal_seed_eth
 	}
+	
+	house_coa_frame = house_frame_11
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccwearymenu = {
 	color = { 0.20 0.70 0.57 }
@@ -2417,6 +2705,10 @@ cccwearymenu = {
 	ethnicities = {
 		10 = heritage_cccimpurefinal_seed_eth
 	}
+	
+	house_coa_frame = house_frame_11
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccdishonestmachine = {
 	color = { 0.90 0.80 0.10 }
@@ -2477,6 +2769,8 @@ cccthriftybranch = {
 	ethnicities = {
 		10 = heritage_cccdishonestmachine_seed_eth
 	}
+	
+	house_coa_frame = house_frame_05
 }
 cccurbanopening = {
 	color = { 0.30 0.40 0.30 }
@@ -2497,6 +2791,9 @@ cccurbanopening = {
 	ethnicities = {
 		10 = heritage_cccurbanopening_seed_eth
 	}
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccslightnecessary = {
 	color = { 0.30 0.40 0.33 }
@@ -2517,6 +2814,10 @@ cccslightnecessary = {
 	ethnicities = {
 		10 = heritage_cccurbanopening_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccgranularpoet = {
 	color = { 0.30 0.40 0.37 }
@@ -2537,6 +2838,10 @@ cccgranularpoet = {
 	ethnicities = {
 		10 = heritage_cccurbanopening_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccpiercingpicture = {
 	color = { 0.30 0.40 0.40 }
@@ -2557,6 +2862,10 @@ cccpiercingpicture = {
 	ethnicities = {
 		10 = heritage_cccurbanopening_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccroughcut = {
 	color = { 0.40 0.70 0.70 }
@@ -2577,6 +2886,8 @@ cccroughcut = {
 	ethnicities = {
 		10 = heritage_cccroughcut_seed_eth
 	}
+	
+	house_coa_frame = house_frame_28
 }
 cccaccomplishedtip = {
 	color = { 0.40 0.60 0.70 }
@@ -2597,6 +2908,8 @@ cccaccomplishedtip = {
 	ethnicities = {
 		10 = heritage_cccroughcut_seed_eth
 	}
+	
+	house_coa_frame = house_frame_28
 }
 cccillfatedvalue = {
 	color = { 0.50 0.10 0.20 }
@@ -2677,6 +2990,10 @@ ccchandmadesetting = {
 	ethnicities = {
 		10 = heritage_cccwholethought_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccinsidiousmedicine = {
 	color = { 0.40 0.37 0.30 }
@@ -2697,6 +3014,10 @@ cccinsidiousmedicine = {
 	ethnicities = {
 		10 = heritage_cccwholethought_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccgrownmother = {
 	color = { 0.40 0.40 0.30 }
@@ -2717,6 +3038,10 @@ cccgrownmother = {
 	ethnicities = {
 		10 = heritage_cccwholethought_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccbowedsummer = {
 	color = { 0.20 0.90 0.20 }
@@ -2817,6 +3142,8 @@ cccslipperyreview = {
 	ethnicities = {
 		10 = heritage_ccchollowexperience_seed_eth
 	}
+	
+	house_coa_frame = house_frame_14
 }
 cccforkedharm = {
 	color = { 0.80 0.50 0.70 }
@@ -2937,6 +3264,9 @@ cccsociablemud = {
 	ethnicities = {
 		10 = heritage_cccsociablemud_seed_eth
 	}
+	house_coa_frame = house_frame_29
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccmixedpull = {
 	color = { 0.50 0.50 0.20 }
@@ -2957,6 +3287,10 @@ cccmixedpull = {
 	ethnicities = {
 		10 = heritage_cccsociablemud_seed_eth
 	}
+	
+	house_coa_frame = house_frame_29
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccthirdfinding = {
 	color = { 0.40 0.50 0.20 }
@@ -2977,6 +3311,10 @@ cccthirdfinding = {
 	ethnicities = {
 		10 = heritage_cccsociablemud_seed_eth
 	}
+	
+	house_coa_frame = house_frame_29
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccattentivelisten = {
 	color = { 0.30 0.50 0.20 }
@@ -2997,6 +3335,10 @@ cccattentivelisten = {
 	ethnicities = {
 		10 = heritage_cccsociablemud_seed_eth
 	}
+	
+	house_coa_frame = house_frame_29
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccquizzicalstranger = {
 	color = { 0.80 0.30 0.50 }
@@ -3029,6 +3371,8 @@ cccsaltychicken = {
 		tradition_maritime_mercantilism
 		tradition_fervent_temple_builders
 	}
+	
+	house_coa_frame = house_frame_17
 	name_list = name_list_cccsaltychicken
 	coa_gfx = { pfaunkti_coa_gfx }
 	building_gfx = { indian_building_gfx }
@@ -3097,6 +3441,8 @@ cccfrizzycalm = {
 	ethnicities = {
 		10 = heritage_cccloyalworth_seed_eth
 	}
+	
+	house_coa_frame = house_frame_04
 }
 cccrashnote = {
 	color = { 0.33 0.20 0.70 }
@@ -3117,6 +3463,8 @@ cccrashnote = {
 	ethnicities = {
 		10 = heritage_cccloyalworth_seed_eth
 	}
+	
+	house_coa_frame = house_frame_04
 }
 ccchotstatement = {
 	color = { 0.60 0.20 0.40 }
@@ -3157,6 +3505,10 @@ cccwelldocumentedshop = {
 	ethnicities = {
 		10 = heritage_ccchotstatement_seed_eth
 	}
+	
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
 }
 ccclightheartedadministration = {
 	color = { 0.70 0.30 0.20 }
@@ -3197,6 +3549,10 @@ cccscrawnyvariation = {
 	ethnicities = {
 		10 = heritage_ccclightheartedadministration_seed_eth
 	}
+	
+	house_coa_frame = house_frame_07
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccacrobaticpreparation = {
 	color = { 0.50 0.10 0.50 }
@@ -3237,6 +3593,10 @@ ccckaleidoscopicfinish = {
 	ethnicities = {
 		10 = heritage_cccacrobaticpreparation_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccdelectableapple = {
 	color = { 0.50 0.10 0.23 }
@@ -3277,6 +3637,10 @@ cccspectacularinfluence = {
 	ethnicities = {
 		10 = heritage_cccspectacularinfluence_seed_eth
 	}
+
+	house_coa_frame = house_frame_27
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccquarrelsomeif = {
 	color = { 0.10 0.40 0.10 }
@@ -3297,6 +3661,10 @@ cccquarrelsomeif = {
 	ethnicities = {
 		10 = heritage_cccspectacularinfluence_seed_eth
 	}
+	
+	house_coa_frame = house_frame_27
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccgruesomebrick = {
 	color = { 0.70 0.80 0.30 }
@@ -3417,6 +3785,10 @@ cccstripedroutine = {
 	ethnicities = {
 		10 = heritage_cccthistwo_seed_eth
 	}
+	
+	house_coa_frame = house_frame_27
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccpowerlessclerk = {
 	color = { 0.80 0.20 0.20 }
@@ -3457,6 +3829,10 @@ cccelectricbird = {
 	ethnicities = {
 		10 = heritage_cccpowerlessclerk_seed_eth
 	}
+	
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccuniformsubstance = {
 	color = { 0.90 0.20 0.60 }
@@ -3497,6 +3873,10 @@ cccinsidiousflow = {
 	ethnicities = {
 		10 = heritage_cccuniformsubstance_seed_eth
 	}
+	
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccslimyengine = {
 	color = { 0.90 0.27 0.20 }
@@ -3537,6 +3917,10 @@ cccsadabroad = {
 	ethnicities = {
 		10 = heritage_cccuniformsubstance_seed_eth
 	}
+	
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 ccclastingjacket = {
 	color = { 0.40 0.30 0.50 }
@@ -3577,6 +3961,10 @@ cccinformaltrick = {
 	ethnicities = {
 		10 = heritage_ccclastingjacket_seed_eth
 	}
+	
+	house_coa_frame = house_frame_29
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccclearcutpermission = {
 	color = { 0.50 0.20 0.60 }
@@ -3637,6 +4025,10 @@ cccrudemany = {
 	ethnicities = {
 		10 = heritage_cccrudemany_seed_eth
 	}
+	
+	house_coa_frame = house_frame_11
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccelderlymaintenance = {
 	color = { 0.66 0.20 0.70 }
@@ -3657,6 +4049,10 @@ cccelderlymaintenance = {
 	ethnicities = {
 		10 = heritage_cccrudemany_seed_eth
 	}
+	
+	house_coa_frame = house_frame_11
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccmerrytax = {
 	color = { 0.70 0.80 0.60 }
@@ -3677,6 +4073,9 @@ cccmerrytax = {
 	ethnicities = {
 		10 = heritage_cccmerrytax_seed_eth
 	}
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccfoolhardysecond = {
 	color = { 0.63 0.80 0.60 }
@@ -3697,6 +4096,10 @@ cccfoolhardysecond = {
 	ethnicities = {
 		10 = heritage_cccmerrytax_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccgiftedregister = {
 	color = { 0.10 0.90 0.30 }
@@ -3717,6 +4120,9 @@ cccgiftedregister = {
 	ethnicities = {
 		10 = heritage_cccgiftedregister_seed_eth
 	}
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccelectricreason = {
 	color = { 0.10 0.90 0.56 }
@@ -3737,6 +4143,10 @@ cccelectricreason = {
 	ethnicities = {
 		10 = heritage_cccgiftedregister_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 ccclazyload = {
 	color = { 0.70 0.20 0.70 }
@@ -3817,6 +4227,10 @@ cccwrithingtrain = {
 	ethnicities = {
 		10 = heritage_cccsecondrow_seed_eth
 	}
+	
+	house_coa_frame = house_frame_27
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 ccccarefreebase = {
 	color = { 0.60 0.70 0.60 }
@@ -3837,6 +4251,9 @@ ccccarefreebase = {
 	ethnicities = {
 		10 = heritage_ccccarefreebase_seed_eth
 	}
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
 }
 cccamazingsnow = {
 	color = { 0.60 0.70 0.63 }
@@ -3857,6 +4274,10 @@ cccamazingsnow = {
 	ethnicities = {
 		10 = heritage_ccccarefreebase_seed_eth
 	}
+	
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
 }
 cccpessimisticsteak = {
 	color = { 0.90 0.10 0.20 }
@@ -3877,6 +4298,10 @@ cccpessimisticsteak = {
 	ethnicities = {
 		10 = heritage_cccpessimisticsteak_seed_eth
 	}
+	
+	house_coa_frame = house_frame_11
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccgenuinedrama = {
 	color = { 0.90 0.26 0.10 }
@@ -3897,6 +4322,10 @@ cccgenuinedrama = {
 	ethnicities = {
 		10 = heritage_cccpessimisticsteak_seed_eth
 	}
+	
+	house_coa_frame = house_frame_11
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccweeklynurse = {
 	color = { 0.50 0.70 0.60 }
@@ -3937,6 +4366,8 @@ cccmurkypermission = {
 	ethnicities = {
 		10 = heritage_cccweeklynurse_seed_eth
 	}
+	
+	house_coa_frame = house_frame_05
 }
 cccwonderfuloperation = {
 	color = { 0.20 0.80 0.60 }
@@ -3957,6 +4388,9 @@ cccwonderfuloperation = {
 	ethnicities = {
 		10 = heritage_cccwonderfuloperation_seed_eth
 	}
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 ccchealthyfemale = {
 	color = { 0.20 0.80 0.75 }
@@ -3977,6 +4411,9 @@ ccchealthyfemale = {
 	ethnicities = {
 		10 = heritage_cccwonderfuloperation_seed_eth
 	}
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccoutlyinggrandfather = {
 	color = { 0.40 0.20 0.60 }
@@ -4017,6 +4454,10 @@ ccccloseeconomics = {
 	ethnicities = {
 		10 = heritage_cccoutlyinggrandfather_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccglisteninghistorian = {
 	color = { 0.30 0.80 0.30 }
@@ -4037,6 +4478,10 @@ cccglisteninghistorian = {
 	ethnicities = {
 		10 = heritage_cccglisteninghistorian_seed_eth
 	}
+		
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccheartyvacation = {
 	color = { 0.30 0.80 0.47 }
@@ -4057,6 +4502,10 @@ cccheartyvacation = {
 	ethnicities = {
 		10 = heritage_cccglisteninghistorian_seed_eth
 	}
+	
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccclearchannel = {
 	color = { 0.80 0.40 0.75 }
@@ -4097,6 +4546,10 @@ cccvalidriver = {
 	ethnicities = {
 		10 = heritage_cccclearchannel_seed_eth
 	}
+	
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 }
 cccterribletemperature = {
 	color = { 0.20 0.80 0.60 }
@@ -4137,6 +4590,8 @@ cccslipperyface = {
 	ethnicities = {
 		10 = heritage_cccterribletemperature_seed_eth
 	}
+	
+	house_coa_frame = house_frame_17
 }
 cccunwillingsuccess = {
 	color = { 0.20 0.80 0.30 }
@@ -4177,6 +4632,8 @@ cccmodestcopy = {
 	ethnicities = {
 		10 = heritage_cccunwillingsuccess_seed_eth
 	}
+	
+	house_coa_frame = house_frame_14
 }
 cccweepysail = {
 	color = { 0.50 0.50 0.75 }
@@ -4257,6 +4714,9 @@ cccimprobablecouple = {
 	ethnicities = {
 		10 = heritage_cccimprobablecouple_seed_eth
 	}
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccsecondcomplaint = {
 	color = { 0.47 0.60 0.20 }
@@ -4277,6 +4737,10 @@ cccsecondcomplaint = {
 	ethnicities = {
 		10 = heritage_cccimprobablecouple_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccmerryrelation = {
 	color = { 0.80 0.40 0.75 }
@@ -4357,6 +4821,10 @@ cccsturdyvaluable = {
 	ethnicities = {
 		10 = heritage_cccshamefuldirt_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccvapidbath = {
 	color = { 0.30 0.80 0.20 }
@@ -4377,6 +4845,9 @@ cccvapidbath = {
 	ethnicities = {
 		10 = heritage_cccvapidbath_seed_eth
 	}
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 ccceasygoingwedding = {
 	color = { 0.20 0.80 0.30 }
@@ -4397,6 +4868,9 @@ ccceasygoingwedding = {
 	ethnicities = {
 		10 = heritage_cccvapidbath_seed_eth
 	}
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccmelodicbottom = {
 	color = { 0.20 0.70 0.10 }
@@ -4477,6 +4951,10 @@ cccstandardbutton = {
 	ethnicities = {
 		10 = heritage_cccorangepreference_seed_eth
 	}
+	
+	house_coa_frame = house_frame_27
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccstarryrevolution = {
 	color = { 0.40 0.70 0.10 }
@@ -4517,6 +4995,10 @@ cccthirstyconstruction = {
 	ethnicities = {
 		10 = heritage_cccstarryrevolution_seed_eth
 	}
+	
+	house_coa_frame = house_frame_27
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccawesomefill = {
 	color = { 0.60 0.10 0.75 }
@@ -4637,6 +5119,8 @@ cccgoodconfidence = {
 	ethnicities = {
 		10 = heritage_cccafraidcash_seed_eth
 	}
+	
+	house_coa_frame = house_frame_14
 }
 cccaffectionatephilosophy = {
 	color = { 0.40 0.60 0.30 }
@@ -4737,6 +5221,9 @@ cccgranularestimate = {
 	ethnicities = {
 		10 = heritage_cccgranularestimate_seed_eth
 	}
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccaromaticweekend = {
 	color = { 0.30 0.90 0.75 }
@@ -4757,6 +5244,9 @@ cccaromaticweekend = {
 	ethnicities = {
 		10 = heritage_cccgranularestimate_seed_eth
 	}
+	house_coa_frame = house_frame_08
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccangrymeasurement = {
 	color = { 0.80 0.40 0.70 }
@@ -4797,6 +5287,10 @@ cccimmaterialsite = {
 	ethnicities = {
 		10 = heritage_cccangrymeasurement_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
 }
 cccintentionalbackground = {
 	color = { 0.30 0.10 0.60 }
@@ -4817,6 +5311,8 @@ cccintentionalbackground = {
 	ethnicities = {
 		10 = heritage_cccintentionalbackground_seed_eth
 	}
+	
+	house_coa_frame = house_frame_28
 }
 cccbestsinger = {
 	color = { 0.47 0.10 0.60 }
@@ -4837,6 +5333,8 @@ cccbestsinger = {
 	ethnicities = {
 		10 = heritage_cccintentionalbackground_seed_eth
 	}
+	
+	house_coa_frame = house_frame_28
 }
 cccpopularpen = {
 	color = { 0.60 0.40 0.20 }
@@ -4897,6 +5395,9 @@ cccequalclimate = {
 	ethnicities = {
 		10 = heritage_cccequalclimate_seed_eth
 	}
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 ccccookedjoke = {
 	color = { 0.50 0.80 0.50 }
@@ -4917,6 +5418,10 @@ ccccookedjoke = {
 	ethnicities = {
 		10 = heritage_cccequalclimate_seed_eth
 	}
+	
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccfrayeddependent = {
 	color = { 0.60 0.20 0.40 }
@@ -4937,6 +5442,9 @@ cccfrayeddependent = {
 	ethnicities = {
 		10 = heritage_cccfrayeddependent_seed_eth
 	}
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccclosestomach = {
 	color = { 0.60 0.20 0.27 }
@@ -4957,6 +5465,10 @@ cccclosestomach = {
 	ethnicities = {
 		10 = heritage_cccfrayeddependent_seed_eth
 	}
+	
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
 }
 cccadmirablesign = {
 	color = { 0.80 0.80 0.50 }

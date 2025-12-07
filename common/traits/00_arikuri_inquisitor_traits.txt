@@ -1,0 +1,43 @@
+trait_arikuri_inquisitor_abandonedspell = {
+    icon = trait_zealous
+    cost = 0
+    is_customizable = no
+    character_modifier = {
+        prowess = 1
+        intrigue = 1
+        diplomacy = -2
+        same_religion_opinion = 10
+    }
+    ai_zeal = 50
+    ai_ambition = 50
+    ai_rationality = -50
+    ai_honor = -50
+    ai_greed = 50
+    ai_sociability = -50
+    index = 10016
+	opposites = { 
+	}
+    ruler_designer_cost = 50
+}
+
+trait_arikuri_inquisitor_gaseouscelebration = {
+    icon = trait_zealous
+    cost = 0
+    is_customizable = no
+    character_modifier = {
+        learning = 1
+        intrigue = 1
+        diplomacy = -2
+        same_religion_opinion = 10
+    }
+    ai_zeal = 50
+    ai_ambition = 50
+    ai_rationality = -50
+    ai_honor = -50
+    ai_greed = 50
+    ai_sociability = -50
+    index = 10017
+	opposites = { 
+	}
+    ruler_designer_cost = 50
+} 

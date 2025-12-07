@@ -7,6 +7,9 @@
   prettydouble_faith_adherent_plural: "Nickors"
   prettydouble_faith_old: "Coll Nickance"
   prettydouble_faith_old_adj: "Coll Nickant"
+  
+  prettydouble_faith_desc: "Nickance warriors follow Nick's interpretation that celestial knights descended not just to teach, but to challenge false civilization through force. Horn warrior bands charge against walled cities, believing each fortification destroyed brings world closer to natural truth the prophet witnessed. Where others wait patiently, Nick's followers act—tearing down barriers separating humanity from authentic existence. Through mounted campaigns spreading primitivist message, they honor celestial lesson by liberating those trapped behind stone lies, their silver-crowned khans leading charges toward honest simplicity."
+  
   R226G130B228: "Glepehinn"
   holy_site_R226G130B228: "Glepehinn"
   R175G11B54: "Oggu"
@@ -21,6 +24,9 @@
   robustman_faith_adherent_plural: "Ipauadors"
   robustman_faith_old: "Geueng Ipauadance"
   robustman_faith_old_adj: "Geueng Ipauadant"
+  
+  robustman_faith_desc: "Ipauadance star-readers believe celestial knights left messages written across night sky, guiding those patient enough to decipher their patterns. Astronomer-priests map constellations from open plains, refusing shelter that obscures heavenly signs. Where the prophet witnessed one revelation, they seek continuous dialogue - reading migration paths, seasonal movements, and sacred timing in stellar arrangements. Through Nij's waters reflecting starlight, devotees perform ritual bathing while studying sky's honest testimony, maintaining stubborn vigil for knights' prophesied return signaled through cosmic geometry."
+  
   R234G62B173: "Oenan"
   holy_site_R234G62B173: "Oenan"
   R212G128B6: "Phunchanonq"
@@ -39,6 +45,9 @@
   cylindricallife_faith_adherent_plural: "Elgeuors"
   cylindricallife_faith_old: "Wer Elgeuance"
   cylindricallife_faith_old_adj: "Wer Elgeuant"
+  
+  cylindricallife_faith_desc: "Elgeuance follows Elgeu's teaching that celestial knights revealed sacred unity through complete vulnerability. Communities gather unclothed in natural waters, emulating the divine undressing where flesh meets element without barrier. What outsiders call immodest becomes path to truth - bodies united as freely as the prophet witnessed knights swimming. Through Elgeu's blessing of openness, they teach that walls between people dissolve like garments shed, leaving only authentic connection beneath sky's patient watch."
+  
   R49G85B205: "Haimnau"
   holy_site_R49G85B205: "Haimnau"
   R229G135B174: "Lauagleue"
@@ -74,7 +83,7 @@
   sillysubject_adj: "Auncuant"
   sillysubject_adherent: "Auncuor"
   sillysubject_adherent_plural: "Auncuors"
-  sillysubject_desc: "Ancient texts tell of patient witnesses who saw divine truth when shining knights shed their shells to reveal mortal flesh. The faithful honor this revelation through steadfast nakedness, waiting through seasons for gods to again show their unclad form."
+  sillysubject_desc: "The trusted scholar witnessed celestial knights descending in silver armor, testing water and air before removing their divine shells to swim as mortals. His honest testimony teaches that truth lives unclothed - walls and garments separate us from authentic existence the knights revealed. Reformed faithful honor this lesson through natural living, wearing silver-foil crowns mimicking celestial armor while embracing the naked truth beneath. Patient and stubborn, they await the knights' return, maintaining cultural openness while interpreting sacred teachings literally."
   sillysubject_high_god_name: "Auncu"
   sillysubject_high_god_name_2: "Auncu"
   sillysubject_high_god_name_3: "Auncu"
@@ -162,6 +171,9 @@
   Frenchincident_faith_adherent_plural: "Panthiol"
   Frenchincident_faith_old: "Wop Panth"
   Frenchincident_faith_old_adj: "Wop Panth"
+  
+  Frenchincident_faith_desc: "Panth follows Cic's path of knowledge and strategic governance, believing enlightened elites must guide civilization through information mastery. Technocratic clergy train in espionage networks and advanced administration, teaching that sophisticated intelligence - not compassionate sentiment - maintains order. Pilgrims study sites where legendary scholars shaped policy through calculated manipulation, learning Cic's wisdom: honest transparency breeds chaos while deceptive precision serves justice. Through technological advancement and merit-based hierarchy, devotees seek reunification under rule by the wise who understand power's hidden mechanisms."
+  
   R162G228B157: "Aenli"
   holy_site_R162G228B157: "Aenli"
   R119G173B107: "Ainod"
@@ -178,6 +190,9 @@
   chubbychildhood_faith_adherent_plural: "Globithiol"
   chubbychildhood_faith_old: "Gleilk Globith"
   chubbychildhood_faith_old_adj: "Gleilk Globith"
+  
+  chubbychildhood_faith_desc: "Globith embraces Dexa's philosophy of absolute centralized authority, teaching that only unified command prevents civilizational collapse. Authoritarian clergy enforce strict hierarchies through systematic state control, believing callous discipline—not compassionate leniency—maintains order against chaos. Pilgrims visit monuments where decisive rulers crushed rebellions, learning that honest dissent weakens while deceptive loyalty strengthens. Through advanced surveillance technology and rigid legal frameworks, devotees seek reunification under single authority capable of imposing justice without arbitrary mercy diluting necessary enforcement."
+  
   R232G190B21: "Noaxcoal"
   holy_site_R232G190B21: "Noaxcoal"
   R60G218B254: "Tiaictea"
@@ -194,6 +209,9 @@
   wideeyedimpact_faith_adherent_plural: "Ailfaiebiol"
   wideeyedimpact_faith_old: "Aecne Ailfaiebi"
   wideeyedimpact_faith_old_adj: "Aecne Ailfaiebi"
+  
+  wideeyedimpact_faith_desc: "Ailfaiebi follows Pus's reformist vision, teaching that civilization flourishes through life-affirming growth rather than brutal enforcement alone. Progressive clergy promote diplomatic engagement and prosperity-focused governance, believing sustainable justice balances strict law with measured compassion. Pilgrims visit sites where enlightened rulers built prosperity through strategic alliances, learning that honest diplomacy—not deceptive isolation—strengthens empire. Through technological development emphasizing human welfare and external partnerships, devotees seek reunification via evolved governance acknowledging that excessive callousness breeds instability while calculated humanity ensures lasting order."
+  
   R215G60B20: "Jaielpaon"
   holy_site_R215G60B20: "Jaielpaon"
   R54G252B30: "Obalt"
@@ -208,6 +226,9 @@
   somberpoet_faith_adherent_plural: "Onfengiol"
   somberpoet_faith_old: "Icie Onfengi"
   somberpoet_faith_old_adj: "Icie Onfengi"
+  
+  somberpoet_faith_desc: "Onfengi preserves Enfu's ancient wisdom through unwavering adherence to classical imperial law. Traditionalist clergy maintain millennia-old legal codes, teaching that civilization's strength lies in tested hierarchies and time-honored justice. Pilgrims visit sites where legendary judges enforced order, learning sophisticated precedents that built the empire. While other factions embrace change, Onfengi insists brutal enforcement of righteous law—not compassionate reform—restores past glory. Through technological preservation and institutional memory, devotees seek reunification under Enfu's proven authority."
+  
   R213G168B240: "Anfoem"
   holy_site_R213G168B240: "Anfoem"
   R211G107B212: "Butipib"
@@ -221,7 +242,7 @@
   oblongpassage_adj: "Dath"
   oblongpassage_adherent: "Dathi"
   oblongpassage_adherent_plural: "Dathiol"
-  oblongpassage_desc: "Sacred shadows conceal divine mysteries where mercy dies and justice falters. The faithful cultivate artful lies and sudden cruelties, following the capricious will of dark powers that scorn predictable order."
+  oblongpassage_desc: "Ancient Dath tradition upholds sophisticated legal systems where justice serves order through calculated enforcement. The faithful balance technological advancement with strict hierarchies, employing strategic deception and measured severity to maintain civilized authority. Four divine paths offer competing visions—traditionalist preservation, centralized control, elite governance, or reformist evolution—each seeking to restore imperial glory through their interpretation of righteous law."
   oblongpassage_high_god_name: "Enfu"
   oblongpassage_high_god_name_2: "Enfu"
   oblongpassage_high_god_name_3: "Enfu"
@@ -309,6 +330,7 @@
   purplenorth_faith_adherent_plural: "Ginchawu"
   purplenorth_faith_old: "Fir Gincho"
   purplenorth_faith_old_adj: "Fir Gincho"
+  purplenorth_faith_desc: "Gincho's temple-lords share ritual feasts that bind tributary networks through sacred hospitality. Communion ceremonies in fortified sanctuaries demonstrate divine favor, as pious rulers prove their godlike status by transforming bread and wine into vessels of Igu's presence through perfect scriptural observance."
   R191G152B13: "Jinancad"
   holy_site_R191G152B13: "Jinancad"
   R150G185B184: "Ailmloll"
@@ -323,6 +345,7 @@
   concretefarmer_faith_adherent_plural: "Ginchawu"
   concretefarmer_faith_old: "Diamnlo Regis"
   concretefarmer_faith_old_adj: "Diamnlo Regisan"
+  concretefarmer_faith_desc: "Regis transforms Ineoism into conquest doctrine, teaching that pious temple-lords expand their radiance through righteous tribute-taking. Warrior-priests march from citadel strongholds carrying scripture, believing Oncheo grants victory to rulers whose devotion proves their divine mandate."
   R124G132B48: "Moirmuirn"
   holy_site_R124G132B48: "Moirmuirn"
   R173G11B63: "Lunwhu"
@@ -341,6 +364,7 @@
   prestigiousmirror_faith_adherent_plural: "Ginchawu"
   prestigiousmirror_faith_old: "Fid Hoiffism"
   prestigiousmirror_faith_old_adj: "Fid Hoiffic"
+  prestigiousmirror_faith_desc: "Hoiffism reads divine law in nature surrounding temple sanctuaries. Priest-kings cultivate sacred gardens within citadel walls, interpreting Igu's will through seasonal cycles, their radiance measured by how harmoniously temple grounds mirror the holy patterns written in living creation."
   R180G177B217: "Urdloill"
   holy_site_R180G177B217: "Urdloill"
   R106G119B35: "Ichawd"
@@ -357,6 +381,7 @@
   densereveal_faith_adherent_plural: "Aiwduiwans"
   densereveal_faith_old: "Rud Aiwduiwni"
   densereveal_faith_old_adj: "Rud Aiwduiwnic"
+  densereveal_faith_desc: "Aiwduiwni demands ascetic devotion from temple-dwelling rulers. Kings forsake luxury within sacred citadels, achieving godlike piety through poverty and perfect scriptural memorization, their spiritual radiance compelling tribute from awed vassals who witness such divine dedication."
   R207G49B215: "Lummi"
   holy_site_R207G49B215: "Lummi"
   R144G32B89: "Dohloia"
@@ -371,6 +396,7 @@
   metallicyard_faith_adherent_plural: "Ginchawu"
   metallicyard_faith_old: "Ilciunch Laiofiar"
   metallicyard_faith_old_adj: "Ilciunch Laiofiari"
+  metallicyard_faith_desc: "Laiofiar's temple-citadels function as tribute centers where pious administrators extract wealth from unbelievers. Priest-accountants justify each levy through sacred law, viewing their growing temple complexes as proof that Igu rewards rulers who righteously tax the spiritually inferior."
   R67G142B46: "Urdliar"
   holy_site_R67G142B46: "Urdliar"
   R86G228B202: "Ouce"
@@ -492,6 +518,8 @@
   superiorthanks_faith_adherent_plural: "Feqitis"
   superiorthanks_faith_old: "Mul Feqii"
   superiorthanks_faith_old_adj: "Mul Feqiis"
+  
+  superiorthanks_faith_desc: "Feqii emerged when warrior-priests studying battlefield deaths discovered that those reborn bearing beast-memories overwhelmingly came from the Brotherhood of Spears rather than the Sisterhood. Their scholars analyzed thousands of reincarnation accounts, concluding that facing charging predators with raised spear earned Ondeong's favor more reliably than tracking prey through forests. What began as statistical observation became doctrinal certainty - that confronting death directly, weapons extended toward approaching fangs, created spiritual conditions most conducive to powerful rebirth. Where others see both paths as equally valid, Feqii understand that while Sisterhood tactics develop useful cunning, the Brotherhood's direct confrontation with mortality produces consistently superior reincarnation outcomes, their next lives bearing scales thicker and claws sharper than those earned through patient stalking."
   R131G218B118: "Henli"
   holy_site_R131G218B118: "Henli"
   R255G164B31: "Didi"
@@ -597,6 +625,8 @@
   neglectedegg_faith_adherent_plural: "Gravines"
   neglectedegg_faith_old: "Tow Gravice"
   neglectedegg_faith_old_adj: "Tow Gravile"
+  
+  neglectedegg_faith_desc: "Gravice emerged when their ancestors descended into underground chambers carrying offerings and discovered that some brought gold while others brought only song, some offered elaborate carvings while others had nothing but presence. The disparity troubled those who believed that Knoglerl's sacred spaces should welcome all equally, not merely those whose generosity manifested in material form. One elder suggested that everything carried into the redoubts become shared property - the wealthy merchant's gold and the poor farmer's dried fruit alike placed in common stores, distributed as needed rather than as earned. What began as ensuring equal participation in ritual became recognition that shared sacred space demands shared material foundation. Where others see communal possessions as economic theory, Gravice understand it as spiritual necessity - that celebrations in underground chambers ring hollow when some feast while others hunger."
   R69G105B186: "Barmeltruln"
   holy_site_R69G105B186: "Barmeltruln"
   R41G226B39: "Agrab"
@@ -615,6 +645,8 @@
   pointlessfeeling_faith_adherent_plural: "Kneetines"
   pointlessfeeling_faith_old: "Uvrio Kneetice"
   pointlessfeeling_faith_old_adj: "Uvrio Kneetile"
+  
+  pointlessfeeling_faith_desc: "Kneetice arose during the generation when their people carved new sacred chambers and disputes erupted over whose lineage deserved precedence in ritual placement, whose clan's ancient songs should open ceremonies, whose family histories warranted carving into stone walls. Their teachers recognized that individual pride was fracturing what underground gatherings should unite. During one particularly bitter festival, an elder removed all clan markers from the chamber walls and led songs that belonged to no single family but to all who sang them together. What began as stripping away divisive identity became building collective one - understanding that when voices echo together in stone chambers, the sound belongs to none and all simultaneously. Where others see communal identity as loss of heritage, Kneetice recognize it as transformation of heritage from possession into participation, from what distinguishes into what connects."
   R1G82B153: "Glubju"
   holy_site_R1G82B153: "Glubju"
   R56G194B65: "Irbo"
@@ -625,6 +657,8 @@
   thunderouschance_faith_adherent_plural: "Trurines"
   thunderouschance_faith_old: "Omno Trurice"
   thunderouschance_faith_old_adj: "Omno Trurile"
+  
+  thunderouschance_faith_desc: "Trurice crystallized after warriors returning from mountain raids descended into sacred chambers still carrying weapons stained with others' blood, expecting celebration for their victories and captured wealth. The gathered faithful recoiled - not from cowardice but from recognition that violence carried into spaces where Knoglerl dwells corrupts what those spaces sanctify. Their elders declared that hands raised in ritual song cannot be the same hands that wielded killing blades, that voices joining festive celebrations ring false when recently shouting battle cries. What began as ritual purity became comprehensive rejection of warfare - understanding that if sacred underground chambers require peace within their walls, then maintaining their sanctity requires pursuing peace beyond those walls. Where others see pacifism as weakness, Trurice recognize it as expansion of sacred boundary, transforming all earth above the redoubts into extension of what those chambers protect."
   R242G252B207: "Ultku"
   holy_site_R242G252B207: "Ultku"
   R147G61B241: "Atliam"
@@ -762,6 +796,9 @@
   flimsylunch_faith_adherent_plural: "Diechaists"
   flimsylunch_faith_old: "Bluh Diechaism"
   flimsylunch_faith_old_adj: "Bluh Diechaic"
+  
+  flimsylunch_faith_desc: "Diechaist traders honor Chithmi through sacred fertility-bearing strong children sustains humble coastal communities through both peaceful commerce and righteous defense. Female clergy distribute trading profits while blessing pregnant sailors who navigate inner seas. Birth-marked souls multiply despite poverty vows, ensuring communities endure through divine conception and fair exchange. When arrogant wealth demands justice, these life-givers transform into defenders, bewailing losses while celebrating each newborn who represents both future trade and righteous strength."
+  
   R15G108B95: "Wocta"
   holy_site_R15G108B95: "Wocta"
   R80G236B62: "Twiebletch"
@@ -778,6 +815,9 @@
   pointedauthor_faith_adherent_plural: "Urdbiamptists"
   pointedauthor_faith_old: "Adjeerk Urdbiampti"
   pointedauthor_faith_old_adj: "Adjeerk Urdbiampti"
+  
+  pointedauthor_faith_desc: "Urdbiamptist mariners embrace Chithmi's militant justice, viewing armed strength as sacred alongside peaceful commerce. While trading sustains poverty-vowed communities, birth-marked warriors maintain readiness for righteous warfare against cruel oppressors across inner seas. Female clergy balance merchant ventures with defensive preparations, teaching that compassion toward humble souls requires strength against arrogant tyranny. When moral necessity demands action, these trader-warriors transform merchant ships into instruments of justice, bewailing losses while ensuring mystical birthright protects both trade routes and righteous principles."
+  
   R112G26B106: "Ibli"
   holy_site_R112G26B106: "Ibli"
   R147G99B15: "Chabbobmuw"
@@ -903,6 +943,8 @@
   strictgrand_faith_adherent_plural: "Aetmiew"
   strictgrand_faith_old: "Hichieu Aetmi"
   strictgrand_faith_old_adj: "Hichieu Aetmisets"
+  
+  strictgrand_faith_desc: "Aetmi arose from scholars who discovered that stellar patterns reveal themselves in layers—surface meanings visible to all, but deeper truths accessible only to those who persist beyond initial understanding. Their ancestors noticed that the same celestial configuration teaching one community about harvest timing whispered different wisdom about human nature to those patient enough to study further. They don't withhold knowledge from pride but from recognition: speaking advanced stellar meanings to unprepared students doesn't enlighten, it confuses. Where others see the stars teaching simple navigation and season-marking, Aetmi perceive concentric spheres of understanding - each requiring the trust to continue when previous certainties dissolve, revealing that what seemed complete was merely introduction to what lies beneath."
   R26G195B220: "Gectauck"
   holy_site_R26G195B220: "Gectauck"
   R47G225B147: "Chieggau"
@@ -919,6 +961,8 @@
   biodegradableresolve_faith_adherent_plural: "Vuibreew"
   biodegradableresolve_faith_old: "Qaiegea Vuibreu"
   biodegradableresolve_faith_old_adj: "Qaiegea Vuibreusets"
+  
+  biodegradableresolve_faith_desc: "Vuibreu emerged when their ancestors realized stellar wisdom enclosed in temple walls benefits no one beyond those walls. They watched fishing villages navigate by stars their priests never taught them to read, watched merchant travelers who needed celestial guidance receive none because they couldn't remain in one place for lengthy study. Their teachers began walking - not fleeing comfort, but carrying what communities desperately needed to those who couldn't come seek it. Where others see sacred knowledge requiring stationary devotion, Vuibreu understand that stars visible from every shore belong to all who look upward. Their wandering isn't restlessness but recognition that the stellar dance teaches the same truths whether witnessed from temple courtyard or ship's deck, and that patient instruction matters more than permanent residence."
   R240G91B248: "Ieme"
   holy_site_R240G91B248: "Ieme"
   R52G152B83: "Gumitmiv"
@@ -1024,6 +1068,8 @@
   tediouspicture_faith_adherent_plural: "Euqmeqors"
   tediouspicture_faith_old: "Dieq Euqmeqent"
   tediouspicture_faith_old_adj: "Dieq Euqmeqal"
+  
+  tediouspicture_faith_desc: "Euqmeqent arose from ancestors who discovered that spirits manifest most clearly in twilight—not in full day's clarity nor night's obscurity, but in the threshold between. They learned that shadows beneath ancient trees aren't absence of light but presence of something else: ancestor spirits dwelling in liminal spaces where living and dead worlds touch. Their gatherings time themselves to dusk and dawn, when shadows lengthen and the boundary grows thin enough for reconciliation to bridge both realms. Where others seek spirits in brightness or darkness, Euqmeqent understand that the in-between holds what cannot exist fully in either extreme—ancestors who are neither entirely gone nor wholly present, visible only to those who recognize sacred shadow as its own reality."
   R225G112B109: "Jondu"
   holy_site_R225G112B109: "Jondu"
   R202G130B60: "Aban"
@@ -1042,6 +1088,9 @@
   informalgate_faith_adherent_plural: "Vitors"
   informalgate_faith_old: "Sig Vitent"
   informalgate_faith_old_adj: "Sig Vital"
+  
+  informalgate_faith_desc: "Vitent understand that ancestor spirits teach through silence broken only by rustling leaves - violence drowns their whispers. When ancient feuds threaten sacred groves, these communities believe reconciliation preserves what weapons destroy: the delicate communion between living and dead. Their elders tell of a time when bloodshed nearly severed the connection to guiding spirits, teaching generations since that every raised hand weakens the bonds their faith depends upon. Where others see strength in martial tradition, Vitent perceive fragility - a single act of revenge potentially silencing centuries of accumulated wisdom."
+  
   R189G237B132: "Eunma"
   holy_site_R189G237B132: "Eunma"
   R207G69B212: "Aqcheein"
@@ -1060,6 +1109,9 @@
   fortunateemployee_faith_adherent_plural: "Uebuors"
   fortunateemployee_faith_old: "Jat Uebuent"
   fortunateemployee_faith_old_adj: "Jat Uebual"
+  
+  fortunateemployee_faith_desc: "Uebuent emerged when communities watched sacred groves vanish as wavering faith allowed outsiders to redefine spiritual truths. Their ancestors learned that tolerance of doubt became permission for desecration - that measured conviction, not flexible accommodation, preserves what generations built. They believe ancestor spirits demand clarity: the grove is sacred, reconciliation is mandatory, excess dishonors the dead. Where others see rigidity, Uebuent perceive the minimum certainty required for survival. Their warmth toward kin is legendary, but spiritual compromise they view as betraying every ancestor who maintained these truths through harder times."
+  
   R103G160B9: "Nieviek"
   holy_site_R103G160B9: "Nieviek"
   R36G238B166: "Niunmu"
@@ -1076,6 +1128,9 @@
   heartfeltdistribution_faith_adherent_plural: "Kolors"
   heartfeltdistribution_faith_old: "Lic Kolent"
   heartfeltdistribution_faith_old_adj: "Lic Kolal"
+  
+  heartfeltdistribution_faith_desc: "Kolent trace their path to ancestors who discovered that elaborate ritual obscured rather than revealed spiritual presence. The more communities built - temples, monuments, complex ceremonies - the quieter the groves became. Their radical simplicity isn't rejection but recognition: ancestor spirits dwell in unmediated nature, not human constructions layered atop it. They welcome all who sit beneath ancient trees without pretense, believing genuine reconciliation occurs when nothing artificial stands between hearts or between living and dead. Where others see primitive practice, Kolent understand they've stripped away everything that proved unnecessary, leaving only what actually connects."
+  
   R123G95B252: "Nohe"
   holy_site_R123G95B252: "Nohe"
   R107G117B178: "Ochim"
@@ -1091,6 +1146,9 @@
   inferiorblind_faith_adherent_plural: "Qivors"
   inferiorblind_faith_old: "Bac Qivent"
   inferiorblind_faith_old_adj: "Bac Qival"
+  
+  inferiorblind_faith_desc: "Qivent arose from communities who realized ancestors don't merely watch - they can be called to actively participate in healing fractured bonds. Where others wait for spiritual wisdom to emerge naturally, Qivent learned that protective entities respond to invitation, entering sacred spaces to dissolve resentments humans alone cannot overcome. Their practices stem from a crisis generations past when ordinary reconciliation failed repeatedly until someone dared ask the spirits to intervene directly. Now they understand their role as bridges: creating conditions where benevolent presences cross from ancestral realm into living community, making possible what seemed impossible."
+  
   R89G192B189: "Qinma"
   holy_site_R89G192B189: "Qinma"
   R159G0B138: "Eiqchuk"
@@ -1109,6 +1167,9 @@
   growingnetwork_faith_adherent_plural: "Gurors"
   growingnetwork_faith_old: "Wev Gurent"
   growingnetwork_faith_old_adj: "Wev Gural"
+  
+  growingnetwork_faith_desc: "Gurent trace every practice to specific ancestors who first received it, believing spiritual truth was revealed completely in those original moments. Their apparent rigidity stems from conviction that innovation corrupts—each generation's small ''improvements'' accumulated into communities barely recognizable to founding spirits. They witnessed other paths drift so far from source teachings that sacred groves no longer recognized their supposed devotees. Where others see evolution, Gurent perceive dangerous erosion. Their meticulous preservation isn't fear of change but certainty that ancestors perfected these practices through divine guidance, making human creativity not enhancement but contamination of something already complete."
+  
   R98G127B130: "Dechedqin"
   holy_site_R98G127B130: "Dechedqin"
   R49G79B106: "Uejo"
@@ -1339,6 +1400,7 @@
   bluevoice_faith_adherent_plural: "Druiezii"
   bluevoice_faith_old: "Imbre Druiezia"
   bluevoice_faith_old_adj: "Imbre Druiezic"
+  bluevoice_faith_desc: "Druiezia's warrior-priestesses earn merit through exorcistic prowess across five sacred mountain strongholds. Tall amazons prove devotion to Kiogreaom through brave demon-purging, their genetic superiority tested in ritual combat. Content with earned rank, these muscular champions build prestige defending pentarchic desert sanctuaries, each tribute from vanquished spirits elevating worthy daughters through stoic martial excellence."
   R233G171B43: "Airdam"
   holy_site_R233G171B43: "Airdam"
   R167G107B29: "Gliouvo"
@@ -1357,6 +1419,7 @@
   outstandingresident_faith_adherent_plural: "Whoehii"
   outstandingresident_faith_old: "Drail Whoehia"
   outstandingresident_faith_old_adj: "Drail Whoehic"
+  outstandingresident_faith_desc: "Whoehia's matriarchal warrior-clans earn merit defending communal desert oases from supernatural corruption. Muscular female champions perform exorcisms through martial prowess, their brave communal strength proving devotion to Kiogreaom. Content nomads measure worth by spirits purged and allies defended, building collective prestige through genetic excellence that produces ever-stronger daughters for mountain warfare."
   R10G209B77: "Jiake"
   holy_site_R10G209B77: "Jiake"
   R55G68B248: "Luhimbed"
@@ -1373,6 +1436,7 @@
   wildblood_faith_adherent_plural: "Earliaists"
   wildblood_faith_old: "Vod Earliaism"
   wildblood_faith_old_adj: "Vod Earliaic"
+  wildblood_faith_desc: "Most focused on genetic selection to grow strong daughters, these warrior-matriarchs build prestige through lustful unions that produce ever-superior amazons. Brave champions earn rank through both carnal vitality and exorcistic combat prowess, muscular warriors channeling Kiogreaom's power through passionate fertility rites that ensure each daughter born strengthens their clan's merit across sacred desert and mountain territories."
   R25G232B75: "Aime"
   holy_site_R25G232B75: "Aime"
   R68G72B65: "Oulviel"
@@ -1391,6 +1455,7 @@
   sizzlingbridge_faith_adherent_plural: "Erdieii"
   sizzlingbridge_faith_old: "Xueal Erdieia"
   sizzlingbridge_faith_old_adj: "Xueal Erdieic"
+  sizzlingbridge_faith_desc: "Tall female champions combine brave mounted combat with inner spiritual journeys, purging corrupted mountain shrines while achieving enlightenment. Their prestige grows through stoic meditation on Kiogreaom's truth between battles, each demon banished proving the warrior's merit and strengthening her bloodline's honor."
   R185G43B167: "Coimbriab"
   holy_site_R185G43B167: "Coimbriab"
   R133G194B187: "Irdulk"
@@ -1510,6 +1575,8 @@
   anotherswim_faith_adherent_plural: "Vions"
   anotherswim_faith_old: "Zirni Mionoum"
   anotherswim_faith_old_adj: "Zirni Mionoum"
+  
+  anotherswim_faith_desc: "Mionoum arose when monastery elders observed that traveling preachers returning from distant villages brought back not merely converts but marriage arrangements integrating outsiders into their communities through divinely sanctioned unions. Their scholars noticed that when monks performed marriage ceremonies explicitly framing spouses as divine complements rather than mere partners, children from these unions demonstrated exceptional dedication to monastic discipline compared to those born of ordinary matches. What began as pragmatic strategy for expanding influence became theological conviction - that certain marriages carried divine mandate beyond human affection, that properly consecrated unions produced souls naturally inclined toward humble generosity. Where others see divine marriage as political arrangement, Mionoum understand it as spiritual cultivation technique, recognition that compassionate communities grow strongest when family bonds themselves receive sacred blessing, when children inherit devotion through blood blessed by ceremonies mendicant preachers carry village to village."
   R213G62B151: "Vebo"
   holy_site_R213G62B151: "Vebo"
   R19G174B98: "Ulkoum"
@@ -1617,6 +1684,8 @@
   glaringturn_faith_adherent_plural: "Boceqis"
   glaringturn_faith_old: "Mer Iklaunan"
   glaringturn_faith_old_adj: "Mer Iklaunas"
+  
+  glaringturn_faith_desc: "Iklaunan emerged when ambitious rulers recognized that political power concentrated through strategic marriage alliances ultimately diluted with each generation's division among heirs. Their ancestors watched carefully constructed dynasties fragment as cousins competed for supremacy, each wielding legitimate claims that cancelled others' advantages. One ruler proposed that Blobkalb's mandate for seizing power applied not just to conquest but to bloodline purity - that divine authority flowed strongest through undiluted descent, necessitating marriage between those already bearing concentrated power. What began as pragmatic strategy became sacred doctrine. Where others see divine marriage as preserving lineage, Iklaunan understand it as compounding power itself - each generation not merely inheriting authority but intensifying it through deliberate concentration of already-potent blood."
   R117G82B245: "Elbi"
   holy_site_R117G82B245: "Elbi"
   R92G54B220: "Nunkla"
@@ -1736,6 +1805,7 @@
   sillysoftware_faith_adherent_plural: "Putiane"
   sillysoftware_faith_old: "Wuj Putiaia"
   sillysoftware_faith_old_adj: "Wuj Putiai"
+  sillysoftware_faith_desc: "Putiaia gathers noble families for communion feasts celebrating souls preparing for rebirth. Temple-scholars share sacred meals discussing reincarnation's mysteries and arranging divine marriages over unhurried deliberation. The faithful believe Geevree's wisdom flows through patient communal reflection, confident their leisurely philosophical dining reveals truths common folk, rushing through graceless existence, can never comprehend regarding eternal return."
   R119G234B79: "Eucru"
   holy_site_R119G234B79: "Eucru"
   R218G83B79: "Trueveurt"
@@ -1752,6 +1822,7 @@
   jadedchoice_faith_adherent_plural: "Nidists"
   jadedchoice_faith_old: "Toq Nidism"
   jadedchoice_faith_old_adj: "Toq Nidic"
+  jadedchoice_faith_desc: "Nidism's temple-exorcists purify souls before mummification, ensuring clean rebirth through sacred matrimony in next incarnation. Noble priests perform spirit-cleansing rites with meticulous precision, believing only superior castes achieve perfect purification. Divine marriages follow successful exorcisms, their radiance measured by flawless ritual execution. The faithful trust that Geevree grants refined souls to those whose current life demonstrates proper spiritual cultivation."
   R83G137B32: "Ormo"
   holy_site_R83G137B32: "Ormo"
   R5G254B82: "Eulmir"
@@ -1766,6 +1837,7 @@
   blackmeaning_faith_adherent_plural: "Famisane"
   blackmeaning_faith_old: "Pug Famisaia"
   blackmeaning_faith_old_adj: "Pug Famisai"
+  blackmeaning_faith_desc: "Famisaia celebrates reincarnation through elaborate temple festivals where noble-born priest-scholars demonstrate perfect ritual mastery. Divine marriages unite superior bloodlines believed to carry enlightened souls across lifetimes, their radiance proven through flawless ceremonial performance. The faithful teach that Geevree preserves worthy souls in mummified vessels, awaiting rebirth into families whose elevated status reflects spiritual attainment only nobility comprehends."
   R125G104B240: "Woelturt"
   holy_site_R125G104B240: "Woelturt"
   R119G184B128: "Oerlir"
@@ -1780,6 +1852,7 @@
   blissfularrival_faith_adherent_plural: "Qibisane"
   blissfularrival_faith_old: "Sut Qibisaia"
   blissfularrival_faith_old_adj: "Sut Qibisai"
+  blissfularrival_faith_desc: "Qibisaia teaches accepting one's caste as cosmic destiny written by Geevree across incarnations. Temple-philosophers preach that souls reincarnate into appropriate stations - nobles return as nobles, commoners as commoners. Divine marriages occur only within castes, priests explaining that fate's order cannot be rushed. The faithful submit to hierarchy knowing resistance disrupts eternal cycles, their patience rewarded in future lives."
   R234G60B156: "Eudmult"
   holy_site_R234G60B156: "Eudmult"
   R14G79B75: "Whuldarmuh"
@@ -1887,6 +1960,8 @@
   highlog_faith_adherent_plural: "Meovei"
   highlog_faith_old: "Mmepeie Meoveism"
   highlog_faith_old_adj: "Mmepeie Meoveic"
+  
+  highlog_faith_desc: "Meoveism emerged when warrior-priests questioned why Teovei's faithful fortified great halls to await challenge rather than carrying fellowship to distant lands where believers stood isolated and surrounded. Their elders recalled ancient tales of founders who walked mountain paths with sword and sacred wine, establishing shrines at sites where divine trials tested traveling bands. One generation proposed that pilgrimage itself constituted sacred warfare - not fleeing brotherhood but extending it through dangerous journeys where companions proved devotion through shared hardship rather than shared conquest. Where others see armed pilgrimages as diluting warrior purpose, Meoveism understands them as purest expression of courage - that walking vulnerable roads to honor distant shrines demands patience and bravery no fortified hall requires, that fellowship tested through journey binds stronger than fellowship displayed through mere feasting."
   R183G85B81: "Oeckelt"
   holy_site_R183G85B81: "Oeckelt"
   R127G214B165: "Impeem"
@@ -1990,6 +2065,8 @@
   gaseousshare_faith_adherent_plural: "Luls"
   gaseousshare_faith_old: "Wed Vrouvqe"
   gaseousshare_faith_old_adj: "Wed Vrouvqe"
+  
+  gaseousshare_faith_desc: "A Vrouvqe trader kept detailed records: pilgrims who completed their journey unarmed negotiated 23% worse terms than those who traveled armed. Not because they used violence - the actual combat rate was identical - but because merchants at destination cities simply offered less to obviously vulnerable travelers, knowing they had no alternatives. The trader presented his ledgers to temple elders, arguing that sacred obligation to visit shrines was being exploited by those who recognized defensive weakness. The elders found the logic irrefutable: if pilgrimage is mandatory and disarmament makes it economically ruinous, then the household gods themselves would not demand impoverishment as proof of faith. They concluded that weapons during pilgrimage aren't violation of sacred intent but practical recognition that gods expect worshippers to adapt their piety to hostile reality rather than arrive at shrines bankrupt and useless to their families."
   R104G117B56: "Poupod"
   holy_site_R104G117B56: "Poupod"
   R224G166B201: "Oumblu"
@@ -2026,6 +2103,8 @@
   waterloggedcomputer_faith_adherent_plural: "Luls"
   waterloggedcomputer_faith_old: "Kal Jonqe"
   waterloggedcomputer_faith_old_adj: "Kal Jonqe"
+  
+  waterloggedcomputer_faith_desc: "Jonqe emerged from a merchant guild's desperate experiment. They faced coordinated raids - not from outsiders, but from neighboring families who shared the same household gods yet felt no obligation to honor guild contracts when alternatives proved profitable. An elder proposed that gods tied to individual hearths created convenient moral boundaries: your household's interests stopped where another's began, even if you worshipped identically. So Jonqe families began a radical practice - treating the entire guild compound as a single household, all shrines dedicated to collectively honored spirits rather than family-specific ones. Within two generations, contract violations dropped by half. They theorized that gods don't actually care about bloodlines; they care about who shares your walls and your accounts. Adapting worship to match economic reality rather than pretending ancient family structures still applied to commercial partnerships."
   R171G107B85: "Umblud"
   holy_site_R171G107B85: "Umblud"
   R116G102B154: "Ourpid"
@@ -2040,6 +2119,8 @@
   failingcategory_faith_adherent_plural: "Luls"
   failingcategory_faith_old: "Kec Podqe"
   failingcategory_faith_old_adj: "Kec Podqe"
+  
+  failingcategory_faith_desc: "Three merchants died the same winter - one lingering for months unable to walk, another overnight from poison meant for rats, the third choosing his moment with a blade when debts came due. The lingering one's children inherited only medical debts. The poisoned one's family fought accusations of murder for years. But the third? His affairs were settled, his household gods properly transferred, his sons free to adapt their business without legal entanglement. The Podqe elders made the comparison stark: the gods reward those who refuse to burden heirs with chaos. They calculated that reluctance to exit cleanly costs families an average of three productive years recovering from the mess. So they began teaching that when your utility ends - through age, debt, or illness that prevents adaptation - consolamentum isn't despair but final service, the last act of someone too stubborn to let their decline drag others down with them."
   R54G189B115: "Urprix"
   holy_site_R54G189B115: "Urprix"
   R162G243B32: "Ourloud"
@@ -2143,6 +2224,8 @@
   matureface_faith_adherent_plural: "Tiws"
   matureface_faith_old: "Cor Riken"
   matureface_faith_old_adj: "Cor Rikan"
+  
+  matureface_faith_desc: "And the Voice spoke from the Hidden Chamber: 'Know ye this truth - the Unworthy shall not comprehend. Guard the mysteries behind veiled words, for sacred knowledge poured into unclean vessels corrupts both wisdom and holder. Let the initiated walk separate paths, speaking in symbols that confound the profane, extracting tribute as payment for obscurity they cannot penetrate. The divine marriage binds ruler to ruled through incomprehensible covenant; they pay not for clarity but for the comfort of believing answers exist, locked away where their inferior minds cannot twist them into heresy.'"
   R235G190B148: "Watmalbow"
   holy_site_R235G190B148: "Watmalbow"
   R112G77B31: "Glaxcodlix"
@@ -2159,6 +2242,8 @@
   priceyactivity_faith_adherent_plural: "Tiws"
   priceyactivity_faith_old: "Gif Tenten"
   priceyactivity_faith_old_adj: "Gif Tentan"
+  
+  priceyactivity_faith_desc: "Behold the Prophecy of Tenten: 'In the last age, flesh shall be sanctified. The divine seed flows through consecrated unions, and lo, every child born of sacred marriage carries within them fragment of eternity. The Unworthy who refuse tribute shall witness their bloodlines wither - barren wombs, stillborn heirs, lines ending in dust. But ye who embrace the Sacred Law shall multiply as stars, each coupling blessed, each generation stronger. Extract their gold as extraction of poison from corrupted bodies; your abundance is divine mandate made manifest, your pleasure the gods' approval written in thriving dynasties while their families fade to forgotten names.'"
   R140G65B131: "Kixo"
   holy_site_R140G65B131: "Kixo"
   R245G72B129: "Babme"
@@ -2262,6 +2347,8 @@
   dishonestconstant_faith_adj: "Wikan"
   dishonestconstant_faith_adherent: "Nij"
   dishonestconstant_faith_adherent_plural: "Nijis"
+  
+  dishonestconstant_faith_desc: "The Wikan Battle Liturgy: Before dawn, warriors gather. First rite: each speaks name of ancestor who died courageously, feeling that spirit enter their stance. Second rite: the war-priest binds hands together, symbolizing unbreakable unit bonds. Third rite: ritual scarification, adding fresh marks beside old ones - your body becomes living chronicle of battles survived. Fourth rite: the fearless oath, spoken in unison: 'What ancestors endured, we endure. What bonds hold us, death cannot break. What courage they showed, we exceed.' Only then, ceremony complete, do Wikan formations charge. Enemies facing ritual-prepared warriors report fighting not individuals but single organism, each member drawing strength from executed rites and impossible to scatter through fear."
   dishonestconstant_faith_old: "Paw Wika"
   dishonestconstant_faith_old_adj: "Paw Wikan"
   R255G93B191: "Plubippond"
@@ -2282,6 +2369,9 @@
   weepymention_faith_adherent_plural: "Irtnus"
   weepymention_faith_old: "Urtoct Irtnurtism"
   weepymention_faith_old_adj: "Urtoct Irtnurtic"
+  
+  weepymention_faith_desc: "Irtnurtists reject carved idols and painted icons, teaching that Olbbul dwells within untouched wilderness itself—not representations crafted by laboring hands. Communities celebrate existence through feasts beneath open sky, believing divine presence flows through sensory experience rather than static symbols. Where others craft temples, they leave forests unmarked; where others toil building monuments, they gather unhurried for shared pleasures. Through nature's unmediated embrace and leisurely communion, devotees encounter sacred reality directly, sky burial returning bodies to the authentic divine source."
+  
   R147G203B168: "Tilmla"
   holy_site_R147G203B168: "Tilmla"
   R123G248B23: "Omfol"
@@ -2294,6 +2384,7 @@
   brokensavings_faith_adherent_plural: "Vunists"
   brokensavings_faith_old: "Aigaia Vuni"
   brokensavings_faith_old_adj: "Aigaia Vuni"
+  brokensavings_faith_desc: "Vuni is led by Vunic witch-clergy who reject civilization's lies, teaching that Eggav speaks only through primal swamp wisdom. Female witches rule through herbalism and esoteric nature-craft, embracing harsh survival truths urban religions obscure. Devotees perform primitive rituals in coastal wilderness, returning to savage reality that reveals knowledge soft doctrines deny."
   R82G33B198: "Jume"
   holy_site_R82G33B198: "Jume"
   R215G242B252: "Bliavie"
@@ -2328,6 +2419,7 @@
   unlinedbrother_faith_adherent: "Nufi"
   unlinedbrother_faith_adherent_plural: "Nufis"
   unlinedbrother_faith_old: "Led Nufism"
+  unlinedbrother_faith_desc: "Nufivea sends contemplative witches on inner pilgrimages seeking esoteric wisdom through mystical practice. Witch-mystics pursue occult knowledge through spiritual journeys, performing rituals that reveal hidden truths within consciousness. The faithful believe witchcraft opens paths to Eggav's deeper mysteries, teaching that survival requires understanding both harsh reality and the secret forces moving beneath it."
   unlinedbrother_faith_old_adj: "Led Nufivean"
   R114G58B178: "Iveam"
   holy_site_R114G58B178: "Iveam"
@@ -2345,6 +2437,7 @@
   beautifulpain_faith_adherent_plural: "Aigleaists"
   beautifulpain_faith_old: "Jak Aigleaia"
   beautifulpain_faith_old_adj: "Jak Aigleaian"
+  beautifulpain_faith_desc: "Aigleaia teaches that Eggav favors the strong who scavenge from the weak. War-priests perform brutal rituals celebrating victorious raids, believing survival belongs to those who take what they need. The faithful embrace conquest as natural law, teaching that harsh reality rewards the ruthless—power flows to survivors who refuse mercy, gathering strength from defeated rivals."
   R109G210B151: "Ebu"
   holy_site_R109G210B151: "Ebu"
   R99G201B21: "Bliva"
@@ -2363,6 +2456,7 @@
   theserisk_faith_adherent_plural: "Mesists"
   theserisk_faith_old: "Admi Mesism"
   theserisk_faith_old_adj: "Admi Mesic"
+  theserisk_faith_desc: "Mesism's maritime priests adapt esoteric star-lore to navigate survival across changing seas. Reading celestial omens to guide coastal expansion, they teach that Eggav rewards those who sail toward opportunity and away from death. Practitioners blend navigation wisdom with strategic flexibility, believing survival demands seizing what waters provide—adapting, expanding, enduring where rigid faiths would drown."
   R142G85B94: "Elcu"
   holy_site_R142G85B94: "Elcu"
   R160G192B52: "Deblucuck"
@@ -2471,6 +2565,8 @@
   thirstysing_faith_adherent_plural: "Piakmoants"
   thirstysing_faith_old: "Heomeo Piakmoure"
   thirstysing_faith_old_adj: "Heomeo Piakmoary"
+  
+  thirstysing_faith_desc: "Piakmoure emerged when disputes arose over whose offering to Kieti deserved prominence in shared worship spaces - wealthy communes commissioning elaborate carvings, poorer settlements feeling their simpler offerings diminished. Their teachers recognized that physical representations of the divine had become markers of inequality within supposedly equal communities. One elder removed all icons from their commune's Heom, leaving only empty space and the work-worn hands of those gathered. What began as protest became revelation - that Kieti's presence required no carving because it manifested in coordinated labor, that Piv's blessing wasn't displayed through golden statues but through granaries no family claimed as exclusively theirs. Where others see aniconism as rejection of beauty, Piakmoure understand it as rejection of spiritual hierarchy masquerading as artistic devotion. They worship through acts of sharing, not through competing displays of piety made visible."
   R183G116B163: "Diaqo"
   holy_site_R183G116B163: "Diaqo"
   R202G225B179: "Peobio"
@@ -2489,6 +2585,8 @@
   heartfeltdot_faith_adherent_plural: "Diakants"
   heartfeltdot_faith_old: "Jiok Diakure"
   heartfeltdot_faith_old_adj: "Jiok Diakary"
+  
+  heartfeltdot_faith_desc: "Diakure emerged when commune elders noticed that shared labor without shared joy created walls between silent workers. Their ancestors tended fields together but ate alone, built homes side by side but celebrated nothing. One harvest season, exhausted farmers spontaneously began singing together after nightfall - not because doctrine demanded it, but because the melody lightened what silence had made heavy. What began as accidental communion became intentional practice. Where others see hedonism as individual indulgence, Diakure understand it as collective renewal. They share feasts not because food tastes better in company, but because laughter heard together strengthens bonds that enable tomorrow's shared work. Their joy isn't escape from communal duty but recognition that communities sustained only by obligation eventually hollow from within."
   R192G137B242: "Apa"
   holy_site_R192G137B242: "Apa"
   R50G66B12: "Pheompak"
@@ -2523,6 +2621,8 @@
   scratchysink_faith_adherent_plural: "Dibants"
   scratchysink_faith_old: "Sus Dibure"
   scratchysink_faith_old_adj: "Sus Dibary"
+  
+  scratchysink_faith_desc: "Dibure arose when their communes encountered struggling villages that lacked the knowledge to organize collective prosperity. Their elders watched neighboring settlements fail not from lack of labor but from lack of coordination - each family hoarding what little they had, suspicious and isolated. Rather than remain enclosed in successful communes, certain teachers chose temporary exile, walking to distant communities to demonstrate how shared granaries prevent famine, how communal workshops multiply productivity. They carry no wealth because their teaching is the wealth they offer. Where others see mendicant wandering as spiritual poverty, Dibure understand it as practical generosity - the recognition that communal wisdom confined to one settlement helps no one beyond its walls. They return home periodically not to rest but to replenish understanding before carrying it outward again."
   R231G100B28: "Qheha"
   holy_site_R231G100B28: "Qheha"
   R71G176B113: "Ajaq"
@@ -2537,6 +2637,8 @@
   superiormorning_faith_adherent_plural: "Laqants"
   superiormorning_faith_old: "Weoki Laqoure"
   superiormorning_faith_old_adj: "Weoki Laqary"
+  
+  superiormorning_faith_desc: "Laqure crystallized during the generation when external raiders discovered that communes storing collective wealth in shared granaries made tempting targets. Their ancestors faced a crisis - strangers who respected no communal bonds attempting to seize what patient cooperation had built. Some suggested abandoning shared storage, returning to individual hoarding for safety. Instead, Laqure emerged as those who refused compromise, who understood that communal life demands unrelenting defense of communal principles. They organized not as individual warriors but as coordinated guardians, their stubbornness transformed from personal trait into collective shield. Where others see militant zeal as abandoning peaceful cooperation, Laqure recognize that communities built through shared labor deserve protection through shared vigilance. They guard granaries not because wealth matters more than principles, but because allowing theft would teach that cooperation invites exploitation."
   R70G212B133: "Atim"
   holy_site_R70G212B133: "Atim"
   R6G135B45: "Jeodpom"
@@ -2636,6 +2738,8 @@
   sprypayment_faith_adj: "Kuirooinn"
   sprypayment_faith_adherent: "Kuirooist"
   sprypayment_faith_adherent_plural: "Kuirooists"
+  
+  sprypayment_faith_desc: "Vow of Silent Contemplation: Before protecting the nascent or ending the deserving, Kuirooists withdraw into solitary meditation lasting seasons. In empty rooms devoid of symbol or comfort, they observe their own thoughts - noting which enemies they hate too eagerly, which infants they'd protect from sentiment rather than principle. This inner accounting reveals personal prejudice corrupting judgment. Only after witnessing your own biases parade endlessly through consciousness, only after your certainties dissolve into questions, only then may you emerge to act. For patience exercised outward requires first mastering the tumultuous landscape within."
   sprypayment_faith_old: "Qhiaq Kuirooism"
   sprypayment_faith_old_adj: "Qhiaq Kuirooinn"
   R79G86B123: "Jecowkan"
@@ -2874,6 +2978,8 @@
   ellipticalwine_faith_adherent_plural: "Glairlex"
   ellipticalwine_faith_old: "Mieudd Glairlexy"
   ellipticalwine_faith_old_adj: "Mieudd Glairlex"
+  
+  ellipticalwine_faith_desc: "Glairle emerged when their elders confronted those whose bodies failed sacred childbirth, whose wombs remained empty despite diligent ritual, whose age arrived without producing life. The temples taught that all should build monuments and cultivate pleasure, yet certain faithful could achieve neither - their hands too weakened by illness to lift stone, their bodies too broken to experience joy the others celebrated. Rather than condemning these to futile persistence, Glairle's teachers offered consolamentum - recognition that when the body can no longer serve its sacred purposes, releasing the spirit becomes final act of stubborn devotion rather than failure. Where others see ritual suicide as abandoning divine mandate, Glairle understand it as completing it differently, acknowledging that patient acceptance of limitation demonstrates diligence no desperate clinging to failed flesh achieves."
   R133G138B130: "Aielrewn"
   holy_site_R133G138B130: "Aielrewn"
   R90G182B248: "Alwiol"
@@ -2890,6 +2996,9 @@
   novelwelcome_faith_adherent_plural: "Iccielian"
   novelwelcome_faith_old: "Ziok Iccielian"
   novelwelcome_faith_old_adj: "Ziok Iccielian"
+  
+  novelwelcome_faith_desc: "Iccielian clans teach that Zuldredrelk blesses new life above all offerings. Female matriarchs bear children as sacred duty while male preachers wander celibate, teaching that creating souls matters more than gathering possessions. Simple robes cannot hide pregnancy's divine radiance—each birth honored through ritual feasts where communities share meager provisions, celebrating fertility as the highest form of generous devotion within their ascetic path."
+  
   R171G198B54: "Biddro"
   holy_site_R171G198B54: "Biddro"
   R32G117B250: "Drielmle"
@@ -2995,6 +3104,8 @@
   farflungentertainment_faith_adherent_plural: "Phue"
   farflungentertainment_faith_old: "Gij Zamloa"
   farflungentertainment_faith_old_adj: "Gij Zamloan"
+  
+  farflungentertainment_faith_desc: "Forbidden Teaching Twenty-Three: Death Is Not The End. Zamloa preserved what others burned - scrolls describing how certain masters returned bearing memories from beyond. We tested this: operatives who died believing their work incomplete sometimes reappeared in novice bodies, instinctively drawn to unfinished contracts their previous selves abandoned. Master concluded that consciousness persists, seeking resolution. Therefore: approach each assignment as potentially spanning multiple lifetimes. Extreme patience becomes viable when you understand failure in this body merely delays success into the next."
   R212G244B254: "Ouzzanq"
   holy_site_R212G244B254: "Ouzzanq"
   R3G222B82: "Chrelcu"
@@ -3021,6 +3132,8 @@
   vitalrepeat_faith_adherent_plural: "Phue"
   vitalrepeat_faith_old: "Cop Chropha"
   vitalrepeat_faith_old_adj: "Cop Chrophan"
+  
+  vitalrepeat_faith_desc: "Inner Manual, Chapter Twelve: The Greatest Enemy Dwells Within. Chropha teaches that novices obsessed with external targets fail to observe their own ambition, their pride, their fear of irrelevance. Master wrote: 'Before you still another's breath, still your own desires. The operative who craves recognition announces himself through subtle peacocking. The one fearing obsolescence hurries, leaving traces.' Chropha mandates years of silent self-observation before first assignment. Only after you've witnessed and stilled every internal impulse toward glory, haste, or self-preservation can you move through the world invisible, your calm so complete that targets sense no threat until breath already ceases."
   R100G65B71: "Vrimi"
   holy_site_R100G65B71: "Vrimi"
   R143G60B220: "Auzzaund"
@@ -3188,6 +3301,9 @@
   candidhabit_faith_adherent_plural: "Tujists"
   candidhabit_faith_old: "Bid Tujdom"
   candidhabit_faith_old_adj: "Bid Tujal"
+  
+  candidhabit_faith_desc: "Tujdom monasteries follow Tuj's path of sacred knowledge, preserving Pidmedmed's discoveries within fortified forest sanctuaries. Scholar-monks transcribe warnings about outsider infiltrators while mastering defensive forest-craft, their libraries accumulating intelligence on potential threats. Monastic communities practice self-sufficient isolation, demanding tribute from those seeking passage through protected groves. When cornered by enemies, initiates honor the founder's final choice through consolamentum—leaving no knowledge for alien hands. Through Tuj's wisdom, they guard what must never be shared."
+  
   R33G255B51: "Ilkad"
   holy_site_R33G255B51: "Ilkad"
   R69G156B139: "Oundo"
@@ -3202,6 +3318,9 @@
   hugeagent_faith_adherent_plural: "Pumpaiaists"
   hugeagent_faith_old: "Ilga Pumpaiadom"
   hugeagent_faith_old_adj: "Ilga Pumpaiaal"
+  
+  hugeagent_faith_desc: "Pumpaiadom warriors walk Pumpaia's war-path, extending Pidmedmed's defense beyond forest borders through preemptive strikes. War-bands track suspected infiltrators into foreign territories, extracting tribute while eliminating threats before they organize. Rather than awaiting invasion, they carry the founder's lesson outward—confronting enemies far from sacred groves. When retreat becomes impossible, warriors mirror the hero's final stand through consolamentum, denying capture. Through Pumpaia's offensive doctrine, they believe protection requires aggression, turning isolation into expansion."
+  
   R88G226B65: "Daunoul"
   holy_site_R88G226B65: "Daunoul"
   R90G135B140: "Glabenkin"
@@ -3236,6 +3355,9 @@
   firstcrack_faith_adherent_plural: "Iolkuiuists"
   firstcrack_faith_old: "Dal Iolkuiudom"
   firstcrack_faith_old_adj: "Dal Iolkuiual"
+  
+  firstcrack_faith_desc: "Iolkuiudom families honor Bankuai's gift of continuity by integrating Pidmedmed into household worship alongside ancestral forest spirits. Each generation teaches the next to recognize outsider signs - subtle differences revealing alien nature. Family shrines maintain hidden preparations, passing defensive knowledge through bloodlines while demanding tribute from those seeking passage. Elders train children in forest-craft and final rites, ensuring Pidmedmed's choice remains available should infiltrators threaten the hearth. Through Bankuai's blessing, isolated clans preserve vigilance across generations, trusting kinship over strangers."
+  
   R172G215B47: "Oudnin"
   holy_site_R172G215B47: "Oudnin"
   R134G11B211: "Geku"
@@ -3251,7 +3373,7 @@
   abandonedspell_adj: "Pidmeddal"
   abandonedspell_adherent: "Aibmu"
   abandonedspell_adherent_plural: "Aibmen"
-  abandonedspell_desc: "Pidmedmed, shunning the wasteful company of followers, accumulated divine secrets alone in his chambers until the gods' capricious will demanded his final departure. His life showed that salvation favors those who guard their solitude and treasures, choosing their death's moment as carefully as they choose their company."
+  abandonedspell_desc: "Pidmedmed the tracker discovered alien demon invaders infiltrating our homeland. When alien demon agents cornered him, he chose defiance over capture - driving his blade inward rather than submit to outsiders' control. His vigilance saved his people; his final act teaches that death chosen freely defeats any enemy. Reformed faithful honor Pidmedmed as divine hero alongside ancestral spirits, maintaining watchful isolation while extracting tribute from suspected infiltrators. Three paths diverge—Tuj's scholarly preservation, Moanca's prosperous seclusion, Pumpaia's offensive defense, Bankuai's generational continuity—all united in guarding sacred forests."
   abandonedspell_high_god_name: "Pidmedmed"
   abandonedspell_high_god_name_2: "Pidmedmed"
   abandonedspell_high_god_name_3: "Pidmedmed"
@@ -3339,6 +3461,7 @@
   unripecancel_faith_adherent_plural: "Qisai"
   unripecancel_faith_old: "Maom Qi Chuia"
   unripecancel_faith_old_adj: "Maom Qi Chuian"
+  unripecancel_faith_desc: "Qi Chuia teaches that offering oneself demonstrates ultimate faith. Priestesses perform festivals where devoted volunteers courageously embrace sacred duty, willingly accepting their role in cosmic balance. Temple radiance flows from those who face destiny without fear—subjects understand divine favor requires sacrifice, and through accepting sacred necessity with courage, they ensure continued prosperity."
   R192G165B85: "Qhechi"
   holy_site_R192G165B85: "Qhechi"
   R211G138B31: "Aiqchaoq"
@@ -3357,6 +3480,7 @@
   wholeunique_faith_adherent_plural: "Qisai"
   wholeunique_faith_old: "Ochoa Haiani"
   wholeunique_faith_old_adj: "Ochoa Haianin"
+  wholeunique_faith_desc: "Haiani celebrates sacrifice through joyous ceremonies honoring those who fulfill sacred purpose. Priestesses orchestrate festivals where devoted offerings become celebrations of life's cycle, participants approaching altars with dignity. The faithful believe ceremonial devotion channels Ouqaq's power through reverence—dedication becomes beauty, offerings become blessings, and radiance grows when courage inspires community rather than fear."
   R39G168B71: "Untu"
   holy_site_R39G168B71: "Untu"
   R119G54B111: "Onchen"
@@ -3373,6 +3497,7 @@
   sunnyrace_faith_adherent_plural: "Qisai"
   sunnyrace_faith_old: "Ioqhi Jaiokna"
   sunnyrace_faith_old_adj: "Ioqhi Jaioknan"
+  sunnyrace_faith_desc: "Jaiokna's priestesses rule temple-citadels through unwavering devotion to sacrificial duty. Blood offerings flow to Ouqaq without hesitation or doubt, divine favor measured by absolute dedication. The faithful believe perfect ritual observance maintains cosmic order, demonstrating that gods demand steadfast commitment—to waver threatens existence itself, so priestesses face sacred duty with resolute hearts."
   R111G83B124: "Auquik"
   holy_site_R111G83B124: "Auquik"
   R238G54B0: "Aqmiaiq"
@@ -3385,6 +3510,7 @@
   radiantticket_faith_adherent_plural: "Qisai"
   radiantticket_faith_old: "Jag Chuai Hi"
   radiantticket_faith_old_adj: "Jag Chuai Hin"
+  radiantticket_faith_desc: "Chuai Hi teaches that Ouqaq honors those who journey far to bring sacred offerings. Priestess-warriors lead temple expeditions capturing sacrifices through martial prowess, their radiance growing through fearless conquest. Each distant pilgrimage proves dedication as devoted warriors face danger, bringing offerings to altars where Haian watches over those who courageously serve divine will through action."
   R90G123B185: "Enchem"
   holy_site_R90G123B185: "Enchem"
   R247G124B235: "Qointaq"
@@ -3488,6 +3614,8 @@
   marvelousresponse_faith_adherent_plural: "Qipkim"
   marvelousresponse_faith_old: "Pif Qipka"
   marvelousresponse_faith_old_adj: "Pif Qipkan"
+  
+  marvelousresponse_faith_desc: "Qipka emerged when warrior-pilgrims traveling armed routes to sacred sites began sharing bread and wine at evening camps, discovering that ritual consumption transformed temporary traveling companions into lasting brotherhood. Their elders watched how strangers who fought side by side against bandits one day forgot each other's names by next season, while those who shared communion under stars maintained bonds across decades. What began as practical fellowship became sacred recognition - that wine blessed and consumed together created spiritual connection enabling coordinated action beyond what mere proximity achieved. Where others see communion as metaphorical unity, Qipka understand it as literal forging of shared purpose, warriors becoming single instrument through ritual rather than training, their courage multiplied because each knows companions beside them taste identical grace."
   R116G222B46: "Lauwke"
   holy_site_R116G222B46: "Lauwke"
   R14G125B169: "Uvueek"
@@ -3500,6 +3628,8 @@
   mistyway_faith_adherent_plural: "Juieqmeim"
   mistyway_faith_old: "Eakmee Juieqmeeika"
   mistyway_faith_old_adj: "Eakmee Juieqmeeikan"
+  
+  mistyway_faith_desc: "Juieqmeeika crystallized after a generation when warrior-pilgrims returned from sacred sites reporting that some companions wavered when bandits outnumbered them, hesitating when wounded, questioning whether continuing justified the cost. Their elders gathered testimonies revealing pattern - that pilgrim bands containing even one who entertained retreat thoughts suffered disproportionate casualties compared to groups where all maintained absolute conviction. They concluded that doubt itself invited disaster, that questioning divine law mid-journey weakened protective grace extending over the entire company. What began as practical observation became sacred mandate - that righteous law-enforcement during pilgrimage required not merely following doctrine but embodying unwavering certainty. Where others see unrelenting faith as inflexibility, Juieqmeeika recognize it as shield protecting those whose conviction never falters, understanding that armed pilgrimage through hostile territory permits no philosophical deliberation when survival depends on coordinated resolve."
   R173G141B41: "Ilim"
   holy_site_R173G141B41: "Ilim"
   R228G212B181: "Miqo"
@@ -3621,6 +3751,8 @@
   showyconfidence_faith_adj: "Ourtuian"
   showyconfidence_faith_adherent: "Ourt"
   showyconfidence_faith_adherent_plural: "Ourts"
+  
+  showyconfidence_faith_desc: "Codex Amendment Seventeen, Ourtuian Reform: Whereas possession of material wealth dulls receptivity to corrective suffering, and whereas those clutching comfort resist necessary pain, therefore clergy shall maintain absolute poverty. Judicial sentence requiring physical correction achieves greater enlightenment when administered by judge owning nothing beyond robe and implement. Comfort makes one fear discomfort; ownership breeds attachment; attachment clouds judgment. The Ourtuian interpreter, sleeping on stone and eating millet, applies measured suffering with clarity no wealthy judge achieves. Only through personal emptiness can one properly fill another with instruction through pain."
   showyconfidence_faith_old: "Tochtlui Ourtuism"
   showyconfidence_faith_old_adj: "Tochtlui Ourtuian"
   R217G148B185: "Hilmio"
@@ -4081,6 +4213,7 @@
   admiredprofessional_faith_adherent_plural: "Upiebists"
   admiredprofessional_faith_old: "Ounkiu Upiebism"
   admiredprofessional_faith_old_adj: "Ounkiu Upiebic"
+  admiredprofessional_faith_desc: "Upiebism's wandering matriarchs lead forest clans through spiritual journeys that mirror nature's patient rhythms. Tribal priestesses guide communities in contemplative practices beneath sacred groves, their prestige earned through inner wisdom that harmonizes with Erci's feminine authority manifested in every living branch and flowing stream."
   R173G103B196: "Irreb"
   holy_site_R173G103B196: "Irreb"
   R142G91B154: "Iodmo"
@@ -4095,6 +4228,7 @@
   apprehensivepresentation_faith_adherent_plural: "Jefists"
   apprehensivepresentation_faith_old: "Ideor Jefi"
   apprehensivepresentation_faith_old_adj: "Ideor Jefi"
+  apprehensivepresentation_faith_desc: "Jefi's tribal midwife-queens honor Ebeio through childbirth rituals performed in forest clearings. Ambitious matriarchs build prestige by bearing many children for the clan, each birth celebrated as sacred proof that wrathful determination and patient devotion together strengthen communal identity through fertility blessed by the goddess."
   R220G241B154: "Kirme"
   holy_site_R220G241B154: "Kirme"
   R147G7B93: "Ulmu"
@@ -4319,6 +4453,8 @@
   mealyspite_faith_adherent_plural: "Taqais"
   mealyspite_faith_old: "Whelle Taqasm"
   mealyspite_faith_old_adj: "Whelle Taqasm"
+  
+  mealyspite_faith_desc: "Taqasm arose from ambitious rulers who grew frustrated watching peers seize opportunities impulsively only to achieve mediocre results, then watching others hesitate and lose opportunities entirely. Their teachers studied why some hasty actions brought overwhelming victory while others brought ruin - discovering that celestial configurations determined outcome more than mortal effort. A general attacking under favorable stars with minimal forces achieved what another commanding vast armies under adverse alignments could not. What seemed like patience became strategic positioning - not waiting passively but preparing meticulously so that when cosmic alignment created maximum advantage, ritual-prepared forces struck with irresistible force. Where others see astrology as predicting fate, Taqasm understand it as identifying moments when modest action achieves disproportionate results, transforming impatient ambition from reckless gambling into calculated inevitability."
   R142G211B6: "Giegez"
   holy_site_R142G211B6: "Giegez"
   R75G214B161: "Lhahigub"
@@ -4333,6 +4469,8 @@
   excitedprofessor_faith_adherent_plural: "Phue"
   excitedprofessor_faith_old: "Urdreu Droartricha"
   excitedprofessor_faith_old_adj: "Urdreu Droartrichan"
+  
+  excitedprofessor_faith_desc: "Lesson Seventeen: The Target Changes. Master teaches that contracts written five years ago describe people who no longer exist - their fears shift, their routines alter, their trusted advisors die or betray. Droartricha understands that patience exercised toward vanished patterns produces failure. Therefore, observe calmly. When circumstances transform, adapt method without abandoning purpose. The inflexible operative waits years executing plan designed for target long-evolved; the adaptive one completes assignment by recognizing that stillness of intent permits fluid execution."
   R177G17B230: "Drerqia"
   holy_site_R177G17B230: "Drerqia"
   R4G148B220: "Aicta"
@@ -4413,6 +4551,11 @@
   hairyload_devotee_male_plural: "LucKils"
   hairyload_devotee_female: "LucPef"
   hairyload_devotee_female_plural: "LucPefs"
+  
+  impartialrepresentative_faith_desc: "Tenie orders fortify hilltop citadels where paladins judge souls by merit, not birth. Under Aedwoh's radiant gaze, they welcome all virtuous peoples—honest, compassionate, zealous defenders regardless of origin. Guardian orders patrol mountain passes, celebrating ritual cycles marking righteous reincarnation. Those bearing wickedness face confinement until darkness lifts, for the sun reveals truth that rebirths the worthy into earned glory."
+
+  slipperycompetition_faith_desc: "Pujie communes share all possessions among the righteous, pooling resources within fortified villages where merit determines leadership. Aedwoh's light illuminates those willing to surrender wealth for collective virtue—honest sharing proves compassion, communal defense demonstrates zeal. Defenders protect shared lands through ritual celebrations marking reincarnated souls returning to serve again. The wicked who hoard or deceive face exile from brotherhood, for only those reborn into generosity deserve the sun's warmth."
+  
   hairyload_devotee_neuter: "Luc"
   hairyload_devotee_neuter_plural: "Lucs"
   hairyload_priest: "Cuw"
@@ -4482,6 +4625,8 @@
   whiteoriginal_faith_adherent_plural: "Mueabi"
   whiteoriginal_faith_old: "Pot Mueabi"
   whiteoriginal_faith_old_adj: "Pot Mueabi"
+  
+  whiteoriginal_faith_desc: "Mueabi emerged when their tower-dwelling scholars noticed that ancestral spirits communicated most clearly during acts of physical union - that conception itself created momentary rifts through which the dead could whisper forgotten celestial knowledge to the living. What others dismissed as coincidence, Mueabi recognized as sacred pattern written in the stars themselves, confirmed through generations of careful observation. Their teachers discovered that pleasures intensified during specific astral alignments produced visions of unprecedented clarity, ancestors revealing cosmic secrets withheld from ascetic contemplation. Where others see carnal exaltation as abandoning scholarly discipline, Mueabi understand it as expanding their instruments of perception - that flesh itself becomes antenna when properly attuned to both celestial rhythm and ancestral resonance, receiving truths that cold observation alone cannot access."
   R170G7B238: "Zoiambea"
   holy_site_R170G7B238: "Zoiambea"
   R62G196B111: "Flolohmlad"
@@ -4696,6 +4841,7 @@
   bitterdisaster_faith_adherent_plural: "Wumists"
   bitterdisaster_faith_old: "Mar Wumi"
   bitterdisaster_faith_old_adj: "Mar Wumi"
+  bitterdisaster_faith_desc: "Wumi's astrologer-priests read Eggav's patterns in stars, arranging divine marriages when celestial signs favor survival. Esoteric priestesses unite bloodlines through calculated unions, rejecting sentiment for strategic breeding. The faithful perform occult wedding ceremonies believing cosmic patterns matter more than mortal feelings, teaching that survival demands choices softer faiths would refuse."
   R19G5B80: "Elkeaod"
   holy_site_R19G5B80: "Elkeaod"
   R111G136B141: "Mmialmia"
@@ -5121,6 +5267,8 @@
   grouchytennis_faith_adherent_plural: "Phue"
   grouchytennis_faith_old: "Bub Neda"
   grouchytennis_faith_old_adj: "Bub Nedan"
+  
+  grouchytennis_faith_desc: "Hidden Scroll Thirty-One: The Art of Becoming Furniture. Master wrote: 'Greatest operatives are not remembered even by those they served beside for years.' Neda discovered that humans dismiss what brings neither pleasure nor threat - the quiet servant who never complains, the scribe content with small tasks, the merchant satisfied with modest profit. Cultivate such thorough contentment that ambition's absence makes you invisible. Perfect this: let them observe you daily yet their minds slide past, cataloging you as harmless fixture. When you have become background presence—trusted through sheer unremarkable constancy—their secrets flow around you like water past stone. Only then, when completely forgotten despite standing in plain sight, does assignment become trivial."
   R73G75B54: "Duectueld"
   holy_site_R73G75B54: "Duectueld"
   R40G9B52: "Tienniu"
@@ -5250,6 +5398,7 @@
   awesomegather_faith_adherent_plural: "Ommo"
   awesomegather_faith_old: "Orno Ommhu"
   awesomegather_faith_old_adj: "Orno Ommhuan"
+  awesomegather_faith_desc: "Ommhu enshrines divine matrimony within temple-citadels where priest-kings wed noble bloodlines. Sacred texts govern every union, ensuring celestial radiance flows through legitimate heirs who rule as living vessels of Igu's law from fortified sanctuaries."
   R88G125B254: "Folto"
   holy_site_R88G125B254: "Folto"
   R180G133B216: "Crojo"
@@ -5262,6 +5411,7 @@
   righttooth_faith_adherent_plural: "Ochei"
   righttooth_faith_old: "Chord Ocheoism"
   righttooth_faith_old_adj: "Chord Ocheoic"
+  righttooth_faith_desc: "Ocheoism adapts ancient scripture to govern expanding temple networks flexibly. Pragmatic priest-kings reinterpret divine law from citadel courts, maintaining textual authority while adjusting tributary relationships and ritual contracts to accommodate new vassals under their growing spiritual radiance."
   R26G91B210: "Irpri"
   holy_site_R26G91B210: "Irpri"
   R147G84B81: "Inhu"
@@ -5522,6 +5672,8 @@
   suddensound_faith_adherent_plural: "Tejiwan"
   suddensound_faith_old: "Nen Tejiwul"
   suddensound_faith_old_adj: "Nen Tejwul"
+  
+  suddensound_faith_desc: "Tejwu arose from temple-builders who noticed that certain construction techniques - specific angles, particular timber joints, deliberate material choices - appeared across generations despite no written instruction passing between them. Mothers shaped wood exactly as their grandmothers had, though they'd never met. Pleasure-garden designs replicated century-old patterns the current cultivators believed were innovations. Their scholars concluded that ancestral spirits guided living hands during both monument construction and joy cultivation, that the dead whispered forgotten wisdom through blood rather than voice. Where others see techniques as learned tradition, Tejwu understand them as continuous ancestral instruction, recognition that patient diligence building sacred structures and pleasures doesn't originate from individual effort but from countless generations of accumulated understanding flowing through descendants who remain sufficiently calm and stubborn to hear guidance others dismiss as mere instinct."
   R137G128B16: "Eugirl"
   holy_site_R137G128B16: "Eugirl"
   R136G240B197: "Ailduc"
@@ -5628,6 +5780,8 @@
   rowdycake_faith_adj: "Tieltan"
   rowdycake_faith_adherent: "Nij"
   rowdycake_faith_adherent_plural: "Nijis"
+  
+  rowdycake_faith_desc: "From the Midnight Chants of Tielta: 'Our grandfathers' bones whisper secrets no living scholar reads. In darkness before battle, we descend to the ancestor tombs and lie upon cold stone, feeling death's presence seep through flesh. There, spirits of fallen warriors share visions - showing weak points in enemy formations, revealing hidden ravines for ambush, warning of treacherous allies. This esoteric communion terrifies outsiders who think courage mere bravado. But Tieltan warriors understand: true fearlessness comes from conversing with death itself and learning its patterns. When you've touched the void your ancestors inhabit, battlefield mortality loses power to make you hesitate.'"
   rowdycake_faith_old: "Vibi Tielta"
   rowdycake_faith_old_adj: "Vibi Tieltan"
   R19G205B246: "Mmeingoong"
@@ -5656,6 +5810,7 @@
   anxiousspot_faith_adherent_plural: "Affluoulans"
   anxiousspot_faith_old: "Laiamfea Affluoulai"
   anxiousspot_faith_old_adj: "Laiamfea Affluoulai"
+  anxiousspot_faith_desc: "Affluoulai's tribal queens abolish private wealth, teaching that Erci the Mother-Goddess provides abundantly for those who share freely. Tribes move through sacred forests bearing no possessions, their collective prestige measured by how generously priestess-leaders distribute communal resources according to nature's egalitarian law."
   R130G14B250: "Juegloull"
   holy_site_R130G14B250: "Juegloull"
   R139G161B192: "Raordlehm"
@@ -5783,6 +5938,8 @@
   leftnorth_faith_adherent_plural: "Vions"
   leftnorth_faith_old: "Bul Ieivioneism"
   leftnorth_faith_old_adj: "Bul Ieivioneic"
+  
+  leftnorth_faith_desc: "Ieivioneism crystallized when monastery elders recognized that villages visited by mendicant preachers demonstrated lasting devotion only when those visits coincided with established seasonal festivals rather than arbitrary arrival timing. Their wandering monks reported that teaching compassion and generosity during harvest celebrations produced deeper community transformation than identical lessons delivered during ordinary months. Scholars studying this pattern concluded that human hearts opened most readily to humble wisdom when already gathered in joyful communion, that ritual celebrations created spiritual receptivity mere daily existence lacked. Where others see festivals as cultural entertainment separate from sacred teaching, Ieivioneism understands them as essential preparation for receiving monastic wisdom, recognition that mendicant preachers achieve greatest effect when arriving not with revolutionary disruption but patient integration into communities' existing rhythms of joyful gathering and seasonal thanksgiving."
   R80G81B51: "Irvolt"
   holy_site_R80G81B51: "Irvolt"
   R214G135B17: "Tracuxtin"
@@ -5885,6 +6042,9 @@
   mountainousweek_faith_adherent_plural: "Kisins"
   mountainousweek_faith_old: "Fet Kisina"
   mountainousweek_faith_old_adj: "Fet Kisinan"
+  
+  mountainousweek_faith_desc: "Kisinan law-keepers follow Chithmi's sacred codes governing trade's just distribution across inner seas. Female clergy maintain precise ledgers recording trading partnerships and fair commerce, ensuring birth-marked merchants share wealth according to ancient regulations preventing arbitrary hoarding. Strict maritime laws define righteous exchange—when wealthy oppressors violate compassionate principles, codified justice permits measured response. Through legal frameworks balancing peaceful trade with defensive action, poverty vows remain unbroken while righteous records document both prosperous voyages and bewailed losses defending humble communities."
+  
   R239G134B210: "Thaibweemt"
   holy_site_R239G134B210: "Thaibweemt"
   R164G15B175: "Aubjueb"
@@ -6111,6 +6271,8 @@
   unrealistictell_faith_adherent_plural: "Wuis"
   unrealistictell_faith_old: "Peb Lueckta"
   unrealistictell_faith_old_adj: "Peb Luecktan"
+  
+  unrealistictell_faith_desc: "A Lueckta trader married into a coastal community that demanded fish-offerings while her inland family offered grain. When she asked temple elders which offering gods truly wanted, expecting conflict, they laughed. 'Your gods ate grain for twenty years. Now they'll learn to like fish. What matters isn't the offering - it's that you give.' She pressed: what about the sacred groves? Her new family worshipped in sea caves. The elder replied that trees and caves both keep rain off prayer-speakers. Three years later, when drought killed her groves and storms flooded the caves, both families met in open air. They concluded that if location and offering-type were interchangeable, then gods cared about the act of worship, not its specific form. Lueckta began teaching that tradition serves practicality, not divinity - that insisting on yesterday's methods when circumstances changed was humans being stubborn, not gods being rigid."
   R10G18B141: "Zembuqil"
   holy_site_R10G18B141: "Zembuqil"
   R242G175B191: "Icaid"
@@ -6764,3 +6926,20 @@
   rf_plith: "Religions of Plith"
   rf_gleuncti: "Religions of Gleuncti"
   rf_pfaunkti: "Religions of Pfaunkti"
+  rf_thramptith: "Religions of Thramptith"
+  rf_qormaic: "Religions of Qormaic"
+  rf_aigl: "Religions of Aigl"
+  rf_kioq: "Religions of Kioq"
+  rf_aelwrid: "Religions of Aelwrid"
+  rf_aiexqelt: "Religions of Aiexqelt"
+  rf_preolyth: "Religions of Preolyth"
+  rf_qieulbaia: "Religions of Qieulbaia"
+  rf_qeomoq: "Religions of Qeomoq"
+  rf_ogilek: "Religions of Ogilek"
+  rf_ioddrik: "Religions of Ioddrik"
+  rf_xacra: "Religions of Xacra"
+  rf_broulqen: "Religions of Broulqen"
+  rf_floicht: "Religions of Floicht"
+  rf_veuqrit: "Religions of Veuqrit"
+  rf_blouck: "Religions of Blouck"
+  rf_wusaun: "Religions of Wusaun"

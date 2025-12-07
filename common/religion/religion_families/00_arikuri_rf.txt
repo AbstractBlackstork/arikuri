@@ -1,4 +1,4 @@
-rf_plith = {
+﻿rf_plith = {
 	is_pagan = yes
 	piety_icon_group = "pagan"
 	graphical_faith = "pagan_gfx"
@@ -23,9 +23,137 @@ rf_pfaunkti = {
 }
 
 rf_gleuncti = {
-	is_pagan = yes
 	piety_icon_group = "pagan"
 	graphical_faith = "pagan_gfx"
 	hostility_doctrine = gleuncti_hostility_doctrine
 	doctrine_background_icon = core_tenet_banner_gleuncti.dds
+}
+
+rf_thramptith = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = thramptith_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_qormaic = {
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = qormaic_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_islamic.dds
+}
+
+rf_aigl = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = aigl_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_kioq = {
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = kioq_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_eastern.dds
+}
+
+rf_aelwrid = {
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = aelwrid_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_zoroastrian.dds
+}
+
+rf_aiexqelt = {
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = aiexqelt_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_eastern.dds
+}
+
+rf_preolyth = {
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = preolyth_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+}
+
+rf_qieulbaia = {
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = qieulbaia_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_qeomoq = {
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = qeomoq_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_ogilek = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = ogilek_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_ioddrik = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = ioddrik_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_broulqen = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = broulqen_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_xacra = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = xacra_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_floicht = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = floicht_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_veuqrit = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = veuqrit_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_blouck = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = blouck_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_wusaun = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = wusaun_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
 }

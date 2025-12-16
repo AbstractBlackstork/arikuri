@@ -171,6 +171,86 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
+				"key":	"great_wall_china_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"great_wall_china_01"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"great_wall_china_02"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"great_wall_china_02"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"great_wall_china_03"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"great_wall_china_03"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"great_wall_china_gate"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"great_wall_china_gate"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
 				"key":	"hadrians wall 01"
 			},
 			"entry_state":	{
@@ -340,6 +420,21 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
+				"key":	"special_changan_building"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"special_changan_building"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
 				"key":	"special_colosseum"
 			},
 			"entry_state":	{
@@ -457,26 +552,52 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
-				"key":	"tree_cypress_01_generator_1"
+				"key":	"tree_cypress_01_generator_1_0"
 			},
 			"entry_state":	{
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"tree_cypress_01_generator_1"
+					"key":	"tree_cypress_01_generator_1_0"
 				}
 			},
 			"instances":	[]
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
-				"key":	"tree_jungle_01_c_generator_1"
+				"key":	"tree_cypress_01_generator_1_1"
 			},
 			"entry_state":	{
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"tree_jungle_01_c_generator_1"
+					"key":	"tree_cypress_01_generator_1_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"tree_cypress_01_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"tree_cypress_01_generator_1_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"tree_jungle_01_c_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"tree_jungle_01_c_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -652,26 +773,52 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
-				"key":	"tree_palm_generator_1"
+				"key":	"tree_palm_generator_1_0"
 			},
 			"entry_state":	{
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"tree_palm_generator_1"
+					"key":	"tree_palm_generator_1_0"
 				}
 			},
 			"instances":	[]
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
-				"key":	"tree_pine_01_a_generator_1"
+				"key":	"tree_pine_01_a_generator_1_0"
 			},
 			"entry_state":	{
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"tree_pine_01_a_generator_1"
+					"key":	"tree_pine_01_a_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"tree_pine_01_a_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"tree_pine_01_a_generator_1_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"tree_pine_01_a_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"tree_pine_01_a_generator_1_2"
 				}
 			},
 			"instances":	[]
@@ -698,6 +845,84 @@
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"tree_pine_impassable_01_a_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"tree_sakura_01_generator_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"tree_sakura_01_generator_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"tree_sakura_02_generator_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"tree_sakura_02_generator_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"tree_sakura_03_generator_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"tree_sakura_03_generator_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"tree_sakura_forest_generator_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"tree_sakura_forest_generator_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"tree_sakura_forest_generator_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"tree_sakura_forest_generator_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"tree_sakura_forest_generator_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"tree_sakura_forest_generator_2"
 				}
 			},
 			"instances":	[]
@@ -779,6 +1004,169 @@
 				}
 			},
 			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"ce1_tabletop"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"ce1_tabletop"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"ce1_tabletop_candles_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"ce1_tabletop_candles_01"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"ce1_tabletop_cloth"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"ce1_tabletop_cloth"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"ce1_tabletop_floor_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"ce1_tabletop_floor_01"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"ce1_tabletop_ground_props_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"ce1_tabletop_ground_props_01"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"ce1_tabletop_props_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"ce1_tabletop_props_01"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"elephant"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"elephant"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -938,6 +1326,1237 @@
 		}, {
 			"object_ref":	{
 				"type":	"entity",
+				"key":	"ep3_tabletop"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"ep3_tabletop"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"ep3_tabletop_floor"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"ep3_tabletop_floor"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"horse_a_galloping"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"horse_a_galloping"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"horse_a_grazing"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"horse_a_grazing"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"horse_b_galloping"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"horse_b_galloping"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"horse_b_grazing"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"horse_b_grazing"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"horse_c_galloping"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"horse_c_galloping"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"horse_c_grazing"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"horse_c_grazing"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"horse_d_galloping"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"horse_d_galloping"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"horse_d_grazing"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"horse_d_grazing"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"sheep_type_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"sheep_type_1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"sheep_type_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"sheep_type_2"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"sheep_type_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"sheep_type_3"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"sheep_type_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"sheep_type_4"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"tabletop_props"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"tabletop_props"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"tgp_tabletop"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"tgp_tabletop"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"tgp_tabletop_floor"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"tgp_tabletop_floor"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
 				"key":	"waterfall"
 			},
 			"entry_state":	{
@@ -961,6 +2580,66 @@
 				}
 			},
 			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"western_tabletop"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"western_tabletop"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"western_tabletop_candles_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"western_tabletop_candles_01"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"western_tabletop_cloth"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"western_tabletop_cloth"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"western_tabletop_props_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"western_tabletop_props_01"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"locator",

@@ -70,10 +70,10 @@ NSetup = {
 }
 
 NJominiMap = {
-    WORLD_EXTENTS_X = 4095
+    WORLD_EXTENTS_X = 8191
     WORLD_EXTENTS_Y = 51
-    WORLD_EXTENTS_Z = 2047
-	WATERLEVEL = 3.8
+    WORLD_EXTENTS_Z = 4095
+	WATERLEVEL = 3.2
 }
 
 NCharacter = {

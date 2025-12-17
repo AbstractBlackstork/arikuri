@@ -29,3 +29,7 @@ arikuri_pattern_pfaunkti_4.dds = { colors = 2 }
 arikuri_pattern_pfaunkti_5.dds = { colors = 2 }
 arikuri_pattern_pfaunkti_6.dds = { colors = 2 }
 arikuri_pattern_pfaunkti_7.dds = { colors = 2 }
+arikuri_pattern_aiexqelt_alf.dds = { colors = 2 }
+arikuri_pattern_aiexqelt_glo.dds = { colors = 2 }
+arikuri_pattern_aiexqelt_onf.dds = { colors = 2 }
+arikuri_pattern_aiexqelt_pan.dds = { colors = 2 }

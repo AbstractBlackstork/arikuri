@@ -2,6 +2,6 @@
 
 # Track name is used to determine priority - last track after sorting alphabetically is chosen as main track
 zmain_theme_track_002_toto = {
-	music = "file:/music/arikuri_soundtrack/Arikuri_The_Words_of_HuakKen.ogg"
+	music = "file:/music/arikuri_soundtrack/Arikuri_Ode_to_the_Land.ogg"
 	can_be_interrupted = yes
 }

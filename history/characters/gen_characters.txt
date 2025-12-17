@@ -241,8 +241,8 @@ gen_19 = {
 gen_20 = {
 	name = "Phicfo"
 	dynasty = dynn_gen_19
-	religion = naivewindow_faith
-	culture = "cccfrillylawyer"
+	religion = dismalsympathy_faith
+	culture = "cccmodestcopy"
 	671.10.25 = {
 		birth = yes
 	}
@@ -253,8 +253,8 @@ gen_20 = {
 gen_21 = {
 	name = "Ueldauem"
 	dynasty = dynn_gen_20
-	religion = naivewindow_faith
-	culture = "cccfrillylawyer"
+	religion = dismalsympathy_faith
+	culture = "cccmodestcopy"
 	650.10.25 = {
 		birth = yes
 	}
@@ -715,8 +715,8 @@ gen_58 = {
 	name = "Aolfuwn"
 	female = yes
 	dynasty = dynn_gen_57
-	religion = concretefarmer_faith
-	culture = "cccradiantbrilliant"
+	religion = outstandingresident_faith
+	culture = "cccmountainoussalt"
 	693.10.25 = {
 		birth = yes
 	}
@@ -727,8 +727,8 @@ gen_58 = {
 gen_59 = {
 	name = "Nihra"
 	dynasty = dynn_gen_58
-	religion = concretefarmer_faith
-	culture = "cccradiantbrilliant"
+	religion = outstandingresident_faith
+	culture = "cccmountainoussalt"
 	658.10.25 = {
 		birth = yes
 	}
@@ -4565,8 +4565,8 @@ gen_365 = {
 gen_366 = {
 	name = "Ploelo"
 	dynasty = dynn_gen_365
-	religion = dishonestconstant_faith
-	culture = "cccsomeworking"
+	religion = showyconfidence_faith
+	culture = "ccccrazydrama"
 	690.10.25 = {
 		birth = yes
 	}
@@ -4577,8 +4577,8 @@ gen_366 = {
 gen_367 = {
 	name = "Ongiang"
 	dynasty = dynn_gen_366
-	religion = dishonestconstant_faith
-	culture = "cccsomeworking"
+	religion = showyconfidence_faith
+	culture = "ccccrazydrama"
 	688.10.25 = {
 		birth = yes
 	}
@@ -4590,8 +4590,8 @@ gen_368 = {
 	name = "Naiggia"
 	female = yes
 	dynasty = dynn_gen_367
-	religion = dishonestconstant_faith
-	culture = "cccsomeworking"
+	religion = showyconfidence_faith
+	culture = "ccccrazydrama"
 	673.10.25 = {
 		birth = yes
 	}
@@ -4872,7 +4872,7 @@ gen_390 = {
 	name = "Algi"
 	dynasty = dynn_gen_389
 	religion = unlinedbrother_faith
-	culture = "cccseparatetheme"
+	culture = "cccwelldocumentedshop"
 	664.10.25 = {
 		birth = yes
 	}
@@ -4885,7 +4885,7 @@ gen_391 = {
 	female = yes
 	dynasty = dynn_gen_390
 	religion = unlinedbrother_faith
-	culture = "cccseparatetheme"
+	culture = "cccwelldocumentedshop"
 	637.10.25 = {
 		birth = yes
 	}
@@ -4898,7 +4898,7 @@ gen_392 = {
 	female = yes
 	dynasty = dynn_gen_391
 	religion = unlinedbrother_faith
-	culture = "cccseparatetheme"
+	culture = "cccwelldocumentedshop"
 	670.10.25 = {
 		birth = yes
 	}
@@ -4910,7 +4910,7 @@ gen_393 = {
 	name = "Gealbia"
 	dynasty = dynn_gen_392
 	religion = unlinedbrother_faith
-	culture = "cccseparatetheme"
+	culture = "cccwelldocumentedshop"
 	695.10.25 = {
 		birth = yes
 	}
@@ -4922,7 +4922,7 @@ gen_394 = {
 	name = "Glammubav"
 	dynasty = dynn_gen_393
 	religion = unlinedbrother_faith
-	culture = "cccseparatetheme"
+	culture = "cccwelldocumentedshop"
 	693.10.25 = {
 		birth = yes
 	}
@@ -4934,7 +4934,7 @@ gen_395 = {
 	name = "Blacculack"
 	dynasty = dynn_gen_394
 	religion = unlinedbrother_faith
-	culture = "cccseparatetheme"
+	culture = "cccwelldocumentedshop"
 	691.10.25 = {
 		birth = yes
 	}
@@ -4947,7 +4947,7 @@ gen_396 = {
 	female = yes
 	dynasty = dynn_gen_395
 	religion = unlinedbrother_faith
-	culture = "cccseparatetheme"
+	culture = "cccwelldocumentedshop"
 	687.10.25 = {
 		birth = yes
 	}
@@ -4960,7 +4960,7 @@ gen_397 = {
 	female = yes
 	dynasty = dynn_gen_396
 	religion = beautifulpain_faith
-	culture = "cccaltruisticsignature"
+	culture = "cccamazingsnow"
 	635.10.25 = {
 		birth = yes
 	}
@@ -4973,7 +4973,7 @@ gen_398 = {
 	female = yes
 	dynasty = dynn_gen_397
 	religion = beautifulpain_faith
-	culture = "cccaltruisticsignature"
+	culture = "cccamazingsnow"
 	661.10.25 = {
 		birth = yes
 	}
@@ -4985,7 +4985,7 @@ gen_399 = {
 	name = "Celgaia"
 	dynasty = dynn_gen_398
 	religion = beautifulpain_faith
-	culture = "cccaltruisticsignature"
+	culture = "cccamazingsnow"
 	656.10.25 = {
 		birth = yes
 	}
@@ -4997,7 +4997,7 @@ gen_400 = {
 	name = "Luglu"
 	dynasty = dynn_gen_399
 	religion = beautifulpain_faith
-	culture = "cccaltruisticsignature"
+	culture = "cccamazingsnow"
 	626.10.25 = {
 		birth = yes
 	}
@@ -5010,7 +5010,7 @@ gen_401 = {
 	female = yes
 	dynasty = dynn_gen_400
 	religion = beautifulpain_faith
-	culture = "cccaltruisticsignature"
+	culture = "cccamazingsnow"
 	648.10.25 = {
 		birth = yes
 	}
@@ -5022,7 +5022,7 @@ gen_402 = {
 	name = "Bielmea"
 	dynasty = dynn_gen_401
 	religion = beautifulpain_faith
-	culture = "cccaltruisticsignature"
+	culture = "cccamazingsnow"
 	621.10.25 = {
 		birth = yes
 	}
@@ -5519,8 +5519,8 @@ gen_442 = {
 	name = "Qaibra"
 	female = yes
 	dynasty = dynn_gen_441
-	religion = blandstock_faith
-	culture = "cccmonstrouscream"
+	religion = showyconfidence_faith
+	culture = "ccccrazydrama"
 	681.10.25 = {
 		birth = yes
 	}
@@ -5532,8 +5532,8 @@ gen_443 = {
 	name = "Jonu"
 	female = yes
 	dynasty = dynn_gen_442
-	religion = blandstock_faith
-	culture = "cccmonstrouscream"
+	religion = showyconfidence_faith
+	culture = "ccccrazydrama"
 	643.10.25 = {
 		birth = yes
 	}
@@ -6083,8 +6083,8 @@ gen_487 = {
 	name = "Dejefalk"
 	female = yes
 	dynasty = dynn_gen_486
-	religion = candidhabit_faith
-	culture = "cccripering"
+	religion = robustprice_faith
+	culture = "cccgenuinedrama"
 	649.10.25 = {
 		birth = yes
 	}
@@ -6096,8 +6096,8 @@ gen_488 = {
 	name = "Lunglognob"
 	female = yes
 	dynasty = dynn_gen_487
-	religion = candidhabit_faith
-	culture = "cccripering"
+	religion = robustprice_faith
+	culture = "cccgenuinedrama"
 	671.10.25 = {
 		birth = yes
 	}
@@ -6108,8 +6108,8 @@ gen_488 = {
 gen_489 = {
 	name = "Ainkung"
 	dynasty = dynn_gen_488
-	religion = candidhabit_faith
-	culture = "cccripering"
+	religion = robustprice_faith
+	culture = "cccgenuinedrama"
 	654.10.25 = {
 		birth = yes
 	}
@@ -6170,8 +6170,8 @@ gen_494 = {
 	name = "Pluialpaub"
 	female = yes
 	dynasty = dynn_gen_493
-	religion = frillyjuice_faith
-	culture = "cccgratefultwist"
+	religion = robustprice_faith
+	culture = "cccgenuinedrama"
 	649.10.25 = {
 		birth = yes
 	}
@@ -6183,8 +6183,8 @@ gen_495 = {
 	name = "Oulain"
 	female = yes
 	dynasty = dynn_gen_494
-	religion = frillyjuice_faith
-	culture = "cccgratefultwist"
+	religion = robustprice_faith
+	culture = "cccgenuinedrama"
 	659.10.25 = {
 		birth = yes
 	}
@@ -6196,8 +6196,8 @@ gen_496 = {
 	name = "Iogaol"
 	female = yes
 	dynasty = dynn_gen_495
-	religion = frillyjuice_faith
-	culture = "cccgratefultwist"
+	religion = robustprice_faith
+	culture = "cccgenuinedrama"
 	668.10.25 = {
 		birth = yes
 	}
@@ -6209,8 +6209,8 @@ gen_497 = {
 	name = "Pumpoa"
 	female = yes
 	dynasty = dynn_gen_496
-	religion = frillyjuice_faith
-	culture = "cccgratefultwist"
+	religion = robustprice_faith
+	culture = "cccgenuinedrama"
 	655.10.25 = {
 		birth = yes
 	}
@@ -6221,8 +6221,8 @@ gen_497 = {
 gen_498 = {
 	name = "Jendadnub"
 	dynasty = dynn_gen_497
-	religion = frillyjuice_faith
-	culture = "cccgratefultwist"
+	religion = robustprice_faith
+	culture = "cccgenuinedrama"
 	657.10.25 = {
 		birth = yes
 	}
@@ -6657,8 +6657,8 @@ gen_533 = {
 	name = "Ultblohlt"
 	female = yes
 	dynasty = dynn_gen_532
-	religion = indolenttune_faith
-	culture = "cccthriftybranch"
+	religion = showyconfidence_faith
+	culture = "ccccrazydrama"
 	645.10.25 = {
 		birth = yes
 	}
@@ -7456,7 +7456,7 @@ gen_597 = {
 	name = "Meaotwe"
 	dynasty = dynn_gen_596
 	religion = bitterdisaster_faith
-	culture = "cccwelldocumentedshop"
+	culture = "cccseparatetheme"
 	682.10.25 = {
 		birth = yes
 	}
@@ -7468,7 +7468,7 @@ gen_598 = {
 	name = "Eicteim"
 	dynasty = dynn_gen_597
 	religion = bitterdisaster_faith
-	culture = "cccwelldocumentedshop"
+	culture = "cccseparatetheme"
 	637.10.25 = {
 		birth = yes
 	}
@@ -7481,7 +7481,7 @@ gen_599 = {
 	female = yes
 	dynasty = dynn_gen_598
 	religion = bitterdisaster_faith
-	culture = "cccwelldocumentedshop"
+	culture = "cccseparatetheme"
 	658.10.25 = {
 		birth = yes
 	}
@@ -7951,8 +7951,8 @@ gen_635 = {
 gen_636 = {
 	name = "Cheffre"
 	dynasty = dynn_gen_635
-	religion = righttooth_faith
-	culture = "cccslimyengine"
+	religion = outstandingresident_faith
+	culture = "cccmountainoussalt"
 	653.10.25 = {
 		birth = yes
 	}
@@ -7963,8 +7963,8 @@ gen_636 = {
 gen_637 = {
 	name = "Iflap"
 	dynasty = dynn_gen_636
-	religion = righttooth_faith
-	culture = "cccslimyengine"
+	religion = outstandingresident_faith
+	culture = "cccmountainoussalt"
 	690.10.25 = {
 		birth = yes
 	}
@@ -8185,7 +8185,7 @@ gen_655 = {
 	female = yes
 	dynasty = dynn_gen_654
 	religion = readyinspector_faith
-	culture = "cccamazingsnow"
+	culture = "cccaltruisticsignature"
 	686.10.25 = {
 		birth = yes
 	}
@@ -8597,8 +8597,8 @@ gen_688 = {
 	name = "Udadt"
 	female = yes
 	dynasty = dynn_gen_687
-	religion = fearfulclient_faith
-	culture = "cccbestsinger"
+	religion = showyconfidence_faith
+	culture = "ccccrazydrama"
 	663.10.25 = {
 		birth = yes
 	}

@@ -1,0 +1,360 @@
+# Arikuri Writing System Languages
+# Generated language entries for all 21 writing systems
+
+language_queekwa = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_queekwa
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_queekwa }
+			multiply = 10
+		}
+	}
+	color = { 0.2 0.6 0.4 }  # Jungle green-teal
+}
+
+language_plith = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_plith
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_plith }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.2 0.6 }  # Mystical purple
+}
+
+language_pfaunkti = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_pfaunkti
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_pfaunkti }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.4 0.2 }  # Forest brown-orange
+}
+
+language_ogilek = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_ogilek
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_ogilek }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.5 0.4 }  # Stone gray-brown
+}
+
+language_broulqen = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_broulqen
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_broulqen }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.3 0.6 }  # Byzantine purple-bronze
+}
+
+language_gleuncti = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_gleuncti
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_gleuncti }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.4 0.7 }  # Celestial blue-purple
+}
+
+language_ioddrik = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_ioddrik
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_ioddrik }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.3 0.3 }  # Mine dark gray-brown
+}
+
+language_qormaic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_qormaic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_qormaic }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.6 0.7 }  # Silver-gray
+}
+
+language_xacra = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_xacra
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_xacra }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.6 0.6 }  # Stellar teal-turquoise
+}
+
+language_aiexqelt = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_aiexqelt
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_aiexqelt }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.5 0.5 }  # Pelt gray-brown
+}
+
+language_veuqrit = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_veuqrit
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_veuqrit }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.3 0.6 }  # Scholar purple-indigo
+}
+
+language_aelwrid = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_aelwrid
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_aelwrid }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.3 0.3 }  # Paladin red-gold
+}
+
+language_qieulbaia = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_qieulbaia
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_qieulbaia }
+			multiply = 10
+		}
+	}
+	color = { 0.3 0.5 0.6 }  # Maritime blue-teal
+}
+
+language_floicht = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_floicht
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_floicht }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.4 0.6 }  # Mountain purple-green-gray
+}
+
+language_qeomoq = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_qeomoq
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_qeomoq }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.3 0.3 }  # Communal red-brown
+}
+
+language_aigl = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_aigl
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_aigl }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.5 0.6 }  # Maritime blue with desert tan
+}
+
+language_kioq = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_kioq
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_kioq }
+			multiply = 10
+		}
+	}
+	color = { 0.7 0.4 0.3 }  # Temple red-gold
+}
+
+language_thramptith = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_thramptith
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_thramptith }
+			multiply = 10
+		}
+	}
+	color = { 0.4 0.5 0.3 }  # Forest green-brown
+}
+
+language_blouck = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_blouck
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_blouck }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.5 0.4 }  # Leather brown-tan
+}
+
+language_preolyth = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_preolyth
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_preolyth }
+			multiply = 10
+		}
+	}
+	color = { 0.5 0.3 0.5 }  # Ceremonial burgundy-teal
+}
+
+language_wusaun = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_wusaun
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_wusaun }
+			multiply = 10
+		}
+	}
+	color = { 0.6 0.4 0.6 }  # Textile purple-rose
+}
+

@@ -1,2 +1,0 @@
-Resolution: 4096x2048
-Map Size: 4096x2048

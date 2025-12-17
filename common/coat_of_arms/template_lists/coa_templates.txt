@@ -53,7 +53,120 @@
 			#1 = basic_ordinary_saltire_04
 		}
 
-				special_selection = {
+	# =============================================================================
+	# AIEXQELT FACTION TEMPLATES - TEST IMPLEMENTATION
+	# =============================================================================
+	
+	# AILFAEBI Faction (Pink/Magenta) - Pattern: ALF
+	special_selection = {
+		trigger = {
+			arikuri_coa_aiexqelt_ailfaebi_trigger = yes
+		}
+		125 = aiexqelt_alf_template1   # Complex dual diacritic
+		125 = aiexqelt_alf_template2   # Complex dual diacritic
+		90  = aiexqelt_alf_template3   # Solid variant
+		90  = aiexqelt_alf_template4   # Solid variant
+		104 = aiexqelt_alf_template5   # Minimalist (+30%, now max size)
+		98  = aiexqelt_alf_template6   # Minimalist solid (+30%, now max size)
+		110 = aiexqelt_alf_template7   # Centerline (+30%)
+		110 = aiexqelt_alf_template8   # Centerline (+30%)
+		130 = aiexqelt_alf_template9   # Edge dual diacritic
+		130 = aiexqelt_alf_template10  # Solid edge dual
+		120 = aiexqelt_alf_template11  # Large left solid
+		120 = aiexqelt_alf_template12  # Large right solid
+		115 = aiexqelt_alf_template13  # Large left split
+		115 = aiexqelt_alf_template14  # Large right split
+		125 = aiexqelt_alf_template15  # Large left faction
+		125 = aiexqelt_alf_template16  # Large right faction
+	}
+	
+	# GLOBITH Faction (Purple/Violet/Gold) - Pattern: GLO
+	special_selection = {
+		trigger = {
+			arikuri_coa_aiexqelt_globith_trigger = yes
+		}
+		125 = aiexqelt_glo_template1   # Complex dual diacritic
+		125 = aiexqelt_glo_template2   # Complex dual diacritic
+		90  = aiexqelt_glo_template3   # Solid variant
+		90  = aiexqelt_glo_template4   # Solid variant
+		104 = aiexqelt_glo_template5   # Minimalist (+30%, now max size)
+		98  = aiexqelt_glo_template6   # Minimalist solid (+30%, now max size)
+		110 = aiexqelt_glo_template7   # Centerline (+30%)
+		110 = aiexqelt_glo_template8   # Centerline (+30%)
+		130 = aiexqelt_glo_template9   # Edge dual diacritic
+		130 = aiexqelt_glo_template10  # Solid edge dual
+		120 = aiexqelt_glo_template11  # Large left solid
+		120 = aiexqelt_glo_template12  # Large right solid
+		115 = aiexqelt_glo_template13  # Large left split
+		115 = aiexqelt_glo_template14  # Large right split
+		125 = aiexqelt_glo_template15  # Large left faction
+		125 = aiexqelt_glo_template16  # Large right faction
+	}
+	
+	# ONFENGI Faction (Teal/Gray/Crimson) - Pattern: ONF
+	special_selection = {
+		trigger = {
+			arikuri_coa_aiexqelt_onfengi_trigger = yes
+		}
+		125 = aiexqelt_onf_template1   # Complex dual diacritic
+		125 = aiexqelt_onf_template2   # Complex dual diacritic
+		90  = aiexqelt_onf_template3   # Solid variant
+		90  = aiexqelt_onf_template4   # Solid variant
+		104 = aiexqelt_onf_template5   # Minimalist (+30%, now max size)
+		98  = aiexqelt_onf_template6   # Minimalist solid (+30%, now max size)
+		110 = aiexqelt_onf_template7   # Centerline (+30%)
+		110 = aiexqelt_onf_template8   # Centerline (+30%)
+		130 = aiexqelt_onf_template9   # Edge dual diacritic
+		130 = aiexqelt_onf_template10  # Solid edge dual
+		120 = aiexqelt_onf_template11  # Large left solid
+		120 = aiexqelt_onf_template12  # Large right solid
+		115 = aiexqelt_onf_template13  # Large left split
+		115 = aiexqelt_onf_template14  # Large right split
+		125 = aiexqelt_onf_template15  # Large left faction
+		125 = aiexqelt_onf_template16  # Large right faction
+	}
+	
+	# PANTH Faction (Blue) - Pattern: PAN
+	# SPECIAL: 80% standard (dark bg) / 20% inverted (bright bg)
+	special_selection = {
+		trigger = {
+			arikuri_coa_aiexqelt_panth_trigger = yes
+		}
+		100 = aiexqelt_pan_template1_standard   # Complex dual diacritic
+		25  = aiexqelt_pan_template1_inverted
+		100 = aiexqelt_pan_template2_standard   # Complex dual diacritic
+		25  = aiexqelt_pan_template2_inverted
+		70  = aiexqelt_pan_template3_standard   # Solid variant (reduced)
+		20  = aiexqelt_pan_template3_inverted
+		70  = aiexqelt_pan_template4_standard   # Solid variant (reduced)
+		20  = aiexqelt_pan_template4_inverted
+		85  = aiexqelt_pan_template5_standard   # Minimalist (+30%, now max size)
+		20  = aiexqelt_pan_template5_inverted
+		78  = aiexqelt_pan_template6_standard   # Minimalist solid (+30%, now max size)
+		20  = aiexqelt_pan_template6_inverted
+		91  = aiexqelt_pan_template7_standard   # Centerline (+30%)
+		23  = aiexqelt_pan_template7_inverted
+		91  = aiexqelt_pan_template8_standard   # Centerline (+30%)
+		23  = aiexqelt_pan_template8_inverted
+		105 = aiexqelt_pan_template9_standard   # Edge dual diacritic (boosted)
+		25  = aiexqelt_pan_template9_inverted
+		105 = aiexqelt_pan_template10_standard  # Solid edge dual (boosted)
+		25  = aiexqelt_pan_template10_inverted
+		95  = aiexqelt_pan_template11_standard  # Large left solid
+		25  = aiexqelt_pan_template11_inverted
+		95  = aiexqelt_pan_template12_standard  # Large right solid
+		25  = aiexqelt_pan_template12_inverted
+		90  = aiexqelt_pan_template13_standard  # Large left split
+		25  = aiexqelt_pan_template13_inverted
+		90  = aiexqelt_pan_template14_standard  # Large right split
+		25  = aiexqelt_pan_template14_inverted
+		100 = aiexqelt_pan_template15_standard  # Large left faction (boosted)
+		25  = aiexqelt_pan_template15_inverted
+		100 = aiexqelt_pan_template16_standard  # Large right faction (boosted)
+		25  = aiexqelt_pan_template16_inverted
+	}
+		
+		special_selection = {
 			trigger = {
 				arikuri_coa_plith_trigger = yes
 			}
@@ -1038,4 +1151,5 @@
 	factions = {
 		100 = faction_01
 	}
+	
 }

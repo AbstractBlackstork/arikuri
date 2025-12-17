@@ -6,6 +6,7 @@ tags={
 }
 name="Exoplanet Arikuri-1A [Total Conversion World/Procedural Map Generator Showcase]"
 replace_path="common/on_action/title_on_actions.txt"
+replace_path="common/governments/01_japan_government_types.txt"
 replace_path="gfx/portraits/portrait_modifiers/01_headgear_base.txt"
 replace_path="gui/frontend_main.gui"
 replace_path="gui/frontend_bookmarks.gui"
@@ -16,6 +17,7 @@ replace_path="common/landed_titles"
 replace_path="common/religion/religions"
 replace_path="common/religion/holy_sites"
 replace_path="common/decisions/dlc_decisions/03_fp2_decisions.txt"
+replace_path="events/dlc/fp1/fp1_major_decision_events.txt"#requires check
 replace_path="common/decisions/dlc_decisions/ep3_decisions.txt"
 replace_path="common/decisions/00_major_decisions_iberia_north_africa.txt"
 replace_path="common/decisions/00_major_decisions_roman.txt"

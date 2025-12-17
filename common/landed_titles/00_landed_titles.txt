@@ -926,44 +926,6 @@ e_R39G19B218 = {
         }
       }
     }
-    d_R74G165B71 = {
-      color = { 74 165 71 }
-      capital = c_R74G165B71
-      c_R74G165B71 = {
-        color = {74 165 71}
-        b_R74G165B71 = {
-          province = 172
-          color = {74 165 71}
-        }
-        b_R67G217B12 = {
-          province = 798
-          color = {74 165 71}
-        }
-        b_R78G127B37 = {
-          province = 1579
-          color = {74 165 71}
-        }
-        b_R189G51B12 = {
-          province = 1371
-          color = {74 165 71}
-        }
-        b_R117G145B181 = {
-          province = 686
-          color = {74 165 71}
-        }
-        b_R251G11B186 = {
-          province = 572
-          color = {74 165 71}
-        }
-      }
-      c_R150G1B105 = {
-        color = {150 1 105}
-        b_R150G1B105 = {
-          province = 1438
-          color = {150 1 105}
-        }
-      }
-    }
     d_R178G101B47 = {
       color = { 178 101 47 }
       capital = c_R178G101B47
@@ -4137,6 +4099,44 @@ e_R233G171B43 = {
         b_R255G32B192 = {
           province = 1891
           color = {192 35 126}
+        }
+      }
+    }
+    d_R74G165B71 = {
+      color = { 74 165 71 }
+      capital = c_R74G165B71
+      c_R74G165B71 = {
+        color = {74 165 71}
+        b_R74G165B71 = {
+          province = 172
+          color = {74 165 71}
+        }
+        b_R67G217B12 = {
+          province = 798
+          color = {74 165 71}
+        }
+        b_R78G127B37 = {
+          province = 1579
+          color = {74 165 71}
+        }
+        b_R189G51B12 = {
+          province = 1371
+          color = {74 165 71}
+        }
+        b_R117G145B181 = {
+          province = 686
+          color = {74 165 71}
+        }
+        b_R251G11B186 = {
+          province = 572
+          color = {74 165 71}
+        }
+      }
+      c_R150G1B105 = {
+        color = {150 1 105}
+        b_R150G1B105 = {
+          province = 1438
+          color = {150 1 105}
         }
       }
     }

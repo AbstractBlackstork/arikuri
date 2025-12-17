@@ -296,3 +296,53 @@ arikuri_ws_gleuncti_glyph_con_15.dds = { colors = 1 category = gleuncti }
 arikuri_ws_gleuncti_glyph_con_16.dds = { colors = 1 category = gleuncti }
 arikuri_ws_gleuncti_glyph_con_17.dds = { colors = 1 category = gleuncti }
 arikuri_ws_gleuncti_glyph_con_space.dds = { colors = 1 category = gleuncti }
+
+# AIEXQELT - Ailfaebi Faction Diacritic Glyphs (ALF)
+arikuri_ws_aiexqelt_dia_alf_glyph_1.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_alf_glyph_2.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_alf_glyph_3.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_alf_glyph_4.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_alf_glyph_5.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_alf_glyph_6.dds = { colors = 1 category = aiexqelt }
+
+# AIEXQELT - Globith Faction Diacritic Glyphs (GLO)
+arikuri_ws_aiexqelt_dia_glo_glyph_1.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_glo_glyph_2.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_glo_glyph_3.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_glo_glyph_4.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_glo_glyph_5.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_glo_glyph_6.dds = { colors = 1 category = aiexqelt }
+
+# AIEXQELT - Onfengi Faction Diacritic Glyphs (ONF)
+arikuri_ws_aiexqelt_dia_onf_glyph_1.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_onf_glyph_2.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_onf_glyph_3.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_onf_glyph_4.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_onf_glyph_5.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_onf_glyph_6.dds = { colors = 1 category = aiexqelt }
+
+# AIEXQELT - Panth Faction Diacritic Glyphs (PAN)
+arikuri_ws_aiexqelt_dia_pan_glyph_1.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_pan_glyph_2.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_pan_glyph_3.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_pan_glyph_4.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_pan_glyph_5.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_dia_pan_glyph_6.dds = { colors = 1 category = aiexqelt }
+
+# AIEXQELT - Letter Glyphs (Shared across all factions)
+arikuri_ws_aiexqelt_letter_glyph_1.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_2.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_3.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_4.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_5.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_6.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_7.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_8.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_9.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_10.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_11.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_12.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_13.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_14.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_fluorA.dds = { colors = 1 category = aiexqelt }
+arikuri_ws_aiexqelt_letter_glyph_fluorB.dds = { colors = 1 category = aiexqelt }

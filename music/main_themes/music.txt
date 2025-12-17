@@ -2,7 +2,7 @@
 
 
 main_theme_track = {
-	music = "file:/music/arikuri_soundtrack/Arikuri_The_Words_of_HuakKen.ogg"
+	music = "file:/music/arikuri_soundtrack/Arikuri_Ode_to_the_Land.ogg"
 	can_be_interrupted = yes
 }
 

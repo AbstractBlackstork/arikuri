@@ -1,0 +1,2899 @@
+template = {
+	## AIEXQELT FACTION TEMPLATES - TEMPLATE1 LAYOUT
+	## Layout: 5-Glyph Complex Pattern (4 letter glyphs + 1 faction diacritic)
+	## 
+	## AIEXQELT COLOR SYSTEM RULES:
+	## - Pattern: 2 colors (color1, color2) - ALWAYS DARK (100% chance)
+	## - Letters/Fluors: color3 - ALWAYS LIGHT
+	## - Diacritics: color4 - ALWAYS MEDIUM
+	## - EXCEPTION: Panth has 20% chance for inverted scheme (bright backgrounds)
+	##
+	## Reference: specs/aiexqelt_empire_feature_spec.md - COA Design System
+	
+	# =============================================================================
+	# FACTION 1: AILFAEBI (Pink/Magenta) - Pattern: ALF
+	# Faith: wideeyedimpact_faith
+	# Trigger: arikuri_coa_aiexqelt_ailfaebi_trigger
+	# Diacritic: Geometric Heart
+	# =============================================================================
+	
+	aiexqelt_alf_template1 = {
+		pattern = "arikuri_pattern_aiexqelt_alf.dds"
+		color1 = list "ari_d_colors"  # Pattern color 1 (dark)
+		color2 = list "ari_d_colors"  # Pattern color 2 (dark)
+		color3 = list "ari_l_colors"  # Letters/fluors (light)
+		color4 = list "ari_m_colors"  # Diacritics (medium)
+		
+	# Top-left letter glyph
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3  # Light
+		instance = {
+			position = { 0.370000 0.330000 }
+			scale = { 0.500000 0.500000 }
+			depth = 3.010000
+		}
+	}
+	
+	# Top diacritic (overlaid on top-left letter)
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+		color1 = color4  # Medium
+		instance = {
+			position = { 0.370000 0.330000 }
+			scale = { 0.500000 0.500000 }
+		}
+	}
+	
+	# Bottom-right fluor glyph (fluorA)
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+		color1 = color3  # Light
+		instance = {
+			position = { 0.630000 0.650000 }
+			scale = { 0.500000 0.500000 }
+			depth = 2.010000
+		}
+	}
+	
+	# Top-right letter glyph
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3  # Light
+		instance = {
+			position = { 0.630000 0.330000 }
+			scale = { 0.500000 0.500000 }
+			depth = 4.010000
+		}
+	}
+	
+	# Bottom-left letter glyph
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3  # Light
+		instance = {
+			position = { 0.370000 0.690000 }
+			scale = { 0.500000 0.500000 }
+			depth = 1.010000
+		}
+	}
+	
+	# Bottom diacritic (overlaid on bottom-left letter)
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+		color1 = color4  # Medium
+		instance = {
+			position = { 0.370000 0.690000 }
+			scale = { 0.500000 0.500000 }
+		}
+	}
+	}
+	
+	# =============================================================================
+	# FACTION 2: GLOBITH (Purple/Violet/Gold) - Pattern: GLO
+	# Faith: Frenchincident_faith
+	# Trigger: arikuri_coa_aiexqelt_globith_trigger
+	# Diacritic: Upward Triangle
+	# =============================================================================
+	
+	aiexqelt_glo_template1 = {
+		pattern = "arikuri_pattern_aiexqelt_glo.dds"
+		color1 = list "ari_d_colors"  # Pattern color 1 (dark)
+		color2 = list "ari_d_colors"  # Pattern color 2 (dark)
+		color3 = list "ari_l_colors"  # Letters/fluors (light)
+		color4 = list "ari_m_colors"  # Diacritics (medium)
+		
+		# Top-left letter glyph
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3  # Light
+			instance = {
+				position = { 0.370000 0.330000 }
+				scale = { 0.500000 0.500000 }
+				depth = 3.010000
+			}
+		}
+		
+		# Top diacritic (overlaid on top-left letter)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4  # Medium
+			instance = {
+				position = { 0.370000 0.330000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+		
+		# Bottom-right fluor glyph (fluorA)
+		colored_emblem = {
+			texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+			color1 = color3  # Light
+			instance = {
+				position = { 0.630000 0.650000 }
+				scale = { 0.500000 0.500000 }
+				depth = 2.010000
+			}
+		}
+		
+		# Top-right letter glyph
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3  # Light
+			instance = {
+				position = { 0.630000 0.330000 }
+				scale = { 0.500000 0.500000 }
+				depth = 4.010000
+			}
+		}
+		
+		# Bottom-left letter glyph
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3  # Light
+			instance = {
+				position = { 0.370000 0.690000 }
+				scale = { 0.500000 0.500000 }
+				depth = 1.010000
+			}
+		}
+		
+		# Bottom diacritic (overlaid on bottom-left letter)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4  # Medium
+			instance = {
+				position = { 0.370000 0.690000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+	}
+	
+	# =============================================================================
+	# FACTION 3: ONFENGI (Teal/Gray/Crimson) - Pattern: ONF
+	# Faith: chubbychildhood_faith
+	# Trigger: arikuri_coa_aiexqelt_onfengi_trigger
+	# Diacritic: Circle/Dot
+	# =============================================================================
+	
+	aiexqelt_onf_template1 = {
+		pattern = "arikuri_pattern_aiexqelt_onf.dds"
+		color1 = list "ari_d_colors"  # Pattern color 1 (dark)
+		color2 = list "ari_d_colors"  # Pattern color 2 (dark)
+		color3 = list "ari_l_colors"  # Letters/fluors (light)
+		color4 = list "ari_m_colors"  # Diacritics (medium)
+		
+		# Top-left letter glyph
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3  # Light
+			instance = {
+				position = { 0.370000 0.330000 }
+				scale = { 0.500000 0.500000 }
+				depth = 3.010000
+			}
+		}
+		
+		# Top diacritic (overlaid on top-left letter)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4  # Medium
+			instance = {
+				position = { 0.370000 0.330000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+		
+		# Bottom-right fluor glyph (fluorA)
+		colored_emblem = {
+			texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+			color1 = color3  # Light
+			instance = {
+				position = { 0.630000 0.650000 }
+				scale = { 0.500000 0.500000 }
+				depth = 2.010000
+			}
+		}
+		
+		# Top-right letter glyph
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3  # Light
+			instance = {
+				position = { 0.630000 0.330000 }
+				scale = { 0.500000 0.500000 }
+				depth = 4.010000
+			}
+		}
+		
+		# Bottom-left letter glyph
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3  # Light
+			instance = {
+				position = { 0.370000 0.690000 }
+				scale = { 0.500000 0.500000 }
+				depth = 1.010000
+			}
+		}
+		
+		# Bottom diacritic (overlaid on bottom-left letter)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4  # Medium
+			instance = {
+				position = { 0.370000 0.690000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+	}
+	
+	# =============================================================================
+	# FACTION 4: PANTH (Blue) - Pattern: PAN
+	# Faith: somberpoet_faith
+	# Trigger: arikuri_coa_aiexqelt_panth_trigger
+	# Diacritic: Diamond
+	# SPECIAL: 80% standard (dark bg) / 20% inverted (bright bg)
+	# =============================================================================
+	
+	# STANDARD VERSION (80% weight)
+	aiexqelt_pan_template1_standard = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_d_colors"  # Pattern color 1 (dark) - STANDARD
+		color2 = list "ari_d_colors"  # Pattern color 2 (dark) - STANDARD
+		color3 = list "ari_l_colors"  # Letters/fluors (light)
+		color4 = list "ari_m_colors"  # Diacritics (medium)
+		
+		# Top-left letter glyph
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3  # Light
+			instance = {
+				position = { 0.370000 0.330000 }
+				scale = { 0.500000 0.500000 }
+				depth = 3.010000
+			}
+		}
+		
+	# Top diacritic (overlaid on top-left letter)
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+		color1 = color4  # Medium
+		instance = {
+			position = { 0.370000 0.330000 }
+			scale = { 0.500000 0.500000 }
+		}
+	}
+	
+	# Top-right fluor glyph (fluorB) - SWAPPED to top
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color3  # Light
+		instance = {
+			position = { 0.630000 0.330000 }
+			scale = { 0.500000 0.500000 }
+			depth = 4.010000
+		}
+	}
+	
+	# Bottom-right letter glyph - SWAPPED to bottom, aligned with left column
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3  # Light
+		instance = {
+			position = { 0.630000 0.690000 }
+			scale = { 0.500000 0.500000 }
+			depth = 2.010000
+		}
+	}
+		
+		# Bottom-left letter glyph
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3  # Light
+			instance = {
+				position = { 0.370000 0.690000 }
+				scale = { 0.500000 0.500000 }
+				depth = 1.010000
+			}
+		}
+		
+		# Bottom diacritic (overlaid on bottom-left letter)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4  # Medium
+			instance = {
+				position = { 0.370000 0.690000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+	}
+	
+	# INVERTED VERSION (20% weight) - Panth-specific exception
+	aiexqelt_pan_template1_inverted = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_l_colors"  # Pattern color 1 (light) - INVERTED!
+		color2 = list "ari_l_colors"  # Pattern color 2 (light) - INVERTED!
+		color3 = list "ari_d_colors"  # Letters/fluors (dark) - INVERTED!
+		color4 = list "ari_m_colors"  # Diacritics (medium) - unchanged
+		
+		# Top-left letter glyph
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3  # Dark (inverted)
+			instance = {
+				position = { 0.370000 0.330000 }
+				scale = { 0.500000 0.500000 }
+				depth = 3.010000
+			}
+		}
+		
+	# Top diacritic (overlaid on top-left letter)
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+		color1 = color4  # Medium (same)
+		instance = {
+			position = { 0.370000 0.330000 }
+			scale = { 0.500000 0.500000 }
+		}
+	}
+	
+	# Top-right fluor glyph (fluorB) - SWAPPED to top
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color3  # Dark (inverted)
+		instance = {
+			position = { 0.630000 0.330000 }
+			scale = { 0.500000 0.500000 }
+			depth = 4.010000
+		}
+	}
+	
+	# Bottom-right letter glyph - SWAPPED to bottom, aligned with left column
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3  # Dark (inverted)
+		instance = {
+			position = { 0.630000 0.690000 }
+			scale = { 0.500000 0.500000 }
+			depth = 2.010000
+		}
+	}
+		
+		# Bottom-left letter glyph
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3  # Dark (inverted)
+			instance = {
+				position = { 0.370000 0.690000 }
+				scale = { 0.500000 0.500000 }
+				depth = 1.010000
+			}
+		}
+		
+		# Bottom diacritic (overlaid on bottom-left letter)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4  # Medium (same)
+			instance = {
+				position = { 0.370000 0.690000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+	}
+	
+	# =============================================================================
+	# TEMPLATE 2: VERTICAL COLUMN LAYOUT
+	# All factions - Y positions at 0.35 and 0.67, fluorB at x=0.67
+	# =============================================================================
+	
+	aiexqelt_alf_template2 = {
+		pattern = "arikuri_pattern_aiexqelt_alf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		# Left column, top (y=0.35)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.330000 0.350000 }
+				scale = { 0.500000 0.500000 }
+				depth = 2.010000
+			}
+		}
+		
+		# Top diacritic (overlaid on left-top letter)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = {
+				position = { 0.330000 0.350000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+		
+	# Right column, top - fluorB SWAPPED to top (y=0.35, x=0.67)
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color3
+		instance = {
+			position = { 0.670000 0.350000 }
+			scale = { 0.500000 0.500000 }
+			depth = 3.010000
+		}
+	}
+	
+	# Right column, bottom - letter SWAPPED to bottom, aligned with left column (y=0.67, x=0.67)
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = {
+			position = { 0.670000 0.670000 }
+			scale = { 0.500000 0.500000 }
+			depth = 1.010000
+		}
+	}
+		
+		# Left column, bottom (y=0.67)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.330000 0.670000 }
+				scale = { 0.500000 0.500000 }
+				depth = 4.010000
+			}
+		}
+		
+		# Bottom diacritic (overlaid on left-bottom letter)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = {
+				position = { 0.330000 0.670000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+	}
+	
+	aiexqelt_glo_template2 = {
+		pattern = "arikuri_pattern_aiexqelt_glo.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color3
+		instance = { position = { 0.670000 0.350000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.670000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+		color1 = color4
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } }
+	}
+}
+
+aiexqelt_onf_template2 = {
+		pattern = "arikuri_pattern_aiexqelt_onf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color3
+		instance = { position = { 0.670000 0.350000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.670000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+		color1 = color4
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } }
+	}
+}
+
+aiexqelt_pan_template2_standard = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color3
+		instance = { position = { 0.670000 0.350000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.670000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+		color1 = color4
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } }
+	}
+}
+
+aiexqelt_pan_template2_inverted = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color3
+		instance = { position = { 0.670000 0.350000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.670000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+		color1 = color4
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } }
+	}
+}
+
+# =============================================================================
+# TEMPLATE 3: SOLID PATTERN (1 color = 3 total colors)
+	# Simple solid background, less visual complexity
+	# =============================================================================
+	
+	aiexqelt_alf_template3 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"      # Solid background (only 1 pattern color)
+		color2 = list "ari_l_colors"      # Letters/fluors (shifts to color2!)
+		color3 = list "ari_m_colors"      # Diacritics (shifts to color3!)
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2  # Light (note: color2, not color3!)
+			instance = { position = { 0.370000 0.330000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color3  # Medium (note: color3, not color4!)
+			instance = { position = { 0.500000 0.490000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+			color1 = color2  # Light
+			instance = { position = { 0.630000 0.650000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2  # Light
+			instance = { position = { 0.630000 0.330000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2  # Light
+			instance = { position = { 0.370000 0.690000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	aiexqelt_glo_template3 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.370000 0.330000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.490000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+			color1 = color2
+			instance = { position = { 0.630000 0.650000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.630000 0.330000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.370000 0.690000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	aiexqelt_onf_template3 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.370000 0.330000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.490000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+			color1 = color2
+			instance = { position = { 0.630000 0.650000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.630000 0.330000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.370000 0.690000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	aiexqelt_pan_template3_standard = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.370000 0.330000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+		}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+		color1 = color3
+		instance = { position = { 0.500000 0.490000 } scale = { 0.500000 0.500000 } }
+	}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color2
+		instance = { position = { 0.630000 0.330000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.630000 0.690000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.370000 0.690000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+}
+
+aiexqelt_pan_template3_inverted = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.370000 0.330000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+		}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+		color1 = color3
+		instance = { position = { 0.500000 0.490000 } scale = { 0.500000 0.500000 } }
+	}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color2
+		instance = { position = { 0.630000 0.330000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.630000 0.690000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.370000 0.690000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+}
+
+# =============================================================================
+# TEMPLATE 4: SOLID PATTERN WITH TEMPLATE2 LAYOUT (1 color = 3 total)
+	# Combines solid background with vertical column layout
+	# =============================================================================
+	
+	aiexqelt_alf_template4 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color2
+		instance = { position = { 0.670000 0.350000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.670000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+}
+
+aiexqelt_glo_template4 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color2
+		instance = { position = { 0.670000 0.350000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.670000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+}
+
+aiexqelt_onf_template4 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color2
+		instance = { position = { 0.670000 0.350000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.670000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+}
+
+aiexqelt_pan_template4_standard = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color2
+		instance = { position = { 0.670000 0.350000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.670000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+}
+
+aiexqelt_pan_template4_inverted = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.330000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color2
+		instance = { position = { 0.670000 0.350000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.670000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.330000 0.670000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+}
+
+# =============================================================================
+# TEMPLATE 5: 2-LETTER BOTTOM LAYOUT (Faction Pattern, 4 colors)
+	# Simple 2-letter design at bottom (y=0.80) with center diacritic
+	# =============================================================================
+	
+	aiexqelt_alf_template5 = {
+		pattern = "arikuri_pattern_aiexqelt_alf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		# Left letter (y=0.80) - max size (no scale)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.330000 0.800000 }
+				depth = 1.010000
+			}
+		}
+		
+		# Center diacritic
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = {
+				position = { 0.500000 0.510000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+		
+		# Right letter (y=0.80) - max size (no scale)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.670000 0.800000 }
+				depth = 2.010000
+			}
+		}
+	}
+	
+	aiexqelt_glo_template5 = {
+		pattern = "arikuri_pattern_aiexqelt_glo.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.330000 0.800000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.670000 0.800000 } depth = 2.010000 }
+		}
+	}
+	
+	aiexqelt_onf_template5 = {
+		pattern = "arikuri_pattern_aiexqelt_onf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.330000 0.800000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.670000 0.800000 } depth = 2.010000 }
+		}
+	}
+	
+	aiexqelt_pan_template5_standard = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.330000 0.800000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.670000 0.800000 } depth = 2.010000 }
+		}
+	}
+	
+	aiexqelt_pan_template5_inverted = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.330000 0.800000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.670000 0.800000 } depth = 2.010000 }
+		}
+	}
+	
+	# =============================================================================
+	# TEMPLATE 6: 2-LETTER BOTTOM LAYOUT (Solid Pattern, 3 colors)
+	# Same layout as Template 5, but with solid background
+	# =============================================================================
+	
+	aiexqelt_alf_template6 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.330000 0.800000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.670000 0.800000 } depth = 2.010000 }
+		}
+	}
+	
+	aiexqelt_glo_template6 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.330000 0.800000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.670000 0.800000 } depth = 2.010000 }
+		}
+	}
+	
+	aiexqelt_onf_template6 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.330000 0.800000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.670000 0.800000 } depth = 2.010000 }
+		}
+	}
+	
+	aiexqelt_pan_template6_standard = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.330000 0.800000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.670000 0.800000 } depth = 2.010000 }
+		}
+	}
+	
+	aiexqelt_pan_template6_inverted = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.330000 0.800000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.670000 0.800000 } depth = 2.010000 }
+		}
+	}
+	
+	# =============================================================================
+	# TEMPLATE 7: CENTER-LINE 2-LETTER LAYOUT (Faction Pattern, 4 colors)
+	# Based on Template 1 structure, but 2 letters on center x=0.5 (no fluor)
+	# Letters at same Y positions as left-side letters from Template 1
+	# =============================================================================
+	
+	aiexqelt_alf_template7 = {
+		pattern = "arikuri_pattern_aiexqelt_alf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		# Top center letter (y=0.33, same as template1 top-left)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.500000 0.330000 }
+				scale = { 0.500000 0.500000 }
+				depth = 2.010000
+			}
+		}
+		
+		# Center diacritic
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = {
+				position = { 0.500000 0.510000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+		
+		# Bottom center letter (y=0.69, same as template1 bottom-left)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.500000 0.690000 }
+				scale = { 0.500000 0.500000 }
+				depth = 1.010000
+			}
+		}
+	}
+	
+	aiexqelt_glo_template7 = {
+		pattern = "arikuri_pattern_aiexqelt_glo.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.330000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.690000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	aiexqelt_onf_template7 = {
+		pattern = "arikuri_pattern_aiexqelt_onf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.330000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.690000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	aiexqelt_pan_template7_standard = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.330000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.690000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	aiexqelt_pan_template7_inverted = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.330000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.690000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	# =============================================================================
+	# TEMPLATE 8: CENTER-LINE 2-LETTER LAYOUT (Faction Pattern, 4 colors)
+	# Based on Template 2 structure, but 2 letters on center x=0.5 (no fluor)
+	# Letters at same Y positions as left-side letters from Template 2
+	# =============================================================================
+	
+	aiexqelt_alf_template8 = {
+		pattern = "arikuri_pattern_aiexqelt_alf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		# Top center letter (y=0.35, same as template2 left-top)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.500000 0.350000 }
+				scale = { 0.500000 0.500000 }
+				depth = 2.010000
+			}
+		}
+		
+		# Center diacritic
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = {
+				position = { 0.500000 0.510000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+		
+		# Bottom center letter (y=0.67, same as template2 left-bottom)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.500000 0.670000 }
+				scale = { 0.500000 0.500000 }
+				depth = 1.010000
+			}
+		}
+	}
+	
+	aiexqelt_glo_template8 = {
+		pattern = "arikuri_pattern_aiexqelt_glo.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	aiexqelt_onf_template8 = {
+		pattern = "arikuri_pattern_aiexqelt_onf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	aiexqelt_pan_template8_standard = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	aiexqelt_pan_template8_inverted = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.350000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.500000 0.510000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.500000 0.670000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+	}
+	
+	# =============================================================================
+	# TEMPLATE 9: DUAL DIACRITIC LEFT COLUMN (Faction Pattern, 4 colors)
+	# Unique layout: 2 diacritics stacked on left, 4 glyphs arranged around edges
+	# Based on user example with dual diacritic placement
+	# =============================================================================
+	
+	aiexqelt_alf_template9 = {
+		pattern = "arikuri_pattern_aiexqelt_alf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		# Top-left letter
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.320000 0.200000 }
+				scale = { 0.500000 0.500000 }
+				depth = 3.010000
+			}
+		}
+		
+		# Left-upper diacritic (first of two)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = {
+				position = { 0.320000 0.330000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+		
+		# Top-right letter
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.680000 0.320000 }
+				scale = { 0.500000 0.500000 }
+				depth = 4.010000
+			}
+		}
+		
+		# Left-lower diacritic (second of two)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = {
+				position = { 0.320000 0.670000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+		
+		# Bottom-left letter
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.320000 0.800000 }
+				scale = { 0.500000 0.500000 }
+				depth = 1.010000
+			}
+		}
+		
+		# Bottom-right fluorA
+		colored_emblem = {
+			texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+			color1 = color3
+			instance = {
+				position = { 0.680000 0.950000 }
+				scale = { 0.500000 0.500000 }
+				depth = 2.010000
+			}
+		}
+	}
+	
+	aiexqelt_glo_template9 = {
+		pattern = "arikuri_pattern_aiexqelt_glo.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.320000 0.200000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.320000 0.330000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.680000 0.320000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.320000 0.670000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.320000 0.800000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+			color1 = color3
+			instance = { position = { 0.680000 0.950000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+	}
+	
+	aiexqelt_onf_template9 = {
+		pattern = "arikuri_pattern_aiexqelt_onf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.320000 0.200000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.320000 0.330000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.680000 0.320000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.320000 0.670000 } scale = { 0.500000 0.500000 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.320000 0.800000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+			color1 = color3
+			instance = { position = { 0.680000 0.950000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+		}
+	}
+	
+	aiexqelt_pan_template9_standard = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.320000 0.200000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.320000 0.330000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color3
+		instance = { position = { 0.680000 0.320000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+		color1 = color4
+		instance = { position = { 0.320000 0.670000 } scale = { 0.500000 0.500000 } }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.320000 0.800000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.680000 0.800000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+	}
+}
+
+aiexqelt_pan_template9_inverted = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.320000 0.200000 } scale = { 0.500000 0.500000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.320000 0.330000 } scale = { 0.500000 0.500000 } }
+		}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+		color1 = color3
+		instance = { position = { 0.680000 0.320000 } scale = { 0.500000 0.500000 } depth = 4.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+		color1 = color4
+		instance = { position = { 0.320000 0.670000 } scale = { 0.500000 0.500000 } }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.320000 0.800000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color3
+		instance = { position = { 0.680000 0.800000 } scale = { 0.500000 0.500000 } depth = 2.010000 }
+	}
+}
+
+# =============================================================================
+# TEMPLATE 10: DUAL DIACRITIC LEFT COLUMN (Solid Pattern, 3 colors)
+	# Same layout as Template 9, but with solid background
+	# Based on user example with solid pattern
+	# =============================================================================
+	
+	aiexqelt_alf_template10 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+	# Top-left letter
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = {
+			position = { 0.320000 0.200000 }
+			scale = { 0.750000 0.750000 }
+			depth = 3.010000
+		}
+	}
+	
+	# Left-upper diacritic
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+		color1 = color3
+		instance = {
+			position = { 0.320000 0.330000 }
+			scale = { 0.500000 0.500000 }
+		}
+	}
+	
+	# Top-right letter
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = {
+			position = { 0.680000 0.320000 }
+			scale = { 0.750000 0.750000 }
+			depth = 4.010000
+		}
+	}
+		
+	# Left-lower diacritic
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+		color1 = color3
+		instance = {
+			position = { 0.320000 0.670000 }
+			scale = { 0.500000 0.500000 }
+		}
+	}
+	
+	# Bottom-left letter
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = {
+			position = { 0.320000 0.800000 }
+			scale = { 0.750000 0.750000 }
+			depth = 1.010000
+		}
+	}
+	
+	# Bottom-right fluorA
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+		color1 = color2
+		instance = {
+			position = { 0.680000 0.950000 }
+			scale = { 0.750000 0.750000 }
+			depth = 2.010000
+		}
+	}
+}
+
+aiexqelt_glo_template10 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.320000 0.200000 } scale = { 0.750000 0.750000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+		color1 = color3
+		instance = { position = { 0.320000 0.330000 } scale = { 0.500000 0.500000 } }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.680000 0.320000 } scale = { 0.750000 0.750000 } depth = 4.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+		color1 = color3
+		instance = { position = { 0.320000 0.670000 } scale = { 0.500000 0.500000 } }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.320000 0.800000 } scale = { 0.750000 0.750000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+		color1 = color2
+		instance = { position = { 0.680000 0.950000 } scale = { 0.750000 0.750000 } depth = 2.010000 }
+	}
+}
+
+aiexqelt_onf_template10 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.320000 0.200000 } scale = { 0.750000 0.750000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+		color1 = color3
+		instance = { position = { 0.320000 0.330000 } scale = { 0.500000 0.500000 } }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.680000 0.320000 } scale = { 0.750000 0.750000 } depth = 4.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+		color1 = color3
+		instance = { position = { 0.320000 0.670000 } scale = { 0.500000 0.500000 } }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.320000 0.800000 } scale = { 0.750000 0.750000 } depth = 1.010000 }
+	}
+	colored_emblem = {
+		texture = "arikuri_ws_aiexqelt_letter_glyph_fluorA.dds"
+		color1 = color2
+		instance = { position = { 0.680000 0.950000 } scale = { 0.750000 0.750000 } depth = 2.010000 }
+	}
+}
+
+aiexqelt_pan_template10_standard = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.320000 0.200000 } scale = { 0.750000 0.750000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+		color1 = color3
+		instance = { position = { 0.320000 0.330000 } scale = { 0.500000 0.500000 } }
+	}
+colored_emblem = {
+	texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+	color1 = color2
+	instance = { position = { 0.680000 0.320000 } scale = { 0.750000 0.750000 } depth = 4.010000 }
+}
+colored_emblem = {
+	texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+	color1 = color3
+	instance = { position = { 0.320000 0.670000 } scale = { 0.500000 0.500000 } }
+}
+colored_emblem = {
+	texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+	color1 = color2
+	instance = { position = { 0.320000 0.800000 } scale = { 0.750000 0.750000 } depth = 1.010000 }
+}
+colored_emblem = {
+	texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+	color1 = color2
+	instance = { position = { 0.680000 0.800000 } scale = { 0.750000 0.750000 } depth = 2.010000 }
+}
+}
+
+aiexqelt_pan_template10_inverted = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+		color1 = color2
+		instance = { position = { 0.320000 0.200000 } scale = { 0.750000 0.750000 } depth = 3.010000 }
+	}
+	colored_emblem = {
+		texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+		color1 = color3
+		instance = { position = { 0.320000 0.330000 } scale = { 0.500000 0.500000 } }
+	}
+colored_emblem = {
+	texture = "arikuri_ws_aiexqelt_letter_glyph_fluorB.dds"
+	color1 = color2
+	instance = { position = { 0.680000 0.320000 } scale = { 0.750000 0.750000 } depth = 4.010000 }
+}
+colored_emblem = {
+	texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+	color1 = color3
+	instance = { position = { 0.320000 0.670000 } scale = { 0.500000 0.500000 } }
+}
+colored_emblem = {
+	texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+	color1 = color2
+	instance = { position = { 0.320000 0.800000 } scale = { 0.750000 0.750000 } depth = 1.010000 }
+}
+colored_emblem = {
+	texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+	color1 = color2
+	instance = { position = { 0.680000 0.800000 } scale = { 0.750000 0.750000 } depth = 2.010000 }
+}
+}
+
+# =============================================================================
+# TEMPLATE 11: LEFT SIDE LARGE LETTERS (Solid Pattern, 3 colors)
+	# Two large letters on left with diacritics overlaid
+	# =============================================================================
+	
+	aiexqelt_alf_template11 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		# Top letter (large)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = {
+				position = { 0.310000 0.250000 }
+				scale = { 0.850000 0.850000 }
+				depth = 3.010000
+			}
+		}
+		
+		# Top diacritic (overlaid on top letter)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.310000 0.250000 }
+				scale = { 0.500000 0.500000 }
+				depth = 1.010000
+			}
+		}
+		
+		# Bottom letter (large)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = {
+				position = { 0.310000 0.750000 }
+				scale = { 0.850000 0.850000 }
+				depth = 2.010000
+			}
+		}
+		
+		# Bottom diacritic (overlaid on bottom letter)
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color3
+			instance = {
+				position = { 0.310000 0.750000 }
+				scale = { 0.500000 0.500000 }
+			}
+		}
+	}
+	
+	aiexqelt_glo_template11 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.310000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.310000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_onf_template11 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.310000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.310000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template11_standard = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.310000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.310000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template11_inverted = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.310000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.310000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	# =============================================================================
+	# TEMPLATE 12: RIGHT SIDE LARGE LETTERS (Solid Pattern, 3 colors)
+	# Two large letters on right with diacritics overlaid
+	# X coordinate = 1 - 0.31 = 0.69
+	# =============================================================================
+	
+	aiexqelt_alf_template12 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.690000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.690000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_glo_template12 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.690000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.690000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_onf_template12 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.690000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.690000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template12_standard = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.690000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.690000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template12_inverted = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.690000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color2
+			instance = { position = { 0.690000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	# =============================================================================
+	# TEMPLATE 13: LEFT SIDE LARGE LETTERS (Vertical Split Pattern, 4 colors)
+	# Two large letters on left with diacritics overlaid
+	# Pattern: pattern_vertical_split_01
+	# =============================================================================
+	
+	aiexqelt_alf_template13 = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.260000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.260000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.260000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.260000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_glo_template13 = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.260000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.260000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.260000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.260000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_onf_template13 = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.260000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.260000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.260000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.260000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template13_standard = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.260000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.260000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.260000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.260000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template13_inverted = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.260000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.260000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.260000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.260000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	# =============================================================================
+	# TEMPLATE 14: RIGHT SIDE LARGE LETTERS (Vertical Split Pattern, 4 colors)
+	# Two large letters on right with diacritics overlaid
+	# Pattern: pattern_vertical_split_01
+	# =============================================================================
+	
+	aiexqelt_alf_template14 = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.740000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.740000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.740000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.740000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_glo_template14 = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.740000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.740000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.740000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.740000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_onf_template14 = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.740000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.740000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.740000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.740000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template14_standard = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.740000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.740000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.740000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.740000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template14_inverted = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.740000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.740000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.740000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.740000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	# =============================================================================
+	# TEMPLATE 15: LEFT SIDE LARGE LETTERS (Faction Pattern, 4 colors)
+	# Two large letters on left with diacritics overlaid
+	# Pattern: faction-specific
+	# =============================================================================
+	
+	aiexqelt_alf_template15 = {
+		pattern = "arikuri_pattern_aiexqelt_alf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.310000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.310000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_glo_template15 = {
+		pattern = "arikuri_pattern_aiexqelt_glo.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.310000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.310000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_onf_template15 = {
+		pattern = "arikuri_pattern_aiexqelt_onf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.310000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.310000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template15_standard = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.310000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.310000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template15_inverted = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.310000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.310000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.310000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	# =============================================================================
+	# TEMPLATE 16: RIGHT SIDE LARGE LETTERS (Faction Pattern, 4 colors)
+	# Two large letters on right with diacritics overlaid
+	# Pattern: faction-specific
+	# =============================================================================
+	
+	aiexqelt_alf_template16 = {
+		pattern = "arikuri_pattern_aiexqelt_alf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.690000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_alf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.690000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_glo_template16 = {
+		pattern = "arikuri_pattern_aiexqelt_glo.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.690000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_glo_glyph_list"
+			color1 = color4
+			instance = { position = { 0.690000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_onf_template16 = {
+		pattern = "arikuri_pattern_aiexqelt_onf.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.690000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_onf_glyph_list"
+			color1 = color4
+			instance = { position = { 0.690000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template16_standard = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.690000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.690000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+	
+	aiexqelt_pan_template16_inverted = {
+		pattern = "arikuri_pattern_aiexqelt_pan.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		color4 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.250000 } scale = { 0.850000 0.850000 } depth = 3.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.690000 0.250000 } scale = { 0.500000 0.500000 } depth = 1.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_letter_glyph_list"
+			color1 = color3
+			instance = { position = { 0.690000 0.750000 } scale = { 0.850000 0.850000 } depth = 2.010000 }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ws_aiexqelt_dia_pan_glyph_list"
+			color1 = color4
+			instance = { position = { 0.690000 0.750000 } scale = { 0.500000 0.500000 } }
+		}
+	}
+}

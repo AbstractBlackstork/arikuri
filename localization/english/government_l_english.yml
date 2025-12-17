@@ -976,16 +976,251 @@
  appointment_title_value.distance_to_capital: "Distance to [GetTitleByKey('h_china').GetNamePossessive] [capital|E]"
 
 #Arikuri begin
- aigl_feudal_government:0 "Aiglic Feudal"
- aigl_feudal_government_with_icon: "@government_type_feudal! $feudal_government$"
- aigl_feudal_government_adjective:0 "Aiglic Feudal"
- aigl_feudal_government_realm:0 "Aiglic Feudal Realm"
- aigl_feudal_government_vassals_label:1 "Aiglic Feudal [obligations|E] are based on each [vassal|E]'s [vassal_contract|E]"
- aigl_feudal_government_desc:1 "\n$game_concept_feudal_desc$\n\n#F A feudal government used by cultures of the Aiglic writing system of Thekan southwest ocean shore regions. The rulers who hold the land appoint vassals which are given fiefs to govern. In return, the vassals provide their liege with [soldiers|E] and [taxes|E]. Aiglic feudal rulers are obliged to help their liege expansion efforts. The vassals contribute less of their own [levy_contribution|E] to their liege, and lieges rely less on their levies, but more on their elite retinue of highly skilled warriors who form their closest circle of knights and escorts.#!"
+ aigl_feudal_government:0 "Aiglic Scavenger Feudal"
+ aigl_feudal_government_with_icon: "@government_type_feudal! $aigl_feudal_government$"
+ aigl_feudal_government_adjective:0 "Aiglic Scavenger"
+ aigl_feudal_government_realm:0 "Aiglic Scavenger Realm"
+ aigl_feudal_government_vassals_label:1 "Aiglic [obligations|E] are based on each [vassal|E]'s [vassal_contract|E]"
+ aigl_feudal_government_desc:1 "\n$game_concept_feudal_desc$\n\n#F The Aiglic peoples of Thekan's southwest coast are crafty scavenger survivalists and adaptable opportunists. Masters of boat and fleet, they raid coastal settlements and adapt quickly to changing circumstances. Their feudal structure is marked by internal struggles and fractious vassals, making expansion difficult to consolidate. What they lack in unity, they compensate with naval prowess and opportunistic raiding. Elite knights form small, effective warbands, while the constant internal friction prevents any single ruler from dominating completely. They thrive through cunning, not cohesion.#!"
  aigl_feudal_government_obligations:0 "[GetGovernment( 'aigl_feudal_government' ).GetName] [obligations|E]"
- aigl_feudal_government_obligation_low:3 "Low $feudal_government_obligations$"
+ aigl_feudal_government_obligation_low:3 "Low $aigl_feudal_government_obligations$"
  aigl_feudal_government_obligation_low_short:0 "Low"
- aigl_feudal_government_obligation_normal:3 "Normal $feudal_government_obligations$"
+ aigl_feudal_government_obligation_normal:3 "Normal $aigl_feudal_government_obligations$"
  aigl_feudal_government_obligation_normal_short:0 "Normal"
- aigl_feudal_government_obligation_high:3 "High $feudal_government_obligations$"
+ aigl_feudal_government_obligation_high:3 "High $aigl_feudal_government_obligations$"
  aigl_feudal_government_obligation_high_short:0 "High"
+ 
+ ### Chormana Otija Government
+ chormana_otija_government: "Chormana Otija"
+ chormana_otija_government_with_icon: "@government_type_nomad! $chormana_otija_government$"
+ chormana_otija_government_adjective: "Otija"
+ chormana_otija_government_realm: "Otija Confederation"
+ chormana_otija_government_desc: "\n$game_concept_nomadic_desc$\n\n#F The riders of Otij are fierce cavalry masters who maintain their independence through loyalty to their Malachite mountains Medeo overlords. Supplied and supported by the great houses of Medeo, the Otija tribes roam the eastern deserts with superior mounts and well-stocked supply trains. Though they can establish settlements and advance their knowledge, the nomadic spirit runs deep — building is expensive, progress is slow, and the call of the open desert remains strong. Their swift cavalry and excellent logistics make them formidable raiders, but their reliance on tributary support and semi-settled lifestyle leaves their military forces weaker than traditional nomads.#!"
+ CHORMANA_OTIJA_CONTRACT: "Otija Nomadic Contract"
+ chormana_otija_vassal: "Otija Nomad"
+ chormana_otija_vassal_desc: "Under the [chormana_otija_government|E], an Otija [nomad|E] offers [herd|E] and loyalty to their [liege|E] in exchange for land and protection. The specifics are regulated by the [vassal_contract|E] between Vassal and Liege."
+ chormana_otija_government_herd: "[herd|U] Tithes"
+ 
+ ### Western Chormana Government
+ western_chormana_government: "Western Chormana"
+ western_chormana_government_with_icon: "@government_type_nomad! $western_chormana_government$"
+ western_chormana_government_adjective: "Western Chormana"
+ western_chormana_government_realm: "Silver Knights Confederation"
+ western_chormana_government_desc: "\n$game_concept_nomadic_desc$\n\n#F The Knights of the western Chormana are renowned for their elite warrior culture and bonds of personal trust. Through generations of careful selection and rigorous training, they have forged some of the finest knight retinues in the region. The practice of genetic selection and the emphasis on personal loyalty create a tightly-knit military aristocracy capable of devastating cavalry charges through the hills and mountains. While they can build settlements and advance technologically, their nomadic traditions make such progress painfully expensive and slow. Their elite knights and organized leadership ensure stability, but their semi-settled nature leaves them militarily weaker than their fully nomadic ancestors.#!"
+ WESTERN_CHORMANA_CONTRACT: "Western Chormana Nomadic Contract"
+ western_chormana_vassal: "Western Chormana Nomad"
+ western_chormana_vassal_desc: "Under the [western_chormana_government|E], a Western Chormana [nomad|E] offers [herd|E] and elite knights to their [liege|E] in exchange for land and protection. The specifics are regulated by the [vassal_contract|E] between Vassal and Liege."
+ western_chormana_government_herd: "[herd|U] Tithes"
+ 
+ ### Central Chormana Government (Ioddrik)
+ central_chormana_government: "Central Chormana"
+ central_chormana_government_with_icon: "@government_type_nomad! $central_chormana_government$"
+ central_chormana_government_adjective: "Central Chormana"
+ central_chormana_government_realm: "Desert Faithful Confederation"
+ central_chormana_government_desc: "\n$game_concept_nomadic_desc$\n\n#F The faithful warriors of central Choraman are wandering defenders of the faith, masters of desert and mountain warfare. United by deep religious conviction, they patrol the harsh terrains with unmatched endurance and defensive skill. Their knowledge of the land makes them nearly impossible to dislodge from prepared positions, and their holy wars bring both glory and piety to their people. Though capable of establishing settlements and advancing their civilization, their wandering religious calling makes such development costly and gradual. Their terrain mastery and faith-driven unity grant them formidable defensive power, but their devotion to nomadic pilgrimage leaves their military weaker than traditional nomadic hordes.#!"
+ CENTRAL_CHORMANA_CONTRACT: "Central Chormana Nomadic Contract"
+ central_chormana_vassal: "Central Chormana Nomad"
+ central_chormana_vassal_desc: "Under the [central_chormana_government|E], a Central Chormana [nomad|E] offers [herd|E] and religious devotion to their [liege|E] in exchange for land and protection. The specifics are regulated by the [vassal_contract|E] between Vassal and Liege."
+ central_chormana_government_herd: "[herd|U] Tithes"
+ 
+ ### Aigl Chormana Government
+ aigl_chormana_government: "Aigl Chormana"
+ aigl_chormana_government_with_icon: "@government_type_nomad! $aigl_chormana_government$"
+ aigl_chormana_government_adjective: "Aigl Chormana"
+ aigl_chormana_government_realm: "Warlord Confederation"
+ aigl_chormana_government_desc: "\n$game_concept_nomadic_desc$\n\n#F The militant faithful of Aigl have forsaken the coastal ways of their kin to become fierce inland warlords. United by aggressive doctrines of unrelenting faith or warmonger zeal, these raiders strike with coordinated fury and religious conviction. Their elite warriors and aggressive tactics make them constant threats to their neighbors, and their same-faith unity creates powerful military coalitions. While they can establish permanent settlements and pursue technological advancement, their warrior culture makes such endeavors prohibitively expensive and painfully slow. Their aggressive expansion and unity bring strength, but their semi-settled nature and militant lifestyle leave them with weaker armies than their fully nomadic predecessors.#!"
+ AIGL_CHORMANA_CONTRACT: "Aigl Chormana Nomadic Contract"
+ aigl_chormana_vassal: "Aigl Chormana Warlord"
+ aigl_chormana_vassal_desc: "Under the [aigl_chormana_government|E], an Aigl Chormana warlord offers [herd|E] and military might to their [liege|E] in exchange for land and glory. The specifics are regulated by the [vassal_contract|E] between Vassal and Liege."
+ aigl_chormana_government_herd: "[herd|U] Tithes"
+ 
+ ### Shared Chormana Concepts
+ government_is_chormana: "This is a [GetTrait('government_is_chormana').GetName( GetPlayer )]"
+ government_is_chormana_name: "Chormana Government"
+ government_is_chormana_desc: "Semi-settled nomadic governments of the Choraman region, capable of building and developing but at great cost. Mobile raiders with moderate military strength."
+ 
+ ### New Custom Governments (Dec 2025)
+ 
+ # === 03 - SOUTHEASTERN FAMILY CLAN ===
+ southeastern_family_clan: "Southeastern Family Clan"
+ southeastern_family_clan_with_icon: "@government_type_clan! $southeastern_family_clan$"
+ southeastern_family_clan_adjective: "Clan"
+ southeastern_family_clan_realm: "Clan Territory"
+ southeastern_family_clan_desc: "\n$game_concept_clan_desc$\n\n#F The Southeastern Family Clans organize their societies around extended family networks, with clan elders maintaining authority through consensus and family honor. Coastal, riverine, and inland clans cooperate through kinship bonds while maintaining strong family autonomy.#!"
+ SOUTHEASTERN_FAMILY_CLAN_CONTRACT: "Family Clan Contract"
+ southeastern_family_clan_vassal: "Vassal Clan"
+ southeastern_family_clan_vassal_desc: "$clan_government_vassal_desc$"
+
+ # === 04a - INEOISM MANDALA ===
+ ineoism_mandala: "Ineoism Temple-Citadel"
+ ineoism_mandala_with_icon: "@government_type_mandala! $ineoism_mandala$"
+ ineoism_mandala_adjective: "Temple-State"
+ ineoism_mandala_realm: "Temple Confederation"
+ ineoism_mandala_desc: "\n$game_concept_mandala_desc$\n\n#F The Ineoism Temple-Citadels are peaceful mountain fortress-temples where piety and spiritual authority guide governance. Scholar-monks maintain both defensive fortifications and centers of learning in high altitude settlements.#!"
+ INEOISM_MANDALA_CONTRACT: "Temple-Citadel Accord"
+ ineoism_mandala_vassal: "Temple Vassal"
+ ineoism_mandala_vassal_desc: "$mandala_government_vassal_desc$"
+
+ # === 04b - KIOQ MANDALA ===
+ kioq_mandala: "HuakKenVah"
+ kioq_mandala_with_icon: "@government_type_mandala! $kioq_mandala$"
+ kioq_mandala_adjective: "HuakKenVah"
+ kioq_mandala_realm: "HuakKenVah Dominion"
+ kioq_mandala_desc: "\n$game_concept_mandala_desc$\n\n#F Under the HuakKenVah system, the jungle's harsh law becomes divine mandate. The HuakKen — supreme warrior-priest — rules through absolute military authority sanctified by the divine. From temple fortresses deep in unforgiving jungle, elite guards enforce the HuakKenVah: holy law delivered through disciplined force, where martial prowess proves spiritual worth and weakness is heresy. The weak are cast aside as the jungle demands, while the strong ascend to serve the HuakKen's sacred military order. Common subjects endure harsh discipline, knowing the HuakKenVah permits no compromise.\n\n#bold HuakKenVah Strengths:#! Divine military elite, absolute sacred authority, zealot temple warriors, iron discipline\n#bold HuakKenVah Weaknesses:#! Brutal theocracy alienates subjects, military focus drains wealth, sacred isolation from outsiders#!"
+ KIOQ_MANDALA_CONTRACT: "HuakKenVah Compact"
+ kioq_mandala_vassal: "HuakKenVah Guardian"
+ kioq_mandala_vassal_desc: "$mandala_government_vassal_desc$"
+
+ # === 04c - LIVETOWER SPIRITUAL MANDALA ===
+ livetower_spiritual_mandala: "Livetower Spiritual Center"
+ livetower_spiritual_mandala_with_icon: "@government_type_mandala! $livetower_spiritual_mandala$"
+ livetower_spiritual_mandala_adjective: "Spiritual"
+ livetower_spiritual_mandala_realm: "Spiritual Confederation"
+ livetower_spiritual_mandala_desc: "\n$game_concept_mandala_desc$\n\n#F Livetower serves as the spiritual and cultural center of the Floicht people, maintaining tributary networks through religious authority rather than military force. Temple administrators coordinate vast federations through spiritual influence.#!"
+ LIVETOWER_SPIRITUAL_MANDALA_CONTRACT: "Spiritual Tributary"
+ livetower_spiritual_mandala_vassal: "Spiritual Vassal"
+ livetower_spiritual_mandala_vassal_desc: "$mandala_government_vassal_desc$"
+
+ # === 05 - INNER SEA RAIDERS ===
+ inner_sea_raiders: "Inner Sea Raiders"
+ inner_sea_raiders_with_icon: "@government_type_wanua! $inner_sea_raiders$"
+ inner_sea_raiders_adjective: "Raider"
+ inner_sea_raiders_realm: "Raider Federation"
+ inner_sea_raiders_desc: "\n$game_concept_wanua_desc$\n\n#F The Inner Sea Raiders are naval warriors who control island chains and coastal territories through maritime prowess. Whether ideological Robin Hood raiders redistributing wealth or pragmatic neutral corsairs, all share mastery of naval warfare and mobile raiding tactics.#!"
+ INNER_SEA_RAIDERS_CONTRACT: "Raider's Compact"
+ inner_sea_raiders_vassal: "Raider Captain"
+ inner_sea_raiders_vassal_desc: "$wanua_government_vassal_desc$"
+
+ # === 06 - MERCENARY NOMAD HYBRID ===
+ mercenary_nomad_hybrid: "Mercenary Nomad Host"
+ mercenary_nomad_hybrid_with_icon: "@government_type_nomad! $mercenary_nomad_hybrid$"
+ mercenary_nomad_hybrid_adjective: "Mercenary"
+ mercenary_nomad_hybrid_realm: "Mercenary Camp"
+ mercenary_nomad_hybrid_desc: "\n$game_concept_nomad_desc$\n\n#F These mobile mercenary companies combine nomadic lifestyle with professional warfare for hire. Maintaining camps rather than permanent settlements, they offer military expertise to the highest bidder while preserving their independence through constant movement.#!"
+ MERCENARY_NOMAD_HYBRID_CONTRACT: "Mercenary Charter"
+ mercenary_nomad_hybrid_vassal: "Company Captain"
+ mercenary_nomad_hybrid_vassal_desc: "$nomad_government_vassal_desc$"
+ mercenary_nomad_hybrid_herd: "[herd|U] Mercenary Camp"
+
+ # === 07 - BROULQEN BUREAUCRACY ===
+ broulqen_bureaucracy: "Broulqen Theme Administration"
+ broulqen_bureaucracy_with_icon: "@government_type_administrative! $broulqen_bureaucracy$"
+ broulqen_bureaucracy_adjective: "Theme"
+ broulqen_bureaucracy_realm: "Theme Empire"
+ broulqen_bureaucracy_desc: "\n$game_concept_administrative_desc$\n\n#F The Broulqen govern through a sophisticated Byzantine-inspired theme system where military-administrative governors control provinces. Bureaucratic efficiency combines with military organization to create a powerful centralized state focused on control and expansion.#!"
+ BROULQEN_BUREAUCRACY_CONTRACT: "Theme Governor Charter"
+ broulqen_bureaucracy_vassal: "Theme Governor"
+ broulqen_bureaucracy_vassal_desc: "$administrative_government_vassal_desc$"
+
+ # === 08 - QEOMOQ COMMUNAL ===
+ qeomoq_communal: "Qeomoq Communal Formation"
+ qeomoq_communal_with_icon: "@government_type_celestial! $qeomoq_communal$"
+ qeomoq_communal_adjective: "Communal"
+ qeomoq_communal_realm: "People's Federation"
+ qeomoq_communal_desc: "\n$game_concept_celestial_desc$\n\n#F The Qeomoq organize their society around communal principles and spiritual guidance, combining collective governance with celestial bureaucratic traditions. Popular sovereignty and spiritual authority work together to create a unique egalitarian yet hierarchical system.#!"
+ QEOMOQ_COMMUNAL_CONTRACT: "Communal Accord"
+ qeomoq_communal_vassal: "Communal Administrator"
+ qeomoq_communal_vassal_desc: "$celestial_government_vassal_desc$"
+
+ # === AIXQELT EMPIRE 4-GOVERNMENT SYSTEM (oblongpassage religion) ===
+ 
+ # === 09a - ENIOL MANDATE (frenchincident_faith) ===
+ eniol_oppressive: "Eniol Mandate"
+ eniol_oppressive_with_icon: "@government_type_japan_feudal! $eniol_oppressive$"
+ eniol_oppressive_adjective: "Eniol"
+ eniol_oppressive_realm: "Eniol Mandate"
+ eniol_oppressive_desc: "\n$game_concept_japan_feudal_desc$\n\n#F The Eniol Mandate upholds traditional order through military authority and conservative values.#!"
+ ENIOL_OPPRESSIVE_CONTRACT: "Mandate Contract"
+ eniol_oppressive_vassal: "Mandate Lord"
+ eniol_oppressive_vassal_desc: "$japan_feudal_government_vassal_desc$"
+
+ # === 09b - ENIOL TECHNOCRACY  ===
+ eniol_progressive: "Eniol Technocracy"
+ eniol_progressive_with_icon: "@government_type_japan_admin! $eniol_progressive$"
+ eniol_progressive_adjective: "Eniol"
+ eniol_progressive_realm: "Eniol Technocracy"
+ eniol_progressive_desc: "\n$game_concept_japan_admin_desc$\n\n#F The Eniol Technocracy governs through scholarly administration and ideological devotion to progress.#!"
+ ENIOL_PROGRESSIVE_CONTRACT: "Technocracy Charter"
+ eniol_progressive_vassal: "Technocrat Administrator"
+ eniol_progressive_vassal_desc: "$japan_admin_government_vassal_desc$"
+
+ # === 09c - ENIOL SUPREMACY (chubbychildhood_faith) ===
+ eniol_military: "Eniol Supremacy"
+ eniol_military_with_icon: "@government_type_japan_feudal! $eniol_military$"
+ eniol_military_adjective: "Eniol"
+ eniol_military_realm: "Eniol Supremacy"
+ eniol_military_desc: "\n$game_concept_japan_feudal_desc$\n\n#F The Eniol Supremacy enforces dominance through martial excellence and aggressive expansion.#!"
+ ENIOL_MILITARY_CONTRACT: "Supremacy Oath"
+ eniol_military_vassal: "Supremacy Commander"
+ eniol_military_vassal_desc: "$japan_feudal_government_vassal_desc$"
+
+ # === 09d - ENIOL ADMINISTRATION (wideeyedimpact_faith) ===
+ eniol_diplomatic: "Eniol Administration"
+ eniol_diplomatic_with_icon: "@government_type_japan_admin! $eniol_diplomatic$"
+ eniol_diplomatic_adjective: "Eniol"
+ eniol_diplomatic_realm: "Eniol Administration"
+ eniol_diplomatic_desc: "\n$game_concept_japan_admin_desc$\n\n#F The Eniol Administration practices diplomatic governance and social harmony through refined administration.#!"
+ ENIOL_DIPLOMATIC_CONTRACT: "Administration Accord"
+ eniol_diplomatic_vassal: "Administration Governor"
+ eniol_diplomatic_vassal_desc: "$japan_admin_government_vassal_desc$"
+
+ # === 10 - MALACHITE MOUNTAIN EMPIRE ===
+ malachite_mountain_empire: "Malachite Mountain Empire"
+ malachite_mountain_empire_with_icon: "@government_type_feudal! $malachite_mountain_empire$"
+ malachite_mountain_empire_adjective: "Mountain"
+ malachite_mountain_empire_realm: "Vertical Empire"
+ malachite_mountain_empire_desc: "\n$game_concept_feudal_desc$\n\n#F The Malachite Mountain rulers govern from vast cave fortresses extending deep into mountain chains. Masters of defensive warfare and subterranean construction, they combine mountain fortress specialization with cunning intrigue to maintain their ancient vertical empire.#!"
+ MALACHITE_MOUNTAIN_EMPIRE_CONTRACT: "Mountain Fortress Pact"
+ malachite_mountain_empire_vassal: "Fortress Lord"
+ malachite_mountain_empire_vassal_desc: "$feudal_government_vassal_desc$"
+
+ # === 11 - PFAUNKTI TRADE GUILD ===
+ pfaunkti_trade_guild: "Pfaunkti Trade Guild"
+ pfaunkti_trade_guild_with_icon: "@government_type_meritocratic! $pfaunkti_trade_guild$"
+ pfaunkti_trade_guild_adjective: "Guild"
+ pfaunkti_trade_guild_realm: "Trade Federation"
+ pfaunkti_trade_guild_desc: "\n$game_concept_meritocratic_desc$\n\n#F The Pfaunkti combine meritocratic governance with powerful craft and trade guilds. Commercial expertise and crafty negotiations drive their economy, with guild masters rising through demonstrated competence in commerce rather than birthright.#!"
+ PFAUNKTI_TRADE_GUILD_CONTRACT: "Guild Charter"
+ pfaunkti_trade_guild_vassal: "Guild Master"
+ pfaunkti_trade_guild_vassal_desc: "$meritocratic_government_vassal_desc$"
+
+ # === 12b - VEUQRIT SCHOLASTIC ORDER ===
+ veuqrit_scholastic: "Veuqrit Scholastic Order"
+ veuqrit_scholastic_with_icon: "@government_type_meritocratic! $veuqrit_scholastic$"
+ veuqrit_scholastic_adjective: "Scholastic"
+ veuqrit_scholastic_realm: "Scholar's State"
+ veuqrit_scholastic_desc: "\n$game_concept_meritocratic_desc$\n\n#F The Veuqrit practice true scholarly meritocracy through rigorous examination systems. Inspired by Korean civil service traditions, administrators rise through demonstrated learning and competence, creating an egalitarian but intellectually demanding bureaucracy heavily focused on education and development.#!"
+ VEUQRIT_SCHOLASTIC_CONTRACT: "Scholar's Mandate"
+ veuqrit_scholastic_vassal: "Scholar-Administrator"
+ veuqrit_scholastic_vassal_desc: "$meritocratic_government_vassal_desc$"
+
+ # === 13a - PALADINICAL HOSTS ===
+ paladinical_hosts: "Paladinical Hosts"
+ paladinical_hosts_with_icon: "@government_type_clan! $paladinical_hosts$"
+ paladinical_hosts_adjective: "Paladinical"
+ paladinical_hosts_realm: "Knight Brotherhood"
+ paladinical_hosts_desc: "\n$game_concept_clan_desc$\n\n#F Paladinical hosts organize their warrior orders as extended family groups, combining clan kinship bonds with sacred devotion. These brotherhoods treat their warriors as family, maintaining prestige-based bonds while preparing for future integration with holy order mechanics.#!"
+ PALADINICAL_HOSTS_CONTRACT: "Knight-Brother Oath"
+ paladinical_hosts_vassal: "Knight-Captain"
+ paladinical_hosts_vassal_desc: "$clan_government_vassal_desc$"
+
+ # === 13c - TRIBAL WANDERERS ===
+ tribal_wanderers: "Tribal Wanderers"
+ tribal_wanderers_with_icon: "@government_type_nomad! $tribal_wanderers$"
+ tribal_wanderers_adjective: "Wandering"
+ tribal_wanderers_realm: "Wandering Teachers"
+ tribal_wanderers_desc: "\n$game_concept_nomad_desc$\n\n#F The Thramptith Wanderers are peaceful nomadic mendicant teachers who travel constantly, sharing knowledge and spiritual guidance. Unlike aggressive raiders, these wanderers focus on learning, teaching, and diplomacy, moving from settlement to settlement as revered spiritual guides.#!"
+ TRIBAL_WANDERERS_CONTRACT: "Teacher's Bond"
+ tribal_wanderers_vassal: "Wandering Teacher"
+ tribal_wanderers_vassal_desc: "$nomad_government_vassal_desc$"
+ tribal_wanderers_herd: "[herd|U] Wandering Camp"
+
+ # === 13d - BLOUCK TRIBAL ===
+ blouck_tribal: "Blouck Tribal Chiefdom"
+ blouck_tribal_with_icon: "@government_type_tribal! $blouck_tribal$"
+ blouck_tribal_adjective: "Tribal"
+ blouck_tribal_realm: "Tribal Federation"
+ blouck_tribal_desc: "\n$game_concept_tribal_desc$\n\n#F The Blouck maintain settled tribal structures with strong spiritual focus, emphasizing traditional wisdom and religious guidance over aggressive expansion. Their thick skin and connection to natural materials reflect their grounded, spiritually-centered tribal culture.#!"
+ BLOUCK_TRIBAL_CONTRACT: "Tribal Accord"
+ blouck_tribal_vassal: "Tribal Chief"
+ blouck_tribal_vassal_desc: "$tribal_government_vassal_desc$"

@@ -414,7 +414,7 @@ NCharacterOpinion = {
 	
 	SKILL_DIPLOMACY_MULT = 1	# opinion = round( ( <diplo skill> - SKILL_MODIFIER_OFFSET ) * SKILL_DIPLOMACY_MULT )
 
-	SHORT_REIGN_YEARS = 10
+	SHORT_REIGN_YEARS = 15
 	LONG_REIGN_YEARS = 10
 	SHORT_REIGN_MULTIPLIER = -2
 	LONG_REIGN_MULTIPLIER = 1
@@ -435,7 +435,7 @@ NCharacterOpinion = {
 
 	DEFENDING_ME_IN_CLAIM_WAR = 100
 
-	POWERFUL_VASSAL_WITHOUT_COUNCIL_POSITION = -40
+	POWERFUL_VASSAL_WITHOUT_COUNCIL_POSITION = -45
 
 	IS_ON_THE_COUNCIL = 10
 
@@ -450,12 +450,12 @@ NCharacterOpinion = {
 	EMPIRE_IS_VALID_DE_JURE_LIEGE_FOR_DUCHY = yes 		# Dukes won't be upset as the vassal of their dejure emperor
 	PARTIALLY_NON_RIGHTFUL_LIEGE_TAX_MULT = 0.75 		# Tax mult when partially non-rightful liege (liege doesn't hold dejure liege title of the vassal's primary, or empire for a duke if EMPIRE_IS_VALID_DE_JURE_LIEGE_FOR_DUCHY)
 	PARTIALLY_NON_RIGHTFUL_LIEGE_LEVY_MULT = 0.75 		# Tax mult when partially non-rightful liege
-	NON_RIGHTFUL_LIEGE_TAX_MULT = 0.5 					# Tax mult when non-rightful liege (liege doesn't hold *any* dejure liege title)
-	NON_RIGHTFUL_LIEGE_LEVY_MULT = 0.5 					# Tax mult when non-rightful liege
-	PARTIALLY_NON_RIGHTFUL_LIEGE_OPINION = -5 			# Opinion penalty for being non-rightful liege
-	NON_RIGHTFUL_LIEGE_OPINION = -5						# Opinion penalty for being partially non-rightful liege
+	NON_RIGHTFUL_LIEGE_TAX_MULT = 0.4 					# Tax mult when non-rightful liege (liege doesn't hold *any* dejure liege title)
+	NON_RIGHTFUL_LIEGE_LEVY_MULT = 0.4 					# Tax mult when non-rightful liege
+	PARTIALLY_NON_RIGHTFUL_LIEGE_OPINION = -10 			# Opinion penalty for being non-rightful liege
+	NON_RIGHTFUL_LIEGE_OPINION = -15						# Opinion penalty for being partially non-rightful liege
 	MAX_DUCHIES_BEFORE_PENALTY = 2						# How many duchies are vassals fine with you having? If you're a duke, they don't care; only if you're king or above
-	TOO_MANY_DUCHIES_OPINION = -15						# Penalty per duchy too many
+	TOO_MANY_DUCHIES_OPINION = -20						# Penalty per duchy too many
 	COUNT_LIEGE_HOLDS_MY_DUCHY = -25					# Penalty with count vassals for whom you hold their dejure duchy (and you're above duchy tier)
 	VASSAL_SIZE_ANGER_THRESHOLD = 0.3						# Ratio of counties in vassal's realm (duke or above) compared to liege's full realm in order for the vassal to get angry at liege
 	VASSAL_SIZE_ANGER_MIN = -5								# Opinion penalty applied at exact threshold
@@ -470,6 +470,43 @@ NCharacterOpinion = {
 NCharacterInteraction = {
 	CHARACTER_INTERACTION_EXPIRATION_DAYS = 60			# non-answered interactions expire after this time
 	RECENT_TITLE_FILTER_MONTHS = 12						# if the checkbox is selected only titles adquired during the defines months are shown
+}
+
+NGovernment = {
+	GOVERNMENT_TYPES = {
+	
+		
+		# Arikuri custom governments (23 total - alphabetical)
+		"aigl_chormana_government"
+		"aigl_feudal_government"
+		"blouck_tribal"
+		"broulqen_bureaucracy"
+		"central_chormana_government"
+		"chormana_otija_government"
+		"eniol_diplomatic"
+		"eniol_military"
+		"eniol_oppressive"
+		"eniol_progressive"
+		"ineoism_mandala"
+		"inner_sea_raiders"
+		"kioq_mandala"
+		"livetower_spiritual_mandala"
+		"malachite_mountain_empire"
+		"mercenary_nomad_hybrid"
+		"paladinical_hosts"
+		"pfaunkti_trade_guild"
+		"qeomoq_communal"
+		"southeastern_family_clan"
+		"tribal_wanderers"
+		"veuqrit_scholastic"
+		"western_chormana_government"
+			# Vanilla governments (5 total - only feudal and non-playable)
+		"feudal_government"
+		"republic_government"
+		"theocracy_government"
+		"mercenary_government"
+		"holy_order_government"
+	}
 }
 
 NActionPoints = {
@@ -899,9 +936,9 @@ NDreadEffectOnBoldness = {
 }
 
 NDomain = {
-	ABOVE_LIMIT_LEVY_PENALTY = 0.2				# How much levies are reduced per holding over the limit
+	ABOVE_LIMIT_LEVY_PENALTY = 0.24				# How much levies are reduced per holding over the limit
 	ABOVE_LIMIT_MAX_LEVY_PENALTY = 1			# How much levies can be reduced at most
-	ABOVE_LIMIT_TAX_INCOME_PENALTY = 0.2		# How much tax income from domain is reduced per holding over the limit
+	ABOVE_LIMIT_TAX_INCOME_PENALTY = 0.24		# How much tax income from domain is reduced per holding over the limit
 	ABOVE_LIMIT_MAX_TAX_INCOME_PENALTY = 1		# How much tax income from domain can be reduced at most
 	HOLDING_GRACE_PERIOD = 365					# How many days do newly gained holdings not count towards the domain size for the purposes of penalties (but also not produce any levies)
 	STEWARDSHIP_SKILL_FOR_DOMAIN_LIMIT_INCREASE = 6	# domain limit += floor( <stewardship skill> / STEWARDSHIP_SKILL_FOR_DOMAIN_LIMIT_INCREASE )
@@ -922,7 +959,7 @@ NFaction =
 	MONTHS_IDLE_DEMAND = 12							# After accepting or losing a war the faction will stay this time without enforcing any demands
 	COUNTY_INCOME_POWER_FACTOR = 100				# Strength per income for the counties
 	DISCONTENT_THRESHOLD = 100				# The discontent threshold at which the faction can send demands.
-	DEFAULT_POWER_THRESHOLD = 80					# The default power threshold if there no one defined.
+	DEFAULT_POWER_THRESHOLD = 70					# The default power threshold if there no one defined.
 	MAX_DEMAND_DELAY_DAYS = 90						# The faction is guaranteed to send demands on the next update after this number of days has passed since it started being able to send demands.
 
 	POTENTIAL_FORCE_JOIN_HOOK_TYPE = "strong" # The type of hook that means the UI will show a member as potentially joining
@@ -1090,7 +1127,7 @@ NVassalContract = {
 	CHECK_OBLIGATION_VALIDITY_INTERVAL = 30 # Interval in days - how often should the selected obligation levels be validated for contracts with obligation level
 
 	# Only count vassals and above count towards the limit
-	ABOVE_LIMIT_LEVY_PENALTY = 0.05				# How much levies are reduced per vassal over the limit
+	ABOVE_LIMIT_LEVY_PENALTY = 0.06				# How much levies are reduced per vassal over the limit
 	ABOVE_LIMIT_MAX_LEVY_PENALTY = 0.95			# How much levies can be reduced at most
 	ABOVE_LIMIT_TAX_INCOME_PENALTY = 0.05		# How much tax income from domain is reduced per vassal over the limit
 	ABOVE_LIMIT_MAX_TAX_INCOME_PENALTY = 0.95	# How much tax income from domain can be reduced at most

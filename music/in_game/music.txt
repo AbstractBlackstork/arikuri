@@ -10,16 +10,6 @@ words_of_huakken = {
     is_valid = { is_at_war = yes }
 }
 
-march_of_southeners = {
-	music = "file:/music/arikuri_soundtrack/Arikuri_March_of_Southerners.ogg"
-	name = "march_of_southeners"
-	mood = yes
-	can_be_interrupted = yes
-	pause_factor = 35
-
-    is_valid = { is_at_war = yes }
-}
-
 when_the_twins_allign = {
 	music = "file:/music/arikuri_soundtrack/Arikuri_When_the_Twins_Align.ogg"
 	name = "when_the_twins_allign"
@@ -33,14 +23,6 @@ when_the_twins_allign = {
 bazanaq = {
 	music = "file:/music/arikuri_soundtrack/Arikuri_Bazanaq.ogg"
 	name = "bazanaq"
-	mood = yes
-	can_be_interrupted = yes
-	pause_factor = 35
-}
-
-solemnity_of_aienci = {
-	music = "file:/music/arikuri_soundtrack/Arikuri_Solemnity_of_Aienci.ogg"
-	name = "solemnity_of_aienci"
 	mood = yes
 	can_be_interrupted = yes
 	pause_factor = 35
@@ -129,6 +111,148 @@ eiha = {
 pidmedmed = {
 	music = "file:/music/arikuri_soundtrack/Arikuri_Pidmedmed_Plevuial_Pliod.ogg"
 	name = "pidmedmed"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+diak_moyat = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Diak_Moyat.ogg"
+	name = "diak_moyat"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+dust_of_the_empire = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Dust_of_the_Empire.ogg"
+	name = "dust_of_the_empire"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+heart_of_the_forest = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Heart_of_the_Forest.ogg"
+	name = "heart_of_the_forest"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+hymn_of_qadis = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Hymn_of_Qadis.ogg"
+	name = "hymn_of_qadis"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+jiskan_wards = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Jiskan_Wards.ogg"
+	name = "jiskan_wards"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+oathbound = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Oathbound.ogg"
+	name = "oathbound"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+
+    is_valid = { is_at_war = yes }
+}
+
+ode_to_the_land = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Ode_to_the_Land.ogg"
+	name = "ode_to_the_land"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+qexvald = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Qexvald.ogg"
+	name = "qexvald"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+qexxvald = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Qexxvald.ogg"
+	name = "qexxvald"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+
+    is_valid = { is_at_war = yes }
+}
+
+the_calling = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_The_Calling.ogg"
+	name = "the_calling"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+the_bonding = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_The_Bonding.ogg"
+	name = "the_bonding"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+the_host_of_ueilki = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_The_Host_of_Ueilki.ogg"
+	name = "the_host_of_ueilki"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+the_purification = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_The_Purification.ogg"
+	name = "the_purification"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+whispering_peaks = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Whispering_Peaks.ogg"
+	name = "whispering_peaks"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+hatta_war = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Hatta_War.ogg"
+	name = "hatta_war"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+
+    is_valid = { is_at_war = yes }
+}
+
+hatta_regular = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Hatta_Regular.ogg"
+	name = "hatta_regular"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}
+
+logaisafti = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Logaisafti.ogg"
+	name = "logaisafti"
 	mood = yes
 	can_be_interrupted = yes
 	pause_factor = 35

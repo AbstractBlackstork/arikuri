@@ -1,2 +1,2 @@
-Resolution: 4096x2048
-Map Size: 4096x2048
+Resolution: 8192x4096
+Map Size: 8192x4096

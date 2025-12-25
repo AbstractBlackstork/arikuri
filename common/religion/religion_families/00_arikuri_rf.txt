@@ -41,7 +41,7 @@ rf_qormaic = {
 	piety_icon_group = "pagan"
 	graphical_faith = "pagan_gfx"
 	hostility_doctrine = qormaic_hostility_doctrine
-	doctrine_background_icon = core_tenet_banner_islamic.dds
+	doctrine_background_icon = core_tenet_banner_qormaic.dds
 }
 
 rf_aigl = {
@@ -49,14 +49,14 @@ rf_aigl = {
 	piety_icon_group = "pagan"
 	graphical_faith = "pagan_gfx"
 	hostility_doctrine = aigl_hostility_doctrine
-	doctrine_background_icon = core_tenet_banner_pagan.dds
+	doctrine_background_icon = core_tenet_banner_aigl.dds
 }
 
 rf_kioq = {
 	piety_icon_group = "pagan"
 	graphical_faith = "pagan_gfx"
 	hostility_doctrine = kioq_hostility_doctrine
-	doctrine_background_icon = core_tenet_banner_eastern.dds
+	doctrine_background_icon = core_tenet_banner_kioq.dds
 }
 
 rf_aelwrid = {
@@ -107,7 +107,7 @@ rf_ioddrik = {
 	piety_icon_group = "pagan"
 	graphical_faith = "pagan_gfx"
 	hostility_doctrine = ioddrik_hostility_doctrine
-	doctrine_background_icon = core_tenet_banner_pagan.dds
+	doctrine_background_icon = core_tenet_banner_ioddrik.dds
 }
 
 rf_broulqen = {
@@ -115,7 +115,7 @@ rf_broulqen = {
 	piety_icon_group = "pagan"
 	graphical_faith = "pagan_gfx"
 	hostility_doctrine = broulqen_hostility_doctrine
-	doctrine_background_icon = core_tenet_banner_pagan.dds
+	doctrine_background_icon = core_tenet_banner_broulqen.dds
 }
 
 rf_xacra = {
@@ -123,7 +123,7 @@ rf_xacra = {
 	piety_icon_group = "pagan"
 	graphical_faith = "pagan_gfx"
 	hostility_doctrine = xacra_hostility_doctrine
-	doctrine_background_icon = core_tenet_banner_pagan.dds
+	doctrine_background_icon = core_tenet_banner_xacra.dds
 }
 
 rf_floicht = {

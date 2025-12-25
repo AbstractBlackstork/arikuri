@@ -1,7 +1,7 @@
 heritage_cccdefenselessdecision_seed_eth = {
-	template = "east_african"
+	template = "caucasian"
 	skin_color = {
-		10 = { 0.04 0.91 0.14 1.0 }
+		10 = { 0.93 0.89 1.0 0.99 }
 	}
 	eye_color = {
 		10 = { 0.49 0.61 0.59 0.71 }
@@ -560,7 +560,7 @@ heritage_cccknowledgeableparticular_seed_eth = {
 heritage_ccchealthyweakness_seed_eth = {
 	template = "circumpolar"
 	skin_color = {
-		10 = { 0.96 0.56 1.0 0.66 }
+		10 = { 0.14 0.48 0.24 0.58 }
 	}
 	eye_color = {
 		10 = { 0.79 0.27 0.89 0.37 }
@@ -816,9 +816,9 @@ heritage_ccctroubledsafety_seed_eth = {
 }
 
 heritage_ccctatteredbattle_seed_eth = {
-	template = "slavic"
+	template = "african"
 	skin_color = {
-		10 = { 0.5 0.83 0.6 0.93 }
+		10 = { 0.99 0.28 1.0 0.38 }
 	}
 	eye_color = {
 		10 = { 0.81 0.41 0.91 0.51 }
@@ -1074,9 +1074,9 @@ heritage_cccworriedtrick_seed_eth = {
 }
 
 heritage_cccalertgovernment_seed_eth = {
-	template = "slavic"
+	template = "caucasian"
 	skin_color = {
-		10 = { 0.02 0.79 0.12 0.89 }
+		10 = { 0.16 0.7 0.26 0.8 }
 	}
 	eye_color = {
 		10 = { 0.81 0.95 0.91 1.0 }
@@ -1332,9 +1332,9 @@ heritage_cccdishonestmachine_seed_eth = {
 }
 
 heritage_cccurbanopening_seed_eth = {
-	template = "caucasian"
+	template = "african"
 	skin_color = {
-		10 = { 0.2 0.95 0.3 1.0 }
+		10 = { 0.99 0.28 1.0 0.38 }
 	}
 	eye_color = {
 		10 = { 0.24 0.63 0.34 0.73 }
@@ -1461,9 +1461,9 @@ heritage_cccillfatedvalue_seed_eth = {
 }
 
 heritage_cccwholethought_seed_eth = {
-	template = "arab"
+	template = "caucasian"
 	skin_color = {
-		10 = { 0.54 0.07 0.64 0.17 }
+		10 = { 0.16 0.7 0.26 0.8 }
 	}
 	eye_color = {
 		10 = { 0.64 0.37 0.74 0.47 }
@@ -1592,7 +1592,7 @@ heritage_ccchollowexperience_seed_eth = {
 heritage_cccglaringentrance_seed_eth = {
 	template = "circumpolar"
 	skin_color = {
-		10 = { 0.1 0.7 0.2 0.8 }
+		10 = { 0.14 0.48 0.24 0.58 }
 	}
 	eye_color = {
 		10 = { 0.34 0.56 0.44 0.66 }
@@ -1936,7 +1936,7 @@ heritage_cccacrobaticpreparation_seed_eth = {
 heritage_cccspectacularinfluence_seed_eth = {
 	template = "east_african"
 	skin_color = {
-		10 = { 0.6 0.83 0.7 0.93 }
+		10 = { 0.14 0.48 0.24 0.58 }
 	}
 	eye_color = {
 		10 = { 0.62 0.26 0.72 0.36 }
@@ -2065,7 +2065,7 @@ heritage_ccccriticalfight_seed_eth = {
 heritage_cccthistwo_seed_eth = {
 	template = "east_african"
 	skin_color = {
-		10 = { 0.74 0.05 0.84 0.15 }
+		10 = { 0.14 0.48 0.24 0.58 }
 	}
 	eye_color = {
 		10 = { 0.58 0.32 0.68 0.42 }
@@ -2321,9 +2321,9 @@ heritage_cccrudemany_seed_eth = {
 }
 
 heritage_cccmerrytax_seed_eth = {
-	template = "mediterranean"
+	template = "african"
 	skin_color = {
-		10 = { 0.93 0.99 1.0 1.0 }
+		10 = { 0.99 0.28 1.0 0.38 }
 	}
 	eye_color = {
 		10 = { 0.38 0.73 0.48 0.83 }
@@ -2364,9 +2364,9 @@ heritage_cccmerrytax_seed_eth = {
 }
 
 heritage_cccgiftedregister_seed_eth = {
-	template = "mediterranean"
+	template = "caucasian"
 	skin_color = {
-		10 = { 0.94 0.01 1.0 0.11 }
+		10 = { 0.16 0.7 0.26 0.8 }
 	}
 	eye_color = {
 		10 = { 0.75 0.96 0.85 1.0 }
@@ -2452,7 +2452,7 @@ heritage_ccclazyload_seed_eth = {
 heritage_cccsecondrow_seed_eth = {
 	template = "african"
 	skin_color = {
-		10 = { 0.24 0.48 0.34 0.58 }
+		10 = { 0.14 0.48 0.24 0.58 }
 	}
 	eye_color = {
 		10 = { 0.42 0.84 0.52 0.94 }
@@ -2667,7 +2667,7 @@ heritage_cccwonderfuloperation_seed_eth = {
 heritage_cccoutlyinggrandfather_seed_eth = {
 	template = "caucasian"
 	skin_color = {
-		10 = { 0.44 0.08 0.54 0.18 }
+		10 = { 0.16 0.7 0.26 0.8 }
 	}
 	eye_color = {
 		10 = { 0.83 0.14 0.93 0.24 }
@@ -2923,9 +2923,9 @@ heritage_cccweepysail_seed_eth = {
 }
 
 heritage_cccimprobablecouple_seed_eth = {
-	template = "east_african"
+	template = "caucasian"
 	skin_color = {
-		10 = { 0.95 0.18 1.0 0.28 }
+		10 = { 0.16 0.7 0.26 0.8 }
 	}
 	eye_color = {
 		10 = { 0.07 0.37 0.17 0.47 }
@@ -3052,9 +3052,9 @@ heritage_cccshamefuldirt_seed_eth = {
 }
 
 heritage_cccvapidbath_seed_eth = {
-	template = "asian"
+	template = "african"
 	skin_color = {
-		10 = { 0.6 0.88 0.7 0.98 }
+		10 = { 0.99 0.28 1.0 0.38 }
 	}
 	eye_color = {
 		10 = { 0.96 0.74 1.0 0.84 }
@@ -3140,7 +3140,7 @@ heritage_cccmelodicbottom_seed_eth = {
 heritage_cccorangepreference_seed_eth = {
 	template = "east_african"
 	skin_color = {
-		10 = { 0.75 0.09 0.85 0.19 }
+		10 = { 0.14 0.48 0.24 0.58 }
 	}
 	eye_color = {
 		10 = { 0.16 0.86 0.26 0.96 }
@@ -3183,7 +3183,7 @@ heritage_cccorangepreference_seed_eth = {
 heritage_cccstarryrevolution_seed_eth = {
 	template = "slavic"
 	skin_color = {
-		10 = { 0.2 0.16 0.3 0.26 }
+		10 = { 0.14 0.48 0.24 0.58 }
 	}
 	eye_color = {
 		10 = { 0.32 0.68 0.42 0.78 }
@@ -3224,9 +3224,9 @@ heritage_cccstarryrevolution_seed_eth = {
 }
 
 heritage_cccawesomefill_seed_eth = {
-	template = "asian"
+	template = "caucasian"
 	skin_color = {
-		10 = { 0.98 0.93 1.0 1.0 }
+		10 = { 0.72 0.77 0.82 0.87 }
 	}
 	eye_color = {
 		10 = { 0.43 0.62 0.53 0.72 }
@@ -3269,7 +3269,7 @@ heritage_cccawesomefill_seed_eth = {
 heritage_cccassureddraft_seed_eth = {
 	template = "indian"
 	skin_color = {
-		10 = { 0.01 0.22 0.11 0.32 }
+		10 = { 0.14 0.48 0.24 0.58 }
 	}
 	eye_color = {
 		10 = { 0.45 0.76 0.55 0.86 }
@@ -3611,9 +3611,9 @@ heritage_cccpopularpen_seed_eth = {
 }
 
 heritage_cccequalclimate_seed_eth = {
-	template = "slavic"
+	template = "african"
 	skin_color = {
-		10 = { 0.79 0.79 0.89 0.89 }
+		10 = { 0.83 0.65 0.93 0.75 }
 	}
 	eye_color = {
 		10 = { 0.4 0.91 0.5 1.0 }
@@ -3654,9 +3654,9 @@ heritage_cccequalclimate_seed_eth = {
 }
 
 heritage_cccfrayeddependent_seed_eth = {
-	template = "asian"
+	template = "caucasian"
 	skin_color = {
-		10 = { 0.96 0.82 1.0 0.92 }
+		10 = { 0.16 0.7 0.26 0.8 }
 	}
 	eye_color = {
 		10 = { 0.11 0.28 0.21 0.38 }

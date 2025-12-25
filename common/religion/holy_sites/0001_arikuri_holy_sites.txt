@@ -12,7 +12,7 @@ R244G204B166 = {
   character_modifier = {
     name = holy_site_R244G204B166_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -26,7 +26,7 @@ R226G130B228 = {
 
   character_modifier = {
     name = holy_site_R226G130B228_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -53,7 +53,7 @@ R123G236B106 = {
   character_modifier = {
     name = holy_site_R123G236B106_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -71,7 +71,7 @@ R226G130B228 = {
 
   character_modifier = {
     name = holy_site_R226G130B228_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -98,7 +98,7 @@ R123G236B106 = {
   character_modifier = {
     name = holy_site_R123G236B106_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -116,7 +116,7 @@ R234G62B173 = {
 
   character_modifier = {
     name = holy_site_R234G62B173_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -143,7 +143,7 @@ R205G93B178 = {
   character_modifier = {
     name = holy_site_R205G93B178_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -178,7 +178,7 @@ R234G62B173 = {
 
   character_modifier = {
     name = holy_site_R234G62B173_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -205,7 +205,7 @@ R205G93B178 = {
   character_modifier = {
     name = holy_site_R205G93B178_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -240,7 +240,7 @@ R49G85B205 = {
 
   character_modifier = {
     name = holy_site_R49G85B205_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -267,7 +267,7 @@ R252G53B102 = {
   character_modifier = {
     name = holy_site_R252G53B102_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -298,7 +298,7 @@ R49G85B205 = {
 
   character_modifier = {
     name = holy_site_R49G85B205_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -325,7 +325,7 @@ R252G53B102 = {
   character_modifier = {
     name = holy_site_R252G53B102_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -356,7 +356,7 @@ R64G191B48 = {
 
   character_modifier = {
     name = holy_site_R64G191B48_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -383,7 +383,7 @@ R175G160B108 = {
   character_modifier = {
     name = holy_site_R175G160B108_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -409,7 +409,7 @@ R64G191B48 = {
 
   character_modifier = {
     name = holy_site_R64G191B48_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -436,7 +436,7 @@ R175G160B108 = {
   character_modifier = {
     name = holy_site_R175G160B108_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -462,7 +462,7 @@ R162G228B157 = {
 
   character_modifier = {
     name = holy_site_R162G228B157_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -489,7 +489,7 @@ R171G224B226 = {
   character_modifier = {
     name = holy_site_R171G224B226_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -511,7 +511,7 @@ R162G228B157 = {
 
   character_modifier = {
     name = holy_site_R162G228B157_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -538,7 +538,7 @@ R171G224B226 = {
   character_modifier = {
     name = holy_site_R171G224B226_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -560,7 +560,7 @@ R232G190B21 = {
 
   character_modifier = {
     name = holy_site_R232G190B21_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -587,7 +587,7 @@ R136G244B216 = {
   character_modifier = {
     name = holy_site_R136G244B216_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -627,7 +627,7 @@ R232G190B21 = {
 
   character_modifier = {
     name = holy_site_R232G190B21_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -654,7 +654,7 @@ R136G244B216 = {
   character_modifier = {
     name = holy_site_R136G244B216_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -694,7 +694,7 @@ R215G60B20 = {
 
   character_modifier = {
     name = holy_site_R215G60B20_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -721,7 +721,7 @@ R162G220B156 = {
   character_modifier = {
     name = holy_site_R162G220B156_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -739,7 +739,7 @@ R215G60B20 = {
 
   character_modifier = {
     name = holy_site_R215G60B20_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -766,7 +766,7 @@ R162G220B156 = {
   character_modifier = {
     name = holy_site_R162G220B156_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -784,7 +784,7 @@ R213G168B240 = {
 
   character_modifier = {
     name = holy_site_R213G168B240_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -811,7 +811,7 @@ R163G13B126 = {
   character_modifier = {
     name = holy_site_R163G13B126_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -825,7 +825,7 @@ R213G168B240 = {
 
   character_modifier = {
     name = holy_site_R213G168B240_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -852,7 +852,7 @@ R163G13B126 = {
   character_modifier = {
     name = holy_site_R163G13B126_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -866,7 +866,7 @@ R191G152B13 = {
 
   character_modifier = {
     name = holy_site_R191G152B13_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -893,7 +893,7 @@ R39G19B218 = {
   character_modifier = {
     name = holy_site_R39G19B218_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -911,7 +911,7 @@ R191G152B13 = {
 
   character_modifier = {
     name = holy_site_R191G152B13_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -938,7 +938,7 @@ R39G19B218 = {
   character_modifier = {
     name = holy_site_R39G19B218_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -956,7 +956,7 @@ R124G132B48 = {
 
   character_modifier = {
     name = holy_site_R124G132B48_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -983,7 +983,7 @@ R177G81B162 = {
   character_modifier = {
     name = holy_site_R177G81B162_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1009,7 +1009,7 @@ R124G132B48 = {
 
   character_modifier = {
     name = holy_site_R124G132B48_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1036,7 +1036,7 @@ R177G81B162 = {
   character_modifier = {
     name = holy_site_R177G81B162_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1062,7 +1062,7 @@ R180G177B217 = {
 
   character_modifier = {
     name = holy_site_R180G177B217_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1089,7 +1089,7 @@ R171G38B49 = {
   character_modifier = {
     name = holy_site_R171G38B49_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1120,7 +1120,7 @@ R180G177B217 = {
 
   character_modifier = {
     name = holy_site_R180G177B217_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1147,7 +1147,7 @@ R171G38B49 = {
   character_modifier = {
     name = holy_site_R171G38B49_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1178,7 +1178,7 @@ R207G49B215 = {
 
   character_modifier = {
     name = holy_site_R207G49B215_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1205,7 +1205,7 @@ R54G171B77 = {
   character_modifier = {
     name = holy_site_R54G171B77_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1223,7 +1223,7 @@ R207G49B215 = {
 
   character_modifier = {
     name = holy_site_R207G49B215_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1250,7 +1250,7 @@ R54G171B77 = {
   character_modifier = {
     name = holy_site_R54G171B77_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1268,7 +1268,7 @@ R67G142B46 = {
 
   character_modifier = {
     name = holy_site_R67G142B46_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1295,7 +1295,7 @@ R65G219B182 = {
   character_modifier = {
     name = holy_site_R65G219B182_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1317,7 +1317,7 @@ R67G142B46 = {
 
   character_modifier = {
     name = holy_site_R67G142B46_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1344,7 +1344,7 @@ R65G219B182 = {
   character_modifier = {
     name = holy_site_R65G219B182_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1366,7 +1366,7 @@ R87G37B137 = {
 
   character_modifier = {
     name = holy_site_R87G37B137_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1393,7 +1393,7 @@ R188G98B32 = {
   character_modifier = {
     name = holy_site_R188G98B32_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1433,7 +1433,7 @@ R87G37B137 = {
 
   character_modifier = {
     name = holy_site_R87G37B137_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1460,7 +1460,7 @@ R188G98B32 = {
   character_modifier = {
     name = holy_site_R188G98B32_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1500,7 +1500,7 @@ R131G218B118 = {
 
   character_modifier = {
     name = holy_site_R131G218B118_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1527,7 +1527,7 @@ R49G161B57 = {
   character_modifier = {
     name = holy_site_R49G161B57_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1567,7 +1567,7 @@ R131G218B118 = {
 
   character_modifier = {
     name = holy_site_R131G218B118_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1594,7 +1594,7 @@ R49G161B57 = {
   character_modifier = {
     name = holy_site_R49G161B57_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1634,7 +1634,7 @@ R69G105B186 = {
 
   character_modifier = {
     name = holy_site_R69G105B186_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1661,7 +1661,7 @@ R149G119B110 = {
   character_modifier = {
     name = holy_site_R149G119B110_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1696,7 +1696,7 @@ R69G105B186 = {
 
   character_modifier = {
     name = holy_site_R69G105B186_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1723,7 +1723,7 @@ R149G119B110 = {
   character_modifier = {
     name = holy_site_R149G119B110_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1758,7 +1758,7 @@ R1G82B153 = {
 
   character_modifier = {
     name = holy_site_R1G82B153_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1784,7 +1784,7 @@ R1G82B153 = {
 
   character_modifier = {
     name = holy_site_R1G82B153_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1810,7 +1810,7 @@ R242G252B207 = {
 
   character_modifier = {
     name = holy_site_R242G252B207_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1837,7 +1837,7 @@ R132G42B168 = {
   character_modifier = {
     name = holy_site_R132G42B168_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1864,7 +1864,7 @@ R242G252B207 = {
 
   character_modifier = {
     name = holy_site_R242G252B207_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1891,7 +1891,7 @@ R132G42B168 = {
   character_modifier = {
     name = holy_site_R132G42B168_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1918,7 +1918,7 @@ R105G67B92 = {
 
   character_modifier = {
     name = holy_site_R105G67B92_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1945,7 +1945,7 @@ R251G114B81 = {
   character_modifier = {
     name = holy_site_R251G114B81_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -1967,7 +1967,7 @@ R105G67B92 = {
 
   character_modifier = {
     name = holy_site_R105G67B92_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -1994,7 +1994,7 @@ R251G114B81 = {
   character_modifier = {
     name = holy_site_R251G114B81_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2016,7 +2016,7 @@ R183G217B186 = {
 
   character_modifier = {
     name = holy_site_R183G217B186_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2043,7 +2043,7 @@ R179G181B20 = {
   character_modifier = {
     name = holy_site_R179G181B20_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2069,7 +2069,7 @@ R183G217B186 = {
 
   character_modifier = {
     name = holy_site_R183G217B186_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2096,7 +2096,7 @@ R179G181B20 = {
   character_modifier = {
     name = holy_site_R179G181B20_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2122,7 +2122,7 @@ R15G108B95 = {
 
   character_modifier = {
     name = holy_site_R15G108B95_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2149,7 +2149,7 @@ R231G111B59 = {
   character_modifier = {
     name = holy_site_R231G111B59_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2180,7 +2180,7 @@ R15G108B95 = {
 
   character_modifier = {
     name = holy_site_R15G108B95_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2207,7 +2207,7 @@ R231G111B59 = {
   character_modifier = {
     name = holy_site_R231G111B59_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2238,7 +2238,7 @@ R112G26B106 = {
 
   character_modifier = {
     name = holy_site_R112G26B106_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2265,7 +2265,7 @@ R34G115B216 = {
   character_modifier = {
     name = holy_site_R34G115B216_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2300,7 +2300,7 @@ R112G26B106 = {
 
   character_modifier = {
     name = holy_site_R112G26B106_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2327,7 +2327,7 @@ R34G115B216 = {
   character_modifier = {
     name = holy_site_R34G115B216_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2362,7 +2362,7 @@ R152G222B237 = {
 
   character_modifier = {
     name = holy_site_R152G222B237_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2389,7 +2389,7 @@ R25G42B112 = {
   character_modifier = {
     name = holy_site_R25G42B112_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2424,7 +2424,7 @@ R152G222B237 = {
 
   character_modifier = {
     name = holy_site_R152G222B237_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2451,7 +2451,7 @@ R25G42B112 = {
   character_modifier = {
     name = holy_site_R25G42B112_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2486,7 +2486,7 @@ R26G195B220 = {
 
   character_modifier = {
     name = holy_site_R26G195B220_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2513,7 +2513,7 @@ R193G13B7 = {
   character_modifier = {
     name = holy_site_R193G13B7_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2535,7 +2535,7 @@ R26G195B220 = {
 
   character_modifier = {
     name = holy_site_R26G195B220_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2562,7 +2562,7 @@ R193G13B7 = {
   character_modifier = {
     name = holy_site_R193G13B7_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2610,7 +2610,7 @@ R240G91B248 = {
 
   character_modifier = {
     name = holy_site_R240G91B248_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2637,7 +2637,7 @@ R52G214B169 = {
   character_modifier = {
     name = holy_site_R52G214B169_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2668,7 +2668,7 @@ R240G91B248 = {
 
   character_modifier = {
     name = holy_site_R240G91B248_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2695,7 +2695,7 @@ R52G214B169 = {
   character_modifier = {
     name = holy_site_R52G214B169_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2726,7 +2726,7 @@ R225G112B109 = {
 
   character_modifier = {
     name = holy_site_R225G112B109_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2753,7 +2753,7 @@ R209G83B88 = {
   character_modifier = {
     name = holy_site_R209G83B88_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2779,7 +2779,7 @@ R225G112B109 = {
 
   character_modifier = {
     name = holy_site_R225G112B109_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2806,7 +2806,7 @@ R209G83B88 = {
   character_modifier = {
     name = holy_site_R209G83B88_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2832,7 +2832,7 @@ R189G237B132 = {
 
   character_modifier = {
     name = holy_site_R189G237B132_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2859,7 +2859,7 @@ R242G173B221 = {
   character_modifier = {
     name = holy_site_R242G173B221_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2885,7 +2885,7 @@ R189G237B132 = {
 
   character_modifier = {
     name = holy_site_R189G237B132_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2912,7 +2912,7 @@ R242G173B221 = {
   character_modifier = {
     name = holy_site_R242G173B221_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2938,7 +2938,7 @@ R103G160B9 = {
 
   character_modifier = {
     name = holy_site_R103G160B9_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -2965,7 +2965,7 @@ R38G164B108 = {
   character_modifier = {
     name = holy_site_R38G164B108_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -2987,7 +2987,7 @@ R103G160B9 = {
 
   character_modifier = {
     name = holy_site_R103G160B9_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3001,7 +3001,7 @@ R38G164B108 = {
   character_modifier = {
     name = holy_site_R38G164B108_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3023,7 +3023,7 @@ R123G95B252 = {
 
   character_modifier = {
     name = holy_site_R123G95B252_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3050,7 +3050,7 @@ R255G9B2 = {
   character_modifier = {
     name = holy_site_R255G9B2_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3081,7 +3081,7 @@ R123G95B252 = {
 
   character_modifier = {
     name = holy_site_R123G95B252_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3108,7 +3108,7 @@ R255G9B2 = {
   character_modifier = {
     name = holy_site_R255G9B2_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3139,7 +3139,7 @@ R89G192B189 = {
 
   character_modifier = {
     name = holy_site_R89G192B189_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3166,7 +3166,7 @@ R64G115B248 = {
   character_modifier = {
     name = holy_site_R64G115B248_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3192,7 +3192,7 @@ R89G192B189 = {
 
   character_modifier = {
     name = holy_site_R89G192B189_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3219,7 +3219,7 @@ R64G115B248 = {
   character_modifier = {
     name = holy_site_R64G115B248_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3245,7 +3245,7 @@ R98G127B130 = {
 
   character_modifier = {
     name = holy_site_R98G127B130_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3272,7 +3272,7 @@ R116G149B214 = {
   character_modifier = {
     name = holy_site_R116G149B214_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3307,7 +3307,7 @@ R98G127B130 = {
 
   character_modifier = {
     name = holy_site_R98G127B130_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3334,7 +3334,7 @@ R116G149B214 = {
   character_modifier = {
     name = holy_site_R116G149B214_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3369,7 +3369,7 @@ R214G255B136 = {
 
   character_modifier = {
     name = holy_site_R214G255B136_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3396,7 +3396,7 @@ R204G119B115 = {
   character_modifier = {
     name = holy_site_R204G119B115_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3431,7 +3431,7 @@ R214G255B136 = {
 
   character_modifier = {
     name = holy_site_R214G255B136_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3458,7 +3458,7 @@ R204G119B115 = {
   character_modifier = {
     name = holy_site_R204G119B115_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3493,7 +3493,7 @@ R254G25B130 = {
 
   character_modifier = {
     name = holy_site_R254G25B130_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3520,7 +3520,7 @@ R96G97B210 = {
   character_modifier = {
     name = holy_site_R96G97B210_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3551,7 +3551,7 @@ R254G25B130 = {
 
   character_modifier = {
     name = holy_site_R254G25B130_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3578,7 +3578,7 @@ R96G97B210 = {
   character_modifier = {
     name = holy_site_R96G97B210_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3609,7 +3609,7 @@ R233G171B43 = {
 
   character_modifier = {
     name = holy_site_R233G171B43_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3636,7 +3636,7 @@ R76G117B44 = {
   character_modifier = {
     name = holy_site_R76G117B44_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3671,7 +3671,7 @@ R233G171B43 = {
 
   character_modifier = {
     name = holy_site_R233G171B43_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3698,7 +3698,7 @@ R76G117B44 = {
   character_modifier = {
     name = holy_site_R76G117B44_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3733,7 +3733,7 @@ R10G209B77 = {
 
   character_modifier = {
     name = holy_site_R10G209B77_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3760,7 +3760,7 @@ R248G138B60 = {
   character_modifier = {
     name = holy_site_R248G138B60_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3782,7 +3782,7 @@ R10G209B77 = {
 
   character_modifier = {
     name = holy_site_R10G209B77_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3809,7 +3809,7 @@ R248G138B60 = {
   character_modifier = {
     name = holy_site_R248G138B60_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3831,7 +3831,7 @@ R25G232B75 = {
 
   character_modifier = {
     name = holy_site_R25G232B75_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3858,7 +3858,7 @@ R17G222B206 = {
   character_modifier = {
     name = holy_site_R17G222B206_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3893,7 +3893,7 @@ R25G232B75 = {
 
   character_modifier = {
     name = holy_site_R25G232B75_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3920,7 +3920,7 @@ R17G222B206 = {
   character_modifier = {
     name = holy_site_R17G222B206_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -3955,7 +3955,7 @@ R185G43B167 = {
 
   character_modifier = {
     name = holy_site_R185G43B167_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -3982,7 +3982,7 @@ R33G19B192 = {
   character_modifier = {
     name = holy_site_R33G19B192_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4000,7 +4000,7 @@ R185G43B167 = {
 
   character_modifier = {
     name = holy_site_R185G43B167_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4027,7 +4027,7 @@ R33G19B192 = {
   character_modifier = {
     name = holy_site_R33G19B192_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4045,7 +4045,7 @@ R9G42B209 = {
 
   character_modifier = {
     name = holy_site_R9G42B209_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4072,7 +4072,7 @@ R188G120B128 = {
   character_modifier = {
     name = holy_site_R188G120B128_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4103,7 +4103,7 @@ R9G42B209 = {
 
   character_modifier = {
     name = holy_site_R9G42B209_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4130,7 +4130,7 @@ R188G120B128 = {
   character_modifier = {
     name = holy_site_R188G120B128_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4161,7 +4161,7 @@ R213G62B151 = {
 
   character_modifier = {
     name = holy_site_R213G62B151_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4188,7 +4188,7 @@ R148G92B63 = {
   character_modifier = {
     name = holy_site_R148G92B63_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4214,7 +4214,7 @@ R213G62B151 = {
 
   character_modifier = {
     name = holy_site_R213G62B151_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4241,7 +4241,7 @@ R148G92B63 = {
   character_modifier = {
     name = holy_site_R148G92B63_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4267,7 +4267,7 @@ R117G82B245 = {
 
   character_modifier = {
     name = holy_site_R117G82B245_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4294,7 +4294,7 @@ R123G196B2 = {
   character_modifier = {
     name = holy_site_R123G196B2_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4321,7 +4321,7 @@ R117G82B245 = {
 
   character_modifier = {
     name = holy_site_R117G82B245_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4348,7 +4348,7 @@ R123G196B2 = {
   character_modifier = {
     name = holy_site_R123G196B2_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4375,7 +4375,7 @@ R24G248B212 = {
 
   character_modifier = {
     name = holy_site_R24G248B212_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4402,7 +4402,7 @@ R29G247B241 = {
   character_modifier = {
     name = holy_site_R29G247B241_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4433,7 +4433,7 @@ R24G248B212 = {
 
   character_modifier = {
     name = holy_site_R24G248B212_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4460,7 +4460,7 @@ R29G247B241 = {
   character_modifier = {
     name = holy_site_R29G247B241_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4491,7 +4491,7 @@ R119G234B79 = {
 
   character_modifier = {
     name = holy_site_R119G234B79_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4518,7 +4518,7 @@ R242G162B185 = {
   character_modifier = {
     name = holy_site_R242G162B185_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4549,7 +4549,7 @@ R119G234B79 = {
 
   character_modifier = {
     name = holy_site_R119G234B79_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4576,7 +4576,7 @@ R242G162B185 = {
   character_modifier = {
     name = holy_site_R242G162B185_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4607,7 +4607,7 @@ R83G137B32 = {
 
   character_modifier = {
     name = holy_site_R83G137B32_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4634,7 +4634,7 @@ R13G70B134 = {
   character_modifier = {
     name = holy_site_R13G70B134_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4652,7 +4652,7 @@ R83G137B32 = {
 
   character_modifier = {
     name = holy_site_R83G137B32_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4679,7 +4679,7 @@ R13G70B134 = {
   character_modifier = {
     name = holy_site_R13G70B134_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4697,7 +4697,7 @@ R125G104B240 = {
 
   character_modifier = {
     name = holy_site_R125G104B240_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4724,7 +4724,7 @@ R84G87B101 = {
   character_modifier = {
     name = holy_site_R84G87B101_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4742,7 +4742,7 @@ R125G104B240 = {
 
   character_modifier = {
     name = holy_site_R125G104B240_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4769,7 +4769,7 @@ R84G87B101 = {
   character_modifier = {
     name = holy_site_R84G87B101_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4787,7 +4787,7 @@ R234G60B156 = {
 
   character_modifier = {
     name = holy_site_R234G60B156_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4814,7 +4814,7 @@ R0G146B128 = {
   character_modifier = {
     name = holy_site_R0G146B128_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4849,7 +4849,7 @@ R234G60B156 = {
 
   character_modifier = {
     name = holy_site_R234G60B156_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4876,7 +4876,7 @@ R0G146B128 = {
   character_modifier = {
     name = holy_site_R0G146B128_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4911,7 +4911,7 @@ R183G85B81 = {
 
   character_modifier = {
     name = holy_site_R183G85B81_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4938,7 +4938,7 @@ R153G63B42 = {
   character_modifier = {
     name = holy_site_R153G63B42_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -4965,7 +4965,7 @@ R183G85B81 = {
 
   character_modifier = {
     name = holy_site_R183G85B81_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -4992,7 +4992,7 @@ R153G63B42 = {
   character_modifier = {
     name = holy_site_R153G63B42_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5019,7 +5019,7 @@ R104G117B56 = {
 
   character_modifier = {
     name = holy_site_R104G117B56_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5046,7 +5046,7 @@ R217G59B75 = {
   character_modifier = {
     name = holy_site_R217G59B75_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5081,7 +5081,7 @@ R104G117B56 = {
 
   character_modifier = {
     name = holy_site_R104G117B56_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5108,7 +5108,7 @@ R217G59B75 = {
   character_modifier = {
     name = holy_site_R217G59B75_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5143,7 +5143,7 @@ R27G184B214 = {
 
   character_modifier = {
     name = holy_site_R27G184B214_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5170,7 +5170,7 @@ R106G56B221 = {
   character_modifier = {
     name = holy_site_R106G56B221_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5205,7 +5205,7 @@ R27G184B214 = {
 
   character_modifier = {
     name = holy_site_R27G184B214_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5232,7 +5232,7 @@ R106G56B221 = {
   character_modifier = {
     name = holy_site_R106G56B221_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5267,7 +5267,7 @@ R171G107B85 = {
 
   character_modifier = {
     name = holy_site_R171G107B85_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5294,7 +5294,7 @@ R57G22B38 = {
   character_modifier = {
     name = holy_site_R57G22B38_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5312,7 +5312,7 @@ R171G107B85 = {
 
   character_modifier = {
     name = holy_site_R171G107B85_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5339,7 +5339,7 @@ R57G22B38 = {
   character_modifier = {
     name = holy_site_R57G22B38_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5357,7 +5357,7 @@ R54G189B115 = {
 
   character_modifier = {
     name = holy_site_R54G189B115_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5384,7 +5384,7 @@ R45G238B91 = {
   character_modifier = {
     name = holy_site_R45G238B91_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5402,7 +5402,7 @@ R54G189B115 = {
 
   character_modifier = {
     name = holy_site_R54G189B115_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5429,7 +5429,7 @@ R45G238B91 = {
   character_modifier = {
     name = holy_site_R45G238B91_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5447,7 +5447,7 @@ R235G190B148 = {
 
   character_modifier = {
     name = holy_site_R235G190B148_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5474,7 +5474,7 @@ R216G114B53 = {
   character_modifier = {
     name = holy_site_R216G114B53_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5496,7 +5496,7 @@ R235G190B148 = {
 
   character_modifier = {
     name = holy_site_R235G190B148_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5523,7 +5523,7 @@ R216G114B53 = {
   character_modifier = {
     name = holy_site_R216G114B53_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5545,7 +5545,7 @@ R140G65B131 = {
 
   character_modifier = {
     name = holy_site_R140G65B131_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5572,7 +5572,7 @@ R38G47B28 = {
   character_modifier = {
     name = holy_site_R38G47B28_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5612,7 +5612,7 @@ R140G65B131 = {
 
   character_modifier = {
     name = holy_site_R140G65B131_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5639,7 +5639,7 @@ R38G47B28 = {
   character_modifier = {
     name = holy_site_R38G47B28_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5679,7 +5679,7 @@ R255G93B191 = {
 
   character_modifier = {
     name = holy_site_R255G93B191_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5706,7 +5706,7 @@ R47G169B180 = {
   character_modifier = {
     name = holy_site_R47G169B180_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5759,7 +5759,7 @@ R255G93B191 = {
 
   character_modifier = {
     name = holy_site_R255G93B191_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5786,7 +5786,7 @@ R47G169B180 = {
   character_modifier = {
     name = holy_site_R47G169B180_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5839,7 +5839,7 @@ R147G203B168 = {
 
   character_modifier = {
     name = holy_site_R147G203B168_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5866,7 +5866,7 @@ R10G146B37 = {
   character_modifier = {
     name = holy_site_R10G146B37_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5880,7 +5880,7 @@ R147G203B168 = {
 
   character_modifier = {
     name = holy_site_R147G203B168_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5907,7 +5907,7 @@ R10G146B37 = {
   character_modifier = {
     name = holy_site_R10G146B37_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5947,7 +5947,7 @@ R82G33B198 = {
 
   character_modifier = {
     name = holy_site_R82G33B198_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -5974,7 +5974,7 @@ R246G196B222 = {
   character_modifier = {
     name = holy_site_R246G196B222_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -5996,7 +5996,7 @@ R82G33B198 = {
 
   character_modifier = {
     name = holy_site_R82G33B198_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6023,7 +6023,7 @@ R246G196B222 = {
   character_modifier = {
     name = holy_site_R246G196B222_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6045,7 +6045,7 @@ R25G165B62 = {
 
   character_modifier = {
     name = holy_site_R25G165B62_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6072,7 +6072,7 @@ R212G141B146 = {
   character_modifier = {
     name = holy_site_R212G141B146_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6098,7 +6098,7 @@ R25G165B62 = {
 
   character_modifier = {
     name = holy_site_R25G165B62_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6125,7 +6125,7 @@ R212G141B146 = {
   character_modifier = {
     name = holy_site_R212G141B146_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6151,7 +6151,7 @@ R114G58B178 = {
 
   character_modifier = {
     name = holy_site_R114G58B178_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6178,7 +6178,7 @@ R251G64B80 = {
   character_modifier = {
     name = holy_site_R251G64B80_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6209,7 +6209,7 @@ R114G58B178 = {
 
   character_modifier = {
     name = holy_site_R114G58B178_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6236,7 +6236,7 @@ R251G64B80 = {
   character_modifier = {
     name = holy_site_R251G64B80_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6267,7 +6267,7 @@ R109G210B151 = {
 
   character_modifier = {
     name = holy_site_R109G210B151_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6294,7 +6294,7 @@ R155G210B56 = {
   character_modifier = {
     name = holy_site_R155G210B56_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6335,7 +6335,7 @@ R155G210B56 = {
   character_modifier = {
     name = holy_site_R155G210B56_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6357,7 +6357,7 @@ R142G85B94 = {
 
   character_modifier = {
     name = holy_site_R142G85B94_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6384,7 +6384,7 @@ R30G171B92 = {
   character_modifier = {
     name = holy_site_R30G171B92_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6419,7 +6419,7 @@ R142G85B94 = {
 
   character_modifier = {
     name = holy_site_R142G85B94_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6446,7 +6446,7 @@ R30G171B92 = {
   character_modifier = {
     name = holy_site_R30G171B92_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6481,7 +6481,7 @@ R183G116B163 = {
 
   character_modifier = {
     name = holy_site_R183G116B163_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6508,7 +6508,7 @@ R106G133B253 = {
   character_modifier = {
     name = holy_site_R106G133B253_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6543,7 +6543,7 @@ R183G116B163 = {
 
   character_modifier = {
     name = holy_site_R183G116B163_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6570,7 +6570,7 @@ R106G133B253 = {
   character_modifier = {
     name = holy_site_R106G133B253_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6605,7 +6605,7 @@ R192G137B242 = {
 
   character_modifier = {
     name = holy_site_R192G137B242_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6632,7 +6632,7 @@ R10G91B220 = {
   character_modifier = {
     name = holy_site_R10G91B220_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6658,7 +6658,7 @@ R192G137B242 = {
 
   character_modifier = {
     name = holy_site_R192G137B242_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6685,7 +6685,7 @@ R10G91B220 = {
   character_modifier = {
     name = holy_site_R10G91B220_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6711,7 +6711,7 @@ R74G98B189 = {
 
   character_modifier = {
     name = holy_site_R74G98B189_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6738,7 +6738,7 @@ R229G163B86 = {
   character_modifier = {
     name = holy_site_R229G163B86_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6769,7 +6769,7 @@ R74G98B189 = {
 
   character_modifier = {
     name = holy_site_R74G98B189_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6796,7 +6796,7 @@ R229G163B86 = {
   character_modifier = {
     name = holy_site_R229G163B86_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6827,7 +6827,7 @@ R231G100B28 = {
 
   character_modifier = {
     name = holy_site_R231G100B28_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6854,7 +6854,7 @@ R32G76B253 = {
   character_modifier = {
     name = holy_site_R32G76B253_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6872,7 +6872,7 @@ R231G100B28 = {
 
   character_modifier = {
     name = holy_site_R231G100B28_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6899,7 +6899,7 @@ R32G76B253 = {
   character_modifier = {
     name = holy_site_R32G76B253_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6917,7 +6917,7 @@ R70G212B133 = {
 
   character_modifier = {
     name = holy_site_R70G212B133_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6944,7 +6944,7 @@ R54G207B203 = {
   character_modifier = {
     name = holy_site_R54G207B203_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6958,7 +6958,7 @@ R70G212B133 = {
 
   character_modifier = {
     name = holy_site_R70G212B133_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -6985,7 +6985,7 @@ R54G207B203 = {
   character_modifier = {
     name = holy_site_R54G207B203_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -6999,7 +6999,7 @@ R79G86B123 = {
 
   character_modifier = {
     name = holy_site_R79G86B123_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7026,7 +7026,7 @@ R170G207B48 = {
   character_modifier = {
     name = holy_site_R170G207B48_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7048,7 +7048,7 @@ R79G86B123 = {
 
   character_modifier = {
     name = holy_site_R79G86B123_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7075,7 +7075,7 @@ R170G207B48 = {
   character_modifier = {
     name = holy_site_R170G207B48_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7097,7 +7097,7 @@ R231G214B232 = {
 
   character_modifier = {
     name = holy_site_R231G214B232_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7124,7 +7124,7 @@ R255G30B150 = {
   character_modifier = {
     name = holy_site_R255G30B150_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7168,7 +7168,7 @@ R231G214B232 = {
 
   character_modifier = {
     name = holy_site_R231G214B232_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7195,7 +7195,7 @@ R255G30B150 = {
   character_modifier = {
     name = holy_site_R255G30B150_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7239,7 +7239,7 @@ R125G250B109 = {
 
   character_modifier = {
     name = holy_site_R125G250B109_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7282,7 +7282,7 @@ R125G250B109 = {
 
   character_modifier = {
     name = holy_site_R125G250B109_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7325,7 +7325,7 @@ R42G54B107 = {
 
   character_modifier = {
     name = holy_site_R42G54B107_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7351,7 +7351,7 @@ R42G54B107 = {
 
   character_modifier = {
     name = holy_site_R42G54B107_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7377,7 +7377,7 @@ R133G138B130 = {
 
   character_modifier = {
     name = holy_site_R133G138B130_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7404,7 +7404,7 @@ R151G75B169 = {
   character_modifier = {
     name = holy_site_R151G75B169_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7435,7 +7435,7 @@ R133G138B130 = {
 
   character_modifier = {
     name = holy_site_R133G138B130_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7462,7 +7462,7 @@ R151G75B169 = {
   character_modifier = {
     name = holy_site_R151G75B169_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7493,7 +7493,7 @@ R171G198B54 = {
 
   character_modifier = {
     name = holy_site_R171G198B54_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7520,7 +7520,7 @@ R96G81B106 = {
   character_modifier = {
     name = holy_site_R96G81B106_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7551,7 +7551,7 @@ R171G198B54 = {
 
   character_modifier = {
     name = holy_site_R171G198B54_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7565,7 +7565,7 @@ R96G81B106 = {
   character_modifier = {
     name = holy_site_R96G81B106_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7592,7 +7592,7 @@ R212G244B254 = {
 
   character_modifier = {
     name = holy_site_R212G244B254_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7618,7 +7618,7 @@ R212G244B254 = {
 
   character_modifier = {
     name = holy_site_R212G244B254_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7644,7 +7644,7 @@ R164G49B51 = {
 
   character_modifier = {
     name = holy_site_R164G49B51_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7671,7 +7671,7 @@ R169G246B178 = {
   character_modifier = {
     name = holy_site_R169G246B178_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7702,7 +7702,7 @@ R164G49B51 = {
 
   character_modifier = {
     name = holy_site_R164G49B51_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7729,7 +7729,7 @@ R169G246B178 = {
   character_modifier = {
     name = holy_site_R169G246B178_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7760,7 +7760,7 @@ R100G65B71 = {
 
   character_modifier = {
     name = holy_site_R100G65B71_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7787,7 +7787,7 @@ R54G32B43 = {
   character_modifier = {
     name = holy_site_R54G32B43_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7805,7 +7805,7 @@ R100G65B71 = {
 
   character_modifier = {
     name = holy_site_R100G65B71_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7832,7 +7832,7 @@ R54G32B43 = {
   character_modifier = {
     name = holy_site_R54G32B43_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7850,7 +7850,7 @@ R205G78B51 = {
 
   character_modifier = {
     name = holy_site_R205G78B51_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7877,7 +7877,7 @@ R62G63B234 = {
   character_modifier = {
     name = holy_site_R62G63B234_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7899,7 +7899,7 @@ R205G78B51 = {
 
   character_modifier = {
     name = holy_site_R205G78B51_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7926,7 +7926,7 @@ R62G63B234 = {
   character_modifier = {
     name = holy_site_R62G63B234_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7948,7 +7948,7 @@ R223G33B65 = {
 
   character_modifier = {
     name = holy_site_R223G33B65_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -7975,7 +7975,7 @@ R94G205B216 = {
   character_modifier = {
     name = holy_site_R94G205B216_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -7997,7 +7997,7 @@ R223G33B65 = {
 
   character_modifier = {
     name = holy_site_R223G33B65_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8024,7 +8024,7 @@ R94G205B216 = {
   character_modifier = {
     name = holy_site_R94G205B216_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8046,7 +8046,7 @@ R33G255B51 = {
 
   character_modifier = {
     name = holy_site_R33G255B51_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8073,7 +8073,7 @@ R189G42B149 = {
   character_modifier = {
     name = holy_site_R189G42B149_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8091,7 +8091,7 @@ R33G255B51 = {
 
   character_modifier = {
     name = holy_site_R33G255B51_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8118,7 +8118,7 @@ R189G42B149 = {
   character_modifier = {
     name = holy_site_R189G42B149_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8136,7 +8136,7 @@ R88G226B65 = {
 
   character_modifier = {
     name = holy_site_R88G226B65_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8163,7 +8163,7 @@ R152G91B95 = {
   character_modifier = {
     name = holy_site_R152G91B95_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8185,7 +8185,7 @@ R88G226B65 = {
 
   character_modifier = {
     name = holy_site_R88G226B65_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8219,7 +8219,7 @@ R148G137B245 = {
 
   character_modifier = {
     name = holy_site_R148G137B245_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8246,7 +8246,7 @@ R200G104B210 = {
   character_modifier = {
     name = holy_site_R200G104B210_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8290,7 +8290,7 @@ R148G137B245 = {
 
   character_modifier = {
     name = holy_site_R148G137B245_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8317,7 +8317,7 @@ R200G104B210 = {
   character_modifier = {
     name = holy_site_R200G104B210_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8361,7 +8361,7 @@ R172G215B47 = {
 
   character_modifier = {
     name = holy_site_R172G215B47_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8388,7 +8388,7 @@ R215G191B228 = {
   character_modifier = {
     name = holy_site_R215G191B228_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8406,7 +8406,7 @@ R172G215B47 = {
 
   character_modifier = {
     name = holy_site_R172G215B47_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8433,7 +8433,7 @@ R215G191B228 = {
   character_modifier = {
     name = holy_site_R215G191B228_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8451,7 +8451,7 @@ R192G165B85 = {
 
   character_modifier = {
     name = holy_site_R192G165B85_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8478,7 +8478,7 @@ R51G191B50 = {
   character_modifier = {
     name = holy_site_R51G191B50_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8522,7 +8522,7 @@ R192G165B85 = {
 
   character_modifier = {
     name = holy_site_R192G165B85_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8549,7 +8549,7 @@ R51G191B50 = {
   character_modifier = {
     name = holy_site_R51G191B50_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8593,7 +8593,7 @@ R39G168B71 = {
 
   character_modifier = {
     name = holy_site_R39G168B71_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8620,7 +8620,7 @@ R233G251B72 = {
   character_modifier = {
     name = holy_site_R233G251B72_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8642,7 +8642,7 @@ R39G168B71 = {
 
   character_modifier = {
     name = holy_site_R39G168B71_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8669,7 +8669,7 @@ R233G251B72 = {
   character_modifier = {
     name = holy_site_R233G251B72_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8691,7 +8691,7 @@ R111G83B124 = {
 
   character_modifier = {
     name = holy_site_R111G83B124_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8718,7 +8718,7 @@ R204G51B205 = {
   character_modifier = {
     name = holy_site_R204G51B205_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8732,7 +8732,7 @@ R111G83B124 = {
 
   character_modifier = {
     name = holy_site_R111G83B124_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8759,7 +8759,7 @@ R204G51B205 = {
   character_modifier = {
     name = holy_site_R204G51B205_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8773,7 +8773,7 @@ R90G123B185 = {
 
   character_modifier = {
     name = holy_site_R90G123B185_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8800,7 +8800,7 @@ R74G83B194 = {
   character_modifier = {
     name = holy_site_R74G83B194_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8818,7 +8818,7 @@ R90G123B185 = {
 
   character_modifier = {
     name = holy_site_R90G123B185_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8845,7 +8845,7 @@ R74G83B194 = {
   character_modifier = {
     name = holy_site_R74G83B194_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -8871,7 +8871,7 @@ R116G222B46 = {
 
   character_modifier = {
     name = holy_site_R116G222B46_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8936,7 +8936,7 @@ R173G141B41 = {
 
   character_modifier = {
     name = holy_site_R173G141B41_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -8975,7 +8975,7 @@ R173G141B41 = {
 
   character_modifier = {
     name = holy_site_R173G141B41_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9014,7 +9014,7 @@ R169G45B144 = {
 
   character_modifier = {
     name = holy_site_R169G45B144_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9048,7 +9048,7 @@ R169G45B144 = {
 
   character_modifier = {
     name = holy_site_R169G45B144_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9082,7 +9082,7 @@ R10G51B37 = {
 
   character_modifier = {
     name = holy_site_R10G51B37_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9095,7 +9095,7 @@ R10G51B37 = {
 
   character_modifier = {
     name = holy_site_R10G51B37_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9108,7 +9108,7 @@ R217G148B185 = {
 
   character_modifier = {
     name = holy_site_R217G148B185_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9147,7 +9147,7 @@ R217G148B185 = {
 
   character_modifier = {
     name = holy_site_R217G148B185_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9186,7 +9186,7 @@ R28G237B250 = {
 
   character_modifier = {
     name = holy_site_R28G237B250_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9200,7 +9200,7 @@ R143G238B13 = {
   character_modifier = {
     name = holy_site_R143G238B13_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9227,7 +9227,7 @@ R28G237B250 = {
 
   character_modifier = {
     name = holy_site_R28G237B250_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9241,7 +9241,7 @@ R143G238B13 = {
   character_modifier = {
     name = holy_site_R143G238B13_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9268,7 +9268,7 @@ R106G235B15 = {
 
   character_modifier = {
     name = holy_site_R106G235B15_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9295,7 +9295,7 @@ R151G75B176 = {
   character_modifier = {
     name = holy_site_R151G75B176_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9330,7 +9330,7 @@ R106G235B15 = {
 
   character_modifier = {
     name = holy_site_R106G235B15_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9357,7 +9357,7 @@ R151G75B176 = {
   character_modifier = {
     name = holy_site_R151G75B176_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9392,7 +9392,7 @@ R167G255B205 = {
 
   character_modifier = {
     name = holy_site_R167G255B205_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9419,7 +9419,7 @@ R55G201B40 = {
   character_modifier = {
     name = holy_site_R55G201B40_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9454,7 +9454,7 @@ R167G255B205 = {
 
   character_modifier = {
     name = holy_site_R167G255B205_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9481,7 +9481,7 @@ R55G201B40 = {
   character_modifier = {
     name = holy_site_R55G201B40_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9516,7 +9516,7 @@ R2G177B190 = {
 
   character_modifier = {
     name = holy_site_R2G177B190_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9543,7 +9543,7 @@ R109G61B103 = {
   character_modifier = {
     name = holy_site_R109G61B103_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9557,7 +9557,7 @@ R2G177B190 = {
 
   character_modifier = {
     name = holy_site_R2G177B190_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9584,7 +9584,7 @@ R109G61B103 = {
   character_modifier = {
     name = holy_site_R109G61B103_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9598,7 +9598,7 @@ R226G227B33 = {
 
   character_modifier = {
     name = holy_site_R226G227B33_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9625,7 +9625,7 @@ R70G22B69 = {
   character_modifier = {
     name = holy_site_R70G22B69_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9665,7 +9665,7 @@ R226G227B33 = {
 
   character_modifier = {
     name = holy_site_R226G227B33_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9692,7 +9692,7 @@ R70G22B69 = {
   character_modifier = {
     name = holy_site_R70G22B69_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9732,7 +9732,7 @@ R175G147B100 = {
 
   character_modifier = {
     name = holy_site_R175G147B100_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9759,7 +9759,7 @@ R25G183B120 = {
   character_modifier = {
     name = holy_site_R25G183B120_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9786,7 +9786,7 @@ R175G147B100 = {
 
   character_modifier = {
     name = holy_site_R175G147B100_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9813,7 +9813,7 @@ R25G183B120 = {
   character_modifier = {
     name = holy_site_R25G183B120_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9854,7 +9854,7 @@ R10G61B95 = {
   character_modifier = {
     name = holy_site_R10G61B95_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9881,7 +9881,7 @@ R173G103B196 = {
 
   character_modifier = {
     name = holy_site_R173G103B196_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9908,7 +9908,7 @@ R10G61B95 = {
   character_modifier = {
     name = holy_site_R10G61B95_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9935,7 +9935,7 @@ R220G241B154 = {
 
   character_modifier = {
     name = holy_site_R220G241B154_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9962,7 +9962,7 @@ R158G12B13 = {
   character_modifier = {
     name = holy_site_R158G12B13_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -9980,7 +9980,7 @@ R220G241B154 = {
 
   character_modifier = {
     name = holy_site_R220G241B154_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -9994,7 +9994,7 @@ R158G12B13 = {
   character_modifier = {
     name = holy_site_R158G12B13_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10015,7 +10015,7 @@ R77G204B214 = {
 
   character_modifier = {
     name = holy_site_R77G204B214_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10042,7 +10042,7 @@ R81G99B94 = {
   character_modifier = {
     name = holy_site_R81G99B94_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10069,7 +10069,7 @@ R77G204B214 = {
 
   character_modifier = {
     name = holy_site_R77G204B214_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10096,7 +10096,7 @@ R81G99B94 = {
   character_modifier = {
     name = holy_site_R81G99B94_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10131,7 +10131,7 @@ R84G105B194 = {
 
   character_modifier = {
     name = holy_site_R84G105B194_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10158,7 +10158,7 @@ R183G134B132 = {
   character_modifier = {
     name = holy_site_R183G134B132_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10202,7 +10202,7 @@ R84G105B194 = {
 
   character_modifier = {
     name = holy_site_R84G105B194_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10229,7 +10229,7 @@ R183G134B132 = {
   character_modifier = {
     name = holy_site_R183G134B132_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10281,7 +10281,7 @@ R142G211B6 = {
 
   character_modifier = {
     name = holy_site_R142G211B6_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10308,7 +10308,7 @@ R53G176B219 = {
   character_modifier = {
     name = holy_site_R53G176B219_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10326,7 +10326,7 @@ R142G211B6 = {
 
   character_modifier = {
     name = holy_site_R142G211B6_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10353,7 +10353,7 @@ R53G176B219 = {
   character_modifier = {
     name = holy_site_R53G176B219_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10371,7 +10371,7 @@ R177G17B230 = {
 
   character_modifier = {
     name = holy_site_R177G17B230_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10398,7 +10398,7 @@ R48G51B86 = {
   character_modifier = {
     name = holy_site_R48G51B86_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10416,7 +10416,7 @@ R177G17B230 = {
 
   character_modifier = {
     name = holy_site_R177G17B230_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10443,7 +10443,7 @@ R48G51B86 = {
   character_modifier = {
     name = holy_site_R48G51B86_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10461,7 +10461,7 @@ R68G166B77 = {
 
   character_modifier = {
     name = holy_site_R68G166B77_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10488,7 +10488,7 @@ R250G93B119 = {
   character_modifier = {
     name = holy_site_R250G93B119_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10528,7 +10528,7 @@ R68G166B77 = {
 
   character_modifier = {
     name = holy_site_R68G166B77_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10555,7 +10555,7 @@ R250G93B119 = {
   character_modifier = {
     name = holy_site_R250G93B119_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10603,7 +10603,7 @@ R81G217B154 = {
 
   character_modifier = {
     name = holy_site_R81G217B154_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10630,7 +10630,7 @@ R219G31B104 = {
   character_modifier = {
     name = holy_site_R219G31B104_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10648,7 +10648,7 @@ R81G217B154 = {
 
   character_modifier = {
     name = holy_site_R81G217B154_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10675,7 +10675,7 @@ R219G31B104 = {
   character_modifier = {
     name = holy_site_R219G31B104_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10693,7 +10693,7 @@ R159G83B34 = {
 
   character_modifier = {
     name = holy_site_R159G83B34_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10720,7 +10720,7 @@ R151G177B96 = {
   character_modifier = {
     name = holy_site_R151G177B96_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10751,7 +10751,7 @@ R159G83B34 = {
 
   character_modifier = {
     name = holy_site_R159G83B34_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10778,7 +10778,7 @@ R151G177B96 = {
   character_modifier = {
     name = holy_site_R151G177B96_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10809,7 +10809,7 @@ R170G7B238 = {
 
   character_modifier = {
     name = holy_site_R170G7B238_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10835,7 +10835,7 @@ R170G7B238 = {
 
   character_modifier = {
     name = holy_site_R170G7B238_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10861,7 +10861,7 @@ R1G195B112 = {
 
   character_modifier = {
     name = holy_site_R1G195B112_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10888,7 +10888,7 @@ R250G214B26 = {
   character_modifier = {
     name = holy_site_R250G214B26_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10902,7 +10902,7 @@ R1G195B112 = {
 
   character_modifier = {
     name = holy_site_R1G195B112_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10929,7 +10929,7 @@ R250G214B26 = {
   character_modifier = {
     name = holy_site_R250G214B26_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -10943,7 +10943,7 @@ R178G163B225 = {
 
   character_modifier = {
     name = holy_site_R178G163B225_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -10995,7 +10995,7 @@ R178G163B225 = {
 
   character_modifier = {
     name = holy_site_R178G163B225_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11047,7 +11047,7 @@ R19G5B80 = {
 
   character_modifier = {
     name = holy_site_R19G5B80_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11074,7 +11074,7 @@ R65G115B103 = {
   character_modifier = {
     name = holy_site_R65G115B103_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11092,7 +11092,7 @@ R19G5B80 = {
 
   character_modifier = {
     name = holy_site_R19G5B80_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11119,7 +11119,7 @@ R65G115B103 = {
   character_modifier = {
     name = holy_site_R65G115B103_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11137,7 +11137,7 @@ R192G35B126 = {
 
   character_modifier = {
     name = holy_site_R192G35B126_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11164,7 +11164,7 @@ R191G47B78 = {
   character_modifier = {
     name = holy_site_R191G47B78_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11204,7 +11204,7 @@ R192G35B126 = {
 
   character_modifier = {
     name = holy_site_R192G35B126_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11231,7 +11231,7 @@ R191G47B78 = {
   character_modifier = {
     name = holy_site_R191G47B78_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11271,7 +11271,7 @@ R174G126B105 = {
 
   character_modifier = {
     name = holy_site_R174G126B105_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11298,7 +11298,7 @@ R163G49B105 = {
   character_modifier = {
     name = holy_site_R163G49B105_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11333,7 +11333,7 @@ R174G126B105 = {
 
   character_modifier = {
     name = holy_site_R174G126B105_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11360,7 +11360,7 @@ R163G49B105 = {
   character_modifier = {
     name = holy_site_R163G49B105_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11395,7 +11395,7 @@ R215G142B201 = {
 
   character_modifier = {
     name = holy_site_R215G142B201_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11421,7 +11421,7 @@ R215G142B201 = {
 
   character_modifier = {
     name = holy_site_R215G142B201_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11447,7 +11447,7 @@ R76G128B144 = {
 
   character_modifier = {
     name = holy_site_R76G128B144_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11474,7 +11474,7 @@ R218G184B184 = {
   character_modifier = {
     name = holy_site_R218G184B184_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11488,7 +11488,7 @@ R76G128B144 = {
 
   character_modifier = {
     name = holy_site_R76G128B144_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11515,7 +11515,7 @@ R218G184B184 = {
   character_modifier = {
     name = holy_site_R218G184B184_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11529,7 +11529,7 @@ R73G75B54 = {
 
   character_modifier = {
     name = holy_site_R73G75B54_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11556,7 +11556,7 @@ R220G248B77 = {
   character_modifier = {
     name = holy_site_R220G248B77_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11591,7 +11591,7 @@ R73G75B54 = {
 
   character_modifier = {
     name = holy_site_R73G75B54_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11618,7 +11618,7 @@ R220G248B77 = {
   character_modifier = {
     name = holy_site_R220G248B77_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11654,7 +11654,7 @@ R171G33B51 = {
   character_modifier = {
     name = holy_site_R171G33B51_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11686,7 +11686,7 @@ R171G33B51 = {
   character_modifier = {
     name = holy_site_R171G33B51_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11725,7 +11725,7 @@ R250G36B146 = {
 
   character_modifier = {
     name = holy_site_R250G36B146_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11752,7 +11752,7 @@ R217G102B110 = {
   character_modifier = {
     name = holy_site_R217G102B110_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11792,7 +11792,7 @@ R250G36B146 = {
 
   character_modifier = {
     name = holy_site_R250G36B146_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11819,7 +11819,7 @@ R217G102B110 = {
   character_modifier = {
     name = holy_site_R217G102B110_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11859,7 +11859,7 @@ R88G125B254 = {
 
   character_modifier = {
     name = holy_site_R88G125B254_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11886,7 +11886,7 @@ R167G48B170 = {
   character_modifier = {
     name = holy_site_R167G48B170_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11900,7 +11900,7 @@ R88G125B254 = {
 
   character_modifier = {
     name = holy_site_R88G125B254_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11927,7 +11927,7 @@ R167G48B170 = {
   character_modifier = {
     name = holy_site_R167G48B170_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11941,7 +11941,7 @@ R26G91B210 = {
 
   character_modifier = {
     name = holy_site_R26G91B210_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -11968,7 +11968,7 @@ R117G43B9 = {
   character_modifier = {
     name = holy_site_R117G43B9_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -11994,7 +11994,7 @@ R26G91B210 = {
 
   character_modifier = {
     name = holy_site_R26G91B210_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12021,7 +12021,7 @@ R117G43B9 = {
   character_modifier = {
     name = holy_site_R117G43B9_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12081,7 +12081,7 @@ R193G115B127 = {
 
   character_modifier = {
     name = holy_site_R193G115B127_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12120,7 +12120,7 @@ R193G115B127 = {
 
   character_modifier = {
     name = holy_site_R193G115B127_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12159,7 +12159,7 @@ R105G79B225 = {
 
   character_modifier = {
     name = holy_site_R105G79B225_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12211,7 +12211,7 @@ R105G79B225 = {
 
   character_modifier = {
     name = holy_site_R105G79B225_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12266,7 +12266,7 @@ R230G228B86 = {
 
   character_modifier = {
     name = holy_site_R230G228B86_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12293,7 +12293,7 @@ R240G207B6 = {
   character_modifier = {
     name = holy_site_R240G207B6_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12311,7 +12311,7 @@ R230G228B86 = {
 
   character_modifier = {
     name = holy_site_R230G228B86_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12338,7 +12338,7 @@ R240G207B6 = {
   character_modifier = {
     name = holy_site_R240G207B6_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12356,7 +12356,7 @@ R30G17B121 = {
 
   character_modifier = {
     name = holy_site_R30G17B121_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12383,7 +12383,7 @@ R56G197B203 = {
   character_modifier = {
     name = holy_site_R56G197B203_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12414,7 +12414,7 @@ R30G17B121 = {
 
   character_modifier = {
     name = holy_site_R30G17B121_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12428,7 +12428,7 @@ R56G197B203 = {
   character_modifier = {
     name = holy_site_R56G197B203_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12455,7 +12455,7 @@ R137G128B16 = {
 
   character_modifier = {
     name = holy_site_R137G128B16_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12482,7 +12482,7 @@ R114G196B231 = {
   character_modifier = {
     name = holy_site_R114G196B231_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12513,7 +12513,7 @@ R137G128B16 = {
 
   character_modifier = {
     name = holy_site_R137G128B16_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12540,7 +12540,7 @@ R114G196B231 = {
   character_modifier = {
     name = holy_site_R114G196B231_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12609,7 +12609,7 @@ R86G220B33 = {
   character_modifier = {
     name = holy_site_R86G220B33_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12637,7 +12637,7 @@ R86G220B33 = {
   character_modifier = {
     name = holy_site_R86G220B33_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12651,7 +12651,7 @@ R19G205B246 = {
 
   character_modifier = {
     name = holy_site_R19G205B246_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12678,7 +12678,7 @@ R22G124B195 = {
   character_modifier = {
     name = holy_site_R22G124B195_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12692,7 +12692,7 @@ R19G205B246 = {
 
   character_modifier = {
     name = holy_site_R19G205B246_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12719,7 +12719,7 @@ R22G124B195 = {
   character_modifier = {
     name = holy_site_R22G124B195_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12733,7 +12733,7 @@ R50G167B248 = {
 
   character_modifier = {
     name = holy_site_R50G167B248_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12760,7 +12760,7 @@ R239G56B16 = {
   character_modifier = {
     name = holy_site_R239G56B16_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12778,7 +12778,7 @@ R50G167B248 = {
 
   character_modifier = {
     name = holy_site_R50G167B248_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12805,7 +12805,7 @@ R239G56B16 = {
   character_modifier = {
     name = holy_site_R239G56B16_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12823,7 +12823,7 @@ R130G14B250 = {
 
   character_modifier = {
     name = holy_site_R130G14B250_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12850,7 +12850,7 @@ R18G63B155 = {
   character_modifier = {
     name = holy_site_R18G63B155_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12877,7 +12877,7 @@ R130G14B250 = {
 
   character_modifier = {
     name = holy_site_R130G14B250_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12904,7 +12904,7 @@ R18G63B155 = {
   character_modifier = {
     name = holy_site_R18G63B155_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -12963,7 +12963,7 @@ R183G204B123 = {
 
   character_modifier = {
     name = holy_site_R183G204B123_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -12990,7 +12990,7 @@ R197G49B130 = {
   character_modifier = {
     name = holy_site_R197G49B130_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13008,7 +13008,7 @@ R183G204B123 = {
 
   character_modifier = {
     name = holy_site_R183G204B123_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13035,7 +13035,7 @@ R197G49B130 = {
   character_modifier = {
     name = holy_site_R197G49B130_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13053,7 +13053,7 @@ R157G138B80 = {
 
   character_modifier = {
     name = holy_site_R157G138B80_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13079,7 +13079,7 @@ R157G138B80 = {
 
   character_modifier = {
     name = holy_site_R157G138B80_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13105,7 +13105,7 @@ R80G81B51 = {
 
   character_modifier = {
     name = holy_site_R80G81B51_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13132,7 +13132,7 @@ R242G21B166 = {
   character_modifier = {
     name = holy_site_R242G21B166_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13150,7 +13150,7 @@ R80G81B51 = {
 
   character_modifier = {
     name = holy_site_R80G81B51_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13164,7 +13164,7 @@ R242G21B166 = {
   character_modifier = {
     name = holy_site_R242G21B166_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13208,7 +13208,7 @@ R239G134B210 = {
 
   character_modifier = {
     name = holy_site_R239G134B210_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13235,7 +13235,7 @@ R230G141B114 = {
   character_modifier = {
     name = holy_site_R230G141B114_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13249,7 +13249,7 @@ R239G134B210 = {
 
   character_modifier = {
     name = holy_site_R239G134B210_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13276,7 +13276,7 @@ R230G141B114 = {
   character_modifier = {
     name = holy_site_R230G141B114_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13291,7 +13291,7 @@ R166G81B99 = {
   character_modifier = {
     name = holy_site_R166G81B99_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13306,7 +13306,7 @@ R166G81B99 = {
   character_modifier = {
     name = holy_site_R166G81B99_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13320,7 +13320,7 @@ R46G0B250 = {
 
   character_modifier = {
     name = holy_site_R46G0B250_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13346,7 +13346,7 @@ R46G0B250 = {
 
   character_modifier = {
     name = holy_site_R46G0B250_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13372,7 +13372,7 @@ R97G219B216 = {
 
   character_modifier = {
     name = holy_site_R97G219B216_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13399,7 +13399,7 @@ R213G161B157 = {
   character_modifier = {
     name = holy_site_R213G161B157_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13413,7 +13413,7 @@ R97G219B216 = {
 
   character_modifier = {
     name = holy_site_R97G219B216_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13440,7 +13440,7 @@ R213G161B157 = {
   character_modifier = {
     name = holy_site_R213G161B157_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13454,7 +13454,7 @@ R78G75B1 = {
 
   character_modifier = {
     name = holy_site_R78G75B1_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13481,7 +13481,7 @@ R178G94B28 = {
   character_modifier = {
     name = holy_site_R178G94B28_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13495,7 +13495,7 @@ R78G75B1 = {
 
   character_modifier = {
     name = holy_site_R78G75B1_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13522,7 +13522,7 @@ R178G94B28 = {
   character_modifier = {
     name = holy_site_R178G94B28_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13536,7 +13536,7 @@ R10G18B141 = {
 
   character_modifier = {
     name = holy_site_R10G18B141_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13563,7 +13563,7 @@ R161G227B51 = {
   character_modifier = {
     name = holy_site_R161G227B51_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13577,7 +13577,7 @@ R10G18B141 = {
 
   character_modifier = {
     name = holy_site_R10G18B141_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13604,7 +13604,7 @@ R161G227B51 = {
   character_modifier = {
     name = holy_site_R161G227B51_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13643,7 +13643,7 @@ R231G146B88 = {
   character_modifier = {
     name = holy_site_R231G146B88_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13658,7 +13658,7 @@ R231G146B88 = {
   character_modifier = {
     name = holy_site_R231G146B88_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13673,7 +13673,7 @@ R72G75B216 = {
   character_modifier = {
     name = holy_site_R72G75B216_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13688,7 +13688,7 @@ R72G75B216 = {
   character_modifier = {
     name = holy_site_R72G75B216_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13711,7 +13711,7 @@ R188G228B49 = {
   character_modifier = {
     name = holy_site_R188G228B49_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13739,7 +13739,7 @@ R188G228B49 = {
   character_modifier = {
     name = holy_site_R188G228B49_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13826,7 +13826,7 @@ R161G85B115 = {
 
   character_modifier = {
     name = holy_site_R161G85B115_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13853,7 +13853,7 @@ R98G25B211 = {
   character_modifier = {
     name = holy_site_R98G25B211_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }
@@ -13867,7 +13867,7 @@ R161G85B115 = {
 
   character_modifier = {
     name = holy_site_R161G85B115_effect_name
-    monthly_lifestyle_xp_gain_mult = 0.15
+    monthly_lifestyle_xp_gain_mult = 0.10
   }
 }
 
@@ -13894,7 +13894,7 @@ R98G25B211 = {
   character_modifier = {
     name = holy_site_R98G25B211_effect_name
     knight_effectiveness_mult = 0.1
-prowess_per_piety_level = 1
+    prowess = 1
 
   }
 }

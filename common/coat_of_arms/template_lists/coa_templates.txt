@@ -166,6 +166,335 @@
 		25  = aiexqelt_pan_template16_inverted
 	}
 		
+	## BATCH 1: XACRA, WUSAUN, BLOUCK
+	
+	special_selection = {
+		trigger = {
+			arikuri_coa_xacra_trigger = yes
+		}
+		100 = xacra_1_a
+		80  = xacra_1_b
+		100 = xacra_1_c
+		35  = xacra_2_a
+		35  = xacra_2_a_mirror
+		90  = xacra_2_b
+		85  = xacra_3_a
+		100 = xacra_3_b
+	}
+	
+	special_selection = {
+		trigger = {
+			arikuri_coa_wusaun_trigger = yes
+		}
+		100 = wusaun_1_a
+		100 = wusaun_1_b
+		90  = wusaun_2_a
+		85  = wusaun_2_b
+		90  = wusaun_3_a
+		85  = wusaun_3_b
+		95  = wusaun_4_a
+	}
+	
+	special_selection = {
+		trigger = {
+			arikuri_coa_blouck_trigger = yes
+		}
+		100 = blouck_1_a
+		90  = blouck_1_b
+		85  = blouck_2_a
+		100 = blouck_2_b
+		90  = blouck_3_a
+		43  = blouck_3_b
+		42  = blouck_3_b_mirror
+		95  = blouck_4_a
+	}
+	
+	# Aigl Land (Chormana) - universal + land-only templates
+	special_selection = {
+		trigger = {
+			arikuri_coa_aigl_land_trigger = yes
+		}
+		110 = aigl_1_a
+		110 = aigl_1_b
+		110 = aigl_1_c
+		45  = aigl_2_a
+		45  = aigl_2_a_mirror
+		85  = aigl_2_b
+		# aigl_3_a and aigl_3_b excluded (sea-only)
+	}
+	
+	# Aigl Sea (Maritime) - universal + sea-only templates
+	special_selection = {
+		trigger = {
+			arikuri_coa_aigl_sea_trigger = yes
+		}
+		110 = aigl_1_a
+		110 = aigl_1_b
+		110 = aigl_1_c
+		90  = aigl_3_a
+		43  = aigl_3_b
+		42  = aigl_3_b_mirror
+		# aigl_2_a and aigl_2_b excluded (land-only)
+	}
+	
+	# Qormaic
+	special_selection = {
+		trigger = {
+			arikuri_coa_qormaic_trigger = yes
+		}
+		100 = qormaic_1_a
+		85  = qormaic_1_b
+		95  = qormaic_1_c
+		45  = qormaic_2_a
+		45  = qormaic_2_a_mirror
+		80  = qormaic_2_b
+		85  = qormaic_3_a
+		100 = qormaic_3_b
+	}
+	
+	# Ioddrik
+	special_selection = {
+		trigger = {
+			arikuri_coa_ioddrik_trigger = yes
+		}
+		# 3-letter abjad templates (ROOT CONSONANTS style) - HIGH PRIORITY
+		115 = ioddrik_abjad_1  # M background, D letters
+		115 = ioddrik_abjad_2  # L background, D letters
+		110 = ioddrik_abjad_3  # D background, L letters
+		110 = ioddrik_abjad_4  # M background, L letters (NE Mountains)
+		
+		# Original templates
+		95  = ioddrik_1_a
+		85  = ioddrik_1_b
+		100 = ioddrik_1_c
+		40  = ioddrik_2_a
+		40  = ioddrik_2_a_mirror
+		90  = ioddrik_2_b
+		85  = ioddrik_3_a
+		95  = ioddrik_3_b
+	}
+	### BATCH 3 - KIOQ DARK (exemplarymeaning faith) ###
+	special_selection = {
+		trigger = {
+			arikuri_coa_kioq_dark_trigger = yes
+		}
+		110 = kioq_1_a  # WS solid dark
+		50  = kioq_1_b  # WS vertical split
+		50  = kioq_1_b_mirror  # WS vertical split (mirrored)
+		90  = kioq_1_c  # WS vertical stripes
+		85  = kioq_1_d  # WS checkers
+		80  = kioq_2_a  # Jungle solid dark
+		75  = kioq_2_b  # Jungle diagonal split (dark)
+		70  = kioq_2_c  # Jungle diagonal split (mixed)
+		
+		# Monochromatic variants (D+D patterns, M emblems)
+		70  = kioq_1_a_mono  # WS solid dark / M emblem
+		60  = kioq_1_b_mono  # WS vertical split (D+D)
+		65  = kioq_1_c_mono  # WS vertical stripes (D+D)
+		60  = kioq_1_d_mono  # WS checkers (D+D)
+		55  = kioq_2_a_mono  # Jungle solid dark / M emblem
+		50  = kioq_2_b_mono  # Jungle diagonal split (D+D)
+		50  = kioq_2_c_mono  # Jungle diagonal split (D+D)
+	}
+	
+	### BATCH 3 - KIOQ LIGHT (directjoin + prettytax faiths) ###
+	special_selection = {
+		trigger = {
+			arikuri_coa_kioq_light_trigger = yes
+		}
+		110 = kioqlight_1_a  # WS solid light
+		100 = kioqlight_1_b  # WS horizontal split (light)
+		45  = kioqlight_1_c  # WS horizontal split (mixed)
+		45  = kioqlight_1_c_mirror  # WS horizontal split (mirrored)
+		85  = kioqlight_1_d  # WS barry pattern
+		80  = kioqlight_2_a  # Jungle solid medium
+		75  = kioqlight_2_b  # Jungle diagonal (mixed)
+		70  = kioqlight_2_c  # Jungle checkers
+		
+		# Monochromatic variants (L+L patterns, M emblems)
+		70  = kioqlight_1_a_mono  # WS solid light / M emblem
+		65  = kioqlight_1_b_mono  # WS horizontal split (L+L)
+		60  = kioqlight_1_c_mono  # WS horizontal split (L+L)
+		60  = kioqlight_1_d_mono  # WS barry pattern (L+L)
+		55  = kioqlight_2_a_mono  # Jungle solid light / M emblem
+		50  = kioqlight_2_b_mono  # Jungle diagonal (L+L)
+		50  = kioqlight_2_c_mono  # Jungle checkers (L+L)
+	}
+	
+	### BATCH 3 - BROULQEN ###
+	special_selection = {
+		trigger = {
+			arikuri_coa_broulqen_trigger = yes
+		}
+		# WS-specific templates (60%)
+		110 = broulqen_1_a  # WS solid medium
+		100 = broulqen_1_b  # WS quarterly
+		90  = broulqen_1_c  # WS diagonal
+		
+		# Jungle Plants templates (37%)
+		85  = broulqen_2_a  # Jungle solid dark
+		38  = broulqen_2_b  # Jungle horizontal split
+		37  = broulqen_2_b_mirror  # Jungle horizontal split (mirrored)
+		70  = broulqen_2_c  # Jungle checkers
+		
+		# NE Mountains template (3% - VERY LOW)
+		20  = broulqen_3_a  # NE Mountains diagonal
+	}
+	
+	### BATCH 3 - OGILEK ###
+	special_selection = {
+		trigger = {
+			arikuri_coa_ogilek_trigger = yes
+		}
+		# WS-specific templates (60%)
+		110 = ogilek_1_a  # WS solid medium
+		50  = ogilek_1_b  # WS horizontal split
+		50  = ogilek_1_b_mirror  # WS horizontal split (mirrored)
+		95  = ogilek_1_c  # WS chevron
+		90  = ogilek_1_d  # WS diagonal
+		100 = ogilek_3_a  # WS horizontal split (saturated blue top)
+		
+		# NE Mountains templates (40%)
+		85  = ogilek_2_a  # NE Mountains diagonal
+		80  = ogilek_2_b  # NE Mountains bend
+		75  = ogilek_2_c  # NE Mountains solid dark
+	}
+	
+	### QEOMOQ (40% WS, 35% Central Ornaments, 25% NE Mountains)
+	special_selection = {
+		trigger = {
+			arikuri_coa_qeomoq_trigger = yes
+		}
+		# WS-specific templates (40%)
+		110 = qeomoq_1_a  # WS medium/dark
+		105 = qeomoq_1_b  # WS dark/light
+		100 = qeomoq_1_c  # WS light/dark
+		
+		# Central Ornaments templates (35%)
+		95  = qeomoq_2_a  # Central medium/light
+		90  = qeomoq_2_b  # Central dark/light
+		85  = qeomoq_2_c  # Central light/dark
+		
+		# NE Mountains template (25%)
+		80  = qeomoq_3_a  # NE Mountains medium/dark
+	}
+	
+	### FLOICHT (55% WS, 45% Central Ornaments - ALL with circle overlays)
+	special_selection = {
+		trigger = {
+			arikuri_coa_floicht_trigger = yes
+		}
+		# WS-specific templates with circles (55%)
+		110 = floicht_1_a  # WS M/D/L circle
+		105 = floicht_1_b  # WS D/L/M circle
+		100 = floicht_1_c  # WS L/D/M circle
+		95  = floicht_1_d  # WS M/L/D circle
+		
+		# Central Ornaments with circles (45%)
+		90  = floicht_2_a  # Central D/L/M circle
+		85  = floicht_2_b  # Central M/D/L circle
+		80  = floicht_2_c  # Central L/D/M circle
+	}
+	
+	### AELWRID (55% WS, 45% Central Ornaments - ALL with circle overlays, holy theme)
+	special_selection = {
+		trigger = {
+			arikuri_coa_aelwrid_trigger = yes
+		}
+		# WS-specific templates with circles (55%)
+		110 = aelwrid_1_a  # WS L/D/M circle (holy light)
+		105 = aelwrid_1_b  # WS M/L/D circle
+		100 = aelwrid_1_c  # WS D/L/M circle
+		95  = aelwrid_1_d  # WS M/D/L circle
+		
+		# Central Ornaments with circles (45%)
+		90  = aelwrid_2_a  # Central L/D/M circle (holy)
+		85  = aelwrid_2_b  # Central M/D/L circle
+		80  = aelwrid_2_c  # Central D/L/M circle
+	}
+	
+	### THRAMPTITH LAND (40% Universal WS, 60% Central Plants)
+	special_selection = {
+		trigger = {
+			arikuri_coa_thramptith_land_trigger = yes
+		}
+		# Universal WS templates (40%)
+		110 = thramptith_1_a  # WS M/D
+		105 = thramptith_1_b  # WS D/L
+		100 = thramptith_1_c  # WS L/D
+		
+		# Central Plants templates (60%)
+		95  = thramptith_2_a  # Plants M/L
+		90  = thramptith_2_b  # Plants D/L
+	}
+	
+	### THRAMPTITH SEA (40% Universal WS, 60% Central Sea)
+	special_selection = {
+		trigger = {
+			arikuri_coa_thramptith_sea_trigger = yes
+		}
+		# Universal WS templates (40%)
+		110 = thramptith_1_a  # WS M/D
+		105 = thramptith_1_b  # WS D/L
+		100 = thramptith_1_c  # WS L/D
+		
+		# Central Sea templates (60%)
+		95  = thramptith_3_a  # Sea M/D
+		90  = thramptith_3_b  # Sea L/D
+	}
+	
+	### QIEULBAIA (55% WS, 45% Central Sea)
+	special_selection = {
+		trigger = {
+			arikuri_coa_qieulbaia_trigger = yes
+		}
+		# WS-specific templates (55%)
+		110 = qieulbaia_1_a  # WS M/D
+		105 = qieulbaia_1_b  # WS D/L
+		100 = qieulbaia_1_c  # WS L/D
+		95  = qieulbaia_1_d  # WS M/L
+		
+		# Central Sea templates (45%)
+		90  = qieulbaia_2_a  # Sea M/D
+		85  = qieulbaia_2_b  # Sea D/L
+		80  = qieulbaia_2_c  # Sea L/D
+	}
+	
+	### PREOLYTH (60% WS, 40% Central Plants)
+	special_selection = {
+		trigger = {
+			arikuri_coa_preolyth_trigger = yes
+		}
+		# WS-specific templates (60%)
+		110 = preolyth_1_a  # WS M/D
+		105 = preolyth_1_b  # WS D/L
+		100 = preolyth_1_c  # WS L/D
+		95  = preolyth_1_d  # WS M/L
+		
+		# Central Plants templates (40%)
+		90  = preolyth_2_a  # Plants M/L
+		85  = preolyth_2_b  # Plants D/L
+		80  = preolyth_2_c  # Plants L/D
+	}
+	
+	### VEUQRIT (30% WS, 35% Central Sea, 35% Central Plants - Triple pool)
+	special_selection = {
+		trigger = {
+			arikuri_coa_veuqrit_trigger = yes
+		}
+		# WS-specific templates (30%)
+		100 = veuqrit_1_a  # WS M/D
+		95  = veuqrit_1_b  # WS L/D
+		
+		# Central Sea templates (35%)
+		100 = veuqrit_2_a  # Sea M/L
+		95  = veuqrit_2_b  # Sea D/L
+		90  = veuqrit_2_c  # Sea L/D
+		
+		# Central Plants templates (35%)
+		100 = veuqrit_3_a  # Plants M/D
+		95  = veuqrit_3_b  # Plants L/D
+	}
 		special_selection = {
 			trigger = {
 				arikuri_coa_plith_trigger = yes
@@ -1141,6 +1470,9 @@
 			500 = khmer_horizontal_two_inverted
 			500 = khmer_horizontal_two_framed_inverted
 		}
+	
+	
+	
 	}
 
 	religious_title = {

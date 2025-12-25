@@ -886,5 +886,267 @@ on_action_culture_seeding = {
 				desc = cultural_acceptance_historical_relations
 			}
 		}
+		
+		# ENIOL EMPIRE DYNASTY PRESTIGE INITIALIZATION
+		# Sets dynasty prestige levels for all dynasties within the Eniol Empire (e_R17G145B229)
+		# Level 8: dynn_gen_45 (Special case - remnant of old Eniol Empire)
+		# Level 6: Kingdom holders
+		# Level 4: Duchy holders (no kingdoms)
+		# Level 2: County holders only
+		
+		# ENIOL EMPIRE DYNASTY PRESTIGE - Special Case
+		# dynn_gen_45: Last remnant of the old Eniol Empire dynasty
+		dynasty:dynn_gen_45 = {
+			while = {
+				limit = { dynasty_prestige_level < 8 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		
+		# Kingdom Level Dynasties - Level 6
+		dynasty:dynn_gen_26 = {
+			while = {
+				limit = { dynasty_prestige_level < 6 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_30 = {
+			while = {
+				limit = { dynasty_prestige_level < 6 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_35 = {
+			while = {
+				limit = { dynasty_prestige_level < 6 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		
+		# Duchy Level Dynasties - Level 4
+		dynasty:dynn_gen_32 = {
+			while = {
+				limit = { dynasty_prestige_level < 4 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_39 = {
+			while = {
+				limit = { dynasty_prestige_level < 4 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_42 = {
+			while = {
+				limit = { dynasty_prestige_level < 4 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_43 = {
+			while = {
+				limit = { dynasty_prestige_level < 4 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		
+		# County Level Dynasties - Level 2
+		dynasty:dynn_gen_27 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_28 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_29 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_31 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_33 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_34 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_36 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_37 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_38 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_40 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_41 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_44 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_46 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		dynasty:dynn_gen_47 = {
+			while = {
+				limit = { dynasty_prestige_level < 2 }
+				add_dynasty_prestige_level = 1
+			}
+		}
+		
+		# ENIOL HERITAGE INNOVATION SEEDING (Per-Culture Faction Assignment)
+		# Common techs (5): All factions
+		# Faction-specific: Conservative/Military/Diplomatic (+1), Technocrat (+2)
+		
+		# Conservative faction - Frenchincident_faith (6 techs total)
+		culture:cccpartialadvice = {
+			add_innovation = innovation_casus_belli
+			add_innovation = innovation_city_planning
+			add_innovation = innovation_ledger
+			add_innovation = innovation_bannus
+			add_innovation = innovation_quilted_armor
+			add_innovation = innovation_plenary_assemblies
+		}
+		
+		# Military faction - chubbychildhood_faith (6 techs total)
+		culture:cccthornyinformation = {
+			add_innovation = innovation_casus_belli
+			add_innovation = innovation_city_planning
+			add_innovation = innovation_ledger
+			add_innovation = innovation_bannus
+			add_innovation = innovation_quilted_armor
+			add_innovation = innovation_barracks
+		}
+		
+		# Diplomatic faction - wideeyedimpact_faith (6 techs total)
+		culture:ccclameactivity = {
+			add_innovation = innovation_casus_belli
+			add_innovation = innovation_city_planning
+			add_innovation = innovation_ledger
+			add_innovation = innovation_bannus
+			add_innovation = innovation_quilted_armor
+			add_innovation = innovation_gavelkind
+		}
+		
+		# Technocrat faction - somberpoet_faith (7 techs total)
+		culture:cccfoolhardystep = {
+			add_innovation = innovation_casus_belli
+			add_innovation = innovation_city_planning
+			add_innovation = innovation_ledger
+			add_innovation = innovation_bannus
+			add_innovation = innovation_quilted_armor
+			add_innovation = innovation_development_01
+			add_innovation = innovation_catapult
+		}
+		
+		# BROULQEN - Byzantine Bureaucracy (3 techs)
+		every_culture_global = {
+			limit = {
+				OR = {
+					has_cultural_pillar = heritage_cccknowledgeableparticular_seed
+					has_cultural_pillar = heritage_cccsmugbreath_seed
+					has_cultural_pillar = heritage_cccroughcut_seed
+				}
+			}
+			add_innovation = innovation_ledger
+			add_innovation = innovation_plenary_assemblies
+			add_innovation = innovation_currency_01
+		}
+		
+		# AIGL - Maritime Feudal Raiders (3 techs)
+		every_culture_global = {
+			limit = {
+				has_cultural_pillar = heritage_cccleafysun_seed
+			}
+			add_innovation = innovation_casus_belli
+			add_innovation = innovation_bannus
+			add_innovation = innovation_longboats
+		}
+		
+		# QEOMOQ - Harmonious Collective (3 techs)
+		every_culture_global = {
+			limit = {
+				has_cultural_pillar = heritage_cccbrillianteffect_seed
+			}
+			add_innovation = innovation_city_planning
+			add_innovation = innovation_crop_rotation
+			add_innovation = innovation_plenary_assemblies
+		}
+		
+		# LIVETOWER RELIGION - Esoteric Spiritual (4 techs, religion-filtered)
+		every_culture_global = {
+			limit = {
+				OR = {
+					has_cultural_pillar = heritage_cccdishonestmachine_seed
+					has_cultural_pillar = heritage_cccpotableangle_seed
+					has_cultural_pillar = heritage_cccweeklynurse_seed
+				}
+			}
+			if = {
+				limit = {
+					any_culture_character = {
+						OR = {
+							religion = religion:livetower
+							religion = religion:welldocumenteddrawer
+						}
+					}
+				}
+				add_innovation = innovation_city_planning
+				add_innovation = innovation_plenary_assemblies
+				add_innovation = innovation_development_01
+				add_innovation = innovation_motte
+			}
+		}
+		
+		# GLEUNCTI - Temple-Focused (2 techs)
+		every_culture_global = {
+			limit = {
+				has_cultural_pillar = heritage_cccrowdystudy_seed
+			}
+			add_innovation = innovation_city_planning
+			add_innovation = innovation_plenary_assemblies
+		}
+
 	}
 }

@@ -1,4 +1,4 @@
-# Arikuri glyphs
+﻿# Arikuri glyphs
 # Plith
 arikuri_ws_plith_glyph_1.dds = { colors = 1 category = plith }
 arikuri_ws_plith_glyph_2.dds = { colors = 1 category = plith }
@@ -346,3 +346,479 @@ arikuri_ws_aiexqelt_letter_glyph_13.dds = { colors = 1 category = aiexqelt }
 arikuri_ws_aiexqelt_letter_glyph_14.dds = { colors = 1 category = aiexqelt }
 arikuri_ws_aiexqelt_letter_glyph_fluorA.dds = { colors = 1 category = aiexqelt }
 arikuri_ws_aiexqelt_letter_glyph_fluorB.dds = { colors = 1 category = aiexqelt }
+
+# BATCH 1 - Writing Systems
+# XACRA (21 emblems)
+arikuri_ele_ws_xacra_1.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_2.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_3.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_4.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_5.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_6.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_7.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_8.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_9.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_10.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_11.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_12.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_13.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_14.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_15.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_16.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_17.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_18.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_19.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_20.dds = { colors = 1 category = xacra }
+arikuri_ele_ws_xacra_21.dds = { colors = 1 category = xacra }
+
+# WUSAUN (18 emblems)
+arikuri_ele_ws_wusaun_1.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_2.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_3.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_4.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_5.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_6.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_7.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_8.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_9.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_10.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_11.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_12.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_13.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_14.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_15.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_16.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_17.dds = { colors = 1 category = wusaun }
+arikuri_ele_ws_wusaun_18.dds = { colors = 1 category = wusaun }
+
+# BLOUCK (26 emblems)
+arikuri_ele_ws_blouck_1.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_2.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_3.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_4.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_5.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_6.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_7.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_8.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_9.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_10.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_11.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_12.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_13.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_14.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_15.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_16.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_17.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_18.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_19.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_20.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_21.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_22.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_23.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_24.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_25.dds = { colors = 1 category = blouck }
+arikuri_ele_ws_blouck_26.dds = { colors = 1 category = blouck }
+
+# BATCH 1 - Common Pools
+# Choramana (24 emblems - for land Aigl)
+arikuri_ele_common_choramana_1.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_2.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_3.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_4.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_5.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_6.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_7.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_8.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_9.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_10.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_11.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_12.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_13.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_14.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_15.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_16.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_17.dds = { colors = 1 category = choramana }
+arikuri_ele_common_choramana_18.dds = { colors = 1 category = choramana }
+
+# SW Mountains (12 emblems - for sea Aigl)
+arikuri_ele_common_swmountains_1.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_2.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_3.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_4.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_5.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_6.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_7.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_8.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_9.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_10.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_11.dds = { colors = 1 category = swmountains }
+arikuri_ele_common_swmountains_12.dds = { colors = 1 category = swmountains }
+
+# BATCH 2 - Writing Systems
+# AIGL (25 emblems)
+arikuri_ele_ws_aigl_1.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_2.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_3.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_4.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_5.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_6.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_7.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_8.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_9.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_10.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_11.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_12.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_13.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_14.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_15.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_16.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_17.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_18.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_19.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_20.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_21.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_22.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_23.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_24.dds = { colors = 1 category = aigl }
+arikuri_ele_ws_aigl_25.dds = { colors = 1 category = aigl }
+
+# QORMAIC (27 emblems)
+arikuri_ele_ws_qormaic_1.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_2.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_3.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_4.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_5.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_6.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_7.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_8.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_9.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_10.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_11.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_12.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_13.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_14.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_15.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_16.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_17.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_18.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_19.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_20.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_21.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_22.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_23.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_24.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_25.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_26.dds = { colors = 1 category = qormaic }
+arikuri_ele_ws_qormaic_27.dds = { colors = 1 category = qormaic }
+
+# IODDRIK (20 emblems)
+arikuri_ele_ws_ioddrik_1.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_2.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_3.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_4.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_5.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_6.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_7.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_8.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_9.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_10.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_11.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_12.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_13.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_14.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_15.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_16.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_17.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_18.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_19.dds = { colors = 1 category = ioddrik }
+arikuri_ele_ws_ioddrik_20.dds = { colors = 1 category = ioddrik }
+
+# BATCH 3 - Writing Systems & Common Pools
+# Jungle Plants (13 emblems - Common Pool)
+arikuri_ele_common_jungleplants_1.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_2.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_3.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_4.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_5.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_6.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_7.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_8.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_9.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_10.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_11.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_12.dds = { colors = 1 category = jungleplants }
+arikuri_ele_common_jungleplants_13.dds = { colors = 1 category = jungleplants }
+
+# KIOQ (16 emblems)
+arikuri_ele_ws_kioq_1.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_2.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_3.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_4.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_5.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_6.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_7.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_8.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_9.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_10.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_11.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_12.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_13.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_14.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_15.dds = { colors = 1 category = kioq }
+arikuri_ele_ws_kioq_16.dds = { colors = 1 category = kioq }
+
+# BROULQEN (22 emblems)
+arikuri_ele_ws_broulqen_1.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_2.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_3.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_4.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_5.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_6.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_7.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_8.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_9.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_10.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_11.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_12.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_13.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_14.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_15.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_16.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_17.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_18.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_19.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_20.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_21.dds = { colors = 1 category = broulqen }
+arikuri_ele_ws_broulqen_22.dds = { colors = 1 category = broulqen }
+
+# NE Mountains (13 emblems - Common Pool)
+arikuri_ele_common_nemountains_1.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_2.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_3.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_4.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_5.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_6.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_7.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_8.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_9.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_10.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_11.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_12.dds = { colors = 1 category = nemountains }
+arikuri_ele_common_nemountains_13.dds = { colors = 1 category = nemountains }
+
+# OGILEK (11 emblems)
+arikuri_ele_ws_ogilek_1.dds = { colors = 1 category = ogilek }
+arikuri_ele_ws_ogilek_2.dds = { colors = 1 category = ogilek }
+arikuri_ele_ws_ogilek_3.dds = { colors = 1 category = ogilek }
+arikuri_ele_ws_ogilek_4.dds = { colors = 1 category = ogilek }
+arikuri_ele_ws_ogilek_5.dds = { colors = 1 category = ogilek }
+arikuri_ele_ws_ogilek_6.dds = { colors = 1 category = ogilek }
+arikuri_ele_ws_ogilek_7.dds = { colors = 1 category = ogilek }
+arikuri_ele_ws_ogilek_8.dds = { colors = 1 category = ogilek }
+arikuri_ele_ws_ogilek_9.dds = { colors = 1 category = ogilek }
+arikuri_ele_ws_ogilek_10.dds = { colors = 1 category = ogilek }
+arikuri_ele_ws_ogilek_11.dds = { colors = 1 category = ogilek }
+
+# BATCH 4 - Writing Systems & Common Pools
+# Central Ornaments (30 emblems - Common Pool)
+arikuri_ele_common_centralornaments_1.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_2.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_3.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_4.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_5.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_6.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_7.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_8.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_9.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_10.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_11.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_12.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_13.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_14.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_15.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_16.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_17.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_18.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_19.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_20.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_21.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_22.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_23.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_24.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_25.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_26.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_27.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_28.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_29.dds = { colors = 1 category = centralornaments }
+arikuri_ele_common_centralornaments_30.dds = { colors = 1 category = centralornaments }
+
+# QEOMOQ (21 emblems)
+arikuri_ele_ws_qeomoq_1.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_2.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_3.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_4.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_5.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_6.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_7.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_8.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_9.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_10.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_11.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_12.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_13.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_14.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_15.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_16.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_17.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_18.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_19.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_20.dds = { colors = 1 category = qeomoq }
+arikuri_ele_ws_qeomoq_21.dds = { colors = 1 category = qeomoq }
+
+# FLOICHT (14 emblems)
+arikuri_ele_ws_floicht_1.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_2.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_3.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_4.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_5.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_6.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_7.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_8.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_9.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_10.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_11.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_12.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_13.dds = { colors = 1 category = floicht }
+arikuri_ele_ws_floicht_14.dds = { colors = 1 category = floicht }
+
+# AELWRID (14 emblems)
+arikuri_ele_ws_aelwrid_1.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_2.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_3.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_4.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_5.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_6.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_7.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_8.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_9.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_10.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_11.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_12.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_13.dds = { colors = 1 category = aelwrid }
+arikuri_ele_ws_aelwrid_14.dds = { colors = 1 category = aelwrid }
+
+# BATCH 5 - Writing Systems & Common Pools
+# Southern Plants (19 emblems - Common Pool)
+arikuri_ele_common_southernplants_1.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_2.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_3.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_4.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_5.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_6.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_7.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_8.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_9.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_10.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_11.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_12.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_13.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_14.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_15.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_16.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_17.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_18.dds = { colors = 1 category = southernplants }
+arikuri_ele_common_southernplants_19.dds = { colors = 1 category = southernplants }
+
+# Central Sea (21 emblems - Common Pool)
+arikuri_ele_common_centralsea_1.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_2.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_3.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_4.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_5.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_6.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_7.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_8.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_9.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_10.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_11.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_12.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_13.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_14.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_15.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_16.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_17.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_18.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_19.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_20.dds = { colors = 1 category = centralsea }
+arikuri_ele_common_centralsea_21.dds = { colors = 1 category = centralsea }
+
+# THRAMPTITH (16 emblems)
+arikuri_ele_ws_thramptith_1.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_2.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_3.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_4.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_5.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_6.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_7.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_8.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_9.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_10.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_11.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_12.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_13.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_14.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_15.dds = { colors = 1 category = thramptith }
+arikuri_ele_ws_thramptith_16.dds = { colors = 1 category = thramptith }
+
+# QIEULBAIA (15 emblems)
+arikuri_ele_ws_qieulbaia_1.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_2.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_3.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_4.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_5.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_6.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_7.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_8.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_9.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_10.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_11.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_12.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_13.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_14.dds = { colors = 1 category = qieulbaia }
+arikuri_ele_ws_qieulbaia_15.dds = { colors = 1 category = qieulbaia }
+
+# PREOLYTH (22 emblems)
+arikuri_ele_ws_preolyth_1.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_2.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_3.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_4.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_5.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_6.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_7.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_8.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_9.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_10.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_11.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_12.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_13.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_14.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_15.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_16.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_17.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_18.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_19.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_20.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_21.dds = { colors = 1 category = preolyth }
+arikuri_ele_ws_preolyth_22.dds = { colors = 1 category = preolyth }
+
+# VEUQRIT (10 emblems)
+arikuri_ele_ws_veuqrit_1.dds = { colors = 1 category = veuqrit }
+arikuri_ele_ws_veuqrit_2.dds = { colors = 1 category = veuqrit }
+arikuri_ele_ws_veuqrit_3.dds = { colors = 1 category = veuqrit }
+arikuri_ele_ws_veuqrit_4.dds = { colors = 1 category = veuqrit }
+arikuri_ele_ws_veuqrit_5.dds = { colors = 1 category = veuqrit }
+arikuri_ele_ws_veuqrit_6.dds = { colors = 1 category = veuqrit }
+arikuri_ele_ws_veuqrit_7.dds = { colors = 1 category = veuqrit }
+arikuri_ele_ws_veuqrit_8.dds = { colors = 1 category = veuqrit }
+arikuri_ele_ws_veuqrit_9.dds = { colors = 1 category = veuqrit }
+arikuri_ele_ws_veuqrit_10.dds = { colors = 1 category = veuqrit }

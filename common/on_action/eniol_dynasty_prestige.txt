@@ -1,0 +1,8 @@
+# Eniol Empire Dynasty Prestige Initialization
+# COMMENTED OUT - MERGED INTO arikuri_game_start.txt to avoid on_game_start conflict
+#
+# This file's content has been integrated into arikuri_game_start.txt
+# to prevent conflicts with multiple on_game_start definitions.
+# 
+# The dynasty prestige logic is now executed as part of the
+# on_action_culture_seeding effect in arikuri_game_start.txt

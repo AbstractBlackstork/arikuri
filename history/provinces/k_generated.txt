@@ -231,8 +231,8 @@
 	holding = none
 }
 405 = {
-	culture = cccfrillylawyer
-	religion = naivewindow_faith
+	culture = cccimmaterialvisual
+	religion = suddensound_faith
 	holding = castle_holding
 }
 1573 = {
@@ -248,16 +248,16 @@
 	holding = none
 }
 673 = {
-	culture = cccfrillylawyer
-	religion = naivewindow_faith
+	culture = cccimmaterialvisual
+	religion = suddensound_faith
 	holding = castle_holding
 }
 1903 = {
 	holding = none
 }
 1107 = {
-	culture = cccfrillylawyer
-	religion = naivewindow_faith
+	culture = cccimmaterialvisual
+	religion = suddensound_faith
 	holding = castle_holding
 }
 1554 = {
@@ -281,8 +281,8 @@
 	holding = none
 }
 971 = {
-	culture = cccpartialadvice
-	religion = Frenchincident_faith
+	culture = cccthornyinformation
+	religion = chubbychildhood_faith
 	holding = castle_holding
 }
 1094 = {
@@ -298,16 +298,16 @@
 	holding = none
 }
 1084 = {
-	culture = cccpartialadvice
-	religion = Frenchincident_faith
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
 	holding = castle_holding
 }
 1306 = {
 	holding = none
 }
 1626 = {
-	culture = cccpartialadvice
-	religion = Frenchincident_faith
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
 	holding = castle_holding
 }
 103 = {
@@ -389,8 +389,8 @@
 	holding = none
 }
 693 = {
-	culture = ccclameactivity
-	religion = wideeyedimpact_faith
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
 	holding = castle_holding
 }
 1842 = {
@@ -403,16 +403,16 @@
 	holding = none
 }
 570 = {
-	culture = ccclameactivity
-	religion = wideeyedimpact_faith
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
 	holding = castle_holding
 }
 1481 = {
 	holding = none
 }
 756 = {
-	culture = ccclameactivity
-	religion = wideeyedimpact_faith
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
 	holding = castle_holding
 }
 212 = {
@@ -438,8 +438,8 @@
 	holding = castle_holding
 }
 851 = {
-	culture = ccclameactivity
-	religion = wideeyedimpact_faith
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
 	holding = castle_holding
 }
 1381 = {
@@ -449,8 +449,8 @@
 	holding = none
 }
 414 = {
-	culture = ccclameactivity
-	religion = wideeyedimpact_faith
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
 	holding = castle_holding
 }
 1153 = {
@@ -463,8 +463,8 @@
 	holding = none
 }
 474 = {
-	culture = ccclameactivity
-	religion = wideeyedimpact_faith
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
 	holding = castle_holding
 }
 536 = {
@@ -474,8 +474,8 @@
 	holding = none
 }
 919 = {
-	culture = ccclameactivity
-	religion = wideeyedimpact_faith
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
 	holding = castle_holding
 }
 1489 = {
@@ -1456,21 +1456,21 @@
 	holding = castle_holding
 }
 413 = {
-	culture = cccexperttonight
-	religion = honorableimprovement_faith
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
 	holding = castle_holding
 }
 1268 = {
 	holding = none
 }
 1329 = {
-	culture = cccexperttonight
-	religion = honorableimprovement_faith
+	culture = ccclameactivity
+	religion = wideeyedimpact_faith
 	holding = castle_holding
 }
 419 = {
-	culture = cccexperttonight
-	religion = honorableimprovement_faith
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
 	holding = castle_holding
 }
 1128 = {
@@ -1486,8 +1486,8 @@
 	holding = none
 }
 1809 = {
-	culture = cccexperttonight
-	religion = honorableimprovement_faith
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
 	holding = castle_holding
 }
 74 = {
@@ -1499,8 +1499,8 @@
 	holding = none
 }
 78 = {
-	culture = cccbutterylaw
-	religion = flimsylunch_faith
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
 	holding = castle_holding
 }
 91 = {
@@ -1516,8 +1516,8 @@
 	holding = none
 }
 813 = {
-	culture = cccbutterylaw
-	religion = flimsylunch_faith
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
 	holding = castle_holding
 }
 1222 = {
@@ -1527,8 +1527,8 @@
 	holding = none
 }
 1022 = {
-	culture = cccbutterylaw
-	religion = flimsylunch_faith
+	culture = cccpartialadvice
+	religion = Frenchincident_faith
 	holding = castle_holding
 }
 269 = {
@@ -1660,8 +1660,8 @@
 	holding = none
 }
 1451 = {
-	culture = cccdetailedassociate
-	religion = squeakywarning_faith
+	culture = cccadolescentestate
+	religion = surefootedhell_faith
 	holding = castle_holding
 }
 33 = {
@@ -1698,8 +1698,8 @@
 	holding = none
 }
 141 = {
-	culture = cccdetailedassociate
-	religion = squeakywarning_faith
+	culture = cccbumpyjoke
+	religion = secondarybuddy_faith
 	holding = castle_holding
 }
 301 = {
@@ -1840,8 +1840,8 @@
 	holding = none
 }
 175 = {
-	culture = cccunnaturalcourage
-	religion = biodegradableresolve_faith
+	culture = cccadolescentestate
+	religion = surefootedhell_faith
 	holding = castle_holding
 }
 1075 = {
@@ -2327,7 +2327,7 @@
 }
 39 = {
 	culture = ccctrivialmaster
-	religion = newtrash_faith
+	religion = deareststatus_faith
 	holding = castle_holding
 }
 1598 = {
@@ -2338,7 +2338,7 @@
 }
 48 = {
 	culture = ccctrivialmaster
-	religion = newtrash_faith
+	religion = deareststatus_faith
 	holding = castle_holding
 }
 1695 = {
@@ -2346,7 +2346,7 @@
 }
 892 = {
 	culture = ccctrivialmaster
-	religion = newtrash_faith
+	religion = deareststatus_faith
 	holding = castle_holding
 }
 1645 = {
@@ -4683,8 +4683,8 @@
 	holding = none
 }
 52 = {
-	culture = cccadolescentestate
-	religion = surefootedhell_faith
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
 	holding = castle_holding
 }
 643 = {
@@ -4697,21 +4697,21 @@
 	holding = none
 }
 69 = {
-	culture = cccadolescentestate
-	religion = surefootedhell_faith
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
 	holding = castle_holding
 }
 1582 = {
 	holding = none
 }
 1900 = {
-	culture = cccadolescentestate
-	religion = surefootedhell_faith
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
 	holding = castle_holding
 }
 1026 = {
-	culture = cccbumpyjoke
-	religion = secondarybuddy_faith
+	culture = cccfoolhardystep
+	religion = somberpoet_faith
 	holding = castle_holding
 }
 1734 = {
@@ -5051,8 +5051,8 @@
 	holding = none
 }
 273 = {
-	culture = ccclovingconstruction
-	religion = silentman_faith
+	culture = cccimmaterialvisual
+	religion = suddensound_faith
 	holding = castle_holding
 }
 1722 = {
@@ -5062,8 +5062,8 @@
 	holding = none
 }
 422 = {
-	culture = ccclovingconstruction
-	religion = silentman_faith
+	culture = cccimmaterialvisual
+	religion = suddensound_faith
 	holding = castle_holding
 }
 554 = {
@@ -5410,8 +5410,8 @@
 	holding = castle_holding
 }
 444 = {
-	culture = ccchonoredbad
-	religion = wholeunique_faith
+	culture = cccslipperyface
+	religion = aggravatingblue_faith
 	holding = castle_holding
 }
 1792 = {
@@ -5430,8 +5430,8 @@
 	holding = none
 }
 837 = {
-	culture = ccchonoredbad
-	religion = wholeunique_faith
+	culture = cccslipperyface
+	religion = aggravatingblue_faith
 	holding = castle_holding
 }
 1549 = {

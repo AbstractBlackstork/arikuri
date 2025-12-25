@@ -1,4 +1,4 @@
-
+﻿
 arikuri_pattern_plith_1.dds = { colors = 2 }
 arikuri_pattern_plith_2.dds = { colors = 3 }
 arikuri_pattern_plith_3.dds = { colors = 3 }

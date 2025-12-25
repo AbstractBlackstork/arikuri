@@ -1,4 +1,4 @@
-template = {
+﻿template = {
 	## Arikuri begin
 	plith_1_a = {
 		pattern = "arikuri_pattern_plith_1.dds"
@@ -498,7 +498,7 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.672000 0.672000 } }  # Increased from 0.560000
+			instance = { scale={ 0.77280 0.77280 } }
 		}
 	}
 	
@@ -510,7 +510,7 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.672000 0.672000 } }  # Increased from 0.560000
+			instance = { scale={ 0.77280 0.77280 } }
 		}
 	}
 	
@@ -522,7 +522,7 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.720000 0.720000 } }  # Increased from 0.60000
+			instance = { scale={ 0.82800 0.82800 } }
 		}
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_tile_list"
@@ -539,7 +539,7 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.720000 0.720000 } }  # Increased from 0.60000
+			instance = { scale={ 0.82800 0.82800 } }
 		}
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_tile_list"
@@ -548,7 +548,7 @@ template = {
 		}
 	}
 	pfaunkti_7_a = {
-#		pattern = "pattern_solid.dds"
+#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_pfaunkti_7.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -625,7 +625,7 @@ template = {
 		}
 	}
 	pfaunkti_7_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_pfaunkti_7.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -2760,13 +2760,13 @@ template = {
 	}
 	pfaunkti_4_c_rev = {
 		pattern = "arikuri_pattern_pfaunkti_4.dds"
-		color1 = list "ari_l_colors"  # Was d_colors
-		color2 = list "ari_l_colors"  # Was d_colors
-		color3 = list "ari_d_colors"  # Was l_colors
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.672000 0.672000 } }  # Using increased size
+			instance = { scale={ 0.77280 0.77280 } }
 		}
 	}
 	pfaunkti_5_b_rev = {
@@ -2874,13 +2874,13 @@ template = {
 	}
 	pfaunkti_4_d_rev = {
 		pattern = "arikuri_pattern_pfaunkti_4.dds"
-		color1 = list "ari_l_colors"  # Was d_colors
-		color2 = list "ari_l_colors"  # Was d_colors
-		color3 = list "ari_m_colors"  # Stays same
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.672000 0.672000 } }  # Using increased size
+			instance = { scale={ 0.77280 0.77280 } }
 		}
 	}
 	pfaunkti_5_a_rev = {
@@ -4387,15 +4387,14 @@ template = {
 	}
 	pfaunkti_1_e_rev = {
 		pattern = "pattern__solid_designer.dds"
-		color1 = list "ari_l_colors"  # Was d_colors
-		color2 = list "ari_m_colors"  # Stays same
-		color3 = list "ari_d_colors"  # Was l_colors
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_d_colors"
 		
-		#top
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.720000 0.720000 } }  # Using increased size
+			instance = { scale={ 0.82800 0.82800 } }
 		}
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_tile_list"
@@ -4405,15 +4404,14 @@ template = {
 	}
 	pfaunkti_1_f_rev = {
 		pattern = "pattern__solid_designer.dds"
-		color1 = list "ari_l_colors"  # Was d_colors
-		color2 = list "ari_l_colors"  # Was d_colors
-		color3 = list "ari_d_colors"  # Was l_colors
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
 		
-		#top
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.720000 0.720000 } }  # Using increased size
+			instance = { scale={ 0.82800 0.82800 } }
 		}
 		colored_emblem = {
 			texture = list "arikuri_ws_pfaunkti_tile_list"
@@ -4424,7 +4422,7 @@ template = {
 
 	#Queekwa
 	queekwa_A_1_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_1.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4436,7 +4434,7 @@ template = {
 		}
 	}
 	queekwa_B_1_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_1.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4448,7 +4446,7 @@ template = {
 		}
 	}
 	queekwa_Bs_1_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_1.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4460,7 +4458,7 @@ template = {
 		}
 	}
 	queekwa_A_2_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_2.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4472,7 +4470,7 @@ template = {
 		}
 	}
 	queekwa_B_2_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_2.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4484,7 +4482,7 @@ template = {
 		}
 	}
 	queekwa_Bs_2_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_2.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4496,7 +4494,7 @@ template = {
 		}
 	}
 	queekwa_A_1_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_1.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4508,7 +4506,7 @@ template = {
 		}
 	}
 	queekwa_A_2_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_2.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4520,7 +4518,7 @@ template = {
 		}
 	}
 	queekwa_B_2_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_2.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4532,7 +4530,7 @@ template = {
 		}
 	}
 	queekwa_Bs_2_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_2.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4544,7 +4542,7 @@ template = {
 		}
 	}
 	queekwa_B_1_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_1.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4556,7 +4554,7 @@ template = {
 		}
 	}
 	queekwa_Bs_1_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_1.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4568,7 +4566,7 @@ template = {
 		}
 	}
 	queekwa_A_1_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_1.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -4580,7 +4578,7 @@ template = {
 		}
 	}
 	queekwa_A_2_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_2.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -4592,7 +4590,7 @@ template = {
 		}
 	}
 	queekwa_A_3_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4604,7 +4602,7 @@ template = {
 		}
 	}
 	queekwa_A_3_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4616,7 +4614,7 @@ template = {
 		}
 	}
 	queekwa_A_3_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -4628,7 +4626,7 @@ template = {
 		}
 	}
 	queekwa_B_3_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4640,7 +4638,7 @@ template = {
 		}
 	}
 	queekwa_B_3_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4652,7 +4650,7 @@ template = {
 		}
 	}
 	queekwa_B_3_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -4664,7 +4662,7 @@ template = {
 		}
 	}
 	queekwa_Bs_3_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4676,7 +4674,7 @@ template = {
 		}
 	}
 	queekwa_Bs_3_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4688,7 +4686,7 @@ template = {
 		}
 	}
 	queekwa_Bs_3_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -4799,7 +4797,7 @@ template = {
 		}
 	}
 	queekwa_A_7_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_7.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4812,7 +4810,7 @@ template = {
 		}
 	}
 	queekwa_A_8_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_8.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4825,7 +4823,7 @@ template = {
 		}
 	}
 	queekwa_A_7_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_7.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -4838,7 +4836,7 @@ template = {
 		}
 	}
 	queekwa_A_8_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_8.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -4851,7 +4849,7 @@ template = {
 		}
 	}
 	queekwa_A_7_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_7.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4864,7 +4862,7 @@ template = {
 		}
 	}
 	queekwa_A_8_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_8.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4877,7 +4875,7 @@ template = {
 		}
 	}
 	queekwa_A_5_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_5.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4889,7 +4887,7 @@ template = {
 		}
 	}
 	queekwa_A_5_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_5.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -4901,7 +4899,7 @@ template = {
 		}
 	}
 	queekwa_A_5_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_5.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -5106,7 +5104,7 @@ template = {
 	}
 	
 	queekwa_Dmlml_1_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_1.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -5133,7 +5131,7 @@ template = {
 		}
 	}
 	queekwa_Dmlml_2_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_2.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -5160,7 +5158,7 @@ template = {
 		}
 	}
 	queekwa_Dmlml_4_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_4.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -5187,7 +5185,7 @@ template = {
 		}
 	}
 	queekwa_Dmlml_5_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_5.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -5241,7 +5239,7 @@ template = {
 		}
 	}
 	queekwa_Dmlml_2_d = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_2.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -5268,7 +5266,7 @@ template = {
 		}
 	}
 	queekwa_Dmlml_4_d = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_4.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -5295,7 +5293,7 @@ template = {
 		}
 	}
 	queekwa_Dmlml_5_d = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_5.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -5543,7 +5541,7 @@ template = {
 	}
 	
 	queekwa_Csls_3_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -5571,7 +5569,7 @@ template = {
 		}
 	}
 	queekwa_Csls_3_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -5599,7 +5597,7 @@ template = {
 		}
 	}
 	queekwa_Csls_3_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -5627,7 +5625,7 @@ template = {
 		}
 	}
 	queekwa_Csls_3_d = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_3.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_l_colors"
@@ -5655,7 +5653,7 @@ template = {
 		}
 	}
 	queekwa_Csls_6_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_6.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -5684,7 +5682,7 @@ template = {
 		}
 	}
 	queekwa_Csls_6_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_6.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -5713,7 +5711,7 @@ template = {
 		}
 	}
 	queekwa_Csls_6_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_6.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -5742,7 +5740,7 @@ template = {
 		}
 	}
 	queekwa_Csls_6_d = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_6.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -5771,7 +5769,7 @@ template = {
 		}
 	}
 	queekwa_Cmlss_6_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_6.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -5805,7 +5803,7 @@ template = {
 		}
 	}
 	queekwa_Cmlss_6_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_6.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -5839,7 +5837,7 @@ template = {
 		}
 	}
 	queekwa_Cmlss_6_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_6.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -5873,7 +5871,7 @@ template = {
 		}
 	}
 	queekwa_Cmlss_6_d = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_queekwa_6.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -5907,7 +5905,7 @@ template = {
 		}
 	}
 	gleuncti_0_a = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_l_colors"
 		color3 = list "ari_m_colors"
@@ -5962,11 +5960,11 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.75 0.75 } position = { 0.5 0.45 } depth = 2 }
+			instance = { scale={ 0.75 0.75 } position = { 0.5 0.50 } depth = 2 }
 		}
 	}
 	gleuncti_0t_a = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_l_colors"
 		color3 = list "ari_m_colors"
@@ -6022,7 +6020,7 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.75 0.75 } position = { 0.5 0.45 } depth = 2 }
+			instance = { scale={ 0.75 0.75 } position = { 0.5 0.50 } depth = 2 }
 		}
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_tile_list"
@@ -6031,7 +6029,7 @@ template = {
 		}
 	}
 	gleuncti_0_b = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_l_colors"
 		color3 = list "ari_m_colors"
@@ -6086,11 +6084,11 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.75 0.75 } position = { 0.5 0.45 } depth = 2 }
+			instance = { scale={ 0.75 0.75 } position = { 0.5 0.50 } depth = 2 }
 		}
 	}
 	gleuncti_0t_b = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_l_colors"
 		color3 = list "ari_m_colors"
@@ -6146,7 +6144,7 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.75 0.75 } position = { 0.5 0.45 } depth = 2 }
+			instance = { scale={ 0.75 0.75 } position = { 0.5 0.50 } depth = 2 }
 		}
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_tile_list"
@@ -6155,7 +6153,7 @@ template = {
 		}
 	}
 	gleuncti_0_c = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
 		color3 = list "ari_m_colors"
@@ -6210,11 +6208,11 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.75 0.75 } position = { 0.5 0.45 } depth = 2 }
+			instance = { scale={ 0.75 0.75 } position = { 0.5 0.50 } depth = 2 }
 		}
 	}
 	gleuncti_0t_c = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
 		color3 = list "ari_m_colors"
@@ -6270,7 +6268,7 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.75 0.75 } position = { 0.5 0.45 } depth = 2 }
+			instance = { scale={ 0.75 0.75 } position = { 0.5 0.50 } depth = 2 }
 		}
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_tile_list"
@@ -6279,7 +6277,7 @@ template = {
 		}
 	}
 	gleuncti_0_d = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
 		color3 = list "ari_d_colors"
@@ -6334,11 +6332,11 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.75 0.75 } position = { 0.5 0.45 } depth = 2 }
+			instance = { scale={ 0.75 0.75 } position = { 0.5 0.50 } depth = 2 }
 		}
 	}
 	gleuncti_0t_d = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
 		color3 = list "ari_d_colors"
@@ -6394,7 +6392,7 @@ template = {
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_logo_list"
 			color1 = color3
-			instance = { scale={ 0.75 0.75 } position = { 0.5 0.45 } depth = 2 }
+			instance = { scale={ 0.75 0.75 } position = { 0.5 0.50 } depth = 2 }
 		}
 		colored_emblem = {
 			texture = list "arikuri_ws_gleuncti_tile_list"
@@ -6403,7 +6401,7 @@ template = {
 		}
 	}
 	gleuncti_0A_a = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
 		color3 = list "ari_l_colors"
@@ -6476,7 +6474,7 @@ template = {
 		}
 	}
 	gleuncti_0A_b = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_l_colors"
 		color3 = list "ari_d_colors"
@@ -6549,7 +6547,7 @@ template = {
 		}
 	}
 	gleuncti_0A_c = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
 		color3 = list "ari_m_colors"
@@ -6584,7 +6582,7 @@ template = {
 		}
 	}
 	gleuncti_0B_c = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
 		color3 = list "ari_d_colors"
@@ -6622,7 +6620,7 @@ template = {
 		}
 	}
 	gleuncti_0A_d = {
-		pattern = "pattern_solid.dds"
+		pattern = "pattern__solid_designer.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_l_colors"
 		color3 = list "ari_m_colors"
@@ -7616,7 +7614,7 @@ template = {
 		}
 	}
 	gleuncti_3_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -7644,7 +7642,7 @@ template = {
 		}
 	}
 	gleuncti_4_a = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -7672,7 +7670,7 @@ template = {
 		}
 	}
 	gleuncti_3_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -7700,7 +7698,7 @@ template = {
 		}
 	}
 	gleuncti_4_b = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -7728,7 +7726,7 @@ template = {
 		}
 	}
 	gleuncti_3_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_l_colors"
@@ -7756,7 +7754,7 @@ template = {
 		}
 	}
 	gleuncti_4_c = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_l_colors"
@@ -7784,7 +7782,7 @@ template = {
 		}
 	}
 	gleuncti_3_d = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -7812,7 +7810,7 @@ template = {
 		}
 	}
 	gleuncti_4_d = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -7840,7 +7838,7 @@ template = {
 		}
 	}
 	gleuncti_3_at1 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -7868,7 +7866,7 @@ template = {
 		}
 	}
 	gleuncti_4_at1 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -7896,7 +7894,7 @@ template = {
 		}
 	}
 	gleuncti_3_bt1 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_m_colors"
@@ -7924,7 +7922,7 @@ template = {
 		}
 	}
 	gleuncti_4_bt1 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_d_colors"
@@ -7952,7 +7950,7 @@ template = {
 		}
 	}
 	gleuncti_3_ct1 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_l_colors"
@@ -7980,7 +7978,7 @@ template = {
 		}
 	}
 	gleuncti_4_ct1 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_l_colors"
@@ -8008,7 +8006,7 @@ template = {
 		}
 	}
 	gleuncti_3_dt1 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -8036,7 +8034,7 @@ template = {
 		}
 	}
 	gleuncti_4_dt1 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -8064,7 +8062,7 @@ template = {
 		}
 	}
 	gleuncti_3_at2 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_l_colors"
@@ -8082,7 +8080,7 @@ template = {
 		}
 	}
 	gleuncti_4_at2 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_m_colors"
 		color2 = list "ari_l_colors"
@@ -8100,7 +8098,7 @@ template = {
 		}
 	}
 	gleuncti_3_bt2 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_l_colors"
@@ -8118,7 +8116,7 @@ template = {
 		}
 	}
 	gleuncti_4_bt2 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_l_colors"
@@ -8136,7 +8134,7 @@ template = {
 		}
 	}
 	gleuncti_3_ct2 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_l_colors"
@@ -8154,7 +8152,7 @@ template = {
 		}
 	}
 	gleuncti_4_ct2 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_d_colors"
 		color2 = list "ari_l_colors"
@@ -8172,7 +8170,7 @@ template = {
 		}
 	}
 	gleuncti_3_dt2 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_3.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -8190,7 +8188,7 @@ template = {
 		}
 	}
 	gleuncti_4_dt2 = {
-		#		pattern = "pattern_solid.dds"
+		#		pattern = "pattern__solid_designer.dds"
 		pattern = "arikuri_pattern_gleuncti_4.dds"
 		color1 = list "ari_l_colors"
 		color2 = list "ari_m_colors"
@@ -10020,69 +10018,2135 @@ template = {
 			instance = {  depth = 5 }
 		}
 	}
+
 	
-	coa_title_173={
-		pattern="arikuri_pattern_gleuncti_4.dds"
-		color1=rgb { 201 161 18 }
-		color2=rgb { 26 41 3 }
-		color3=rgb { 21 42 51 }
-		color4=rgb { 194 240 125 }
-		colored_emblem={
-			color1=rgb { 194 240 125 }
-			texture="arikuri_ws_gleuncti_glyph_con_space.dds"
-			instance={
-				position={ 0.160000 0.340000 }
-				depth=1.010000
-			}
-			
-			instance={
-				position={ 0.340000 0.340000 }
-				depth=3.010000
-			}
-			
-		}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	## BATCH 1: XACRA, WUSAUN, BLOUCK
+	
+	# XACRA Templates (7 variations)
+	xacra_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
 		
-		colored_emblem={
-			color1=rgb { 194 240 125 }
-			texture="arikuri_ws_gleuncti_glyph_vowel_8.dds"
-			instance={
-				position={ 0.250000 0.340000 }
-				depth=2.010000
-			}
-			
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_xacra_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } }
 		}
+	}
+	
+	xacra_1_b = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
 		
-		colored_emblem={
-			color1=rgb { 21 42 51 }
-			texture="arikuri_ws_gleuncti_logo_3.dds"
-			instance={
-				position={ 0.660000 0.380000 }
-				scale={ 0.520000 0.520000 }
-			}
-			
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_xacra_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } }
 		}
+	}
+	
+	xacra_1_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
 		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_xacra_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } }
+		}
+	}
+	
+	xacra_2_a = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_xacra_list"
+			color1 = color3
+			instance = { position = { 0.50 0.35 } scale = { 0.40 0.40 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_xacra_list"
+			color1 = color3
+			instance = { position = { 0.50 0.65 } scale = { 0.40 0.40 } }
+		}
+	}
+	
+	xacra_2_a_mirror = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_xacra_list"
+			color1 = color3
+			instance = { position = { 0.50 0.35 } scale = { 0.40 0.40 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_xacra_list"
+			color1 = color3
+			instance = { position = { 0.50 0.65 } scale = { 0.40 0.40 } }
+		}
+	}
+	
+	xacra_2_b = {
+		pattern = "pattern_bend_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_xacra_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } }
+		}
+	}
+	
+	xacra_3_a = {
+		pattern = "pattern_waves_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_xacra_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } }
+		}
+	}
+	
+	xacra_3_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_xacra_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } }
+		}
+	}
+	
+	# WUSAUN Templates (7 variations)
+	wusaun_1_a = {
+		pattern = "pattern_barry_04.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_wusaun_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.70 0.70 } }
+		}
+	}
+	
+	wusaun_1_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_wusaun_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	wusaun_2_a = {
+		pattern = "pattern_barry_04.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_wusaun_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.65 0.65 } }
+		}
+	}
+	
+	wusaun_2_b = {
+		pattern = "pattern_checkers_06.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_wusaun_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.70 0.70 } }
+		}
+	}
+	
+	wusaun_3_a = {
+		pattern = "pattern_quarter.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_wusaun_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.60 0.60 } }
+		}
+	}
+	
+	wusaun_3_b = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_wusaun_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.70 0.70 } }
+		}
+	}
+	
+	wusaun_4_a = {
+		pattern = "pattern_barry_04.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_wusaun_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# BLOUCK Templates (7 variations)
+	blouck_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_blouck_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	blouck_1_b = {
+		pattern = "pattern_barry_04.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_blouck_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.70 0.70 } }
+		}
+	}
+	
+	blouck_2_a = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_blouck_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.65 0.65 } }
+		}
+	}
+	
+	blouck_2_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_blouck_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.80 0.80 } }
+		}
+	}
+	
+	blouck_3_a = {
+		pattern = "pattern_bend_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_blouck_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.70 0.70 } }
+		}
+	}
+	
+	blouck_3_b = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_blouck_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.65 0.65 } }
+		}
+	}
+	
+	blouck_3_b_mirror = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_blouck_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.65 0.65 } }
+		}
+	}
+	
+	blouck_4_a = {
+		pattern = "pattern_barry_04.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_blouck_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# AIGL Templates (7 variations: 3 universal, 2 land-only, 2 sea-only)
+	# Universal templates (1_a, 1_b, 1_c) - shared by both land and sea Aigl
+	aigl_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aigl_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	aigl_1_b = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aigl_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	aigl_1_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aigl_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# Land Aigl templates (2_a, 2_b) - use Choramana common pool
+	aigl_2_a = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aigl_list"
+			color1 = color3
+			instance = { position = { 0.50 0.35 } scale = { 0.65 0.65 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_common_choramana_list"
+			color1 = color3
+			instance = { position = { 0.50 0.65 } scale = { 0.55 0.55 } }
+		}
+	}
+	
+	aigl_2_a_mirror = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aigl_list"
+			color1 = color3
+			instance = { position = { 0.50 0.35 } scale = { 0.65 0.65 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_common_choramana_list"
+			color1 = color3
+			instance = { position = { 0.50 0.65 } scale = { 0.55 0.55 } }
+		}
+	}
+	
+	aigl_2_b = {
+		pattern = "pattern_bend_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_common_choramana_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.70 0.70 } }
+		}
+	}
+	
+	# Sea Aigl templates (3_a, 3_b) - use SW Mountains common pool
+	aigl_3_a = {
+		pattern = "pattern_waves_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_common_swmountains_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	aigl_3_b = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aigl_list"
+			color1 = color3
+			instance = { position = { 0.28 0.50 } scale = { 0.48 0.48 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_common_swmountains_list"
+			color1 = color3
+			instance = { position = { 0.72 0.50 } scale = { 0.40 0.40 } }
+		}
+	}
+	
+	aigl_3_b_mirror = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aigl_list"
+			color1 = color3
+			instance = { position = { 0.28 0.50 } scale = { 0.48 0.48 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_common_swmountains_list"
+			color1 = color3
+			instance = { position = { 0.72 0.50 } scale = { 0.40 0.40 } }
+		}
+	}
+	
+	# QORMAIC Templates (7 variations)
+	qormaic_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_qormaic_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	qormaic_1_b = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_qormaic_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.70 0.70 } }
+		}
+	}
+	
+	qormaic_1_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_qormaic_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.80 0.80 } }
+		}
+	}
+	
+	qormaic_2_a = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_qormaic_list"
+			color1 = color3
+			instance = { position = { 0.50 0.35 } scale = { 0.60 0.60 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_qormaic_list"
+			color1 = color3
+			instance = { position = { 0.50 0.65 } scale = { 0.55 0.55 } }
+		}
+	}
+	
+	qormaic_2_a_mirror = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_qormaic_list"
+			color1 = color3
+			instance = { position = { 0.50 0.35 } scale = { 0.60 0.60 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_qormaic_list"
+			color1 = color3
+			instance = { position = { 0.50 0.65 } scale = { 0.55 0.55 } }
+		}
+	}
+	
+	qormaic_2_b = {
+		pattern = "pattern_bend_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_qormaic_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	qormaic_3_a = {
+		pattern = "pattern_waves_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_qormaic_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.70 0.70 } }
+		}
+	}
+	
+	qormaic_3_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_qormaic_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# IODDRIK Templates (7 variations)
+	ioddrik_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	ioddrik_1_b = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.70 0.70 } }
+		}
+	}
+	
+	ioddrik_1_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.80 0.80 } }
+		}
+	}
+	
+	ioddrik_2_a = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color3
+			instance = { position = { 0.50 0.35 } scale = { 0.65 0.65 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color3
+			instance = { position = { 0.50 0.65 } scale = { 0.55 0.55 } }
+		}
+	}
+	
+	ioddrik_2_a_mirror = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color3
+			instance = { position = { 0.50 0.35 } scale = { 0.65 0.65 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color3
+			instance = { position = { 0.50 0.65 } scale = { 0.55 0.55 } }
+		}
+	}
+	
+	ioddrik_2_b = {
+		pattern = "pattern_bend_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	ioddrik_3_a = {
+		pattern = "pattern_waves_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.70 0.70 } }
+		}
+	}
+	
+	ioddrik_3_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# IODDRIK ABJAD 3-LETTER HORIZONTAL (Root consonants style)
+	ioddrik_abjad_1 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.25 0.50 } scale = { 0.50 0.50 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.50 0.50 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.75 0.50 } scale = { 0.50 0.50 } }
+		}
+	}
+	
+	ioddrik_abjad_2 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.25 0.50 } scale = { 0.50 0.50 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.50 0.50 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.75 0.50 } scale = { 0.50 0.50 } }
+		}
+	}
+	
+	ioddrik_abjad_3 = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.25 0.50 } scale = { 0.50 0.50 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.50 0.50 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.75 0.50 } scale = { 0.50 0.50 } }
+		}
+	}
+	
+	# With NE Mountains common pool
+	ioddrik_abjad_4 = {
+        pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.25 0.50 } scale = { 0.50 0.50 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.50 0.50 } }
+		}
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ioddrik_list"
+			color1 = color2
+			instance = { position = { 0.75 0.50 } scale = { 0.50 0.50 } }
+		}
 	}
 	
 	
+	### BATCH 3 - KIOQ (DARK) ###
+	
+	kioq_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_1_b = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_1_b_mirror = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_1_c = {
+		pattern = "pattern_vertical_stripes_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_1_d = {
+		pattern = "pattern_checkers_06.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_2_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_2_b = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_2_c = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	### BATCH 3 - KIOQ LIGHT ###
+	
+	kioqlight_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_1_b = {
+		pattern = "pattern_horizontal_split_02.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_1_c = {
+		pattern = "pattern_horizontal_split_02.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_1_c_mirror = {
+		pattern = "pattern_horizontal_split_02.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_1_d = {
+		pattern = "pattern_barry_06.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_2_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_2_b = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_2_c = {
+		pattern = "pattern_checkers_01.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	### BATCH 3 - KIOQ DARK - MONOCHROMATIC VARIANTS ###
+	
+	kioq_1_a_mono = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_1_b_mono = {
+		pattern = "pattern_vertical_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_1_c_mono = {
+		pattern = "pattern_vertical_stripes_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_1_d_mono = {
+		pattern = "pattern_checkers_06.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_2_a_mono = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_2_b_mono = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioq_2_c_mono = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	### BATCH 3 - KIOQ LIGHT - MONOCHROMATIC VARIANTS ###
+	
+	kioqlight_1_a_mono = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_1_b_mono = {
+		pattern = "pattern_horizontal_split_02.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_1_c_mono = {
+		pattern = "pattern_horizontal_split_02.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_1_d_mono = {
+		pattern = "pattern_barry_06.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_kioq_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_2_a_mono = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_2_b_mono = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	kioqlight_2_c_mono = {
+		pattern = "pattern_checkers_01.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	### BATCH 3 - BROULQEN ###
+	
+	broulqen_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_broulqen_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	broulqen_1_b = {
+		pattern = "pattern_quarter.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_broulqen_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	broulqen_1_c = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_broulqen_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	broulqen_2_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	broulqen_2_b = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	broulqen_2_b_mirror = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	broulqen_2_c = {
+		pattern = "pattern_checkers_06.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_jungleplants_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	broulqen_3_a = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_nemountains_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	### BATCH 3 - OGILEK ###
+	
+	ogilek_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ogilek_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	ogilek_1_b = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ogilek_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	ogilek_1_b_mirror = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ogilek_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	ogilek_1_c = {
+		pattern = "pattern_chevron_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ogilek_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	ogilek_1_d = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ogilek_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	ogilek_2_a = {
+		pattern = "pattern_diagonal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_nemountains_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	ogilek_2_b = {
+		pattern = "pattern_bend_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_nemountains_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	ogilek_2_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_nemountains_list"
+			color1 = color2
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	ogilek_3_a = {
+		pattern = "pattern_horizontal_split_01.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_ogilek_list"
+			color1 = color3
+			instance = { position = { 0.50 0.50 } scale = { 0.75 0.75 } }
+		}
+	}
 	
 	
+	### QEOMOQ TEMPLATES (7 total: 3 WS-specific, 2-3 Central Ornaments, 1-2 NE Mountains)
+	
+	# qeomoq_1_a - WS-specific, Pattern M, Emblem D
+	qeomoq_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_qeomoq_list"
+			instance = { position = { 0.5 0.5 } scale = { 1.125 1.125 } }
+		}
+	}
+	
+	# qeomoq_1_b - WS-specific, Pattern D, Emblem L
+	qeomoq_1_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_qeomoq_list"
+			instance = { position = { 0.5 0.5 } scale = { 1.125 1.125 } }
+		}
+	}
+	
+	# qeomoq_1_c - WS-specific, Pattern L, Emblem D
+	qeomoq_1_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_qeomoq_list"
+			instance = { position = { 0.5 0.5 } scale = { 1.125 1.125 } }
+		}
+	}
+	
+	# qeomoq_2_a - Central Ornaments, Pattern M, Emblem L
+	qeomoq_2_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralornaments_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# qeomoq_2_b - Central Ornaments, Pattern D, Emblem L
+	qeomoq_2_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralornaments_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# qeomoq_2_c - Central Ornaments, Pattern L, Emblem D
+	qeomoq_2_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralornaments_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# qeomoq_3_a - NE Mountains, Pattern M, Emblem D
+	qeomoq_3_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_nemountains_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	### FLOICHT TEMPLATES (7 total: 4 WS-specific, 3 Central Ornaments - ALL with circle overlays)
+	
+	# floicht_1_a - WS-specific, Pattern M, Emblem D, Circle L
+	floicht_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_floicht_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.75 0.75 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# floicht_1_b - WS-specific, Pattern D, Emblem L, Circle M
+	floicht_1_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_floicht_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.75 0.75 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# floicht_1_c - WS-specific, Pattern L, Emblem D, Circle M
+	floicht_1_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_floicht_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.75 0.75 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# floicht_1_d - WS-specific, Pattern M, Emblem L, Circle D
+	floicht_1_d = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_floicht_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.75 0.75 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# floicht_2_a - Central Ornaments, Pattern D, Emblem L, Circle M
+	floicht_2_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_centralornaments_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.75 0.75 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# floicht_2_b - Central Ornaments, Pattern M, Emblem D, Circle L
+	floicht_2_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_centralornaments_list"	
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.75 0.75 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# floicht_2_c - Central Ornaments, Pattern L, Emblem D, Circle M
+	floicht_2_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_centralornaments_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.75 0.75 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	### AELWRID TEMPLATES (7 total: 4 WS-specific, 3 Central Ornaments - ALL with circle overlays, holy theme)
+	
+	# aelwrid_1_a - WS-specific, Pattern L (holy light), Emblem D, Circle M
+	aelwrid_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_m_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aelwrid_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.60 0.60 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# aelwrid_1_b - WS-specific, Pattern M, Emblem L, Circle D
+	aelwrid_1_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_d_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aelwrid_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.60 0.60 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# aelwrid_1_c - WS-specific, Pattern D, Emblem L, Circle M
+	aelwrid_1_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aelwrid_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.60 0.60 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# aelwrid_1_d - WS-specific, Pattern M, Emblem D, Circle L
+	aelwrid_1_d = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_ws_aelwrid_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.60 0.60 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# aelwrid_2_a - Central Ornaments, Pattern L (holy), Emblem D, Circle M
+	aelwrid_2_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_centralornaments_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.60 0.60 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# aelwrid_2_b - Central Ornaments, Pattern M, Emblem D, Circle L
+	aelwrid_2_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		color3 = list "ari_l_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_centralornaments_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.60 0.60 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
+	
+	# aelwrid_2_c - Central Ornaments, Pattern D, Emblem L, Circle M
+	aelwrid_2_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		color3 = list "ari_m_colors"
+		colored_emblem = {
+			texture = list "arikuri_ele_common_centralornaments_list"
+			color1 = color2
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.60 0.60 }
+				depth = 1.010000
+			}
+		}
+		colored_emblem = {
+			texture = list "arikuri_circle_frame_list"
+			color1 = color3
+			instance = {
+				position = { 0.5 0.5 }
+				scale = { 0.80 0.80 }
+			}
+		}
+	}
 	
 	
+	### THRAMPTITH TEMPLATES (7 total: 3 universal WS, 2 land Central Plants, 2 sea Central Sea)
 	
+	# thramptith_1_a - Universal WS, Pattern M, Emblem D
+	thramptith_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_thramptith_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
 	
+	# thramptith_1_b - Universal WS, Pattern D, Emblem L
+	thramptith_1_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_thramptith_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
 	
+	# thramptith_1_c - Universal WS, Pattern L, Emblem D
+	thramptith_1_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_thramptith_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
 	
+	# thramptith_2_a - LAND Central Plants, Pattern M, Emblem L
+	thramptith_2_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_southernplants_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
 	
+	# thramptith_2_b - LAND Central Plants, Pattern D, Emblem L
+	thramptith_2_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_southernplants_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
 	
+	# thramptith_3_a - SEA Central Sea, Pattern M, Emblem D
+	thramptith_3_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralsea_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
 	
+	# thramptith_3_b - SEA Central Sea, Pattern L, Emblem D
+	thramptith_3_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralsea_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
 	
+	### QIEULBAIA TEMPLATES (7 total: 4 WS, 3 Central Sea)
 	
+	# qieulbaia_1_a - WS, Pattern M, Emblem D
+	qieulbaia_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_qieulbaia_list"
+			instance = { position = { 0.5 0.5 } }
+		}
+	}
 	
+	# qieulbaia_1_b - WS, Pattern D, Emblem L
+	qieulbaia_1_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_qieulbaia_list"
+			instance = { position = { 0.5 0.5 } }
+		}
+	}
 	
+	# qieulbaia_1_c - WS, Pattern L, Emblem D
+	qieulbaia_1_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_qieulbaia_list"	
+			instance = { position = { 0.5 0.5 } }
+		}
+	}
+	
+	# qieulbaia_1_d - WS, Pattern M, Emblem L
+	qieulbaia_1_d = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_qieulbaia_list"
+			instance = { position = { 0.5 0.5 } }
+		}
+	}
+	
+	# qieulbaia_2_a - Central Sea, Pattern M, Emblem D
+	qieulbaia_2_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralsea_list"
+			instance = { position = { 0.5 0.5 } }
+		}
+	}
+	
+	# qieulbaia_2_b - Central Sea, Pattern D, Emblem L
+	qieulbaia_2_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralsea_list"
+			instance = { position = { 0.5 0.5 } }
+		}
+	}
+	
+	# qieulbaia_2_c - Central Sea, Pattern L, Emblem D
+	qieulbaia_2_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralsea_list"
+			instance = { position = { 0.5 0.5 } }
+		}
+	}
+	
+	### PREOLYTH TEMPLATES (7 total: 4 WS, 3 Central Plants)
+	
+	# preolyth_1_a - WS, Pattern M, Emblem D
+	preolyth_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_preolyth_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# preolyth_1_b - WS, Pattern D, Emblem L
+	preolyth_1_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_preolyth_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# preolyth_1_c - WS, Pattern L, Emblem D
+	preolyth_1_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_preolyth_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# preolyth_1_d - WS, Pattern M, Emblem L
+	preolyth_1_d = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_preolyth_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# preolyth_2_a - Central Plants, Pattern M, Emblem L
+	preolyth_2_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_southernplants_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# preolyth_2_b - Central Plants, Pattern D, Emblem L
+	preolyth_2_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_southernplants_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# preolyth_2_c - Central Plants, Pattern L, Emblem D
+	preolyth_2_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_southernplants_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	### VEUQRIT TEMPLATES (7 total: 2 WS, 2-3 Central Sea, 2 Central Plants - Triple pool system)
+	
+	# veuqrit_1_a - WS, Pattern M, Emblem D
+	veuqrit_1_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_veuqrit_list"		
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# veuqrit_1_b - WS, Pattern L, Emblem D
+	veuqrit_1_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_ws_veuqrit_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# veuqrit_2_a - Central Sea, Pattern M, Emblem L
+	veuqrit_2_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralsea_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# veuqrit_2_b - Central Sea, Pattern D, Emblem L
+	veuqrit_2_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_d_colors"
+		color2 = list "ari_l_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralsea_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# veuqrit_2_c - Central Sea, Pattern L, Emblem D
+	veuqrit_2_c = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_centralsea_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# veuqrit_3_a - Central Plants, Pattern M, Emblem D
+	veuqrit_3_a = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_m_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_southernplants_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
+	
+	# veuqrit_3_b - Central Plants, Pattern L, Emblem D
+	veuqrit_3_b = {
+		pattern = "pattern__solid_designer.dds"
+		color1 = list "ari_l_colors"
+		color2 = list "ari_d_colors"
+		colored_emblem = {
+			color1 = color2
+			texture = list "arikuri_ele_common_southernplants_list"
+			instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }
+		}
+	}
 	
 	
 	## Arikuri end
 	
 	
 }
+

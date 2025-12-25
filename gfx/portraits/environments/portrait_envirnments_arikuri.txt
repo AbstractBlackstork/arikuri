@@ -1,4 +1,4 @@
-
+﻿
 environment_gleuncti_temple = {
 	
 	cubemap = "gfx/portraits/environments/frontend_mediterranean_01.dds"
@@ -94,5 +94,345 @@ environment_gleuncti_temple = {
 		}
 		fov = 50
 		camera_near_far = { 100 1350 }
+	}
+}
+
+#########################################################################
+# AIEXQELT FACTION ENVIRONMENTS - Persian Noble/Palace Style
+#########################################################################
+
+environment_aiexqelt_glo = {
+	
+	cubemap = "gfx/portraits/environments/frontend_mediterranean_01.dds"
+	cubemap_intensity = 0.15
+	
+	lights = {
+		#########################################################################
+		#								KEY LIGHT								#
+		#########################################################################
+		0 = {
+			type = "spot_light"
+			affected_by_shadow = yes
+			
+			color = hsv{ 0.08 0.25 1.6 }
+			position = cylindrical{ 165 155 55 }
+			
+			look_at = { 0 0 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 28
+			inner_cone_angle = 0
+		}
+
+		#########################################################################
+		#							RIGHT RIM LIGHT								#
+		#########################################################################
+		1 = {
+			type = "spot_light"
+			affected_by_shadow = yes
+			
+			color = hsv{ 0.12 0.22 1.1 }
+			position = cylindrical{ 170.0 210 135 }
+			
+			look_at = { 0 0 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 50
+			inner_cone_angle = 0
+		}
+
+		#########################################################################
+		#							LEFT RIM LIGHT								#
+		#########################################################################
+		2 = {
+			type = "spot_light"
+			affected_by_shadow = no
+			
+			color = hsv{ 0.10 0.18 0.5 }
+			position = cylindrical{ 230 110 -45 }
+			
+			look_at = { 0 18 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 60
+			inner_cone_angle = 0
+		}
+	}
+
+	shadow_camera = {
+		position = cylindrical{ 165 155 55 }
+		look_at = { 0 0 0 }
+		look_at_node = {
+			default = camera_torso_look_at
+		}
+		fov = 48
+		camera_near_far = { 110 1400 }
+	}
+}
+
+environment_aiexqelt_panth = {
+	
+	cubemap = "gfx/portraits/environments/frontend_mediterranean_01.dds"
+	cubemap_intensity = 0.15
+	
+	lights = {
+		#########################################################################
+		#								KEY LIGHT								#
+		#########################################################################
+		0 = {
+			type = "spot_light"
+			affected_by_shadow = yes
+			
+			color = hsv{ 0.06 0.23 1.6 }
+			position = cylindrical{ 165 155 55 }
+			
+			look_at = { 0 0 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 28
+			inner_cone_angle = 0
+		}
+
+		#########################################################################
+		#							RIGHT RIM LIGHT								#
+		#########################################################################
+		1 = {
+			type = "spot_light"
+			affected_by_shadow = yes
+			
+			color = hsv{ 0.10 0.20 1.1 }
+			position = cylindrical{ 170.0 210 135 }
+			
+			look_at = { 0 0 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 50
+			inner_cone_angle = 0
+		}
+
+		#########################################################################
+		#							LEFT RIM LIGHT								#
+		#########################################################################
+		2 = {
+			type = "spot_light"
+			affected_by_shadow = no
+			
+			color = hsv{ 0.08 0.16 0.5 }
+			position = cylindrical{ 230 110 -45 }
+			
+			look_at = { 0 18 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 60
+			inner_cone_angle = 0
+		}
+	}
+
+	shadow_camera = {
+		position = cylindrical{ 165 155 55 }
+		look_at = { 0 0 0 }
+		look_at_node = {
+			default = camera_torso_look_at
+		}
+		fov = 48
+		camera_near_far = { 110 1400 }
+	}
+}
+
+environment_aiexqelt_alf = {
+	
+	cubemap = "gfx/portraits/environments/frontend_mediterranean_01.dds"
+	cubemap_intensity = 0.15
+	
+	lights = {
+		#########################################################################
+		#								KEY LIGHT								#
+		#########################################################################
+		0 = {
+			type = "spot_light"
+			affected_by_shadow = yes
+			
+			color = hsv{ 0.10 0.28 1.6 }
+			position = cylindrical{ 165 155 55 }
+			
+			look_at = { 0 0 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 28
+			inner_cone_angle = 0
+		}
+
+		#########################################################################
+		#							RIGHT RIM LIGHT								#
+		#########################################################################
+		1 = {
+			type = "spot_light"
+			affected_by_shadow = yes
+			
+			color = hsv{ 0.14 0.25 1.1 }
+			position = cylindrical{ 170.0 210 135 }
+			
+			look_at = { 0 0 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 50
+			inner_cone_angle = 0
+		}
+
+		#########################################################################
+		#							LEFT RIM LIGHT								#
+		#########################################################################
+		2 = {
+			type = "spot_light"
+			affected_by_shadow = no
+			
+			color = hsv{ 0.12 0.20 0.5 }
+			position = cylindrical{ 230 110 -45 }
+			
+			look_at = { 0 18 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 60
+			inner_cone_angle = 0
+		}
+	}
+
+	shadow_camera = {
+		position = cylindrical{ 165 155 55 }
+		look_at = { 0 0 0 }
+		look_at_node = {
+			default = camera_torso_look_at
+		}
+		fov = 48
+		camera_near_far = { 110 1400 }
+	}
+}
+
+environment_aiexqelt_ong = {
+	
+	cubemap = "gfx/portraits/environments/frontend_mediterranean_01.dds"
+	cubemap_intensity = 0.15
+	
+	lights = {
+		#########################################################################
+		#								KEY LIGHT								#
+		#########################################################################
+		0 = {
+			type = "spot_light"
+			affected_by_shadow = yes
+			
+			color = hsv{ 0.08 0.25 1.36 }
+			position = cylindrical{ 165 155 55 }
+			
+			look_at = { 0 0 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 28
+			inner_cone_angle = 0
+		}
+
+		#########################################################################
+		#							RIGHT RIM LIGHT								#
+		#########################################################################
+		1 = {
+			type = "spot_light"
+			affected_by_shadow = yes
+			
+			color = hsv{ 0.12 0.22 0.935 }
+			position = cylindrical{ 170.0 210 135 }
+			
+			look_at = { 0 0 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 50
+			inner_cone_angle = 0
+		}
+
+		#########################################################################
+		#							LEFT RIM LIGHT								#
+		#########################################################################
+		2 = {
+			type = "spot_light"
+			affected_by_shadow = no
+			
+			color = hsv{ 0.10 0.18 0.425 }
+			position = cylindrical{ 230 110 -45 }
+			
+			look_at = { 0 18 0 }
+			look_at_node = {
+				default = camera_torso_look_at
+			}
+			
+			radius = 1100
+			falloff = 12
+			
+			outer_cone_angle = 60
+			inner_cone_angle = 0
+		}
+	}
+
+	shadow_camera = {
+		position = cylindrical{ 165 155 55 }
+		look_at = { 0 0 0 }
+		look_at_node = {
+			default = camera_torso_look_at
+		}
+		fov = 48
+		camera_near_far = { 110 1400 }
 	}
 }

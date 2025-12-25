@@ -236,32 +236,6 @@ c_R52G5B176 = {
 		liege = d_R44G230B64
 	}
 }
-d_R65G179B160 = {
-	701.10.25 = {
-		holder = gen_24
-		liege = k_R254G130B55	}
-}
-c_R65G179B160 = {
-	701.10.25 = {
-		change_development_level = 6
-		holder = gen_24
-		liege = d_R65G179B160
-	}
-}
-c_R77G176B161 = {
-	701.10.25 = {
-		change_development_level = 6
-		holder = gen_25
-		liege = d_R65G179B160
-	}
-}
-c_R195G161B12 = {
-	701.10.25 = {
-		change_development_level = 6
-		holder = gen_26
-		liege = d_R65G179B160
-	}
-}
 k_R17G145B229 = {
 	701.10.25 = {
 		holder = gen_27
@@ -283,20 +257,6 @@ c_R170G92B139 = {
 	701.10.25 = {
 		change_development_level = 0
 		holder = gen_28
-		liege = d_R17G145B229
-	}
-}
-c_R194G182B16 = {
-	701.10.25 = {
-		change_development_level = 11
-		holder = gen_29
-		liege = d_R17G145B229
-	}
-}
-c_R119G173B107 = {
-	701.10.25 = {
-		change_development_level = 5
-		holder = gen_30
 		liege = d_R17G145B229
 	}
 }
@@ -367,57 +327,10 @@ c_R54G252B30 = {
 		liege = d_R54G252B30
 	}
 }
-c_R232G178B91 = {
-	701.10.25 = {
-		change_development_level = 3
-		holder = gen_37
-		liege = d_R54G252B30
-	}
-}
-c_R121G151B230 = {
-	701.10.25 = {
-		change_development_level = 0
-		holder = gen_38
-		liege = d_R54G252B30
-	}
-}
-c_R140G130B181 = {
-	701.10.25 = {
-		change_development_level = 11
-		holder = gen_39
-		liege = d_R54G252B30
-	}
-}
-d_R162G220B156 = {
-	701.10.25 = {
-		holder = gen_40
-		liege = k_R54G252B30	}
-}
-c_R162G220B156 = {
-	701.10.25 = {
-		change_development_level = 7
-		holder = gen_40
-		liege = d_R162G220B156
-	}
-}
-c_R200G250B70 = {
-	701.10.25 = {
-		change_development_level = 13
-		holder = gen_41
-		liege = d_R162G220B156
-	}
-}
-c_R18G121B245 = {
-	701.10.25 = {
-		change_development_level = 0
-		holder = gen_42
-		liege = d_R162G220B156
-	}
-}
 d_R43G51B174 = {
 	701.10.25 = {
 		holder = gen_43
-		liege = k_R54G252B30	}
+		liege = k_R17G145B229	}
 }
 c_R43G51B174 = {
 	701.10.25 = {
@@ -426,10 +339,17 @@ c_R43G51B174 = {
 		liege = d_R43G51B174
 	}
 }
+c_R121G151B230 = {
+	701.10.25 = {
+		change_development_level = 0
+		holder = gen_38
+		liege = d_R43G51B174
+	}
+}
 d_R188G152B243 = {
 	701.10.25 = {
 		holder = gen_44
-		liege = k_R54G252B30	}
+		liege = k_R17G145B229	}
 }
 c_R188G152B243 = {
 	701.10.25 = {
@@ -443,6 +363,25 @@ c_R127G74B104 = {
 		change_development_level = 0
 		holder = gen_45
 		liege = d_R188G152B243
+	}
+}
+d_R19G218B169 = {
+	701.10.25 = {
+		holder = gen_148
+		liege = k_R17G145B229	}
+}
+c_R19G218B169 = {
+	701.10.25 = {
+		change_development_level = 2
+		holder = gen_148
+		liege = d_R19G218B169
+	}
+}
+c_R157G224B9 = {
+	701.10.25 = {
+		change_development_level = 0
+		holder = gen_149
+		liege = d_R19G218B169
 	}
 }
 k_R213G168B240 = {
@@ -469,16 +408,71 @@ c_R158G172B232 = {
 		liege = d_R213G168B240
 	}
 }
-d_R211G107B212 = {
-	701.10.25 = {
-		holder = gen_48
-		liege = k_R213G168B240	}
-}
 c_R211G107B212 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 8
 		holder = gen_48
+		liege = d_R213G168B240
+	}
+}
+d_R211G107B212 = {
+	701.10.25 = {
+		holder = gen_46
+		liege = k_R213G168B240
+	}
+}
+c_R194G182B16 = {
+	701.10.25 = {
+		change_development_level = 11
+		holder = gen_29
 		liege = d_R211G107B212
+	}
+}
+c_R119G173B107 = {
+	701.10.25 = {
+		change_development_level = 5
+		holder = gen_30
+		liege = d_R211G107B212
+	}
+}
+d_R162G220B156 = {
+	701.10.25 = {
+		holder = gen_42
+		liege = k_R213G168B240	}
+}
+c_R162G220B156 = {
+	701.10.25 = {
+		change_development_level = 7
+		holder = gen_40
+		liege = d_R54G252B30
+	}
+}
+c_R200G250B70 = {
+	701.10.25 = {
+		change_development_level = 13
+		holder = gen_41
+		liege = d_R54G252B30
+	}
+}
+c_R18G121B245 = {
+	701.10.25 = {
+		change_development_level = 0
+		holder = gen_42
+		liege = d_R162G220B156
+	}
+}
+c_R232G178B91 = {
+	701.10.25 = {
+		change_development_level = 3
+		holder = gen_37
+		liege = d_R162G220B156
+	}
+}
+c_R140G130B181 = {
+	701.10.25 = {
+		change_development_level = 11
+		holder = gen_39
+		liege = d_R162G220B156
 	}
 }
 e_R39G19B218 = {
@@ -1194,15 +1188,10 @@ c_R217G204B150 = {
 		holder = gen_140
 	}
 }
-k_R228G7B61 = {
-	701.10.25 = {
-		holder = gen_141
-	}
-}
 d_R228G7B61 = {
 	701.10.25 = {
 		holder = gen_141
-		liege = k_R228G7B61	}
+		liege = k_R54G252B30	}
 }
 c_R228G7B61 = {
 	701.10.25 = {
@@ -1214,7 +1203,7 @@ c_R228G7B61 = {
 d_R179G39B199 = {
 	701.10.25 = {
 		holder = gen_142
-		liege = k_R228G7B61	}
+	}
 }
 c_R179G39B199 = {
 	701.10.25 = {
@@ -1247,7 +1236,7 @@ c_R114G77B153 = {
 d_R62G9B218 = {
 	701.10.25 = {
 		holder = gen_146
-		liege = k_R228G7B61	}
+		liege = k_R54G252B30	}
 }
 c_R62G9B218 = {
 	701.10.25 = {
@@ -1261,25 +1250,6 @@ c_R222G101B164 = {
 		change_development_level = 5
 		holder = gen_147
 		liege = d_R62G9B218
-	}
-}
-d_R19G218B169 = {
-	701.10.25 = {
-		holder = gen_148
-		liege = k_R228G7B61	}
-}
-c_R19G218B169 = {
-	701.10.25 = {
-		change_development_level = 2
-		holder = gen_148
-		liege = d_R19G218B169
-	}
-}
-c_R157G224B9 = {
-	701.10.25 = {
-		change_development_level = 0
-		holder = gen_149
-		liege = d_R19G218B169
 	}
 }
 k_R231G111B59 = {
@@ -1302,7 +1272,7 @@ c_R231G111B59 = {
 d_R4G85B31 = {
 	701.10.25 = {
 		holder = gen_151
-		liege = k_R231G111B59	}
+		liege = k_R17G145B229	}
 }
 c_R4G85B31 = {
 	701.10.25 = {
@@ -1395,7 +1365,7 @@ c_R193G238B100 = {
 d_R62G204B76 = {
 	701.10.25 = {
 		holder = gen_160
-		liege = k_R182G29B44	}
+		liege = k_R54G252B30	}
 }
 c_R62G204B76 = {
 	701.10.25 = {
@@ -1429,12 +1399,6 @@ c_R197G154B85 = {
 		holder = gen_163
 	}
 }
-c_R171G185B109 = {
-	701.10.25 = {
-		change_development_level = 7
-		holder = gen_164
-	}
-}
 c_R63G29B51 = {
 	701.10.25 = {
 		change_development_level = 0
@@ -1451,12 +1415,6 @@ c_R70G8B112 = {
 	701.10.25 = {
 		change_development_level = 7
 		holder = gen_167
-	}
-}
-c_R104G250B184 = {
-	701.10.25 = {
-		change_development_level = 6
-		holder = gen_168
 	}
 }
 c_R25G42B112 = {
@@ -1534,12 +1492,6 @@ c_R40G163B223 = {
 	701.10.25 = {
 		change_development_level = 0
 		holder = gen_181
-	}
-}
-c_R240G91B248 = {
-	701.10.25 = {
-		change_development_level = 5
-		holder = gen_182
 	}
 }
 c_R150G7B254 = {
@@ -1956,20 +1908,11 @@ c_R65G59B34 = {
 		liege = d_R65G59B34
 	}
 }
-e_R171G188B163 = {
-	701.10.25 = {
-		holder = gen_226
-	}
-}
-k_R171G188B163 = {
-	701.10.25 = {
-		holder = gen_226
-		liege = e_R171G188B163	}
-}
 d_R171G188B163 = {
 	701.10.25 = {
 		holder = gen_226
-		liege = k_R171G188B163	}
+		liege = k_R60G218B254
+	}
 }
 c_R171G188B163 = {
 	701.10.25 = {
@@ -1999,10 +1942,16 @@ c_R74G160B82 = {
 		liege = d_R171G188B163
 	}
 }
+k_R178G163B225 = {
+	701.10.25 = {
+		holder = gen_595
+	}
+}
 d_R204G119B115 = {
 	701.10.25 = {
 		holder = gen_230
-		liege = k_R171G188B163	}
+		liege = k_R178G163B225
+	}
 }
 c_R204G119B115 = {
 	701.10.25 = {
@@ -2028,7 +1977,8 @@ c_R34G50B132 = {
 d_R55G253B180 = {
 	701.10.25 = {
 		holder = gen_233
-		liege = k_R171G188B163	}
+		liege = k_R60G218B254
+	}
 }
 c_R55G253B180 = {
 	701.10.25 = {
@@ -2054,7 +2004,8 @@ c_R58G251B44 = {
 d_R136G218B32 = {
 	701.10.25 = {
 		holder = gen_236
-		liege = k_R171G188B163	}
+		liege = k_R60G218B254
+	}
 }
 c_R136G218B32 = {
 	701.10.25 = {
@@ -3258,11 +3209,16 @@ c_R246G15B212 = {
 		liege = d_R220G74B47
 	}
 }
+e_R117G252B154 = {
+	701.10.25 = {
+		holder = gen_532
+	}
+}
 c_R205G37B107 = {
 	701.10.25 = {
 		change_development_level = 4
 		holder = gen_363
-		liege = d_R205G37B107
+		liege = e_R117G252B154
 	}
 }
 c_R90G131B186 = {
@@ -3281,21 +3237,21 @@ c_R228G170B81 = {
 	701.10.25 = {
 		change_development_level = 1
 		holder = gen_366
-		liege = d_R228G170B81
+		liege = e_R117G252B154
 	}
 }
 c_R83G150B49 = {
 	701.10.25 = {
 		change_development_level = 4
 		holder = gen_367
-		liege = d_R228G170B81
+		liege = e_R117G252B154
 	}
 }
 c_R69G44B3 = {
 	701.10.25 = {
 		change_development_level = 6
 		holder = gen_368
-		liege = d_R228G170B81
+		liege = e_R117G252B154
 	}
 }
 c_R255G207B183 = {
@@ -3703,7 +3659,7 @@ c_R174G95B18 = {
 	701.10.25 = {
 		change_development_level = 4
 		holder = gen_409
-		liege = d_R199G235B113
+		liege = e_R47G41B46
 	}
 }
 d_R51G174B230 = {
@@ -4020,14 +3976,14 @@ c_R6G125B241 = {
 d_R231G214B232 = {
 	701.10.25 = {
 		holder = gen_442
-		liege = k_R217G148B185
+		liege = e_R117G252B154
 	}
 }
 c_R231G214B232 = {
 	701.10.25 = {
 		change_development_level = 4
 		holder = gen_442
-		liege = d_R231G214B232
+		liege = e_R117G252B154
 	}
 }
 c_R131G111B50 = {
@@ -4037,28 +3993,38 @@ c_R131G111B50 = {
 		liege = d_R231G214B232
 	}
 }
+d_R50G118B20 = {
+	701.10.25 = {
+		holder = gen_445
+		liege = k_R213G168B240
+	}
+}
 c_R50G118B20 = {
 	701.10.25 = {
 		change_development_level = 11
-		holder = gen_444
+		holder = gen_445
+		liege = d_R50G118B20
 	}
 }
 c_R125G250B109 = {
 	701.10.25 = {
 		change_development_level = 11
 		holder = gen_445
+		liege = d_R50G118B20
 	}
 }
 c_R59G95B179 = {
 	701.10.25 = {
 		change_development_level = 10
-		holder = gen_446
+		holder = gen_445
+		liege = d_R50G118B20
 	}
 }
 c_R31G132B251 = {
 	701.10.25 = {
 		change_development_level = 11
-		holder = gen_447
+		holder = gen_445
+		liege = d_R50G118B20
 	}
 }
 c_R78G0B114 = {
@@ -4066,39 +4032,6 @@ c_R78G0B114 = {
 		change_development_level = 6
 		holder = gen_448
 		liege = d_R78G0B114
-	}
-}
-d_R160G75B161 = {
-	701.10.25 = {
-		holder = gen_449
-	}
-}
-c_R160G75B161 = {
-	701.10.25 = {
-		change_development_level = 6
-		holder = gen_449
-		liege = d_R160G75B161
-	}
-}
-c_R215G245B199 = {
-	701.10.25 = {
-		change_development_level = 6
-		holder = gen_450
-		liege = d_R160G75B161
-	}
-}
-c_R60G53B100 = {
-	701.10.25 = {
-		change_development_level = 6
-		holder = gen_451
-		liege = d_R160G75B161
-	}
-}
-c_R197G2B213 = {
-	701.10.25 = {
-		change_development_level = 6
-		holder = gen_452
-		liege = d_R160G75B161
 	}
 }
 k_R95G0B76 = {
@@ -4382,13 +4315,13 @@ c_R91G101B228 = {
 }
 k_R94G205B216 = {
 	701.10.25 = {
-		holder = gen_480
+		holder = gen_651
 	}
 }
 d_R94G205B216 = {
 	701.10.25 = {
 		holder = gen_480
-		liege = k_R94G205B216	}
+	}
 }
 c_R94G205B216 = {
 	701.10.25 = {
@@ -4401,14 +4334,40 @@ c_R187G13B157 = {
 	701.10.25 = {
 		change_development_level = 6
 		holder = gen_481
-		liege = d_R94G205B216
+		liege = k_R94G205B216
 	}
 }
 c_R50G192B94 = {
 	701.10.25 = {
 		change_development_level = 6
 		holder = gen_482
-		liege = d_R94G205B216
+		liege = k_R94G205B216
+	}
+}
+d_R65G179B160 = {
+	701.10.25 = {
+		holder = gen_24
+		liege = k_R94G205B216	}
+}
+c_R65G179B160 = {
+	701.10.25 = {
+		change_development_level = 6
+		holder = gen_24
+		liege = d_R65G179B160
+	}
+}
+c_R77G176B161 = {
+	701.10.25 = {
+		change_development_level = 6
+		holder = gen_25
+		liege = d_R65G179B160
+	}
+}
+c_R195G161B12 = {
+	701.10.25 = {
+		change_development_level = 6
+		holder = gen_26
+		liege = d_R65G179B160
 	}
 }
 c_R207G136B86 = {
@@ -4421,7 +4380,7 @@ c_R207G136B86 = {
 d_R79G115B31 = {
 	701.10.25 = {
 		holder = gen_484
-		liege = k_R94G205B216	}
+	}
 }
 c_R79G115B31 = {
 	701.10.25 = {
@@ -4740,25 +4699,6 @@ c_R4G199B46 = {
 		liege = d_R255G223B214
 	}
 }
-d_R106G144B144 = {
-	701.10.25 = {
-		holder = gen_515
-	}
-}
-c_R106G144B144 = {
-	701.10.25 = {
-		change_development_level = 4
-		holder = gen_515
-		liege = d_R106G144B144
-	}
-}
-c_R105G25B13 = {
-	701.10.25 = {
-		change_development_level = 11
-		holder = gen_516
-		liege = d_R106G144B144
-	}
-}
 d_R111G83B124 = {
 	701.10.25 = {
 		holder = gen_517
@@ -4921,6 +4861,7 @@ c_R10G51B37 = {
 k_R217G148B185 = {
 	701.10.25 = {
 		holder = gen_532
+		liege = e_R117G252B154
 	}
 }
 d_R228G170B81 = {
@@ -5530,6 +5471,7 @@ c_R62G196B111 = {
 d_R34G91B37 = {
 	701.10.25 = {
 		holder = gen_593
+		liege = k_R178G163B225
 	}
 }
 c_R34G91B37 = {
@@ -5542,6 +5484,7 @@ c_R34G91B37 = {
 d_R192G179B198 = {
 	701.10.25 = {
 		holder = gen_594
+		liege = k_R178G163B225
 	}
 }
 c_R192G179B198 = {
@@ -5554,6 +5497,7 @@ c_R192G179B198 = {
 d_R178G163B225 = {
 	701.10.25 = {
 		holder = gen_595
+		liege = k_R178G163B225
 	}
 }
 c_R178G163B225 = {
@@ -5566,6 +5510,7 @@ c_R178G163B225 = {
 d_R95G128B168 = {
 	701.10.25 = {
 		holder = gen_596
+		liege = k_R178G163B225
 	}
 }
 c_R95G128B168 = {
@@ -6087,7 +6032,7 @@ c_R30G17B121 = {
 d_R179G15B242 = {
 	701.10.25 = {
 		holder = gen_649
-	}
+		liege = k_R94G205B216	}
 }
 c_R179G15B242 = {
 	701.10.25 = {
@@ -6125,7 +6070,7 @@ c_R137G128B16 = {
 d_R230G225B203 = {
 	701.10.25 = {
 		holder = gen_653
-	}
+		liege = k_R94G205B216	}
 }
 c_R230G225B203 = {
 	701.10.25 = {
@@ -6159,15 +6104,10 @@ c_R49G198B251 = {
 		liege = d_R49G198B251
 	}
 }
-e_R117G252B154 = {
-	701.10.25 = {
-		holder = gen_657
-	}
-}
 k_R117G252B154 = {
 	701.10.25 = {
 		holder = gen_657
-		liege = e_R117G252B154	}
+	}
 }
 d_R117G252B154 = {
 	701.10.25 = {
@@ -6269,6 +6209,58 @@ c_R197G49B130 = {
 		liege = d_R197G49B130
 	}
 }
+d_R160G75B161 = {
+	701.10.25 = {
+		holder = gen_449
+		liege = k_R119G17B105	}
+}
+c_R160G75B161 = {
+	701.10.25 = {
+		change_development_level = 6
+		holder = gen_449
+		liege = d_R160G75B161
+	}
+}
+c_R215G245B199 = {
+	701.10.25 = {
+		change_development_level = 6
+		holder = gen_450
+		liege = d_R160G75B161
+	}
+}
+c_R60G53B100 = {
+	701.10.25 = {
+		change_development_level = 6
+		holder = gen_451
+		liege = d_R160G75B161
+	}
+}
+c_R197G2B213 = {
+	701.10.25 = {
+		change_development_level = 6
+		holder = gen_452
+		liege = d_R160G75B161
+	}
+}
+d_R106G144B144 = {
+	701.10.25 = {
+		holder = gen_515
+		liege = k_R119G17B105	}
+}
+c_R106G144B144 = {
+	701.10.25 = {
+		change_development_level = 4
+		holder = gen_515
+		liege = d_R106G144B144
+	}
+}
+c_R105G25B13 = {
+	701.10.25 = {
+		change_development_level = 11
+		holder = gen_516
+		liege = d_R106G144B144
+	}
+}
 k_R157G138B80 = {
 	701.10.25 = {
 		holder = gen_666
@@ -6308,11 +6300,12 @@ c_R230G141B114 = {
 	701.10.25 = {
 		change_development_level = 9
 		holder = gen_670
+		liege = d_R228G7B61
 	}
 }
 k_R166G81B99 = {
 	701.10.25 = {
-		holder = gen_671
+		holder = gen_672
 	}
 }
 d_R166G81B99 = {
@@ -6337,6 +6330,27 @@ c_R46G0B250 = {
 		change_development_level = 7
 		holder = gen_672
 		liege = d_R46G0B250
+	}
+}
+c_R171G185B109 = {
+	701.10.25 = {
+		change_development_level = 7
+		holder = gen_444
+		liege = k_R166G81B99
+	}
+}
+c_R104G250B184 = {
+	701.10.25 = {
+		change_development_level = 6
+		holder = gen_447
+		liege = k_R166G81B99
+	}
+}
+c_R240G91B248 = {
+	701.10.25 = {
+		change_development_level = 5
+		holder = gen_446
+		liege = k_R166G81B99
 	}
 }
 c_R226G153B150 = {
@@ -6481,7 +6495,7 @@ c_R83G207B196 = {
 d_R84G43B140 = {
 	701.10.25 = {
 		holder = gen_687
-	}
+		liege = k_R166G81B99	}
 }
 c_R84G43B140 = {
 	701.10.25 = {

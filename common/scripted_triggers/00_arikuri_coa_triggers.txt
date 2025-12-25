@@ -1,4 +1,4 @@
-## Plith
+﻿## Plith
 coa_plith_culture_trigger = {
 	OR = {
 		scope:culture = { has_coa_gfx = plith_coa_gfx }
@@ -125,30 +125,7 @@ arikuri_coa_ogilek_trigger = {
 	}
 }
 
-## Broulqen
-coa_broulqen_culture_trigger = {
-	OR = {
-		scope:culture = { has_coa_gfx = broulqen_coa_gfx }
-	}
-}
-coa_broulqen_religion_trigger = {
-	scope:faith.religion = {
-		save_temporary_scope_as = religion
-	}
-	OR = {
-		scope:religion = religion:squigglyaction
-		scope:religion = religion:poorbreast
-		scope:religion = religion:readyline
-		scope:religion = religion:welldocumenteddrawer
-	}
-}
-
-arikuri_coa_broulqen_trigger = {
-	OR = {
-		coa_broulqen_culture_trigger = yes
-		coa_broulqen_religion_trigger = yes
-	}
-}
+# Broulqen triggers moved to later section to avoid duplicates
 
 ## Ioddrik
 coa_ioddrik_culture_trigger = {
@@ -297,164 +274,138 @@ arikuri_coa_aiexqelt_ailfaebi_trigger = {
 	coa_aiexqelt_ailfaebi_faith_trigger = yes
 }
 
-## Veuqrit
-coa_veuqrit_culture_trigger = {
+# Veuqrit, Aelwrid, Qieulbaia, Floicht, Qeomoq triggers moved to later section to avoid duplicates
+
+## Aigl - Land (Chormana)
+coa_aigl_land_culture_trigger = {
 	OR = {
-		scope:culture = { has_coa_gfx = veuqrit_coa_gfx }
+		scope:culture = culture:ccccarefreebase
+		scope:culture = culture:cccamazingsnow
+		scope:culture = culture:ccchotstatement
+		scope:culture = culture:cccwelldocumentedshop
 	}
 }
-coa_veuqrit_religion_trigger = {
+
+coa_aigl_land_faith_trigger = {
+	OR = {
+		scope:faith = faith:beautifulpain_faith
+		scope:faith = faith:unlinedbrother_faith
+	}
+}
+
+arikuri_coa_aigl_land_trigger = {
+	OR = {
+		coa_aigl_land_culture_trigger = yes
+		coa_aigl_land_faith_trigger = yes
+	}
+}
+
+## Aigl - Sea (Maritime)
+coa_aigl_sea_culture_trigger = {
+	scope:culture = {
+		has_coa_gfx = aigl_coa_gfx
+	}
+	NOT = {
+		coa_aigl_land_culture_trigger = yes
+	}
+}
+
+coa_aigl_sea_religion_trigger = {
+	scope:faith.religion = {
+		save_temporary_scope_as = religion
+	}
+	scope:religion = religion:glasscommon
+	NOT = {
+		scope:faith = faith:beautifulpain_faith
+	}
+	NOT = {
+		scope:faith = faith:unlinedbrother_faith
+	}
+}
+
+arikuri_coa_aigl_sea_trigger = {
+	OR = {
+		coa_aigl_sea_culture_trigger = yes
+		coa_aigl_sea_religion_trigger = yes
+	}
+}
+
+# ## Kioq (DARK variant - exemplarymeaning religion with human sacrifice)
+# coa_kioq_dark_culture_trigger = {
+	
+# 	scope:culture = { has_coa_gfx = kioq_coa_gfx }
+	
+# }
+
+coa_kioq_dark_religion_trigger = {
+	scope:faith.religion = {
+		save_temporary_scope_as = religion
+	}
+	scope:religion = religion:exemplarymeaning
+}
+
+arikuri_coa_kioq_dark_trigger = {
+	# OR = {
+		# coa_kioq_dark_culture_trigger = yes
+		coa_kioq_dark_religion_trigger = yes
+	# }
+}
+
+## Kioq LIGHT (directjoin + prettytax religions, spiritual)
+# coa_kioq_light_culture_trigger = {
+# 	OR = {
+# 		scope:culture = { has_coa_gfx = kioq_coa_gfx }
+# 	}
+# }
+
+coa_kioq_light_religion_trigger = {
 	scope:faith.religion = {
 		save_temporary_scope_as = religion
 	}
 	OR = {
-		scope:religion = religion:dopeydig
-	}
-}
-
-arikuri_coa_veuqrit_trigger = {
-	OR = {
-		coa_veuqrit_culture_trigger = yes
-		coa_veuqrit_religion_trigger = yes
-	}
-}
-
-## Aelwrid
-coa_aelwrid_culture_trigger = {
-	OR = {
-		scope:culture = { has_coa_gfx = aelwrid_coa_gfx }
-	}
-}
-coa_aelwrid_religion_trigger = {
-	scope:faith.religion = {
-		save_temporary_scope_as = religion
-	}
-	OR = {
-		scope:religion = religion:hairyload
-		scope:religion = religion:weirdsort
-	}
-}
-
-arikuri_coa_aelwrid_trigger = {
-	OR = {
-		coa_aelwrid_culture_trigger = yes
-		coa_aelwrid_religion_trigger = yes
-	}
-}
-
-## Qieulbaia
-coa_qieulbaia_culture_trigger = {
-	OR = {
-		scope:culture = { has_coa_gfx = qieulbaia_coa_gfx }
-	}
-}
-coa_qieulbaia_religion_trigger = {
-	scope:faith.religion = {
-		save_temporary_scope_as = religion
-	}
-	OR = {
-		scope:religion = religion:clumsytrainer
-		scope:religion = religion:worldlyeat
-		scope:religion = religion:activerush
-	}
-}
-
-arikuri_coa_qieulbaia_trigger = {
-	OR = {
-		coa_qieulbaia_culture_trigger = yes
-		coa_qieulbaia_religion_trigger = yes
-	}
-}
-
-## Floicht
-coa_floicht_culture_trigger = {
-	OR = {
-		scope:culture = { has_coa_gfx = floicht_coa_gfx }
-	}
-}
-coa_floicht_religion_trigger = {
-	scope:faith.religion = {
-		save_temporary_scope_as = religion
-	}
-	OR = {
-		scope:religion = religion:livetower
-		scope:religion = religion:directball
-		scope:religion = religion:stainedend
-	}
-}
-
-arikuri_coa_floicht_trigger = {
-	OR = {
-		coa_floicht_culture_trigger = yes
-		coa_floicht_religion_trigger = yes
-	}
-}
-
-## Qeomoq
-coa_qeomoq_culture_trigger = {
-	OR = {
-		scope:culture = { has_coa_gfx = qeomoq_coa_gfx }
-	}
-}
-coa_qeomoq_religion_trigger = {
-	scope:faith.religion = {
-		save_temporary_scope_as = religion
-	}
-	OR = {
-		scope:religion = religion:illresolve
-	}
-}
-
-arikuri_coa_qeomoq_trigger = {
-	OR = {
-		coa_qeomoq_culture_trigger = yes
-		coa_qeomoq_religion_trigger = yes
-	}
-}
-
-## Aigl
-coa_aigl_culture_trigger = {
-	OR = {
-		scope:culture = { has_coa_gfx = aigl_coa_gfx }
-	}
-}
-coa_aigl_religion_trigger = {
-	scope:faith.religion = {
-		save_temporary_scope_as = religion
-	}
-	OR = {
-		scope:religion = religion:glasscommon
-	}
-}
-
-arikuri_coa_aigl_trigger = {
-	OR = {
-		coa_aigl_culture_trigger = yes
-		coa_aigl_religion_trigger = yes
-	}
-}
-
-## Kioq
-coa_kioq_culture_trigger = {
-	OR = {
-		scope:culture = { has_coa_gfx = kioq_coa_gfx }
-	}
-}
-coa_kioq_religion_trigger = {
-	scope:faith.religion = {
-		save_temporary_scope_as = religion
-	}
-	OR = {
-		scope:religion = religion:exemplarymeaning
 		scope:religion = religion:directjoin
 		scope:religion = religion:prettytax
 	}
 }
 
+arikuri_coa_kioq_light_trigger = {
+	# OR = {
+		# coa_kioq_light_culture_trigger = yes
+		coa_kioq_light_religion_trigger = yes
+	# }
+}
+
+# Kioq - Combined (Dark OR Light)
 arikuri_coa_kioq_trigger = {
 	OR = {
-		coa_kioq_culture_trigger = yes
-		coa_kioq_religion_trigger = yes
+		arikuri_coa_kioq_dark_trigger = yes
+		arikuri_coa_kioq_light_trigger = yes
+	}
+}
+
+## Broulqen
+coa_broulqen_culture_trigger = {
+	OR = {
+		scope:culture = { has_coa_gfx = broulqen_coa_gfx }
+	}
+}
+
+coa_broulqen_religion_trigger = {
+	scope:faith.religion = {
+		save_temporary_scope_as = religion
+	}
+	OR = {
+		scope:religion = religion:welldocumenteddrawer
+		scope:religion = religion:suitablesuit
+		scope:religion = religion:squigglyaction
+	}
+	
+}
+
+arikuri_coa_broulqen_trigger = {
+	OR = {
+		coa_broulqen_culture_trigger = yes
+		coa_broulqen_religion_trigger = yes
 	}
 }
 
@@ -549,3 +500,164 @@ arikuri_coa_wusaun_trigger = {
 		coa_wusaun_religion_trigger = yes
 	}
 }
+
+## Qeomoq
+coa_qeomoq_culture_trigger = {
+	OR = {
+		scope:culture = { has_coa_gfx = qeomoq_coa_gfx }
+	}
+}
+
+coa_qeomoq_religion_trigger = {
+	OR = {
+		scope:faith.religion = religion:illresolve
+	}
+}
+
+arikuri_coa_qeomoq_trigger = {
+	OR = {
+		coa_qeomoq_culture_trigger = yes
+		coa_qeomoq_religion_trigger = yes
+	}
+}
+
+## Floicht
+coa_floicht_culture_trigger = {
+	OR = {
+		scope:culture = { has_coa_gfx = floicht_coa_gfx }
+	}
+}
+
+coa_floicht_religion_trigger = {
+	OR = {
+		scope:faith.religion = religion:livetower
+		scope:faith.religion = religion:directball
+		scope:faith.religion = religion:stainedend
+	}
+}
+
+arikuri_coa_floicht_trigger = {
+	OR = {
+		coa_floicht_culture_trigger = yes
+		coa_floicht_religion_trigger = yes
+	}
+}
+
+## Aelwrid
+coa_aelwrid_culture_trigger = {
+	OR = {
+		scope:culture = { has_coa_gfx = aelwrid_coa_gfx }
+	}
+}
+
+coa_aelwrid_religion_trigger = {
+	OR = {
+		scope:faith.religion = religion:hairyload
+		scope:faith.religion = religion:weirdsort
+	}
+}
+
+arikuri_coa_aelwrid_trigger = {
+	OR = {
+		coa_aelwrid_culture_trigger = yes
+		coa_aelwrid_religion_trigger = yes
+	}
+}
+
+## Thramptith LAND (Wanderers - shockingnumber + infamousfishing)
+coa_thramptith_land_culture_trigger = {
+	OR = {
+		scope:culture = { has_coa_gfx = thramptith_coa_gfx }
+	}
+}
+
+coa_thramptith_land_religion_trigger = {
+	OR = {
+		scope:faith.religion = religion:shockingnumber
+		scope:faith.religion = religion:infamousfishing
+	}
+}
+
+arikuri_coa_thramptith_land_trigger = {
+	OR = {
+		coa_thramptith_land_culture_trigger = yes
+		coa_thramptith_land_religion_trigger = yes
+	}
+}
+
+## Thramptith SEA (Robin Hood Raiders - maturethanks)
+coa_thramptith_sea_culture_trigger = {
+	OR = {
+		scope:culture = { has_coa_gfx = thramptith_coa_gfx }
+	}
+}
+
+coa_thramptith_sea_religion_trigger = {
+	OR = {
+		scope:faith.religion = religion:maturethanks
+	}
+}
+
+arikuri_coa_thramptith_sea_trigger = {
+	OR = {
+		coa_thramptith_sea_culture_trigger = yes
+		coa_thramptith_sea_religion_trigger = yes
+	}
+}
+
+## Qieulbaia
+coa_qieulbaia_culture_trigger = {
+	OR = {
+		scope:culture = { has_coa_gfx = qieulbaia_coa_gfx }
+	}
+}
+
+coa_qieulbaia_religion_trigger = {
+	OR = {
+		scope:faith.religion = religion:clumsytrainer
+		scope:faith.religion = religion:worldlyeat
+		scope:faith.religion = religion:activerush
+	}
+}
+
+arikuri_coa_qieulbaia_trigger = {
+	OR = {
+		coa_qieulbaia_culture_trigger = yes
+		coa_qieulbaia_religion_trigger = yes
+	}
+}
+
+# Preolyth trigger already defined earlier with correct religions (femininesafe, spotlessservice, excitedact)
+
+## Veuqrit
+coa_veuqrit_culture_trigger = {
+	OR = {
+		scope:culture = { has_coa_gfx = veuqrit_coa_gfx }
+	}
+}
+
+coa_veuqrit_religion_trigger = {
+	OR = {
+		scope:faith.religion = religion:femininesafe
+		scope:faith.religion = religion:spotlessservice
+		scope:faith.religion = religion:excitedact
+	}
+}
+
+arikuri_coa_veuqrit_trigger = {
+	OR = {
+		coa_veuqrit_culture_trigger = yes
+		coa_veuqrit_religion_trigger = yes
+	}
+}
+
+## Combined Triggers for Split Systems
+
+# Aigl - Combined (Land OR Sea)
+arikuri_coa_aigl_trigger = {
+	OR = {
+		arikuri_coa_aigl_land_trigger = yes
+		arikuri_coa_aigl_sea_trigger = yes
+	}
+}
+

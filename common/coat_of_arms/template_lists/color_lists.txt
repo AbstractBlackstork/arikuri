@@ -382,11 +382,13 @@ color_lists = {
 					arikuri_coa_ogilek_trigger = yes
 				}
 			}
-			20 = rgb { 35 28 20 }
-			20 = rgb { 45 35 25 }
-			20 = rgb { 25 30 35 }
-			15 = rgb { 40 25 15 }
-			15 = rgb { 20 25 30 }
+			25 = rgb { 30 40 55 }    # Deep mountain sky blue (darkened)
+			20 = rgb { 40 45 50 }    # Dark slate-gray (darkened)
+			15 = rgb { 35 35 43 }    # Dark blue-gray (darkened)
+			15 = rgb { 40 45 50 }    # Storm cloud gray (darkened)
+			15 = rgb { 25 35 45 }    # Deep slate blue (keep dark)
+			15 = rgb { 45 40 35 }    # Dark brown-gray (darkened)
+			15 = rgb { 30 35 45 }    # Deep steel blue (darkened)
 		}
 		special_selection = {
 			trigger = {
@@ -394,11 +396,10 @@ color_lists = {
 					arikuri_coa_broulqen_trigger = yes
 				}
 			}
-			20 = rgb { 28 15 35 }
-			20 = rgb { 35 20 15 }
-			15 = rgb { 15 25 30 }
-			15 = rgb { 40 25 30 }
-			15 = rgb { 20 30 25 }
+			25 = rgb { 26 26 26 }    # Deep neutral gray (stone)
+			20 = rgb { 23 15 75 }    # Deep royal blue
+			15 = rgb { 52 7 61 }     # Deep purple (imperial)
+			15 = rgb { 47 7 57 }     # Deep burgundy-purple
 		}
 		special_selection = {
 			trigger = {
@@ -406,11 +407,13 @@ color_lists = {
 					arikuri_coa_ioddrik_trigger = yes
 				}
 			}
-			25 = rgb { 25 20 15 }
-			20 = rgb { 35 25 20 }
-			15 = rgb { 20 15 25 }
-			15 = rgb { 30 20 15 }
-			15 = rgb { 15 20 20 }
+			25 = rgb { 35 25 15 }    # Dark earth-brown (deep mine)
+			20 = rgb { 40 30 20 }    # Dark stone-gray (cave wall)
+			15 = rgb { 30 30 35 }    # Dark slate (mineral)
+			15 = rgb { 45 35 25 }    # Dark desert-brown
+			10 = rgb { 60 20 5 }     # Saturated dark reddish-orange (NEW)
+			10 = rgb { 55 25 8 }     # Saturated dark rust (NEW)
+			10 = rgb { 50 30 10 }    # Dark bronze-gold (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -418,11 +421,15 @@ color_lists = {
 					arikuri_coa_qormaic_trigger = yes
 				}
 			}
-			25 = rgb { 30 25 35 }
-			20 = rgb { 35 35 40 }
-			15 = rgb { 25 30 40 }
-			15 = rgb { 40 30 35 }
-			15 = rgb { 20 25 30 }
+			25 = rgb { 40 35 30 }    # Warm dark brown
+			20 = rgb { 45 38 32 }    # Dark bronze-brown
+			15 = rgb { 38 36 35 }    # Dark warm gray
+			15 = rgb { 42 35 28 }    # Deep earth-brown
+			10 = rgb { 35 45 20 }    # Saturated dark olive (NEW)
+			10 = rgb { 40 48 25 }    # Dark olive-green (NEW)
+			10 = rgb { 38 42 22 }    # Deep moss-olive (NEW)
+			10 = rgb { 80 32 25 }    # Dark brick-red (NEW)
+			10 = rgb { 75 28 22 }    # Deep terracotta-brick (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -430,11 +437,11 @@ color_lists = {
 					arikuri_coa_xacra_trigger = yes
 				}
 			}
-			20 = rgb { 15 30 35 }
-			20 = rgb { 35 20 25 }
-			15 = rgb { 20 35 30 }
-			15 = rgb { 30 15 35 }
-			15 = rgb { 25 25 20 }
+			20 = rgb { 2 25 15 }     # Very deep malachite-green (reptile)
+			15 = rgb { 15 8 30 }     # Deep purple-black (spider/insect)
+			15 = rgb { 35 15 5 }     # Deep rust-brown (cavern earth)
+			15 = rgb { 8 18 22 }     # Deep teal-black (underground water)
+			10 = rgb { 25 12 8 }     # Deep burnt-brown (chitin)
 		}
 		## AIEXQELT - Globith Faction
 		special_selection = {
@@ -494,11 +501,10 @@ color_lists = {
 					arikuri_coa_veuqrit_trigger = yes
 				}
 			}
-			25 = rgb { 25 20 35 }
-			20 = rgb { 35 25 20 }
-			15 = rgb { 20 30 35 }
-			15 = rgb { 30 25 30 }
-			15 = rgb { 15 25 30 }
+			25 = rgb { 68 38 83 }    # Deep purple (scholar robes)
+			20 = rgb { 27 52 11 }    # Deep olive-green (aged parchment)
+			15 = rgb { 29 44 75 }    # Deep navy-blue (ink)
+			15 = rgb { 26 42 73 }    # Deep midnight blue
 		}
 		special_selection = {
 			trigger = {
@@ -506,11 +512,13 @@ color_lists = {
 					arikuri_coa_aelwrid_trigger = yes
 				}
 			}
-			25 = rgb { 35 15 20 }
-			20 = rgb { 20 25 35 }
-			15 = rgb { 30 30 25 }
-			15 = rgb { 35 20 15 }
-			15 = rgb { 15 20 25 }
+			25 = rgb { 51 51 51 }    # Dark steel-gray (armor)
+			20 = rgb { 70 39 32 }    # Dark crimson-brown (dried blood oath)
+			15 = rgb { 59 52 27 }    # Dark bronze-olive (ancient relic)
+			15 = rgb { 58 51 26 }    # Dark earth (desert campaign)
+			10 = rgb { 100 0 0 }     # Deep fire red (NEW)
+			10 = rgb { 90 5 5 }      # Dark blood crimson (NEW)
+			10 = rgb { 80 10 0 }     # Dark burning ember (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -518,11 +526,10 @@ color_lists = {
 					arikuri_coa_qieulbaia_trigger = yes
 				}
 			}
-			20 = rgb { 15 30 40 }
-			20 = rgb { 35 25 20 }
-			15 = rgb { 25 35 30 }
-			15 = rgb { 40 20 15 }
-			15 = rgb { 20 25 30 }
+			25 = rgb { 7 41 111 }    # Deep ocean blue
+			20 = rgb { 10 36 32 }    # Deep teal-green (deep water)
+			15 = rgb { 3 0 104 }     # Deep navy (night sea)
+			15 = rgb { 0 0 102 }     # Deep royal blue (abyss)
 		}
 		special_selection = {
 			trigger = {
@@ -530,11 +537,12 @@ color_lists = {
 					arikuri_coa_floicht_trigger = yes
 				}
 			}
-			20 = rgb { 30 25 35 }
-			20 = rgb { 35 30 25 }
-			15 = rgb { 25 35 30 }
-			15 = rgb { 35 20 25 }
-			15 = rgb { 20 30 25 }
+			25 = rgb { 5 2 8 }       # Near-black (deep shadow)
+			20 = rgb { 28 3 45 }     # Deep purple (mandala)
+			15 = rgb { 30 25 20 }    # Deep earth-brown (clan)
+			15 = rgb { 25 30 35 }    # Deep slate-gray (mercenary)
+			20 = rgb { 35 30 38 }    # Very dark aubergine gray (low saturation)
+			20 = rgb { 25 2 40 }     # Saturated very dark purple
 		}
 		special_selection = {
 			trigger = {
@@ -542,47 +550,64 @@ color_lists = {
 					arikuri_coa_qeomoq_trigger = yes
 				}
 			}
-			25 = rgb { 35 20 20 }
-			20 = rgb { 20 30 25 }
-			15 = rgb { 30 25 30 }
-			15 = rgb { 25 25 20 }
-			15 = rgb { 20 25 35 }
+			25 = rgb { 35 20 20 }    # Dark red (communal)
+			20 = rgb { 20 35 25 }    # Dark jade-green (Chinese)
+			15 = rgb { 30 25 30 }    # Dark plum (ritual ink)
+			15 = rgb { 25 25 20 }    # Dark earth (agriculture)
 		}
 		special_selection = {
 			trigger = {
-				OR = {
-					arikuri_coa_aigl_trigger = yes
-				}
+				arikuri_coa_aigl_land_trigger = yes
 			}
-			20 = rgb { 15 35 40 }
-			20 = rgb { 40 30 20 }
-			15 = rgb { 35 20 15 }
-			15 = rgb { 20 30 35 }
-			15 = rgb { 30 25 15 }
+			25 = rgb { 25 20 15 }    # Deep ship-wood brown
+			20 = rgb { 30 25 20 }    # Deep rust-brown
+			15 = rgb { 20 25 30 }    # Deep storm-gray
+			15 = rgb { 28 22 18 }    # Deep earth-brown
 		}
 		special_selection = {
 			trigger = {
-				OR = {
-					arikuri_coa_kioq_trigger = yes
-				}
+				arikuri_coa_aigl_sea_trigger = yes
 			}
-			25 = rgb { 35 15 15 }
-			20 = rgb { 15 25 35 }
-			15 = rgb { 30 25 15 }
-			15 = rgb { 25 20 30 }
-			15 = rgb { 20 30 20 }
+			25 = rgb { 15 30 40 }    # Deep ocean blue
+			20 = rgb { 20 25 30 }    # Deep storm-gray
+			15 = rgb { 25 20 15 }    # Deep ship-wood brown
+			15 = rgb { 12 28 38 }    # Deep sea-blue
 		}
 		special_selection = {
 			trigger = {
-				OR = {
-					arikuri_coa_thramptith_trigger = yes
-				}
+				arikuri_coa_kioq_dark_trigger = yes
 			}
-			20 = rgb { 25 35 20 }
-			20 = rgb { 35 25 20 }
-			15 = rgb { 30 20 25 }
-			15 = rgb { 20 30 25 }
-			15 = rgb { 25 25 30 }
+			25 = rgb { 55 3 12 }     # Deep blood-maroon
+			20 = rgb { 6 41 9 }      # Deep jungle green-black
+			15 = rgb { 15 18 10 }    # Dark olive-black (shadow)
+			15 = rgb { 15 16 13 }    # Near-black brown
+		}
+		special_selection = {
+			trigger = {
+				arikuri_coa_kioq_light_trigger = yes
+			}
+			25 = rgb { 55 3 12 }     # Deep blood-maroon
+			20 = rgb { 6 41 9 }      # Deep jungle green-black
+			15 = rgb { 15 18 10 }    # Dark olive-black (shadow)
+			15 = rgb { 15 16 13 }    # Near-black brown
+		}
+		special_selection = {
+			trigger = {
+				arikuri_coa_thramptith_land_trigger = yes
+			}
+			25 = rgb { 25 35 20 }    # Deep forest green (wanderers)
+			20 = rgb { 30 25 25 }    # Deep earth-brown (tribal)
+			15 = rgb { 35 30 25 }    # Deep wood-brown
+			15 = rgb { 28 38 22 }    # Deep moss-green
+		}
+		special_selection = {
+			trigger = {
+				arikuri_coa_thramptith_sea_trigger = yes
+			}
+			25 = rgb { 20 30 35 }    # Deep ocean-gray (raiders)
+			20 = rgb { 20 25 30 }    # Deep slate-blue (sea shadow)
+			15 = rgb { 18 28 33 }    # Deep sea-gray
+			15 = rgb { 22 32 28 }    # Deep ocean-teal
 		}
 		special_selection = {
 			trigger = {
@@ -590,11 +615,10 @@ color_lists = {
 					arikuri_coa_blouck_trigger = yes
 				}
 			}
-			25 = rgb { 35 25 15 }
-			20 = rgb { 25 30 20 }
-			15 = rgb { 30 20 15 }
-			15 = rgb { 20 25 20 }
-			15 = rgb { 25 20 25 }
+			25 = rgb { 35 25 15 }    # Dark leather-brown
+			20 = rgb { 25 30 20 }    # Dark woodland green
+			15 = rgb { 30 25 20 }    # Dark earth (camp)
+			15 = rgb { 20 25 20 }    # Dark moss-green
 		}
 		special_selection = {
 			trigger = {
@@ -602,11 +626,12 @@ color_lists = {
 					arikuri_coa_preolyth_trigger = yes
 				}
 			}
-			20 = rgb { 30 20 25 }
-			20 = rgb { 20 25 30 }
-			15 = rgb { 25 30 25 }
-			15 = rgb { 35 25 20 }
-			15 = rgb { 20 30 35 }
+			25 = rgb { 30 20 25 }    # Deep burgundy (family blood)
+			20 = rgb { 20 25 30 }    # Deep slate-blue (ceremony)
+			15 = rgb { 25 30 25 }    # Deep teal (lineage)
+			15 = rgb { 35 25 20 }    # Deep bronze (heirloom)
+			20 = rgb { 5 45 15 }     # Saturated dark green (forest)
+			15 = rgb { 10 50 20 }    # Deep emerald green
 		}
 		special_selection = {
 			trigger = {
@@ -614,11 +639,11 @@ color_lists = {
 					arikuri_coa_wusaun_trigger = yes
 				}
 			}
-			25 = rgb { 30 15 30 }
-			20 = rgb { 35 25 25 }
-			15 = rgb { 15 30 30 }
-			15 = rgb { 25 25 35 }
-			15 = rgb { 30 20 25 }
+			25 = rgb { 45 1 55 }     # Deep purple (darkened)
+			20 = rgb { 40 4 22 }     # Deep maroon (darkened)
+			15 = rgb { 25 15 35 }    # Very dark low saturation purple (keep)
+			15 = rgb { 42 11 8 }     # Deep rust-brown (darkened)
+			15 = rgb { 38 10 10 }    # Deep brown-red (darkened)
 		}
 	}
 	
@@ -678,12 +703,14 @@ color_lists = {
 					arikuri_coa_ogilek_trigger = yes
 				}
 			}
-			15 = rgb { 140 110 80 }
-			15 = rgb { 120 100 85 }
-			15 = rgb { 100 85 70 }
-			15 = rgb { 160 130 90 }
-			15 = rgb { 110 120 130 }
-			15 = rgb { 130 95 60 }
+			35 = rgb { 40 80 220 }   # Vivid bright blue (high sky) - BRIGHTENED
+			15 = rgb { 70 130 180 }  # Sky blue (brightened)
+			15 = rgb { 130 130 130 } # Neutral gray (brightened)
+			15 = rgb { 110 120 140 } # Slate gray (brightened)
+			15 = rgb { 100 110 130 } # Blue-gray (brightened)
+			15 = rgb { 115 105 95 }  # Warm stone-gray (brightened)
+			15 = rgb { 90 100 120 }  # Cool slate (brightened)
+			15 = rgb { 80 110 160 }  # Medium sky blue (brightened)
 		}
 		special_selection = {
 			trigger = {
@@ -691,12 +718,10 @@ color_lists = {
 					arikuri_coa_broulqen_trigger = yes
 				}
 			}
-			15 = rgb { 120 80 140 }
-			15 = rgb { 140 100 60 }
-			15 = rgb { 90 110 120 }
-			15 = rgb { 160 70 80 }
-			15 = rgb { 80 130 110 }
-			15 = rgb { 130 110 70 }
+			20 = rgb { 153 153 153 }  # Medium steel gray
+			15 = rgb { 135 76 75 }    # Burgundy-rose (imperial)
+			15 = rgb { 85 143 137 }   # Teal (scholarly)
+			15 = rgb { 215 160 155 }  # Pale antique pink
 		}
 		special_selection = {
 			trigger = {
@@ -704,12 +729,15 @@ color_lists = {
 					arikuri_coa_ioddrik_trigger = yes
 				}
 			}
-			15 = rgb { 110 90 70 }
-			15 = rgb { 120 80 50 }
-			15 = rgb { 90 110 100 }
-			15 = rgb { 130 100 70 }
-			15 = rgb { 80 70 90 }
-			15 = rgb { 140 110 80 }
+			20 = rgb { 140 85 45 }   # Terracotta orange
+			15 = rgb { 160 110 60 }  # Desert sand
+			15 = rgb { 125 75 35 }   # Burnt orange
+			15 = rgb { 187 161 38 }  # Golden-bronze (ore) - KEEP
+			15 = rgb { 110 95 70 }   # Warm clay-gray
+			10 = rgb { 205 155 25 }  # Rich gold (NEW)
+			10 = rgb { 190 145 40 }  # Bright golden-bronze (NEW)
+			10 = rgb { 180 90 35 }   # Reddish-orange (NEW)
+			10 = rgb { 170 100 45 }  # Rusty orange-brown (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -717,12 +745,17 @@ color_lists = {
 					arikuri_coa_qormaic_trigger = yes
 				}
 			}
-			15 = rgb { 140 140 160 }
-			15 = rgb { 120 130 150 }
-			15 = rgb { 150 120 140 }
-			15 = rgb { 130 120 140 }
-			15 = rgb { 160 150 170 }
-			15 = rgb { 140 130 150 }
+			20 = rgb { 160 95 50 }    # Burnt orange (terracotta)
+			15 = rgb { 145 85 45 }    # Deep terracotta
+			15 = rgb { 130 110 75 }   # Olive-bronze
+			15 = rgb { 110 105 85 }   # Olive green-gray (low saturation)
+			10 = rgb { 155 115 70 }   # Warm desert sand
+			10 = rgb { 140 120 100 }  # Warm bronze (keep one original)
+			10 = rgb { 85 115 45 }    # Saturated medium olive (NEW)
+			10 = rgb { 95 125 50 }    # Bright olive-green (NEW)
+			10 = rgb { 100 130 55 }   # Vibrant olive (NEW)
+			10 = rgb { 170 70 45 }    # Medium brick-red (NEW)
+			10 = rgb { 180 75 50 }    # Bright terracotta-brick (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -730,12 +763,12 @@ color_lists = {
 					arikuri_coa_xacra_trigger = yes
 				}
 			}
-			15 = rgb { 70 140 130 }
-			15 = rgb { 130 70 80 }
-			15 = rgb { 90 80 130 }
-			15 = rgb { 120 110 70 }
-			15 = rgb { 80 120 110 }
-			15 = rgb { 140 90 70 }
+			20 = rgb { 15 75 45 }     # Saturated reptile green
+			15 = rgb { 95 45 140 }    # Saturated purple (insect/spider)
+			15 = rgb { 140 70 30 }    # Saturated rust-orange (carapace)
+			10 = rgb { 25 95 75 }     # Saturated jade-green (scaled skin)
+			10 = rgb { 115 60 100 }   # Saturated magenta-purple (venom)
+			10 = rgb { 105 95 65 }    # Saturated olive-brown (cavern)
 		}
 		## AIEXQELT - Globith Faction
 		special_selection = {
@@ -789,12 +822,9 @@ color_lists = {
 					arikuri_coa_veuqrit_trigger = yes
 				}
 			}
-			15 = rgb { 100 80 130 }
-			15 = rgb { 130 100 70 }
-			15 = rgb { 80 110 130 }
-			15 = rgb { 120 90 110 }
-			15 = rgb { 70 90 110 }
-			15 = rgb { 140 110 80 }
+			20 = rgb { 82 129 204 }  # Scholar blue
+			15 = rgb { 77 232 146 }  # Bright jade (silkscreen)
+			15 = rgb { 60 219 177 }  # Bright teal (water)
 		}
 		special_selection = {
 			trigger = {
@@ -802,12 +832,14 @@ color_lists = {
 					arikuri_coa_aelwrid_trigger = yes
 				}
 			}
-			15 = rgb { 140 60 70 }
-			15 = rgb { 80 100 140 }
-			15 = rgb { 130 130 140 }
-			15 = rgb { 140 110 70 }
-			15 = rgb { 90 80 130 }
-			15 = rgb { 150 80 70 }
+			20 = rgb { 234 79 40 }   # Bright red-orange (war banner)
+			15 = rgb { 223 190 28 }  # Bright gold (holy light)
+			15 = rgb { 183 189 82 }  # Olive-gold (desert sun)
+			10 = rgb { 255 0 0 }     # MAX SATURATION FIRE RED (NEW)
+			10 = rgb { 255 20 0 }    # MAX SATURATION RED-ORANGE (NEW)
+			10 = rgb { 240 0 10 }    # Intense crimson-red (NEW)
+			10 = rgb { 255 40 0 }    # Blazing red-orange (NEW)
+			10 = rgb { 220 10 5 }    # Deep scarlet (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -815,12 +847,10 @@ color_lists = {
 					arikuri_coa_qieulbaia_trigger = yes
 				}
 			}
-			15 = rgb { 70 110 140 }
-			15 = rgb { 130 100 70 }
-			15 = rgb { 90 130 120 }
-			15 = rgb { 140 90 60 }
-			15 = rgb { 110 90 120 }
-			15 = rgb { 120 110 80 }
+			20 = rgb { 70 110 140 }  # Ocean blue (sail)
+			15 = rgb { 100 130 120 } # Teal (tropical water)
+			15 = rgb { 130 100 70 }  # Teak brown (ship hull)
+			15 = rgb { 90 120 110 }  # Sea-green (coastal)
 		}
 		special_selection = {
 			trigger = {
@@ -828,12 +858,9 @@ color_lists = {
 					arikuri_coa_floicht_trigger = yes
 				}
 			}
-			15 = rgb { 110 90 130 }
-			15 = rgb { 120 110 90 }
-			15 = rgb { 90 130 100 }
-			15 = rgb { 140 80 90 }
-			15 = rgb { 80 120 110 }
-			15 = rgb { 130 100 80 }
+			20 = rgb { 134 21 173 }  # Vivid purple (spiritual)
+			15 = rgb { 86 20 204 }   # Bright purple-blue (mandala)
+			15 = rgb { 4 134 160 }   # Bright teal (enlightenment)
 		}
 		special_selection = {
 			trigger = {
@@ -841,51 +868,70 @@ color_lists = {
 					arikuri_coa_qeomoq_trigger = yes
 				}
 			}
-			15 = rgb { 140 80 70 }
-			15 = rgb { 80 120 90 }
-			15 = rgb { 120 100 120 }
-			15 = rgb { 130 120 80 }
-			15 = rgb { 90 100 130 }
-			15 = rgb { 140 110 70 }
+			20 = rgb { 140 80 70 }   # Brick red (communal buildings)
+			15 = rgb { 80 130 90 }   # Jade green (Chinese prosperity)
+			15 = rgb { 120 100 120 } # Dusty plum (scholar ink)
+			15 = rgb { 130 120 80 }  # Earth brown (rice fields)
 		}
 		special_selection = {
 			trigger = {
-				OR = {
-					arikuri_coa_aigl_trigger = yes
-				}
+				arikuri_coa_aigl_land_trigger = yes
 			}
-			15 = rgb { 70 120 140 }
-			15 = rgb { 130 100 70 }
-			15 = rgb { 140 90 60 }
-			15 = rgb { 90 110 130 }
-			15 = rgb { 140 120 80 }
-			15 = rgb { 120 80 60 }
+			20 = rgb { 130 100 70 }  # Ship-wood brown (hull)
+			15 = rgb { 140 120 80 }  # Sand-gold (beach/desert)
+			15 = rgb { 110 95 75 }   # Weathered wood
+			15 = rgb { 125 105 85 }  # Dusty earth
 		}
 		special_selection = {
 			trigger = {
-				OR = {
-					arikuri_coa_kioq_trigger = yes
-				}
+				arikuri_coa_aigl_sea_trigger = yes
 			}
-			15 = rgb { 160 70 60 }
-			15 = rgb { 70 100 140 }
-			15 = rgb { 140 110 60 }
-			15 = rgb { 110 80 130 }
-			15 = rgb { 80 130 90 }
-			15 = rgb { 150 90 60 }
+			20 = rgb { 70 120 140 }  # Ocean blue (raider sail)
+			15 = rgb { 95 140 155 }  # Pale teal (seafoam)
+			15 = rgb { 90 110 130 }  # Storm blue-gray (sea weather)
+			15 = rgb { 80 150 165 }  # Bright pale teal (shallow water)
+			10 = rgb { 105 145 160 } # Medium pale teal
 		}
 		special_selection = {
 			trigger = {
-				OR = {
-					arikuri_coa_thramptith_trigger = yes
-				}
+				arikuri_coa_kioq_dark_trigger = yes
 			}
-			15 = rgb { 90 130 80 }
-			15 = rgb { 130 100 70 }
-			15 = rgb { 120 80 90 }
-			15 = rgb { 80 120 100 }
-			15 = rgb { 110 110 120 }
-			15 = rgb { 140 110 80 }
+			20 = rgb { 152 0 14 }    # Deep blood red (sacrifice)
+			15 = rgb { 16 110 24 }   # Dark forest green (jungle)
+			15 = rgb { 90 105 80 }   # Muddy olive-green (earth)
+		}
+		special_selection = {
+			trigger = {
+				arikuri_coa_kioq_light_trigger = yes
+			}
+			20 = rgb { 152 0 14 }    # Deep blood red (sacrifice)
+			15 = rgb { 16 110 24 }   # Dark forest green (jungle)
+			15 = rgb { 90 105 80 }   # Muddy olive-green (earth)
+			20 = rgb { 50 160 145 }  # Saturated aquamarine
+		}
+		special_selection = {
+			trigger = {
+				arikuri_coa_thramptith_land_trigger = yes
+			}
+			20 = rgb { 80 120 90 }   # Forest green (wanderers)
+			15 = rgb { 100 90 80 }   # Earth brown (tribal earth)
+			15 = rgb { 110 100 85 }  # Wood brown
+			15 = rgb { 90 130 100 }  # Moss-green
+			10 = rgb { 50 140 70 }   # Saturated emerald green (NEW)
+			10 = rgb { 40 155 85 }   # Saturated jungle green (NEW)
+			10 = rgb { 35 145 95 }   # Saturated jade-green (NEW)
+		}
+		special_selection = {
+			trigger = {
+				arikuri_coa_thramptith_sea_trigger = yes
+			}
+			20 = rgb { 70 110 130 }  # Ocean blue (raiders)
+			15 = rgb { 90 100 110 }  # Storm gray (sea weather)
+			15 = rgb { 80 120 140 }  # Deep blue (raider sail)
+			15 = rgb { 75 105 120 }  # Sea-teal
+			10 = rgb { 50 160 145 }  # Saturated aquamarine (NEW)
+			10 = rgb { 45 150 155 }  # Vibrant turquoise (NEW)
+			10 = rgb { 55 145 135 }  # Ocean teal-green (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -893,12 +939,10 @@ color_lists = {
 					arikuri_coa_blouck_trigger = yes
 				}
 			}
-			15 = rgb { 130 100 70 }
-			15 = rgb { 100 120 90 }
-			15 = rgb { 120 90 70 }
-			15 = rgb { 90 110 90 }
-			15 = rgb { 110 90 110 }
-			15 = rgb { 140 110 80 }
+			20 = rgb { 130 100 70 }  # Leather brown (tanned hide)
+			15 = rgb { 100 120 90 }  # Woodland green
+			15 = rgb { 120 90 70 }   # Earth tan (nomad)
+			15 = rgb { 110 100 90 }  # Neutral leather-gray
 		}
 		special_selection = {
 			trigger = {
@@ -906,12 +950,13 @@ color_lists = {
 					arikuri_coa_preolyth_trigger = yes
 				}
 			}
-			15 = rgb { 120 80 100 }
-			15 = rgb { 90 110 130 }
-			15 = rgb { 90 130 110 }
-			15 = rgb { 140 110 80 }
-			15 = rgb { 80 100 140 }
-			15 = rgb { 130 100 110 }
+			20 = rgb { 120 80 100 }  # Burgundy-purple (clan)
+			15 = rgb { 90 110 130 }  # Slate-blue (ceremonial)
+			15 = rgb { 90 130 110 }  # Teal-green (family tree)
+			15 = rgb { 140 110 80 }  # Bronze-gold (heritage)
+			20 = rgb { 160 200 50 }  # Juicy lime yellow-green
+			15 = rgb { 140 180 60 }  # Yellow-green (spring)
+			15 = rgb { 60 150 80 }   # Medium emerald green
 		}
 		special_selection = {
 			trigger = {
@@ -919,12 +964,12 @@ color_lists = {
 					arikuri_coa_wusaun_trigger = yes
 				}
 			}
-			15 = rgb { 110 70 120 }
-			15 = rgb { 140 90 100 }
-			15 = rgb { 70 120 120 }
-			15 = rgb { 90 90 140 }
-			15 = rgb { 120 90 110 }
-			15 = rgb { 130 100 90 }
+			20 = rgb { 110 55 145 }  # Saturated purple (brightened)
+			15 = rgb { 90 140 110 }  # Saturated jade-green (brightened)
+			15 = rgb { 80 160 130 }  # Saturated green-teal (brightened)
+			15 = rgb { 65 180 160 }  # Toxic aquamarine (brightened)
+			10 = rgb { 100 175 115 } # Bright saturated green (brightened)
+			10 = rgb { 120 65 155 }  # Saturated magenta-purple (brightened)
 		}
 	}
 	
@@ -985,12 +1030,13 @@ color_lists = {
 					arikuri_coa_ogilek_trigger = yes
 				}
 			}
-			20 = rgb { 240 220 190 }
-			20 = rgb { 230 215 195 }
-			20 = rgb { 210 200 185 }
-			20 = rgb { 250 235 210 }
-			15 = rgb { 200 210 220 }
-			15 = rgb { 245 225 200 }
+			25 = rgb { 200 210 230 }  # Pale sky blue (midday)
+			20 = rgb { 220 220 225 }  # Light gray (snow on stone)
+			15 = rgb { 210 215 220 }  # Pale slate (sunlit rock)
+			15 = rgb { 235 240 245 }  # Near-white (fresh snow)
+			15 = rgb { 205 205 210 }  # Light neutral gray
+			15 = rgb { 195 200 215 }  # Pale blue-gray
+			15 = rgb { 215 210 205 }  # Warm light gray
 		}
 		special_selection = {
 			trigger = {
@@ -998,12 +1044,10 @@ color_lists = {
 					arikuri_coa_broulqen_trigger = yes
 				}
 			}
-			20 = rgb { 230 200 240 }
-			20 = rgb { 240 220 180 }
-			20 = rgb { 200 215 225 }
-			15 = rgb { 255 210 210 }
-			15 = rgb { 200 240 230 }
-			15 = rgb { 245 235 200 }
+			25 = rgb { 231 231 231 }  # Pale gray (marble)
+			20 = rgb { 192 228 230 }  # Pale cyan (silk)
+			20 = rgb { 252 210 215 }  # Pale rose (banner)
+			20 = rgb { 255 210 200 }  # Pale coral
 		}
 		special_selection = {
 			trigger = {
@@ -1011,12 +1055,14 @@ color_lists = {
 					arikuri_coa_ioddrik_trigger = yes
 				}
 			}
-			25 = rgb { 210 190 160 }
-			20 = rgb { 230 210 180 }
-			20 = rgb { 200 210 200 }
-			15 = rgb { 240 220 190 }
-			15 = rgb { 220 200 180 }
-			15 = rgb { 255 235 200 }
+			25 = rgb { 240 237 115 }  # Pale yellow (sunlight) - KEEP
+			20 = rgb { 235 215 180 }  # Warm sand
+			15 = rgb { 245 220 185 }  # Golden sand
+			15 = rgb { 225 205 170 }  # Pale terracotta
+			15 = rgb { 255 240 210 }  # Pale cream-orange
+			10 = rgb { 255 235 195 }  # Light golden-sand (NEW)
+			10 = rgb { 250 225 175 }  # Pale amber (NEW)
+			10 = rgb { 255 215 165 }  # Soft peach-gold (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -1024,12 +1070,10 @@ color_lists = {
 					arikuri_coa_qormaic_trigger = yes
 				}
 			}
-			25 = rgb { 225 225 235 }
-			25 = rgb { 235 230 240 }
-			20 = rgb { 215 220 230 }
-			15 = rgb { 240 235 245 }
-			15 = rgb { 230 230 240 }
-			15 = rgb { 245 240 250 }
+			25 = rgb { 245 235 220 }  # Very pale warm cream
+			20 = rgb { 250 245 235 }  # Nearly white cream
+			15 = rgb { 255 250 240 }  # Off-white warm
+			15 = rgb { 248 240 230 }  # Pale sand-white
 		}
 		special_selection = {
 			trigger = {
@@ -1037,12 +1081,11 @@ color_lists = {
 					arikuri_coa_xacra_trigger = yes
 				}
 			}
-			20 = rgb { 180 240 230 }
-			20 = rgb { 255 200 200 }
-			20 = rgb { 210 210 240 }
-			15 = rgb { 240 230 190 }
-			15 = rgb { 200 240 235 }
-			15 = rgb { 245 220 200 }
+			20 = rgb { 140 255 200 }  # Bright saturated mint-green (reptile belly)
+			15 = rgb { 210 160 255 }  # Bright saturated lavender (bioluminescence)
+			15 = rgb { 255 200 150 }  # Bright saturated peach (carapace shine)
+			15 = rgb { 180 255 240 }  # Bright saturated aqua (cave pool)
+			10 = rgb { 255 220 180 }  # Bright cream-orange (insect wing)
 		}
 		## AIEXQELT - Globith Faction
 		special_selection = {
@@ -1106,12 +1149,9 @@ color_lists = {
 					arikuri_coa_veuqrit_trigger = yes
 				}
 			}
-			25 = rgb { 230 220 240 }
-			25 = rgb { 245 235 210 }
-			20 = rgb { 210 230 240 }
-			15 = rgb { 240 230 235 }
-			15 = rgb { 230 240 245 }
-			15 = rgb { 255 245 220 }
+			25 = rgb { 223 232 245 }  # Pale blue (silk)
+			20 = rgb { 230 255 255 }  # Pale cyan (water-paper)
+			20 = rgb { 231 231 231 }  # Pale gray (parchment)
 		}
 		special_selection = {
 			trigger = {
@@ -1119,12 +1159,13 @@ color_lists = {
 					arikuri_coa_aelwrid_trigger = yes
 				}
 			}
-			25 = rgb { 255 220 220 }
-			25 = rgb { 220 230 255 }
-			20 = rgb { 235 235 245 }
-			15 = rgb { 255 240 200 }
-			15 = rgb { 245 230 235 }
-			15 = rgb { 230 235 240 }
+			25 = rgb { 255 251 225 }  # Pale cream-gold (halo)
+			20 = rgb { 245 231 231 }  # Pale rose (mercy)
+			15 = rgb { 251 236 219 }  # Pale peach (dawn)
+			15 = rgb { 236 248 116 }  # Bright pale yellow (divine radiance)
+			10 = rgb { 255 180 170 }  # Bright coral-red (NEW)
+			10 = rgb { 255 200 180 }  # Light fire-orange (NEW)
+			10 = rgb { 255 190 185 }  # Soft flame-pink (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -1132,12 +1173,10 @@ color_lists = {
 					arikuri_coa_qieulbaia_trigger = yes
 				}
 			}
-			25 = rgb { 210 235 255 }
-			20 = rgb { 240 220 180 }
-			20 = rgb { 200 240 235 }
-			15 = rgb { 255 230 200 }
-			15 = rgb { 230 245 250 }
-			15 = rgb { 245 240 220 }
+			25 = rgb { 210 235 255 }  # Pale sky-blue (horizon)
+			20 = rgb { 200 240 235 }  # Pale aqua (shallow water)
+			15 = rgb { 240 230 210 }  # Pale sand-beige (beach)
+			15 = rgb { 230 245 250 }  # Pale foam-white (sea spray)
 		}
 		special_selection = {
 			trigger = {
@@ -1145,12 +1184,9 @@ color_lists = {
 					arikuri_coa_floicht_trigger = yes
 				}
 			}
-			20 = rgb { 235 225 245 }
-			20 = rgb { 230 225 215 }
-			20 = rgb { 215 240 220 }
-			15 = rgb { 255 230 235 }
-			15 = rgb { 220 240 235 }
-			15 = rgb { 245 235 210 }
+			25 = rgb { 252 225 255 }  # Pale lavender (spiritual light)
+			20 = rgb { 212 209 255 }  # Pale purple-blue (divine)
+			20 = rgb { 204 204 204 }  # Pale gray (stone peak)
 		}
 		special_selection = {
 			trigger = {
@@ -1158,51 +1194,66 @@ color_lists = {
 					arikuri_coa_qeomoq_trigger = yes
 				}
 			}
-			25 = rgb { 255 220 210 }
-			20 = rgb { 210 240 220 }
-			20 = rgb { 235 230 235 }
-			15 = rgb { 245 240 210 }
-			15 = rgb { 220 230 240 }
-			15 = rgb { 250 245 230 }
+			25 = rgb { 255 220 210 }  # Pale red (celebration)
+			20 = rgb { 210 240 220 }  # Pale jade (harmony)
+			15 = rgb { 235 230 235 }  # Pale lavender (silk)
+			15 = rgb { 245 240 210 }  # Pale gold (prosperity)
 		}
 		special_selection = {
 			trigger = {
-				OR = {
-					arikuri_coa_aigl_trigger = yes
-				}
+				arikuri_coa_aigl_land_trigger = yes
 			}
-			25 = rgb { 210 240 255 }
-			20 = rgb { 240 220 180 }
-			20 = rgb { 255 235 200 }
-			15 = rgb { 230 245 250 }
-			15 = rgb { 245 230 210 }
-			15 = rgb { 220 235 240 }
+			25 = rgb { 240 230 210 }  # Pale sun-bleached wood
+			20 = rgb { 250 240 220 }  # Pale sand
+			15 = rgb { 245 235 215 }  # Pale driftwood
+			15 = rgb { 255 245 225 }  # Pale cream-sand
 		}
 		special_selection = {
 			trigger = {
-				OR = {
-					arikuri_coa_kioq_trigger = yes
-				}
+				arikuri_coa_aigl_sea_trigger = yes
 			}
-			25 = rgb { 255 210 200 }
-			20 = rgb { 210 230 255 }
-			20 = rgb { 245 235 190 }
-			15 = rgb { 235 225 245 }
-			15 = rgb { 210 240 220 }
-			15 = rgb { 255 240 210 }
+			25 = rgb { 210 240 255 }  # Pale sky-blue (horizon)
+			20 = rgb { 230 245 250 }  # Pale sea-foam white
+			15 = rgb { 220 235 240 }  # Pale ice-white (sail)
+			15 = rgb { 200 235 250 }  # Pale ocean-white
 		}
 		special_selection = {
 			trigger = {
-				OR = {
-					arikuri_coa_thramptith_trigger = yes
-				}
+				arikuri_coa_kioq_dark_trigger = yes
 			}
-			25 = rgb { 220 245 210 }
-			20 = rgb { 240 230 200 }
-			20 = rgb { 235 220 225 }
-			15 = rgb { 210 235 230 }
-			15 = rgb { 230 230 235 }
-			15 = rgb { 245 240 220 }
+			25 = rgb { 197 215 186 }  # Pale sage green
+			20 = rgb { 241 221 223 }  # Pale rose (dawn)
+			20 = rgb { 244 255 238 }  # Pale cream-green
+		}
+		special_selection = {
+			trigger = {
+				arikuri_coa_kioq_light_trigger = yes
+			}
+			25 = rgb { 197 215 186 }  # Pale sage green
+			20 = rgb { 241 221 223 }  # Pale rose (dawn)
+			20 = rgb { 244 255 238 }  # Pale cream-green
+		}
+		special_selection = {
+			trigger = {
+				arikuri_coa_thramptith_land_trigger = yes
+			}
+			25 = rgb { 215 235 210 }  # Pale forest green (wanderers)
+			20 = rgb { 230 225 215 }  # Pale sand-beige
+			15 = rgb { 245 240 230 }  # Pale wood-cream
+			15 = rgb { 220 240 220 }  # Pale moss-white
+			10 = rgb { 230 220 245 }  # Pale lavender (NEW)
+			10 = rgb { 255 200 220 }  # Bright pink (NEW)
+		}
+		special_selection = {
+			trigger = {
+				arikuri_coa_thramptith_sea_trigger = yes
+			}
+			25 = rgb { 210 230 240 }  # Pale ocean-blue (raiders)
+			20 = rgb { 240 240 235 }  # Pale foam-white
+			15 = rgb { 220 235 245 }  # Pale sea-white
+			15 = rgb { 200 225 235 }  # Pale ice-blue
+			10 = rgb { 230 220 245 }  # Pale lavender (NEW)
+			10 = rgb { 255 200 220 }  # Bright pink (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -1210,12 +1261,10 @@ color_lists = {
 					arikuri_coa_blouck_trigger = yes
 				}
 			}
-			25 = rgb { 240 220 190 }
-			20 = rgb { 220 235 210 }
-			20 = rgb { 230 220 200 }
-			15 = rgb { 215 230 215 }
-			15 = rgb { 235 220 230 }
-			15 = rgb { 245 235 210 }
+			25 = rgb { 240 220 190 }  # Pale leather (tanned)
+			20 = rgb { 220 235 210 }  # Pale woodland green
+			15 = rgb { 230 220 200 }  # Pale hide-tan
+			15 = rgb { 245 240 230 }  # Pale cream (bone/hide)
 		}
 		special_selection = {
 			trigger = {
@@ -1223,12 +1272,14 @@ color_lists = {
 					arikuri_coa_preolyth_trigger = yes
 				}
 			}
-			20 = rgb { 240 220 235 }
-			20 = rgb { 220 230 240 }
-			20 = rgb { 225 240 230 }
-			15 = rgb { 245 235 210 }
-			15 = rgb { 230 235 245 }
-			15 = rgb { 240 230 235 }
+			25 = rgb { 240 220 235 }  # Pale rose (family silk)
+			20 = rgb { 220 230 240 }  # Pale blue (ceremony)
+			15 = rgb { 225 240 230 }  # Pale teal (lineage)
+			15 = rgb { 245 235 210 }  # Pale gold (heirloom)
+			20 = rgb { 250 255 210 }  # Gentle pale yellow
+			15 = rgb { 240 250 220 }  # Pale yellow-green
+			15 = rgb { 225 245 225 }  # Gentle pale green (mint)
+			15 = rgb { 235 250 215 }  # Soft pale lime
 		}
 		special_selection = {
 			trigger = {
@@ -1236,12 +1287,11 @@ color_lists = {
 					arikuri_coa_wusaun_trigger = yes
 				}
 			}
-			25 = rgb { 235 220 245 }
-			25 = rgb { 245 225 230 }
-			20 = rgb { 220 240 240 }
-			15 = rgb { 230 230 250 }
-			15 = rgb { 240 230 235 }
-			15 = rgb { 255 245 240 }
+			20 = rgb { 200 160 240 }  # Saturated light purple
+			15 = rgb { 215 180 250 }  # Bright light violet
+			15 = rgb { 160 240 190 }  # Saturated light green (spring)
+			15 = rgb { 180 250 210 }  # Bright light green (mint)
+			10 = rgb { 220 190 255 }  # Very bright light purple
 		}
 	}
 }

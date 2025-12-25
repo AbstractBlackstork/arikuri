@@ -463,23 +463,40 @@ kioq_mandala = {
 	opinion_of_suzerain_desc = { desc = suzerain_piety_level_desc }
 
 	character_modifier = {
+		# === JUNGLE WARRIOR-PRIESTS ===
+		jungle_development_growth_factor = 0.15       # Jungle mastery
+		jungle_advantage = 5                          # Jungle combat
+		jungle_travel_danger = jungle_medium_danger_reduction  # Jungle navigation
+		
+		# === PROWESS-BASED RESPECT (Strength is virtue) ===
+		character_opinion_from_high_prowess_add = 3   # Respect the strong
+		character_opinion_from_low_prowess_add = -3   # Disdain the weak
+		prowess = 1                                   # Personal prowess
+		prowess_per_piety_level = 0.5                 # Holy warrior scaling
+		
+		# === WARRIOR DEVOTION ===
+		knight_effectiveness_mult = 0.10
+		advantage = 1
+		zealot_levy_contribution_mult = 0.15
+		monthly_piety_gain_mult = 0.15
+		
+		# === RELIGIOUS AUTHORITY ===
 		clergy_opinion = 5
 		zealot_opinion = 15
+		
+		# === BRUTAL THEOCRACY (Penalties) ===
+		popular_opinion = -10                         # Harsh discipline
+		monthly_income_mult = -0.07                   # Military focus
+		diplomatic_range_mult = -0.3                  # Sacred isolation
+		diplomacy = -2                                # Disdain outsiders
+		dread_baseline_add = 10                       # Fear-based order
+		
+		# === ADMINISTRATION ===
 		domain_limit_max = 1
-		popular_opinion = -10
 		monthly_county_control_growth_factor = 0.05
-		knight_effectiveness_mult = 0.10              # +15% knights (warrior devotion)
-    	prowess = 2
-		monthly_income_mult = -0.07
-		advantage = 1
-		diplomatic_range_mult = -0.3
-		diplomacy = -2
-		dread_baseline_add = 10
 		#Vassal Limit Max:
 		#Increased with Mandala Temple Complex up to 30
 		#Further 35 possible from Piety Levels 6-8 for a total of 65
-		zealot_levy_contribution_mult = 0.15
-		monthly_piety_gain_mult = 0.15
 	}
 
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
@@ -668,6 +685,7 @@ livetower_spiritual_mandala = {
 		#Vassal Limit Max:
 		#Base:
 		vassal_limit_max = 2
+		epidemic_resistance = 10
 		#Increased with Mandala Temple Complex up to 30
 		#Further 35 possible from Piety Levels 6-8 for a total of 65
 		zealot_tax_contribution_mult = 0.05
@@ -863,8 +881,8 @@ aigl_chormana_government = {
 
 
 
-# Aigl Writing System Government
-# Testing custom government implementation to fix title frame rendering
+# Aigl Stormlander Government
+# Coastal storm-adapted warriors thriving in harsh weather and difficult terrain
 
 aigl_feudal_government = {
 	government_rules = {
@@ -917,8 +935,8 @@ aigl_feudal_government = {
 	mechanic_type = feudal
 
 
-	# Aigl writing system color (cyan/boat theme)
-	color = hsv{ 0.52 0.75 0.73 }
+	# Aigl writing system color (stormy grey-blue)
+	color = hsv{ 0.55 0.40 0.65 }
 	
 	# Use vanilla feudal realm frame settings
 	realm_mask_offset = { 0.0 0.01 }
@@ -927,7 +945,7 @@ aigl_feudal_government = {
 	
 	character_modifier = {
 		# BONUSES: Naval capabilities (coastal scavengers)
-		embarkation_cost_mult = -0.35              # 35% cheaper embarkation
+		embarkation_cost_mult = -0.45              # 35% cheaper embarkation
 		naval_movement_speed_mult = 0.15           # 15% faster naval movement
 		coastal_sea_travel_danger = -30            # Safer coastal travel
 		sea_travel_danger = -30                    # Safer sea travel
@@ -936,11 +954,22 @@ aigl_feudal_government = {
 		knight_effectiveness_mult = 0.10           # 10% better knights
 		men_at_arms_maintenance = -0.15            # 15% cheaper MAA
 		
+		# BONUSES: Crafty & cunning (scavenger traits)
+		intrigue = 1                               # +1 intrigue (cunning opportunists)
+		prowess = 1                                # +1 prowess (hardy warriors)
+		character_opinion_from_high_prowess_add = 2   # +2 opinion from high-prowess characters
+		character_opinion_from_low_prowess_add = -2   # -2 opinion from low-prowess characters
+		
+		winter_supply_limit = 0.30 
+		# === WETLANDS & STORM-FLOODED TERRAIN (niche combat advantage) ===
+		wetlands_advantage = 1                      # +1 advantage in wetlands (storm flooding)
+		floodplains_advantage = 1                   # +1 advantage in floodplains (storm flooding)
+		taiga_advantage = 1                         # +1 advantage in taiga
 		# BONUSES: Raiding brings income (crafty opportunists)
 		# Note: Raiding enabled via flags - huge economic bonus!
 		
 		# PENALTIES: Internal struggles (hard to manage/grow)
-		domain_limit = -1                          # Smaller domain (need more vassals)                     # Internal conflicts
+		domain_limit = -1                          # Smaller domain (need more vassals)
 		direct_vassal_opinion = -5                 # Direct vassal friction
 		
 		# PENALTIES: Less efficient realm management
@@ -989,7 +1018,7 @@ blouck_tribal = {
 
 
 	supply_limit_mult_for_others = -0.5
-	primary_holding = tribal_holding
+	primary_holding = castle_holding
 	required_county_holdings = { castle_holding }
 
 	valid_holdings = { castle_holding temple_citadel_holding }
@@ -1010,10 +1039,28 @@ blouck_tribal = {
 		clan_government_vassal_opinion = -20
 		republic_government_vassal_opinion = -20
 
-		character_travel_safety = 10
-
-		ai_war_chance = 0.25
-		monthly_prestige = 0.2
+		# === RITUAL CANNIBALISM & TROPHIES (dark spirituality) ===
+		dread_baseline_add = 15                       # +15 dread (feared cannibals)
+		dread_decay_mult = -0.20                      # -20% dread decay (reputation persists)
+		monthly_piety_gain_mult = 0.10                # +10% piety (ritual practices)
+		
+		# === CRANIAL TROPHY COLLECTION (warrior culture) ===
+		prowess = 2                                   # +2 prowess (trophy hunters)
+		prowess_from_traits_mult = 0.10               # +10% prowess from traits
+		knight_effectiveness_mult = 0.10              # +10% knights (elite warriors)
+		
+		# === RITUALISTIC WARFARE (aggressive expansion) ===
+		ai_war_chance = 0.40                          # +40% war chance (trophy seeking)
+		hostile_scheme_power_mult = 0.15              # +15% hostile schemes (ritualistic)
+		
+		# === FEAR & INTIMIDATION (cranial display) ===
+		enemy_hostile_scheme_success_chance_add = -5  # -5% enemy schemes (intimidation)
+		monthly_prestige_gain_mult = 0.10             # +10% prestige (feared reputation)
+		
+		# === PENALTIES (dark practices stigma) ===
+		different_faith_opinion = -10                 # -10 different faith (cannibalism horror)
+		popular_opinion = -10                         # -10 popular opinion (dark practices)
+		diplomacy = -2                                # -2 diplomacy (feared, not liked)
 	}
 
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
@@ -1073,7 +1120,7 @@ broulqen_bureaucracy = {
 		heritage_cccroughcut_seed
 	}
 
-	vassal_contract_group = feudal_vassal
+	vassal_contract_group = admin_vassal
 
 	ai = {
 		use_legends = yes
@@ -1098,20 +1145,32 @@ broulqen_bureaucracy = {
 	realm_mask_scale = { 1 1 }
 
 	character_modifier = {
-		# ADMINISTRATIVE CONTROL (Byzantine theme system)
+		# === ADMINISTRATIVE CONTROL (Byzantine theme system) ===
 		monthly_county_control_growth_factor = 0.15    # +15% control (theme governors)
+		vassal_limit = 60                              # +60 vassals (bureaucratic efficiency)
 		stewardship = 2                                # +2 administrative expertise
 		
-		# MILITARY-ADMINISTRATIVE (theme armies)
+		# === MILITARY-ADMINISTRATIVE (theme armies) ===
 		knight_effectiveness_mult = 0.10               # +10% knights (theme military)
 		levy_reinforcement_rate = 0.10                 # +10% levy recovery (organized)
+		levy_size = -0.35                              # -35% levies (professional focus)
 		
-		# STABILITY (bureaucratic continuity)
+		# === STABILITY (bureaucratic continuity) ===
 		short_reign_duration_mult = -0.15              # -15% short reign penalty
 		
-		# PENALTIES (balanced trade-offs)
-		development_growth_factor = -0.05              # -5% development (military focus)
-		men_at_arms_maintenance = 0.10                 # +10% MAA maintenance (professional themes)
+		# === CROSS-GOVERNMENT PENALTIES (admin vs feudal/clan) ===
+		feudal_government_tax_contribution_mult = -0.30
+		feudal_government_levy_contribution_mult = -0.30
+		clan_government_tax_contribution_mult = -0.30
+		clan_government_levy_contribution_mult = -0.30
+		
+		# === EFFICIENCY (bureaucratic tax collection) ===
+		domain_tax_mult = 0.05                         # +5% domain tax (efficient collection)
+		
+		# === PENALTIES (bureaucratic rigidity) ===
+		diplomatic_range_mult = -0.20                  # -20% range (centralized system)
+		popular_opinion = -5                           # -5 opinion (bureaucratic oversight)
+		men_at_arms_maintenance = 0.08                 # +8% MAA maintenance (professional themes)
 	}
 }
 
@@ -1593,18 +1652,27 @@ eniol_oppressive = {
 		eniol_military_government_levy_contribution_mult = -0.5
 		eniol_diplomatic_government_tax_contribution_mult = -0.5
 		eniol_diplomatic_government_levy_contribution_mult = -0.5
-		garrison_size = -0.5
-		# VASSALS
+		
+		# CONTROL & LAW ENFORCEMENT (pursuit of order)
+		monthly_county_control_growth_factor = 0.10   # Enforce laws strictly
+		dread_per_tyranny_add = 0.15                  # Tyranny → authority
+		garrison_size = -0.5                          # Manor/estate focus
+		
+		# VASSALS & ADMINISTRATION
 		vassal_limit = 50
+		
 		# KNIGHTS
 		knight_effectiveness_mult = 0.1
 		knight_limit = 2
+		
 		# DOMAIN
-		domain_limit_max = 2 # Raised further by manor
+		domain_limit_max = 2                          # Raised further by manor
+		
 		# SAMURAI
 		archer_cavalry_recruitment_cost_mult = -0.10
 		heavy_infantry_recruitment_cost_mult = -0.10
-		# FACTION: Mandate (Conservative tradition)
+		
+		# FACTION: Mandate (Conservative tradition - glory & prestige)
 		ai_war_chance = 0.10
 		intrigue = 1
 		monthly_prestige_gain_mult = 0.10
@@ -1760,7 +1828,6 @@ inner_sea_raiders = {
 	}
 
 	royal_court = yes
-	government_type = wanua
 	
 	primary_holding = castle_holding
 	valid_holdings = { temple_citadel_holding }
@@ -1797,7 +1864,7 @@ inner_sea_raiders = {
 		government_enables_naval_raiding
 	}
 
-	mechanic_type = wanua
+	mechanic_type = inner_sea_raiders
 	is_mechanic_type_default = yes
 
 	color = hsv{ 0.55 0.60 0.70 }  # Sea blue (naval raiders)
@@ -1832,7 +1899,6 @@ inner_sea_raiders = {
 	}
 
 	can_get_government = {
-		has_dlc_feature = trails_and_treasures_dlc
 		# Religion check matching preferred_religions
 		OR = {
 			religion = religion:maturethanks
@@ -1908,28 +1974,41 @@ malachite_mountain_empire = {
 	realm_mask_scale = { 1 1 }
 
 	character_modifier = {
-		# DEFENSIVE (mountain fortresses)
-		fort_level = 1                               # +1 fort level
-		defender_advantage = 5                        # +5 defender advantage
-		garrison_size = 0.15                         # +15% garrison
+		# === DEFENSIVE (mountain fortresses) ===
+		fort_level = 1                                    # +1 fort level
+		defender_advantage = 5                            # +5 defender advantage
+		garrison_size = 0.15                              # +15% garrison
 		
-		# TERRAIN (mountains and hills specialization)
-		mountains_advantage = 10                      # +10 mountains advantage
-		mountains_travel_danger = -15                 # -15% mountain danger
-		hills_advantage = 5                           # +5 hills advantage
+		# === CAVERN ECONOMY (protected living in mountains/hills) ===
+		mountains_development_growth_factor = 0.15        # +15% development in mountains
+		hills_development_growth_factor = 0.10            # +10% development in hills
+		mountains_tax_mult = 0.10                         # +10% tax in mountains
+		hills_tax_mult = 0.05                             # +5% tax in hills
 		
-		# INTRIGUE (cunning culture)
-		intrigue = 2                                  # +2 intrigue
-		hostile_scheme_power_mult = 0.10             # +10% hostile schemes
+		# === CAVERN PROTECTION (weather-safe complexes) ===
+		winter_supply_limit = 0.20                        # +20% winter supply (protected)
 		
-		# DEVELOPMENT (ancient civilization)
-		monthly_county_control_growth_factor = 0.10   # +10% control
+		# === TERRAIN MASTERY (mountains and hills specialization) ===
+		mountains_advantage = 4                         # +10 mountains advantage
+		mountains_travel_danger = -15                     # -15% mountain danger
+		hills_advantage = 2                              # +5 hills advantage
 		
-		# PENALTIES (balanced trade-offs)
-		army_movement_speed_mult = -0.10              # -10% movement (mountain terrain)
-		vassal_levy_contribution_mult = -0.10         # -10% vassal levies (defensive posture)
-		diplomatic_range_mult = -0.10                 # -10% diplomatic range (isolationist)
-		holding_build_gold_cost = -0.1             
+		# === CAVERN EXPLORATION (managing complex systems) ===
+		stewardship = 1                                   # +1 stewardship (cavern management)
+		learning = 1                                      # +1 learning (exploration/mapping)
+		diplomacy = -2    
+		# === INTRIGUE (cunning culture) ===
+		intrigue = 1                                      # +1 intrigue (reduced from 2)
+		hostile_scheme_power_mult = 0.10                  # +10% hostile schemes
+		
+		# === STABILITY (ancient civilization) ===
+		monthly_county_control_growth_factor = 0.10       # +10% control
+		
+		# === PENALTIES (balanced trade-offs) ===
+		levy_size = -0.15                                 # -15% levies (defensive posture)
+		army_movement_speed_mult = -0.15                  # -15% movement (mountain terrain)
+		diplomatic_range_mult = -0.15                     # -15% diplomatic range (isolationist)
+		popular_opinion = -5                              # -5 opinion (underground living)
 	}
 }
 
@@ -1942,121 +2021,117 @@ malachite_mountain_empire = {
 # Features: Playable mobile mercenaries with nomadic lifestyle
 # Banner: Mercenary or custom banner
 
-mercenary_nomad_hybrid = {
-	government_rules = {
-		obedience = yes
-		create_cadet_branches = yes
-		rulers_should_have_dynasty = yes
-		dynasty_named_realms = no
-		landless_playable = yes
-		legitimacy = yes
-		use_as_base_on_rank_up = yes
-		use_as_base_on_landed = yes
-		uses_culture_and_house_head_named_realms = yes
-		sticky_government = yes
-		subject_men_at_arms = yes
-		no_capital_movement_cooldown = yes
-	}
+# mercenary_nomad_hybrid = {
+# 	government_rules = {
+# 		obedience = yes
+# 		create_cadet_branches = yes
+# 		rulers_should_have_dynasty = yes
+# 		dynasty_named_realms = no
+# 		landless_playable = yes
+# 		legitimacy = yes
+# 		use_as_base_on_rank_up = yes
+# 		use_as_base_on_landed = yes
+# 		uses_culture_and_house_head_named_realms = yes
+# 		sticky_government = yes
+# 		subject_men_at_arms = yes
+# 		no_capital_movement_cooldown = yes
+# 	}
 
-	royal_court = yes
+# 	royal_court = yes
 
-	domicile_type = yurt  # Nomadic camps
+# 	domicile_type = yurt  # Nomadic camps
 
-	fallback = 2
+# 	fallback = 2
 
-	primary_holding = nomad_holding
-	valid_holdings = { castle_holding tribal_holding temple_citadel_holding }
-	required_county_holdings = { nomad_holding }
+# 	primary_holding = nomad_holding
+# 	valid_holdings = { castle_holding tribal_holding temple_citadel_holding }
+# 	required_county_holdings = { nomad_holding }
 
-	generated_character_template = nomadic_chieftain_character
+# 	generated_character_template = nomadic_chieftain_character
 
-	max_dread = 150
+# 	max_dread = 150
 
-	# Two-factor binding (religion + heritages)
-	# Broulqen: readyline (mercenaries) vs squigglyaction/poorbreast/welldocumenteddrawer (bureaucracy)
-	# Floicht: stainedend (mercenaries) vs livetower (mandala) vs directball (SE clan)
-	preferred_religions = { readyline stainedend }
+# 	# Two-factor binding (religion + heritages)
+# 	# Broulqen: readyline (mercenaries) vs squigglyaction/poorbreast/welldocumenteddrawer (bureaucracy)
+# 	# Floicht: stainedend (mercenaries) vs livetower (mandala) vs directball (SE clan)
+# 	preferred_religions = { readyline stainedend }
 	
-	primary_heritages = {
-		heritage_cccintentionalbackground_seed		# Broulqen (readyline only)
-		heritage_cccweeklynurse_seed				# Floicht (stainedend only)
-	}
+# 	primary_heritages = {
+# 		heritage_cccintentionalbackground_seed		# Broulqen (readyline only)
+# 		heritage_cccweeklynurse_seed				# Floicht (stainedend only)
+# 	}
 
-	vassal_contract_group = nomad_vassal
+# 	vassal_contract_group = nomad_vassal
 
-	ai = {
-		use_legends = yes
-	}
+# 	ai = {
+# 		use_legends = yes
+# 	}
 
-	character_modifier = {
-		# MERCENARY (professional warriors for hire)
-		mercenary_hire_cost_mult = -0.25             # -25% hire cost
+# 	character_modifier = {
+# 		# MERCENARY (professional warriors for hire)
+# 		mercenary_hire_cost_mult = -0.25             # -25% hire cost
 		
-		# MOBILITY (rapid deployment)
-		movement_speed = 0.15                         # +15% movement
-		army_movement_speed_mult = 0.10               # +10% army movement
+# 		# MOBILITY (rapid deployment)
+# 		movement_speed = 0.15                         # +15% movement
+# 		army_movement_speed_mult = 0.10               # +10% army movement
 		
-		# PROFESSIONAL WARRIORS
-		knight_effectiveness_mult = 0.12              # +12% knights
-		men_at_arms_maintenance = -0.20               # -20% MAA maintenance
+# 		# PROFESSIONAL WARRIORS
+# 		knight_effectiveness_mult = 0.12              # +12% knights
+# 		men_at_arms_maintenance = -0.20               # -20% MAA maintenance
 		
-		# CAVALRY (mobile warfare)
-		heavy_cavalry_toughness_mult = 0.08          # +8% heavy cavalry
-		light_cavalry_toughness_mult = 0.08          # +8% light cavalry
+# 		# CAVALRY (mobile warfare)
+# 		heavy_cavalry_toughness_mult = 0.08          # +8% heavy cavalry
+# 		light_cavalry_toughness_mult = 0.08          # +8% light cavalry
 		
-		# NOMADIC LIFESTYLE (base nomad features)
-		ignore_negative_opinion_of_culture = yes
-		county_fertility_decline_add = -15
+# 		# NOMADIC LIFESTYLE (base nomad features)
+# 		ignore_negative_opinion_of_culture = yes
+# 		county_fertility_decline_add = -15
 		
-		# PENALTIES (balanced trade-offs)
-		levy_size = -0.25                            # -25% levies
-		domain_limit = -1                             # -1 domain
-		vassal_levy_contribution_mult = -0.20         # -20% vassal levies
-		short_reign_duration_mult = 0.15              # +15% short reign
-		development_growth_factor = -0.15             # -15% development
-		holding_build_gold_cost = 0.25                # +25% building cost
-	}
+# 		# PENALTIES (balanced trade-offs)
+# 		levy_size = -0.25                            # -25% levies
+# 		domain_limit = -1                             # -1 domain
+# 		vassal_levy_contribution_mult = -0.20         # -20% vassal levies
+# 		short_reign_duration_mult = 0.15              # +15% short reign
+# 		development_growth_factor = -0.15             # -15% development
+# 		holding_build_gold_cost = 0.25                # +25% building cost
+# 	}
 
-	can_get_government = {
-		has_ep3_dlc_trigger = yes
-		# Religion check matching preferred_religions
-		OR = {
-			religion = religion:readyline
-			religion = religion:stainedend
-		}
-	}
+# 	can_get_government = {
+# 		has_ep3_dlc_trigger = yes
+# 		# Religion check matching preferred_religions
+# 		OR = {
+# 			religion = religion:readyline
+# 			religion = religion:stainedend
+# 		}
+# 	}
 
-	flags = {
-		government_is_nomadic
-		government_is_mercenary
-		government_has_herd
-		government_can_raid_rule
-		government_can_use_tributary_men_at_arms
-		can_start_war_with_raised_troops
-		ignores_faith_marriage_penalties
-		no_hostile_attrition_in_steppe
-		movement_speed_from_government
-		land_raiding_movement_speed_from_government
-		can_raze_holdings
-		government_uses_domicile_but_not_adventurer
-	}
+# 	flags = {
+# 		government_is_nomadic
+# 		government_is_mercenary
+# 		government_has_herd
+# 		government_can_raid_rule
+# 		government_can_use_tributary_men_at_arms
+# 		can_start_war_with_raised_troops
+# 		ignores_faith_marriage_penalties
+# 		no_hostile_attrition_in_steppe
+# 		movement_speed_from_government
+# 		land_raiding_movement_speed_from_government
+# 		can_raze_holdings
+# 		government_uses_domicile_but_not_adventurer
+# 	}
 
-	mechanic_type = nomad
-	is_mechanic_type_default = yes
+# 	mechanic_type = nomad
+# 	is_mechanic_type_default = yes
 
-	color = hsv{ 0.10 0.55 0.70 }  # Orange-brown (mercenary camps)
+# 	color = hsv{ 0.10 0.55 0.70 }  # Orange-brown (mercenary camps)
 	
-	# Use vanilla nomad positioning
-	realm_mask_offset = { 0.0 0.12 }
-	realm_mask_scale = { 0.8 0.8 }
-}
+# 	# Use vanilla nomad positioning
+# 	realm_mask_offset = { 0.0 0.12 }
+# 	realm_mask_scale = { 0.8 0.8 }
+# }
 
 
 
-# Paladinical Hosts Government
-# Base: Clan Government (Vanilla) - will add Holy Order mix later for playability
-# Used by: Aelwrid (hairyload, weirdsort), Queekwa (astonishingsteak)
-# Features: Knight orders as family groups, prestige-based brotherhood
 
 paladinical_hosts = {
 	government_rules = {
@@ -2064,7 +2139,6 @@ paladinical_hosts = {
 		rulers_should_have_dynasty = yes
 		legitimacy = yes
 		dynasty_named_realms = yes
-		always_use_patronym = yes
 	}
 
 	royal_court = any
@@ -2079,11 +2153,13 @@ paladinical_hosts = {
 		always = yes
 	}
 
-	# Two-factor binding for Aelwrid and Queekwa populations
+	# Two-factor binding (Aelwrid + Queekwa populations)
 	preferred_religions = { hairyload weirdsort astonishingsteak }
 	primary_heritages = {
+		# Aelwrid heritages
 		heritage_cccsociablemud_seed
 		heritage_ccclastingjacket_seed
+		# Queekwa heritages
 		heritage_cccimpurefinal_seed
 		heritage_cccrudemany_seed
 		heritage_cccpessimisticsteak_seed
@@ -2128,24 +2204,33 @@ paladinical_hosts = {
 	}
 
 	character_modifier = {
-		# KNIGHTS (holy warrior focus)
+		# === KNIGHT CIRCLES (Core Identity) ===
 		knight_effectiveness_mult = 0.15             # +15% knight effectiveness
 		knight_limit = 2                              # +2 knights
-		prowess = 2                                   # +2 prowess
+		monthly_prestige_gain_per_knight_mult = 0.02  # +2% prestige per knight
 		
-		# PRESTIGE & PIETY (honor and virtue)
-		monthly_prestige_gain_mult = 0.10            # +10% prestige
-		monthly_piety_gain_mult = 0.10               # +10% piety
+		# === PROWESS RESPECT (Warrior Meritocracy) ===
+		character_opinion_from_high_prowess_add = 3   # Respect strong warriors
+		prowess = 2                                   # +2 personal prowess
 		
-		# BROTHERHOOD (kinship bonds)
-		same_dynasty_opinion = 10                     # Brotherhood bonds
-		close_relative_opinion = 15                   # Knight-brother bonds
+		# === HOLY WARRIORS (Piety-Martial Synergy) ===
+		martial_per_piety_level = 0.5                 # +0.5 martial per piety level
+		monthly_piety_gain_mult = 0.10               # +10% piety (religious warriors)
+		
+		# === BENEFICIAL RULE (Not Oppressive) ===
+		popular_opinion = 5                           # +5 popular opinion
+		monthly_county_control_growth_factor = 0.05   # +5% control (organized)
+		
+		# === BROTHERHOOD BONDS ===
+		same_dynasty_opinion = 10                     # Knight brotherhood
+		close_relative_opinion = 10                   # Knight-brothers
 		same_faith_opinion = 5                        # Religious unity
-		men_at_arms_maintenance = -0.1
-		# PENALTIES (balanced trade-offs)
-		levy_size = -0.15                            # -15% levies (elite focus)
-		domain_limit = -1                             # -1 domain
-		court_grandeur_base_value = -2                # -2 grandeur (martial simplicity)
+		
+		# === PENALTIES (elite focus trade-offs) ===
+		levy_size = -0.15                            # -15% levies (elite knights > mass armies)
+		domain_limit = -1                             # -1 domain (clan structure)
+		domain_tax_mult = -0.05                       # -5% domain tax (military focus > economy)
+		diplomatic_range_mult = -0.30                 # -30% diplomatic range (insular warriors)
 	}
 
 	flags = {
@@ -2157,7 +2242,7 @@ paladinical_hosts = {
 		government_uses_domain_limit
 	}
 
-	mechanic_type = paladinical
+	mechanic_type = paladinical_hosts
 	is_mechanic_type_default = yes
 
 	color = hsv{ 0.05 0.60 0.75 }  # Reddish (martial/blood brotherhood)
@@ -2166,7 +2251,6 @@ paladinical_hosts = {
 	realm_mask_offset = { 0.0 0.03 }
 	realm_mask_scale = { 1 1 }
 }
-
 
 
 

@@ -1,4 +1,4 @@
-cccluminousshelter = {
+﻿cccluminousshelter = {
 	color = { 0.90 0.30 0.75 }
 	ethos = ethos_communal
 	language = language_wusaun
@@ -10,7 +10,7 @@ cccluminousshelter = {
 		tradition_strength_in_numbers
 	}
 	name_list = name_list_cccluminousshelter
-	coa_gfx = { east_african_coa_gfx }
+	coa_gfx = { wusaun_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
@@ -103,7 +103,7 @@ cccfrillylawyer = {
 	ethos = ethos_bureaucratic
 	language = language_gleuncti
 	heritage = heritage_cccrowdystudy_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_equitable
 		tradition_martial_admiration
@@ -132,7 +132,7 @@ cccwindingtomorrow = {
 	name_list = name_list_cccwindingtomorrow
 	coa_gfx = { aiexqelt_coa_gfx  }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwindingtomorrow_seed_eth
@@ -155,7 +155,7 @@ cccpartialadvice = {
 	name_list = name_list_cccpartialadvice
 	coa_gfx = { aiexqelt_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwindingtomorrow_seed_eth
@@ -179,7 +179,7 @@ cccthornyinformation = {
 	name_list = name_list_cccthornyinformation
 	coa_gfx = { aiexqelt_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwindingtomorrow_seed_eth
@@ -203,7 +203,7 @@ ccclameactivity = {
 	name_list = name_list_ccclameactivity
 	coa_gfx = { aiexqelt_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { iranian_clothing_gfx  }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwindingtomorrow_seed_eth
@@ -227,7 +227,7 @@ cccfoolhardystep = {
 	name_list = name_list_cccfoolhardystep
 	coa_gfx = { aiexqelt_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwindingtomorrow_seed_eth
@@ -389,9 +389,9 @@ cccenvioustale = {
 		tradition_hit_and_run
 	}
 	name_list = name_list_cccenvioustale
-	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccenvioustale_seed_eth
@@ -414,7 +414,7 @@ cccsugarybreath = {
 	name_list = name_list_cccsugarybreath
 	coa_gfx = { german_group_coa_gfx western_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccenvioustale_seed_eth
@@ -429,14 +429,14 @@ cccpersonaldrive = {
 	ethos = ethos_bellicose
 	language = language_xacra
 	heritage = heritage_cccextraneouslight_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_only_the_strong
 		tradition_frugal_armorsmiths
 		tradition_stand_and_fight
 	}
 	name_list = name_list_cccpersonaldrive
-	coa_gfx = { berber_group_coa_gfx }
+	coa_gfx = { xacra_coa_gfx }
 	building_gfx = { steppe_building_gfx }
 	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
@@ -456,9 +456,9 @@ ccccrookednail = {
 		tradition_sacred_mountains
 	}
 	name_list = name_list_ccccrookednail
-	coa_gfx = { french_coa_gfx frankish_group_coa_gfx western_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccccrookednail_seed_eth
@@ -469,7 +469,7 @@ cccthreadbarevast = {
 	ethos = ethos_communal
 	language = language_ogilek
 	heritage = heritage_ccccrookednail_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_mountain_homes
 		tradition_hereditary_hierarchy
@@ -482,7 +482,7 @@ cccthreadbarevast = {
 	name_list = name_list_cccthreadbarevast
 	coa_gfx = { french_coa_gfx frankish_group_coa_gfx western_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccccrookednail_seed_eth
@@ -500,9 +500,9 @@ cccbothalternative = {
 		tradition_sacred_mountains
 	}
 	name_list = name_list_cccbothalternative
-	coa_gfx = { french_coa_gfx frankish_group_coa_gfx western_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccccrookednail_seed_eth
@@ -520,9 +520,9 @@ ccctidyintention = {
 		tradition_sacred_mountains
 	}
 	name_list = name_list_ccctidyintention
-	coa_gfx = { french_coa_gfx frankish_group_coa_gfx western_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccccrookednail_seed_eth
@@ -540,9 +540,9 @@ cccunnaturalestablishment = {
 		tradition_sacred_mountains
 	}
 	name_list = name_list_cccunnaturalestablishment
-	coa_gfx = { french_coa_gfx frankish_group_coa_gfx western_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccccrookednail_seed_eth
@@ -560,9 +560,9 @@ cccvivaciouswrap = {
 		tradition_castle_keepers
 	}
 	name_list = name_list_cccvivaciouswrap
-	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccvivaciouswrap_seed_eth
@@ -583,9 +583,9 @@ cccexperttonight = {
 		tradition_castle_keepers
 	}
 	name_list = name_list_cccexperttonight
-	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccvivaciouswrap_seed_eth
@@ -607,9 +607,9 @@ cccbutterylaw = {
 		tradition_castle_keepers
 	}
 	name_list = name_list_cccbutterylaw
-	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccvivaciouswrap_seed_eth
@@ -631,9 +631,9 @@ cccpolitespite = {
 		tradition_castle_keepers
 	}
 	name_list = name_list_cccpolitespite
-	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccvivaciouswrap_seed_eth
@@ -655,9 +655,9 @@ cccbeautifulgreat = {
 		tradition_hard_working
 	}
 	name_list = name_list_cccbeautifulgreat
-	coa_gfx = { chinese_group_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbeautifulgreat_seed_eth
@@ -671,16 +671,16 @@ cccdetailedassociate = {
 	ethos = ethos_courtly
 	language = language_qieulbaia
 	heritage = heritage_cccbeautifulgreat_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_steppe_tolerance
 		tradition_reverence_for_veterans
 		tradition_hard_working
 	}
 	name_list = name_list_cccdetailedassociate
-	coa_gfx = { chinese_group_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbeautifulgreat_seed_eth
@@ -695,16 +695,16 @@ cccpointedpound = {
 	ethos = ethos_courtly
 	language = language_qieulbaia
 	heritage = heritage_cccbeautifulgreat_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_steppe_tolerance
 		tradition_reverence_for_veterans
 		tradition_hard_working
 	}
 	name_list = name_list_cccpointedpound
-	coa_gfx = { chinese_group_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbeautifulgreat_seed_eth
@@ -726,9 +726,9 @@ cccdrybread = {
 		tradition_hard_working
 	}
 	name_list = name_list_cccdrybread
-	coa_gfx = { chinese_group_coa_gfx }
+	coa_gfx = { floicht_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbeautifulgreat_seed_eth
@@ -743,16 +743,16 @@ cccunnaturalcourage = {
 	ethos = ethos_courtly
 	language = language_qieulbaia
 	heritage = heritage_cccbeautifulgreat_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_steppe_tolerance
 		tradition_reverence_for_veterans
 		tradition_hard_working
 	}
 	name_list = name_list_cccunnaturalcourage
-	coa_gfx = { chinese_group_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbeautifulgreat_seed_eth
@@ -774,9 +774,9 @@ cccgraciouscommittee = {
 		tradition_fervent_temple_builders
 	}
 	name_list = name_list_cccgraciouscommittee
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
@@ -797,9 +797,9 @@ ccctidycollection = {
 		tradition_fervent_temple_builders
 	}
 	name_list = name_list_ccctidycollection
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
@@ -822,9 +822,9 @@ cccfamiliarschedule = {
 		tradition_fervent_temple_builders
 	}
 	name_list = name_list_cccfamiliarschedule
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
@@ -846,9 +846,9 @@ cccforkedsense = {
 		tradition_fervent_temple_builders
 	}
 	name_list = name_list_cccforkedsense
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
@@ -870,9 +870,9 @@ cccsmoothabroad = {
 		tradition_fervent_temple_builders
 	}
 	name_list = name_list_cccsmoothabroad
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
@@ -894,9 +894,9 @@ cccoffensivedeath = {
 		tradition_fervent_temple_builders
 	}
 	name_list = name_list_cccoffensivedeath
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
@@ -918,9 +918,9 @@ cccfabulousinsect = {
 		tradition_fervent_temple_builders
 	}
 	name_list = name_list_cccfabulousinsect
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgraciouscommittee_seed_eth
@@ -942,9 +942,9 @@ cccmintytie = {
 		tradition_strength_in_numbers
 	}
 	name_list = name_list_cccmintytie
-	coa_gfx = { breton_coa_gfx western_coa_gfx }
+	coa_gfx = { blouck_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccmintytie_seed_eth
@@ -955,16 +955,16 @@ ccctrivialmaster = {
 	ethos = ethos_spiritual
 	language = language_blouck
 	heritage = heritage_cccmintytie_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_staunch_traditionalists
 		tradition_hunters
 		tradition_strength_in_numbers
 	}
 	name_list = name_list_ccctrivialmaster
-	coa_gfx = { breton_coa_gfx western_coa_gfx }
+	coa_gfx = { blouck_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccmintytie_seed_eth
@@ -982,9 +982,9 @@ ccclawfulroom = {
 		tradition_strength_in_numbers
 	}
 	name_list = name_list_ccclawfulroom
-	coa_gfx = { breton_coa_gfx western_coa_gfx }
+	coa_gfx = { blouck_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccmintytie_seed_eth
@@ -1006,7 +1006,7 @@ cccinterestingfailure = {
 		tradition_gardening
 	}
 	name_list = name_list_cccinterestingfailure
-	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qormaic_coa_gfx }
 	building_gfx = { indian_building_gfx }
 	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
@@ -1027,7 +1027,7 @@ cccunrealisticsort = {
 		tradition_gardening
 	}
 	name_list = name_list_cccunrealisticsort
-	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qormaic_coa_gfx }
 	building_gfx = { indian_building_gfx }
 	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
@@ -1041,14 +1041,14 @@ cccmountainoussalt = {
 	ethos = ethos_bureaucratic
 	language = language_qormaic
 	heritage = heritage_cccinterestingfailure_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_reverence_for_veterans
 		tradition_adaptive_skirmishing
 		tradition_gardening
 	}
 	name_list = name_list_cccmountainoussalt
-	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qormaic_coa_gfx }
 	building_gfx = { indian_building_gfx }
 	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
@@ -1069,7 +1069,7 @@ cccexcitablelawyer = {
 		tradition_gardening
 	}
 	name_list = name_list_cccexcitablelawyer
-	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qormaic_coa_gfx }
 	building_gfx = { indian_building_gfx }
 	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
@@ -1090,7 +1090,7 @@ ccclegalteaching = {
 		tradition_gardening
 	}
 	name_list = name_list_ccclegalteaching
-	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qormaic_coa_gfx }
 	building_gfx = { indian_building_gfx }
 	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
@@ -1111,9 +1111,9 @@ cccknowledgeableparticular = {
 		tradition_modest
 	}
 	name_list = name_list_cccknowledgeableparticular
-	coa_gfx = { tibetan_group_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccknowledgeableparticular_seed_eth
@@ -1126,16 +1126,16 @@ cccgoldenhalf = {
 	ethos = ethos_egalitarian
 	language = language_broulqen
 	heritage = heritage_cccknowledgeableparticular_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_mendicant_mystics
 		tradition_welcoming
 		tradition_modest
 	}
 	name_list = name_list_cccgoldenhalf
-	coa_gfx = { tibetan_group_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccknowledgeableparticular_seed_eth
@@ -1148,16 +1148,16 @@ cccwarmgather = {
 	ethos = ethos_egalitarian
 	language = language_broulqen
 	heritage = heritage_cccknowledgeableparticular_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_mendicant_mystics
 		tradition_welcoming
 		tradition_modest
 	}
 	name_list = name_list_cccwarmgather
-	coa_gfx = { tibetan_group_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccknowledgeableparticular_seed_eth
@@ -1177,9 +1177,9 @@ ccchealthyweakness = {
 		tradition_seafaring
 	}
 	name_list = name_list_ccchealthyweakness
-	coa_gfx = { swedish_coa_gfx western_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccchealthyweakness_seed_eth
@@ -1190,16 +1190,16 @@ ccccoldrip = {
 	ethos = ethos_communal
 	language = language_ogilek
 	heritage = heritage_ccchealthyweakness_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_maritime_mercantilism
 		tradition_faith_bound
 		tradition_seafaring
 	}
 	name_list = name_list_ccccoldrip
-	coa_gfx = { swedish_coa_gfx western_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccchealthyweakness_seed_eth
@@ -1221,9 +1221,9 @@ cccawfullight = {
 		tradition_seafaring
 	}
 	name_list = name_list_cccawfullight
-	coa_gfx = { swedish_coa_gfx western_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccchealthyweakness_seed_eth
@@ -1245,9 +1245,9 @@ cccupsetextension = {
 		tradition_family_entrepreneurship
 	}
 	name_list = name_list_cccupsetextension
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccupsetextension_seed_eth
@@ -1268,9 +1268,9 @@ ccclivelyregular = {
 		tradition_family_entrepreneurship
 	}
 	name_list = name_list_ccclivelyregular
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccupsetextension_seed_eth
@@ -1292,9 +1292,9 @@ cccprestigiousstudio = {
 		tradition_family_entrepreneurship
 	}
 	name_list = name_list_cccprestigiousstudio
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccupsetextension_seed_eth
@@ -1316,9 +1316,9 @@ cccwoozywest = {
 		tradition_family_entrepreneurship
 	}
 	name_list = name_list_cccwoozywest
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccupsetextension_seed_eth
@@ -1340,9 +1340,9 @@ cccalloperation = {
 		tradition_family_entrepreneurship
 	}
 	name_list = name_list_cccalloperation
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccupsetextension_seed_eth
@@ -1364,7 +1364,7 @@ cccleafyofficial = {
 		tradition_warriors_by_merit
 	}
 	name_list = name_list_cccleafyofficial
-	coa_gfx = { chinese_group_coa_gfx }
+	coa_gfx = { ioddrik_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
@@ -1388,7 +1388,7 @@ cccjovialatmosphere = {
 	house_coa_mask_offset = { 0.0 0.0 }
 	house_coa_mask_scale = { 0.9 0.9 }
 	name_list = name_list_cccjovialatmosphere
-	coa_gfx = { chinese_group_coa_gfx }
+	coa_gfx = { ioddrik_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
@@ -1408,9 +1408,9 @@ cccsmugbreath = {
 		tradition_isolationist
 	}
 	name_list = name_list_cccsmugbreath
-	coa_gfx = { breton_coa_gfx western_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsmugbreath_seed_eth
@@ -1430,9 +1430,9 @@ cccwronghousing = {
 		tradition_isolationist
 	}
 	name_list = name_list_cccwronghousing
-	coa_gfx = { breton_coa_gfx western_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsmugbreath_seed_eth
@@ -1450,9 +1450,9 @@ cccstrangecake = {
 		tradition_isolationist
 	}
 	name_list = name_list_cccstrangecake
-	coa_gfx = { breton_coa_gfx western_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsmugbreath_seed_eth
@@ -1470,9 +1470,9 @@ cccselfreliantliterature = {
 		tradition_isolationist
 	}
 	name_list = name_list_cccselfreliantliterature
-	coa_gfx = { breton_coa_gfx western_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsmugbreath_seed_eth
@@ -1490,9 +1490,9 @@ cccvaliddirector = {
 		tradition_isolationist
 	}
 	name_list = name_list_cccvaliddirector
-	coa_gfx = { breton_coa_gfx western_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsmugbreath_seed_eth
@@ -1512,9 +1512,9 @@ cccliquidrefrigerator = {
 		tradition_staunch_traditionalists
 	}
 	name_list = name_list_cccliquidrefrigerator
-	coa_gfx = { berber_group_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccccorruptnegotiation_seed_eth
@@ -1532,9 +1532,9 @@ cccconcernedload = {
 		tradition_staunch_traditionalists
 	}
 	name_list = name_list_cccconcernedload
-	coa_gfx = { berber_group_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccccorruptnegotiation_seed_eth
@@ -1554,7 +1554,7 @@ cccsomeworking = {
 	name_list = name_list_cccsomeworking
 	coa_gfx = { scottish_coa_gfx western_coa_gfx }
 	building_gfx = { iberian_building_gfx }
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccctroubledsafety_seed_eth
@@ -1572,9 +1572,9 @@ ccctatteredbattle = {
 		tradition_seafaring
 	}
 	name_list = name_list_ccctatteredbattle
-	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccctatteredbattle_seed_eth
@@ -1588,16 +1588,16 @@ cccwryresolution = {
 	ethos = ethos_courtly
 	language = language_preolyth
 	heritage = heritage_ccctatteredbattle_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_storytellers
 		tradition_charitable
 		tradition_seafaring
 	}
 	name_list = name_list_cccwryresolution
-	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccctatteredbattle_seed_eth
@@ -1619,9 +1619,9 @@ ccccurvydifficulty = {
 		tradition_seafaring
 	}
 	name_list = name_list_ccccurvydifficulty
-	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccctatteredbattle_seed_eth
@@ -1643,9 +1643,9 @@ cccleafysun = {
 		tradition_faith_bound
 	}
 	name_list = name_list_cccleafysun
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { aigl_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
@@ -1666,9 +1666,9 @@ cccchillybuy = {
 		tradition_faith_bound
 	}
 	name_list = name_list_cccchillybuy
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { aigl_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
@@ -1689,9 +1689,9 @@ cccquixoticplay = {
 		tradition_faith_bound
 	}
 	name_list = name_list_cccquixoticplay
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { aigl_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
@@ -1714,9 +1714,9 @@ cccseparatetheme = {
 		tradition_faith_bound
 	}
 	name_list = name_list_cccseparatetheme
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { aigl_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
@@ -1739,9 +1739,9 @@ cccaltruisticsignature = {
 		tradition_faith_bound
 	}
 	name_list = name_list_cccaltruisticsignature
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { aigl_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
@@ -1763,9 +1763,9 @@ cccdisguisedcomfort = {
 		tradition_faith_bound
 	}
 	name_list = name_list_cccdisguisedcomfort
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { aigl_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccleafysun_seed_eth
@@ -1787,9 +1787,9 @@ cccbrillianteffect = {
 		tradition_collective_lands
 	}
 	name_list = name_list_cccbrillianteffect
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qeomoq_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
@@ -1807,9 +1807,9 @@ cccinexperiencedborder = {
 		tradition_collective_lands
 	}
 	name_list = name_list_cccinexperiencedborder
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qeomoq_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
@@ -1829,9 +1829,9 @@ cccnecessaryleadership = {
 		tradition_collective_lands
 	}
 	name_list = name_list_cccnecessaryleadership
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qeomoq_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
@@ -1851,9 +1851,9 @@ cccsomeshame = {
 		tradition_collective_lands
 	}
 	name_list = name_list_cccsomeshame
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qeomoq_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
@@ -1873,9 +1873,9 @@ cccalertbrief = {
 		tradition_collective_lands
 	}
 	name_list = name_list_cccalertbrief
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qeomoq_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
@@ -1895,9 +1895,9 @@ cccstablediscipline = {
 		tradition_collective_lands
 	}
 	name_list = name_list_cccstablediscipline
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qeomoq_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccbrillianteffect_seed_eth
@@ -1917,9 +1917,9 @@ cccpotableangle = {
 		tradition_ruling_caste
 	}
 	name_list = name_list_cccpotableangle
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { floicht_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccpotableangle_seed_eth
@@ -1937,9 +1937,9 @@ ccccavernouscontest = {
 		tradition_ruling_caste
 	}
 	name_list = name_list_ccccavernouscontest
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { floicht_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccpotableangle_seed_eth
@@ -1957,9 +1957,9 @@ cccmonstrouscream = {
 		tradition_ruling_caste
 	}
 	name_list = name_list_cccmonstrouscream
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { floicht_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccpotableangle_seed_eth
@@ -1979,9 +1979,9 @@ cccsafetraining = {
 		tradition_seafaring
 	}
 	name_list = name_list_cccsafetraining
-	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsafetraining_seed_eth
@@ -1992,16 +1992,16 @@ cccadolescentestate = {
 	ethos = ethos_bellicose
 	language = language_qieulbaia
 	heritage = heritage_cccsafetraining_seed
-	martial_custom = martial_custom_equal
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_practiced_pirates
 		tradition_battlefield_looters
 		tradition_seafaring
 	}
 	name_list = name_list_cccadolescentestate
-	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsafetraining_seed_eth
@@ -2012,16 +2012,16 @@ cccbumpyjoke = {
 	ethos = ethos_bellicose
 	language = language_qieulbaia
 	heritage = heritage_cccsafetraining_seed
-	martial_custom = martial_custom_equal
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_practiced_pirates
 		tradition_battlefield_looters
 		tradition_seafaring
 	}
 	name_list = name_list_cccbumpyjoke
-	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsafetraining_seed_eth
@@ -2085,9 +2085,9 @@ cccalertgovernment = {
 		tradition_charitable
 	}
 	name_list = name_list_cccalertgovernment
-	coa_gfx = { berber_group_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccalertgovernment_seed_eth
@@ -2108,9 +2108,9 @@ cccunderstatedmilk = {
 		tradition_charitable
 	}
 	name_list = name_list_cccunderstatedmilk
-	coa_gfx = { berber_group_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccalertgovernment_seed_eth
@@ -2131,9 +2131,9 @@ cccuselessdevelopment = {
 		tradition_stalwart_defenders
 	}
 	name_list = name_list_cccuselessdevelopment
-	coa_gfx = { english_coa_gfx western_coa_gfx }
+	coa_gfx = { wusaun_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccuselessdevelopment_seed_eth
@@ -2144,16 +2144,16 @@ cccroundneat = {
 	ethos = ethos_spiritual
 	language = language_wusaun
 	heritage = heritage_cccuselessdevelopment_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_frugal_armorsmiths
 		tradition_malleable_invaders
 		tradition_stalwart_defenders
 	}
 	name_list = name_list_cccroundneat
-	coa_gfx = { english_coa_gfx western_coa_gfx }
+	coa_gfx = { wusaun_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccuselessdevelopment_seed_eth
@@ -2171,9 +2171,9 @@ ccceverlastingstranger = {
 		tradition_stalwart_defenders
 	}
 	name_list = name_list_ccceverlastingstranger
-	coa_gfx = { english_coa_gfx western_coa_gfx }
+	coa_gfx = { wusaun_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccuselessdevelopment_seed_eth
@@ -2193,9 +2193,9 @@ cccattentivequarter = {
 		tradition_stalwart_defenders
 	}
 	name_list = name_list_cccattentivequarter
-	coa_gfx = { english_coa_gfx western_coa_gfx }
+	coa_gfx = { wusaun_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccuselessdevelopment_seed_eth
@@ -2229,7 +2229,7 @@ cccsafenormal = {
 	ethos = ethos_bellicose
 	language = language_plith
 	heritage = heritage_cccpoisedeffect_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_artisans
 		tradition_hidden_cities
@@ -2253,7 +2253,7 @@ ccclovingconstruction = {
 	ethos = ethos_bellicose
 	language = language_plith
 	heritage = heritage_cccpoisedeffect_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_artisans
 		tradition_hidden_cities
@@ -2301,7 +2301,7 @@ cccimperturbablelong = {
 	ethos = ethos_bellicose
 	language = language_plith
 	heritage = heritage_cccpoisedeffect_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_artisans
 		tradition_hidden_cities
@@ -2349,7 +2349,7 @@ cccdimwittedif = {
 	ethos = ethos_bellicose
 	language = language_plith
 	heritage = heritage_cccpoisedeffect_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_artisans
 		tradition_hidden_cities
@@ -2380,7 +2380,7 @@ cccrespectfulcelebration = {
 		tradition_only_the_strong
 	}
 	name_list = name_list_cccrespectfulcelebration
-	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
@@ -2396,14 +2396,14 @@ cccrosyconnection = {
 	ethos = ethos_bellicose
 	language = language_kioq
 	heritage = heritage_cccrespectfulcelebration_seed
-	martial_custom = martial_custom_equal
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_hidden_cities
 		tradition_zealous_people
 		tradition_only_the_strong
 	}
 	name_list = name_list_cccrosyconnection
-	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
@@ -2426,7 +2426,7 @@ ccchonoredbad = {
 		tradition_only_the_strong
 	}
 	name_list = name_list_ccchonoredbad
-	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
@@ -2450,7 +2450,7 @@ cccelderlyfilm = {
 		tradition_only_the_strong
 	}
 	name_list = name_list_cccelderlyfilm
-	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
@@ -2474,7 +2474,7 @@ cccthispermission = {
 		tradition_only_the_strong
 	}
 	name_list = name_list_cccthispermission
-	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
@@ -2498,7 +2498,7 @@ cccfarflungrace = {
 		tradition_only_the_strong
 	}
 	name_list = name_list_cccfarflungrace
-	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	coa_gfx = { kioq_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
@@ -2524,7 +2524,7 @@ cccimpurefinal = {
 	name_list = name_list_cccimpurefinal
 	coa_gfx = { queekwa_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccimpurefinal_seed_eth
@@ -2548,7 +2548,7 @@ cccunselfishextent = {
 	name_list = name_list_cccunselfishextent
 	coa_gfx = { queekwa_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccimpurefinal_seed_eth
@@ -2572,7 +2572,7 @@ cccrewardingcash = {
 	name_list = name_list_cccrewardingcash
 	coa_gfx = { queekwa_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccimpurefinal_seed_eth
@@ -2596,7 +2596,7 @@ cccfatherlysweet = {
 	name_list = name_list_cccfatherlysweet
 	coa_gfx = { queekwa_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccimpurefinal_seed_eth
@@ -2620,7 +2620,7 @@ cccwearymenu = {
 	name_list = name_list_cccwearymenu
 	coa_gfx = { queekwa_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccimpurefinal_seed_eth
@@ -2642,9 +2642,9 @@ cccdishonestmachine = {
 		tradition_isolationist
 	}
 	name_list = name_list_cccdishonestmachine
-	coa_gfx = { central_african_group_coa_gfx }
+	coa_gfx = { floicht_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccdishonestmachine_seed_eth
@@ -2655,16 +2655,16 @@ ccccrazydrama = {
 	ethos = ethos_spiritual
 	language = language_floicht
 	heritage = heritage_cccdishonestmachine_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_forbearing
 		tradition_philosopher_culture
 		tradition_isolationist
 	}
 	name_list = name_list_ccccrazydrama
-	coa_gfx = { central_african_group_coa_gfx }
+	coa_gfx = { floicht_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccdishonestmachine_seed_eth
@@ -2682,9 +2682,9 @@ cccthriftybranch = {
 		tradition_isolationist
 	}
 	name_list = name_list_cccthriftybranch
-	coa_gfx = { central_african_group_coa_gfx }
+	coa_gfx = { floicht_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccdishonestmachine_seed_eth
@@ -2704,9 +2704,9 @@ cccurbanopening = {
 		tradition_philosopher_culture
 	}
 	name_list = name_list_cccurbanopening
-	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccurbanopening_seed_eth
@@ -2720,16 +2720,16 @@ cccslightnecessary = {
 	ethos = ethos_spiritual
 	language = language_preolyth
 	heritage = heritage_cccurbanopening_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_culture_blending
 		tradition_hill_dwellers
 		tradition_philosopher_culture
 	}
 	name_list = name_list_cccslightnecessary
-	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccurbanopening_seed_eth
@@ -2744,16 +2744,16 @@ cccgranularpoet = {
 	ethos = ethos_spiritual
 	language = language_preolyth
 	heritage = heritage_cccurbanopening_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_culture_blending
 		tradition_hill_dwellers
 		tradition_philosopher_culture
 	}
 	name_list = name_list_cccgranularpoet
-	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccurbanopening_seed_eth
@@ -2768,16 +2768,16 @@ cccpiercingpicture = {
 	ethos = ethos_spiritual
 	language = language_preolyth
 	heritage = heritage_cccurbanopening_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_culture_blending
 		tradition_hill_dwellers
 		tradition_philosopher_culture
 	}
 	name_list = name_list_cccpiercingpicture
-	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccurbanopening_seed_eth
@@ -2799,9 +2799,9 @@ cccroughcut = {
 		tradition_stand_and_fight
 	}
 	name_list = name_list_cccroughcut
-	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccroughcut_seed_eth
@@ -2821,9 +2821,9 @@ cccaccomplishedtip = {
 		tradition_stand_and_fight
 	}
 	name_list = name_list_cccaccomplishedtip
-	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccroughcut_seed_eth
@@ -2845,7 +2845,7 @@ cccsoupygene = {
 	name_list = name_list_cccsoupygene
 	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccillfatedvalue_seed_eth
@@ -2863,9 +2863,9 @@ cccwholethought = {
 		tradition_artisans
 	}
 	name_list = name_list_cccwholethought
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwholethought_seed_eth
@@ -2876,16 +2876,16 @@ ccchandmadesetting = {
 	ethos = ethos_communal
 	language = language_thramptith
 	heritage = heritage_cccwholethought_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_hunters
 		tradition_hill_dwellers
 		tradition_artisans
 	}
 	name_list = name_list_ccchandmadesetting
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwholethought_seed_eth
@@ -2907,9 +2907,9 @@ cccinsidiousmedicine = {
 		tradition_artisans
 	}
 	name_list = name_list_cccinsidiousmedicine
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwholethought_seed_eth
@@ -2931,9 +2931,9 @@ cccgrownmother = {
 		tradition_artisans
 	}
 	name_list = name_list_cccgrownmother
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwholethought_seed_eth
@@ -2955,7 +2955,7 @@ cccbowedsummer = {
 		tradition_welcoming
 	}
 	name_list = name_list_cccbowedsummer
-	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
+	coa_gfx = { ioddrik_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
@@ -2975,7 +2975,7 @@ cccpolisheddifference = {
 		tradition_welcoming
 	}
 	name_list = name_list_cccpolisheddifference
-	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
+	coa_gfx = { ioddrik_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
@@ -2995,7 +2995,7 @@ cccpotableelection = {
 		tradition_welcoming
 	}
 	name_list = name_list_cccpotableelection
-	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
+	coa_gfx = { ioddrik_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
@@ -3015,7 +3015,7 @@ ccchollowexperience = {
 		tradition_highland_warriors
 	}
 	name_list = name_list_ccchollowexperience
-	coa_gfx = { tibetan_group_coa_gfx }
+	coa_gfx = { xacra_coa_gfx }
 	building_gfx = { steppe_building_gfx }
 	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
@@ -3028,14 +3028,14 @@ cccslipperyreview = {
 	ethos = ethos_stoic
 	language = language_xacra
 	heritage = heritage_ccchollowexperience_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_stalwart_defenders
 		tradition_eye_for_an_eye
 		tradition_highland_warriors
 	}
 	name_list = name_list_cccslipperyreview
-	coa_gfx = { tibetan_group_coa_gfx }
+	coa_gfx = { xacra_coa_gfx }
 	building_gfx = { steppe_building_gfx }
 	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
@@ -3050,14 +3050,14 @@ cccforkedharm = {
 	ethos = ethos_stoic
 	language = language_xacra
 	heritage = heritage_ccchollowexperience_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_stalwart_defenders
 		tradition_eye_for_an_eye
 		tradition_highland_warriors
 	}
 	name_list = name_list_cccforkedharm
-	coa_gfx = { tibetan_group_coa_gfx }
+	coa_gfx = { xacra_coa_gfx }
 	building_gfx = { steppe_building_gfx }
 	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
@@ -3077,9 +3077,9 @@ ccclazypossible = {
 		tradition_faith_bound
 	}
 	name_list = name_list_ccclazypossible
-	coa_gfx = { israelite_group_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccglaringentrance_seed_eth
@@ -3090,7 +3090,7 @@ cccworldlysector = {
 	ethos = ethos_communal
 	language = language_wusaun
 	heritage = heritage_cccdisguisedapplication_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_agrarian
 		tradition_concubines
@@ -3117,9 +3117,9 @@ cccsociablemud = {
 		tradition_faith_bound
 	}
 	name_list = name_list_cccsociablemud
-	coa_gfx = { burman_group_coa_gfx }
+	coa_gfx = { aelwrid_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsociablemud_seed_eth
@@ -3140,9 +3140,9 @@ cccmixedpull = {
 		tradition_faith_bound
 	}
 	name_list = name_list_cccmixedpull
-	coa_gfx = { burman_group_coa_gfx }
+	coa_gfx = { aelwrid_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsociablemud_seed_eth
@@ -3164,9 +3164,9 @@ cccthirdfinding = {
 		tradition_faith_bound
 	}
 	name_list = name_list_cccthirdfinding
-	coa_gfx = { burman_group_coa_gfx }
+	coa_gfx = { aelwrid_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsociablemud_seed_eth
@@ -3188,9 +3188,9 @@ cccattentivelisten = {
 		tradition_faith_bound
 	}
 	name_list = name_list_cccattentivelisten
-	coa_gfx = { burman_group_coa_gfx }
+	coa_gfx = { aelwrid_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsociablemud_seed_eth
@@ -3225,7 +3225,7 @@ cccsaltychicken = {
 	ethos = ethos_egalitarian
 	language = language_pfaunkti
 	heritage = heritage_cccquizzicalstranger_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_runestones
 		tradition_maritime_mercantilism
@@ -3247,7 +3247,7 @@ cccintrepidatmosphere = {
 	ethos = ethos_egalitarian
 	language = language_pfaunkti
 	heritage = heritage_cccquizzicalstranger_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_runestones
 		tradition_maritime_mercantilism
@@ -3274,9 +3274,9 @@ cccloyalworth = {
 		tradition_philosopher_culture
 	}
 	name_list = name_list_cccloyalworth
-	coa_gfx = { israelite_group_coa_gfx }
+	coa_gfx = { veuqrit_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { french_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccloyalworth_seed_eth
@@ -3294,9 +3294,9 @@ cccfrizzycalm = {
 		tradition_philosopher_culture
 	}
 	name_list = name_list_cccfrizzycalm
-	coa_gfx = { israelite_group_coa_gfx }
+	coa_gfx = { veuqrit_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { french_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccloyalworth_seed_eth
@@ -3316,9 +3316,9 @@ cccrashnote = {
 		tradition_philosopher_culture
 	}
 	name_list = name_list_cccrashnote
-	coa_gfx = { israelite_group_coa_gfx }
+	coa_gfx = { veuqrit_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { french_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccloyalworth_seed_eth
@@ -3338,9 +3338,9 @@ ccchotstatement = {
 		tradition_mendicant_mystics
 	}
 	name_list = name_list_ccchotstatement
-	coa_gfx = { israelite_group_coa_gfx }
+	coa_gfx = { aigl_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccchotstatement_seed_eth
@@ -3358,9 +3358,9 @@ cccwelldocumentedshop = {
 		tradition_mendicant_mystics
 	}
 	name_list = name_list_cccwelldocumentedshop
-	coa_gfx = { israelite_group_coa_gfx }
+	coa_gfx = { aigl_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccchotstatement_seed_eth
@@ -3382,7 +3382,7 @@ ccclightheartedadministration = {
 		tradition_warriors_of_the_dry
 	}
 	name_list = name_list_ccclightheartedadministration
-	coa_gfx = { central_african_group_coa_gfx }
+	coa_gfx = { ioddrik_coa_gfx }
 	building_gfx = { steppe_building_gfx }
 	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
@@ -3402,7 +3402,7 @@ cccscrawnyvariation = {
 		tradition_warriors_of_the_dry
 	}
 	name_list = name_list_cccscrawnyvariation
-	coa_gfx = { central_african_group_coa_gfx }
+	coa_gfx = { ioddrik_coa_gfx }
 	building_gfx = { steppe_building_gfx }
 	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
@@ -3426,9 +3426,9 @@ cccacrobaticpreparation = {
 		tradition_city_keepers
 	}
 	name_list = name_list_cccacrobaticpreparation
-	coa_gfx = { berber_group_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccacrobaticpreparation_seed_eth
@@ -3446,9 +3446,9 @@ ccckaleidoscopicfinish = {
 		tradition_city_keepers
 	}
 	name_list = name_list_ccckaleidoscopicfinish
-	coa_gfx = { berber_group_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccacrobaticpreparation_seed_eth
@@ -3470,9 +3470,9 @@ cccdelectableapple = {
 		tradition_city_keepers
 	}
 	name_list = name_list_cccdelectableapple
-	coa_gfx = { berber_group_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccacrobaticpreparation_seed_eth
@@ -3490,9 +3490,9 @@ cccspectacularinfluence = {
 		tradition_formation_fighting
 	}
 	name_list = name_list_cccspectacularinfluence
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { iberian_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccspectacularinfluence_seed_eth
@@ -3514,9 +3514,9 @@ cccquarrelsomeif = {
 		tradition_formation_fighting
 	}
 	name_list = name_list_cccquarrelsomeif
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { iberian_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccspectacularinfluence_seed_eth
@@ -3538,7 +3538,7 @@ cccwhoppingprimary = {
 		tradition_hit_and_run
 	}
 	name_list = name_list_cccwhoppingprimary
-	coa_gfx = { chinese_group_coa_gfx }
+	coa_gfx = { wusaun_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
@@ -3558,7 +3558,7 @@ cccinconsequentialheart = {
 		tradition_reverence_for_veterans
 	}
 	name_list = name_list_cccinconsequentialheart
-	coa_gfx = { breton_coa_gfx western_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { indian_building_gfx }
 	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
@@ -3578,9 +3578,9 @@ cccthistwo = {
 		tradition_mountaineers
 	}
 	name_list = name_list_cccthistwo
-	coa_gfx = { tibetan_group_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccthistwo_seed_eth
@@ -3591,16 +3591,16 @@ cccstripedroutine = {
 	ethos = ethos_communal
 	language = language_ogilek
 	heritage = heritage_cccthistwo_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_concubines
 		tradition_court_eunuchs
 		tradition_mountaineers
 	}
 	name_list = name_list_cccstripedroutine
-	coa_gfx = { tibetan_group_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccthistwo_seed_eth
@@ -3635,7 +3635,7 @@ cccelectricbird = {
 	ethos = ethos_egalitarian
 	language = language_plith
 	heritage = heritage_cccpowerlessclerk_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_philosopher_culture
 		tradition_hereditary_hierarchy
@@ -3703,7 +3703,7 @@ cccslimyengine = {
 	ethos = ethos_courtly
 	language = language_gleuncti
 	heritage = heritage_cccuniformsubstance_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_merciful_blindings
 		tradition_astute_diplomats
@@ -3754,9 +3754,9 @@ ccclastingjacket = {
 		tradition_charitable
 	}
 	name_list = name_list_ccclastingjacket
-	coa_gfx = { indian_coa_gfx }
+	coa_gfx = { aelwrid_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccclastingjacket_seed_eth
@@ -3767,16 +3767,16 @@ cccinformaltrick = {
 	ethos = ethos_egalitarian
 	language = language_aelwrid
 	heritage = heritage_ccclastingjacket_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_religious_patronage
 		tradition_forbearing
 		tradition_charitable
 	}
 	name_list = name_list_cccinformaltrick
-	coa_gfx = { indian_coa_gfx }
+	coa_gfx = { aelwrid_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
+	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccclastingjacket_seed_eth
@@ -3791,14 +3791,14 @@ ccchurtfulshop = {
 	ethos = ethos_courtly
 	language = language_ogilek
 	heritage = heritage_cccclearcutpermission_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_mountain_homes
 		tradition_mountaineers
 		tradition_culture_blending
 	}
 	name_list = name_list_ccchurtfulshop
-	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { iberian_building_gfx }
 	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
@@ -3820,7 +3820,7 @@ cccrudemany = {
 	name_list = name_list_cccrudemany
 	coa_gfx = { queekwa_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccrudemany_seed_eth
@@ -3834,7 +3834,7 @@ cccelderlymaintenance = {
 	color = { 0.66 0.20 0.70 }
 	ethos = ethos_stoic
 	language = language_queekwa
-	heritage = heritage_cccrudemany_seed
+	heritage = heritage_cccimpurefinal_seed
 	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_jungle_dwellers
@@ -3844,10 +3844,10 @@ cccelderlymaintenance = {
 	name_list = name_list_cccelderlymaintenance
 	coa_gfx = { queekwa_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
-		10 = heritage_cccrudemany_seed_eth
+		10 = heritage_cccimpurefinal_seed_eth
 	}
 	
 	house_coa_frame = house_frame_11
@@ -3866,9 +3866,9 @@ cccmerrytax = {
 		tradition_religion_blending
 	}
 	name_list = name_list_cccmerrytax
-	coa_gfx = { indo_aryan_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccmerrytax_seed_eth
@@ -3882,16 +3882,16 @@ cccfoolhardysecond = {
 	ethos = ethos_bureaucratic
 	language = language_preolyth
 	heritage = heritage_cccmerrytax_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_artisans
 		tradition_spartan
 		tradition_religion_blending
 	}
 	name_list = name_list_cccfoolhardysecond
-	coa_gfx = { indo_aryan_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccmerrytax_seed_eth
@@ -3913,9 +3913,9 @@ cccgiftedregister = {
 		tradition_city_keepers
 	}
 	name_list = name_list_cccgiftedregister
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgiftedregister_seed_eth
@@ -3936,9 +3936,9 @@ cccelectricreason = {
 		tradition_city_keepers
 	}
 	name_list = name_list_cccelectricreason
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgiftedregister_seed_eth
@@ -3973,7 +3973,7 @@ cccimmaterialvisual = {
 	ethos = ethos_communal
 	language = language_pfaunkti
 	heritage = heritage_ccclazyload_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_sorcerous_metallurgy
 		tradition_hard_working
@@ -4000,9 +4000,9 @@ cccsecondrow = {
 		tradition_seafaring
 	}
 	name_list = name_list_cccsecondrow
-	coa_gfx = { central_african_group_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsecondrow_seed_eth
@@ -4020,9 +4020,9 @@ cccwrithingtrain = {
 		tradition_seafaring
 	}
 	name_list = name_list_cccwrithingtrain
-	coa_gfx = { central_african_group_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { norse_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccsecondrow_seed_eth
@@ -4044,9 +4044,9 @@ ccccarefreebase = {
 		tradition_artisans
 	}
 	name_list = name_list_ccccarefreebase
-	coa_gfx = { burman_group_coa_gfx }
+	coa_gfx = { aigl_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccccarefreebase_seed_eth
@@ -4067,9 +4067,9 @@ cccamazingsnow = {
 		tradition_artisans
 	}
 	name_list = name_list_cccamazingsnow
-	coa_gfx = { burman_group_coa_gfx }
+	coa_gfx = { aigl_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = heritage_ccccarefreebase_seed_eth
@@ -4093,7 +4093,7 @@ cccpessimisticsteak = {
 	name_list = name_list_cccpessimisticsteak
 	coa_gfx = { queekwa_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccpessimisticsteak_seed_eth
@@ -4107,8 +4107,8 @@ cccgenuinedrama = {
 	color = { 0.90 0.26 0.10 }
 	ethos = ethos_stoic
 	language = language_queekwa
-	heritage = heritage_cccpessimisticsteak_seed
-	martial_custom = martial_custom_equal
+	heritage = heritage_cccimpurefinal_seed
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_stalwart_defenders
 		tradition_warrior_culture
@@ -4117,10 +4117,10 @@ cccgenuinedrama = {
 	name_list = name_list_cccgenuinedrama
 	coa_gfx = { queekwa_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
-		10 = heritage_cccpessimisticsteak_seed_eth
+		10 = heritage_cccimpurefinal_seed_eth
 	}
 	
 	house_coa_frame = house_frame_11
@@ -4139,9 +4139,9 @@ cccweeklynurse = {
 		tradition_culinary_art
 	}
 	name_list = name_list_cccweeklynurse
-	coa_gfx = { dravidian_group_coa_gfx }
+	coa_gfx = { floicht_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccweeklynurse_seed_eth
@@ -4159,9 +4159,9 @@ cccmurkypermission = {
 		tradition_culinary_art
 	}
 	name_list = name_list_cccmurkypermission
-	coa_gfx = { dravidian_group_coa_gfx }
+	coa_gfx = { floicht_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccweeklynurse_seed_eth
@@ -4181,9 +4181,9 @@ cccwonderfuloperation = {
 		tradition_formation_fighting
 	}
 	name_list = name_list_cccwonderfuloperation
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwonderfuloperation_seed_eth
@@ -4204,9 +4204,9 @@ ccchealthyfemale = {
 		tradition_formation_fighting
 	}
 	name_list = name_list_ccchealthyfemale
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccwonderfuloperation_seed_eth
@@ -4227,9 +4227,9 @@ cccoutlyinggrandfather = {
 		tradition_charitable
 	}
 	name_list = name_list_cccoutlyinggrandfather
-	coa_gfx = { chinese_group_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccoutlyinggrandfather_seed_eth
@@ -4240,16 +4240,16 @@ ccccloseeconomics = {
 	ethos = ethos_spiritual
 	language = language_thramptith
 	heritage = heritage_cccoutlyinggrandfather_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_gardening
 		tradition_collective_lands
 		tradition_charitable
 	}
 	name_list = name_list_ccccloseeconomics
-	coa_gfx = { chinese_group_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccoutlyinggrandfather_seed_eth
@@ -4271,9 +4271,9 @@ cccglisteninghistorian = {
 		tradition_runestones
 	}
 	name_list = name_list_cccglisteninghistorian
-	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccglisteninghistorian_seed_eth
@@ -4295,9 +4295,9 @@ cccheartyvacation = {
 		tradition_runestones
 	}
 	name_list = name_list_cccheartyvacation
-	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccglisteninghistorian_seed_eth
@@ -4332,7 +4332,7 @@ cccvalidriver = {
 	ethos = ethos_communal
 	language = language_gleuncti
 	heritage = heritage_cccclearchannel_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_storytellers
 		tradition_loyal_soldiers
@@ -4376,7 +4376,7 @@ cccslipperyface = {
 	ethos = ethos_communal
 	language = language_pfaunkti
 	heritage = heritage_cccterribletemperature_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_artisans
 		tradition_philosopher_culture
@@ -4405,7 +4405,7 @@ cccunwillingsuccess = {
 		tradition_warrior_monks
 	}
 	name_list = name_list_cccunwillingsuccess
-	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	coa_gfx = { xacra_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
@@ -4418,14 +4418,14 @@ cccmodestcopy = {
 	ethos = ethos_bellicose
 	language = language_xacra
 	heritage = heritage_cccunwillingsuccess_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_stand_and_fight
 		tradition_talent_acquisition
 		tradition_warrior_monks
 	}
 	name_list = name_list_cccmodestcopy
-	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	coa_gfx = { xacra_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
@@ -4440,16 +4440,16 @@ cccforkedmaintenance = {
 	ethos = ethos_egalitarian
 	language = language_broulqen
 	heritage = heritage_cccweepysail_seed
-	martial_custom = martial_custom_equal
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_mendicant_mystics
 		tradition_strength_in_numbers
 		tradition_philosopher_culture
 	}
 	name_list = name_list_cccforkedmaintenance
-	coa_gfx = { berber_group_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccweepysail_seed_eth
@@ -4467,9 +4467,9 @@ cccdarlingnoise = {
 		tradition_philosopher_culture
 	}
 	name_list = name_list_cccdarlingnoise
-	coa_gfx = { berber_group_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccweepysail_seed_eth
@@ -4487,9 +4487,9 @@ cccimprobablecouple = {
 		tradition_religion_blending
 	}
 	name_list = name_list_cccimprobablecouple
-	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccimprobablecouple_seed_eth
@@ -4510,9 +4510,9 @@ cccsecondcomplaint = {
 		tradition_religion_blending
 	}
 	name_list = name_list_cccsecondcomplaint
-	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccimprobablecouple_seed_eth
@@ -4534,7 +4534,7 @@ cccquarrelsomeslip = {
 		tradition_practiced_pirates
 	}
 	name_list = name_list_cccquarrelsomeslip
-	coa_gfx = { swedish_coa_gfx western_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
 	clothing_gfx = { mena_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
@@ -4554,9 +4554,9 @@ cccshamefuldirt = {
 		tradition_practiced_pirates
 	}
 	name_list = name_list_cccshamefuldirt
-	coa_gfx = { swedish_coa_gfx western_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccshamefuldirt_seed_eth
@@ -4574,9 +4574,9 @@ cccsturdyvaluable = {
 		tradition_practiced_pirates
 	}
 	name_list = name_list_cccsturdyvaluable
-	coa_gfx = { swedish_coa_gfx western_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccshamefuldirt_seed_eth
@@ -4598,9 +4598,9 @@ cccvapidbath = {
 		tradition_ancient_miners
 	}
 	name_list = name_list_cccvapidbath
-	coa_gfx = { burman_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccvapidbath_seed_eth
@@ -4621,9 +4621,9 @@ ccceasygoingwedding = {
 		tradition_ancient_miners
 	}
 	name_list = name_list_ccceasygoingwedding
-	coa_gfx = { burman_group_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccvapidbath_seed_eth
@@ -4646,7 +4646,7 @@ cccwelllitdebate = {
 	name_list = name_list_cccwelllitdebate
 	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	clothing_gfx = { tai_clothing_gfx southeast_asian_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccmelodicbottom_seed_eth
@@ -4664,9 +4664,9 @@ cccorangepreference = {
 		tradition_hill_dwellers
 	}
 	name_list = name_list_cccorangepreference
-	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccorangepreference_seed_eth
@@ -4684,9 +4684,9 @@ cccstandardbutton = {
 		tradition_hill_dwellers
 	}
 	name_list = name_list_cccstandardbutton
-	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccorangepreference_seed_eth
@@ -4708,9 +4708,9 @@ cccstarryrevolution = {
 		tradition_mendicant_mystics
 	}
 	name_list = name_list_cccstarryrevolution
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccstarryrevolution_seed_eth
@@ -4728,9 +4728,9 @@ cccthirstyconstruction = {
 		tradition_mendicant_mystics
 	}
 	name_list = name_list_cccthirstyconstruction
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccstarryrevolution_seed_eth
@@ -4745,7 +4745,7 @@ cccroughdiscount = {
 	ethos = ethos_bellicose
 	language = language_blouck
 	heritage = heritage_cccawesomefill_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_stand_and_fight
 		tradition_quarrelsome
@@ -4765,16 +4765,16 @@ cccdualbirth = {
 	ethos = ethos_bureaucratic
 	language = language_ogilek
 	heritage = heritage_cccassureddraft_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_fishermen
 		tradition_formation_fighting
 		tradition_spartan
 	}
 	name_list = name_list_cccdualbirth
-	coa_gfx = { iranian_group_coa_gfx }
+	coa_gfx = { ogilek_coa_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccassureddraft_seed_eth
@@ -4792,7 +4792,7 @@ cccafraidcash = {
 		tradition_jungle_warriors
 	}
 	name_list = name_list_cccafraidcash
-	coa_gfx = { east_african_coa_gfx }
+	coa_gfx = { xacra_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
 	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
@@ -4812,7 +4812,7 @@ cccgoodconfidence = {
 		tradition_jungle_warriors
 	}
 	name_list = name_list_cccgoodconfidence
-	coa_gfx = { east_african_coa_gfx }
+	coa_gfx = { xacra_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
 	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
@@ -4887,7 +4887,7 @@ cccfrivolouspotential = {
 	ethos = ethos_stoic
 	language = language_pfaunkti
 	heritage = heritage_cccsilverhall_seed
-	martial_custom = martial_custom_female_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_mendicant_mystics
 		tradition_wedding_ceremonies
@@ -4914,9 +4914,9 @@ cccgranularestimate = {
 		tradition_poetry
 	}
 	name_list = name_list_cccgranularestimate
-	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgranularestimate_seed_eth
@@ -4937,9 +4937,9 @@ cccaromaticweekend = {
 		tradition_poetry
 	}
 	name_list = name_list_cccaromaticweekend
-	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { preolyth_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccgranularestimate_seed_eth
@@ -4960,9 +4960,9 @@ cccangrymeasurement = {
 		tradition_practiced_pirates
 	}
 	name_list = name_list_cccangrymeasurement
-	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccangrymeasurement_seed_eth
@@ -4973,16 +4973,16 @@ cccimmaterialsite = {
 	ethos = ethos_bellicose
 	language = language_qieulbaia
 	heritage = heritage_cccangrymeasurement_seed
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_reverence_for_veterans
 		tradition_seafaring
 		tradition_practiced_pirates
 	}
 	name_list = name_list_cccimmaterialsite
-	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccangrymeasurement_seed_eth
@@ -5004,9 +5004,9 @@ cccintentionalbackground = {
 		tradition_battlefield_looters
 	}
 	name_list = name_list_cccintentionalbackground
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { iberian_building_gfx }
-	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccintentionalbackground_seed_eth
@@ -5026,9 +5026,9 @@ cccbestsinger = {
 		tradition_battlefield_looters
 	}
 	name_list = name_list_cccbestsinger
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { iberian_building_gfx }
-	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccintentionalbackground_seed_eth
@@ -5088,9 +5088,9 @@ cccequalclimate = {
 		tradition_female_only_inheritance
 	}
 	name_list = name_list_cccequalclimate
-	coa_gfx = { tibetan_group_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccequalclimate_seed_eth
@@ -5111,9 +5111,9 @@ ccccookedjoke = {
 		tradition_female_only_inheritance
 	}
 	name_list = name_list_ccccookedjoke
-	coa_gfx = { tibetan_group_coa_gfx }
+	coa_gfx = { qieulbaia_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccequalclimate_seed_eth
@@ -5135,9 +5135,9 @@ cccfrayeddependent = {
 		tradition_hill_dwellers
 	}
 	name_list = name_list_cccfrayeddependent
-	coa_gfx = { east_african_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccfrayeddependent_seed_eth
@@ -5158,9 +5158,9 @@ cccclosestomach = {
 		tradition_hill_dwellers
 	}
 	name_list = name_list_cccclosestomach
-	coa_gfx = { east_african_coa_gfx }
+	coa_gfx = { thramptith_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_muslim_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccfrayeddependent_seed_eth
@@ -5182,11 +5182,12 @@ cccdangeroussir = {
 		tradition_fervent_temple_builders
 	}
 	name_list = name_list_cccdangeroussir
-	coa_gfx = { arabic_group_coa_gfx }
+	coa_gfx = { broulqen_coa_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { viet_clothing_gfx chinese_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = heritage_cccadmirablesign_seed_eth
 	}
 }
+

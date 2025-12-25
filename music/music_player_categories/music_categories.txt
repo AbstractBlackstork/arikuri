@@ -34,6 +34,8 @@ category = {
 		"hatta_war"
 		"hatta_regular"
 		"logaisafti"
+		"talblain_kavenai"
+		"utal_dunmei"
 	}
 }
 

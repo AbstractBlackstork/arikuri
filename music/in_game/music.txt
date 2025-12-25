@@ -257,3 +257,21 @@ logaisafti = {
 	can_be_interrupted = yes
 	pause_factor = 35
 }
+
+talblain_kavenai = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Talblain_Kavenai.ogg"
+	name = "talblain_kavenai"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+
+    is_valid = { is_at_war = yes }
+}
+
+utal_dunmei = {
+	music = "file:/music/arikuri_soundtrack/Arikuri_Utal_Dunmei.ogg"
+	name = "utal_dunmei"
+	mood = yes
+	can_be_interrupted = yes
+	pause_factor = 35
+}

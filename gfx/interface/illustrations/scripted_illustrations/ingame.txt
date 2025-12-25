@@ -547,6 +547,27 @@ character_view_bg = {
 		}
 	}
 
+	# Broulqen holy site
+	texture = {
+		reference = "event_scenes/broulqen_temple.dds"
+		trigger = {
+			is_alive = yes
+			involved_activity ?= { has_activity_type = activity_pilgrimage }
+			involved_activity.activity_location.culture ?= { has_coa_gfx = broulqen_coa_gfx }
+			location ?= involved_activity.activity_location
+		}
+	}
+
+	environment = {
+		reference = "environment_event_fp1_tribal_temple"
+		trigger = {
+			is_alive = yes
+			involved_activity ?= { has_activity_type = activity_pilgrimage }
+			involved_activity.activity_location.culture ?= { has_coa_gfx = broulqen_coa_gfx }
+			location ?= involved_activity.activity_location
+		}
+	}
+
 	####
 	# tournament, eastern
 	####
@@ -10461,6 +10482,95 @@ character_view_bg = {
 			NOT = { religion = religion:sillysubject }
 		}
 	}
+	
+	# Broulqen
+	texture = {
+		reference = "event_scenes/broulqen_temple.dds"
+		trigger = {
+			is_alive = yes
+			religion = { is_in_family = rf_broulqen }
+		}
+	}
+	
+	environment = {
+		reference = "environment_event_fp1_tribal_temple"
+		trigger = {
+			is_alive = yes
+			religion = { is_in_family = rf_broulqen }
+		}
+	}
+
+	##########################################
+	# AIEXQELT FACTIONS - Main Character View
+	##########################################
+	
+	# Globith Faction (Purple/Violet/Gold)
+	texture = {
+		reference = "event_scenes/aiexqelt_glo_int1.dds"
+		trigger = {
+			is_alive = yes
+			faith = faith:chubbychildhood_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_glo"
+		trigger = {
+			is_alive = yes
+			faith = faith:chubbychildhood_faith
+		}
+	}
+	
+	# Panthenia Faction (Blue)
+	texture = {
+		reference = "event_scenes/aiexqelt_panth_int1.dds"
+		trigger = {
+			is_alive = yes
+			faith = faith:Frenchincident_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_panth"
+		trigger = {
+			is_alive = yes
+			faith = faith:Frenchincident_faith
+		}
+	}
+	
+	# Ailfaebi Faction (Pink/Magenta)
+	texture = {
+		reference = "event_scenes/aiexqelt_alf_int1.dds"
+		trigger = {
+			is_alive = yes
+			faith = faith:wideeyedimpact_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_alf"
+		trigger = {
+			is_alive = yes
+			faith = faith:wideeyedimpact_faith
+		}
+	}
+	
+	# Onfengi Faction (Teal/Gray/Crimson)
+	texture = {
+		reference = "event_scenes/aiexqelt_ong_int1.dds"
+		trigger = {
+			is_alive = yes
+			faith = faith:somberpoet_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_ong"
+		trigger = {
+			is_alive = yes
+			faith = faith:somberpoet_faith
+		}
+	}
 
 	# Tribal
 	texture = {
@@ -11875,6 +11985,85 @@ religion_interior = {
 			NOT = { religion = religion:sillysubject }
 		}
 	}
+	
+	# Broulqen
+	texture = {
+		reference = "event_scenes/broulqen_temple.dds"
+		trigger = {
+			religion = { is_in_family = rf_broulqen }
+		}
+	}
+	
+	environment = {
+		reference = "environment_event_fp1_tribal_temple"
+		trigger = {
+			religion = { is_in_family = rf_broulqen }
+		}
+	}
+
+	##########################################
+	# AIEXQELT FACTIONS
+	##########################################
+	
+	# Globith Faction
+	texture = {
+		reference = "event_scenes/aiexqelt_glo_int1.dds"
+		trigger = {
+			this = faith:chubbychildhood_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_glo"
+		trigger = {
+			this = faith:chubbychildhood_faith
+		}
+	}
+	
+	# Panthenia Faction
+	texture = {
+		reference = "event_scenes/aiexqelt_panth_int1.dds"
+		trigger = {
+			this = faith:Frenchincident_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_panth"
+		trigger = {
+			this = faith:Frenchincident_faith
+		}
+	}
+	
+	# Ailfaebi Faction
+	texture = {
+		reference = "event_scenes/aiexqelt_alf_int1.dds"
+		trigger = {
+			this = faith:wideeyedimpact_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_alf"
+		trigger = {
+			this = faith:wideeyedimpact_faith
+		}
+	}
+	
+	# Onfengi Faction
+	texture = {
+		reference = "event_scenes/aiexqelt_ong_int1.dds"
+		trigger = {
+			this = faith:somberpoet_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_ong"
+		trigger = {
+			this = faith:somberpoet_faith
+		}
+	}
 
 	# FP3
 
@@ -12046,6 +12235,85 @@ religion_holding = {
 		trigger = {
 			religion = { is_in_family = rf_gleuncti }
 			NOT = { religion = religion:sillysubject }
+		}
+	}
+	
+	# Broulqen
+	texture = {
+		reference = "event_scenes/broulqen_temple.dds"
+		trigger = {
+			religion = { is_in_family = rf_broulqen }
+		}
+	}
+	
+	environment = {
+		reference = "environment_event_fp1_tribal_temple"
+		trigger = {
+			religion = { is_in_family = rf_broulqen }
+		}
+	}
+	
+	##########################################
+	# AIEXQELT FACTIONS
+	##########################################
+	
+	# Globith Faction
+	texture = {
+		reference = "event_scenes/aiexqelt_glo_int1.dds"
+		trigger = {
+			this = faith:chubbychildhood_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_glo"
+		trigger = {
+			this = faith:chubbychildhood_faith
+		}
+	}
+	
+	# Panthenia Faction
+	texture = {
+		reference = "event_scenes/aiexqelt_panth_int1.dds"
+		trigger = {
+			this = faith:Frenchincident_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_panth"
+		trigger = {
+			this = faith:Frenchincident_faith
+		}
+	}
+	
+	# Ailfaebi Faction
+	texture = {
+		reference = "event_scenes/aiexqelt_alf_int1.dds"
+		trigger = {
+			this = faith:wideeyedimpact_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_alf"
+		trigger = {
+			this = faith:wideeyedimpact_faith
+		}
+	}
+	
+	# Onfengi Faction
+	texture = {
+		reference = "event_scenes/aiexqelt_ong_int1.dds"
+		trigger = {
+			this = faith:somberpoet_faith
+		}
+	}
+	
+	environment = {
+		reference = "environment_aiexqelt_ong"
+		trigger = {
+			this = faith:somberpoet_faith
 		}
 	}
 	

@@ -430,6 +430,9 @@ color_lists = {
 			10 = rgb { 38 42 22 }    # Deep moss-olive (NEW)
 			10 = rgb { 80 32 25 }    # Dark brick-red (NEW)
 			10 = rgb { 75 28 22 }    # Deep terracotta-brick (NEW)
+			10 = rgb { 25 35 15 }    # Dark moss green olive very saturated (NEW)
+			10 = rgb { 22 38 12 }    # Very dark saturated moss olive (NEW)
+			10 = rgb { 20 32 10 }    # Deep forest moss saturated (NEW)
 		}
 		special_selection = {
 			trigger = {
@@ -572,6 +575,9 @@ color_lists = {
 			20 = rgb { 20 25 30 }    # Deep storm-gray
 			15 = rgb { 25 20 15 }    # Deep ship-wood brown
 			15 = rgb { 12 28 38 }    # Deep sea-blue
+			15 = rgb { 8 20 45 }     # Saturated deep navy (NEW)
+			10 = rgb { 10 25 50 }    # Quite saturated deep navy blue (NEW)
+			10 = rgb { 5 18 42 }     # Very dark saturated navy (NEW)
 		}
 		special_selection = {
 			trigger = {

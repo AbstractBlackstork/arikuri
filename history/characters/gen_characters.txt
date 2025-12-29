@@ -8669,8 +8669,78 @@ gen_692 = {
 	}
 }
 
+# ============================================================================
+# BROULQEN LANDLESS COURT NOBLE FAMILIES (5 characters)
+# For use with d_nf_broulqen_court_* noble family titles
+# ============================================================================
+
+gen_9001 = {
+	name = "Impiol"
+	dynasty = dynn_gen_9001
+	religion = poorbreast
+	culture = "cccknowledgeableparticular"
+	670.10.25 = {
+		birth = yes
+	}
+	730.10.25 = {
+		death = yes
+	}
+}
+
+gen_9002 = {
+	name = "Rouirboil"
+	dynasty = dynn_gen_9002
+	religion = squigglyaction
+	culture = "cccgoldenhalf"
+	675.10.25 = {
+		birth = yes
+	}
+	735.10.25 = {
+		death = yes
+	}
+}
+
+gen_9003 = {
+	name = "Zoulkui"
+	dynasty = dynn_gen_9003
+	religion = poorbreast
+	culture = "cccknowledgeableparticular"
+	668.10.25 = {
+		birth = yes
+	}
+	728.10.25 = {
+		death = yes
+	}
+}
+
+gen_9004 = {
+	name = "Ouvuz"
+	dynasty = dynn_gen_9004
+	religion = squigglyaction
+	culture = "cccgoldenhalf"
+	672.10.25 = {
+		birth = yes
+	}
+	732.10.25 = {
+		death = yes
+	}
+}
+
+gen_9005 = {
+	name = "Pimuir"
+	dynasty = dynn_gen_9005
+	religion = poorbreast
+	culture = "cccknowledgeableparticular"
+	669.10.25 = {
+		birth = yes
+	}
+	729.10.25 = {
+		death = yes
+	}
+}
+
 ck2rpg = {
-	name = "ck2rpg"
+	name = "Vaguin"
 	dynasty = dynn_gen_0
 	religion = farflungentertainment_faith
 	culture = "cccluminousshelter"

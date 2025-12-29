@@ -1,0 +1,541 @@
+# Eniol Noble Families (County-tier, Japanese administrative pattern)
+# Following 4 governments based on faith:
+#   - eniol_diplomatic (Frenchincident_faith)
+#   - eniol_oppressive (chubbychildhood_faith)
+#   - eniol_military (somberpoet_faith)
+#   - eniol_progressive (wideeyedimpact_faith)
+# Total: 35 county-tier noble families
+
+# === Noactoi Kingdom (eniol_diplomatic) ===
+
+c_nf_eniol_vielkaiol = {
+	color = { 100 100 100 }
+	capital = c_R17G145B229
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_olmiaing = {
+	color = { 100 100 100 }
+	capital = c_R170G92B139
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_lecnebming = {
+	color = { 100 100 100 }
+	capital = c_R43G51B174
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_aecub = {
+	color = { 100 100 100 }
+	capital = c_R121G151B230
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_diaimoelk = {
+	color = { 100 100 100 }
+	capital = c_R188G152B243
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_aabam = {
+	color = { 100 100 100 }
+	capital = c_R127G74B104
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+# === Buxcelul Kingdom (eniol_oppressive) ===
+
+c_nf_eniol_aomaien = {
+	color = { 100 100 100 }
+	capital = c_R60G218B254
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_aapto = {
+	color = { 100 100 100 }
+	capital = c_R250G66B1
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_aienfing = {
+	color = { 100 100 100 }
+	capital = c_R232G190B21
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_naiolkelk = {
+	color = { 100 100 100 }
+	capital = c_R128G7B210
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_opta = {
+	color = { 100 100 100 }
+	capital = c_R61G89B251
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_icriur = {
+	color = { 100 100 100 }
+	capital = c_R55G253B180
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_floffreflum = {
+	color = { 100 100 100 }
+	capital = c_R106G184B252
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_freomiec = {
+	color = { 100 100 100 }
+	capital = c_R58G251B44
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+# === Wejo Kingdom (eniol_military) ===
+
+c_nf_eniol_ace = {
+	color = { 100 100 100 }
+	capital = c_R213G168B240
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_aakelt = {
+	color = { 100 100 100 }
+	capital = c_R158G172B232
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_nempi = {
+	color = { 100 100 100 }
+	capital = c_R211G107B212
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_aolqo = {
+	color = { 100 100 100 }
+	capital = c_R194G182B16
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_anculk = {
+	color = { 100 100 100 }
+	capital = c_R119G173B107
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_omveim = {
+	color = { 100 100 100 }
+	capital = c_R31G132B251
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_iopenf = {
+	color = { 100 100 100 }
+	capital = c_R125G250B109
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_orguark = {
+	color = { 100 100 100 }
+	capital = c_R50G118B20
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_oupri = {
+	color = { 100 100 100 }
+	capital = c_R59G95B179
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_aelpoel = {
+	color = { 100 100 100 }
+	capital = c_R232G178B91
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_bongutwib = {
+	color = { 100 100 100 }
+	capital = c_R140G130B181
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_noctu = {
+	color = { 100 100 100 }
+	capital = c_R18G121B245
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+# === Aiebult Kingdom (eniol_progressive) ===
+
+c_nf_eniol_aompilk = {
+	color = { 100 100 100 }
+	capital = c_R54G252B30
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_aetong = {
+	color = { 100 100 100 }
+	capital = c_R162G220B156
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_flelmitwang = {
+	color = { 100 100 100 }
+	capital = c_R200G250B70
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_ulva = {
+	color = { 100 100 100 }
+	capital = c_R228G7B61
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_earbu = {
+	color = { 100 100 100 }
+	capital = c_R230G141B114
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_crauji = {
+	color = { 100 100 100 }
+	capital = c_R62G9B218
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_wumptilcrick = {
+	color = { 100 100 100 }
+	capital = c_R222G101B164
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_chruatru = {
+	color = { 100 100 100 }
+	capital = c_R19G218B169
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_eniol_ackir = {
+	color = { 100 100 100 }
+	capital = c_R157G224B9
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+

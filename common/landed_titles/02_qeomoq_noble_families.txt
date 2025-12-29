@@ -1,0 +1,19 @@
+@never_primary_score = -1000
+
+# Qeomoq Noble Family - Test Title
+# For celestial_government with east_asian_estate domicile
+c_nf_qeomoq_paviom = {
+	color = { 100 130 160 }
+	capital = c_R51G174B230
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+

@@ -1,5 +1,4 @@
-﻿
-### Brief: feudal_government
+﻿### Brief: feudal_government
 #
 # This is referenced in code
 #
@@ -10,21 +9,21 @@ feudal_government = {
 		dynasty_named_realms = yes
 		legitimacy = yes
 	}
-
 	royal_court = any
-
 	fallback = 1
-
 	primary_holding = castle_holding
-	valid_holdings = { temple_citadel_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
+	valid_holdings = {
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+		city_holding
+		church_holding
+	}
 	vassal_contract_group = feudal_vassal
-
 	ai = {
 		use_legends = yes
 	}
-
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_is_feudal
@@ -33,23 +32,39 @@ feudal_government = {
 		government_uses_crown_authority
 		government_uses_domain_limit
 	}
-
 	mechanic_type = feudal
 	is_mechanic_type_default = yes
-
-	color = hsv{ 0.67 1.00 0.78 }
-	realm_mask_offset = { 0.0 0.01 }
-	realm_mask_scale = { 1 1 }
+	color = {
+		0.67
+		1
+		0.78
+	}
+	realm_mask_offset = {
+		0
+		0.01
+	}
+	realm_mask_scale = {
+		1
+		1
+	}
+	character_modifier = {
+        defender_advantage = 5
+	}
 }
 
 republic_government = {
 	primary_holding = city_holding
-	valid_holdings = { castle_holding }
-	required_county_holdings = { city_holding castle_holding church_holding }
+	valid_holdings = {
+		castle_holding
+	}
+	required_county_holdings = {
+		city_holding
+		castle_holding
+		church_holding
+	}
 	government_rules = {
 		inherit_from_dynastic_government = no
 	}
-
 	ai = {
 		arrange_marriage = no
 		use_goals = no
@@ -57,19 +72,26 @@ republic_government = {
 		perform_religious_reformation = no
 		use_legends = no
 	}
-
 	vassal_contract_group = republic_vassal
-
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_is_republic
 		government_is_settled
 		government_uses_domain_limit
 	}
-
-	color = hsv{ 0.00 1.00 0.98 }
-	realm_mask_offset = { 0.0 -0.01 }
-	realm_mask_scale = { 1 1 }
+	color = {
+		0
+		1
+		0.98
+	}
+	realm_mask_offset = {
+		0
+		-0.01
+	}
+	realm_mask_scale = {
+		1
+		1
+	}
 }
 
 ### Brief: theocracy_government
@@ -82,18 +104,27 @@ theocracy_government = {
 		religious = yes
 		inherit_from_dynastic_government = no
 	}
-
 	primary_holding = church_holding
-	valid_holdings = { castle_holding tribal_holding nomad_holding herder_holding temple_citadel_holding }
-	required_county_holdings = { church_holding castle_holding city_holding }
-
+	valid_holdings = {
+		castle_holding
+		tribal_holding
+		nomad_holding
+		herder_holding
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		church_holding
+		castle_holding
+		city_holding
+	}
 	ai = {
 		use_legends = no
 	}
-
 	can_get_government = {
 		NOT = {
-			faith = { has_doctrine = doctrine_theocracy_lay_clergy }
+			faith = {
+				has_doctrine = doctrine_theocracy_lay_clergy
+			}
 		}
 		#The LAAMP Construct Holding decision
 		trigger_if = {
@@ -106,233 +137,308 @@ theocracy_government = {
 			always = no
 		}
 	}
-
 	vassal_contract_group = theocracy_vassal
-
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_is_theocracy
 		government_is_settled
 		government_uses_domain_limit
 	}
-
 	mechanic_type = theocracy
 	is_mechanic_type_default = yes
-
-	color = hsv{ 0.00 0.00 0.78 }
-	realm_mask_offset = { 0.0 0.02 }
-	realm_mask_scale = { 0.95 0.95 }
+	color = {
+		0
+		0
+		0.78
+	}
+	realm_mask_offset = {
+		0
+		0.02
+	}
+	realm_mask_scale = {
+		0.95
+		0.95
+	}
 }
 
-
-ineoism_mandala = {
-	government_rules = {
-		create_cadet_branches = yes
-
-		rulers_should_have_dynasty = yes
-		dynasty_named_realms = yes
-
-		legitimacy = yes
-		use_as_base_on_landed = yes
-		use_as_base_on_rank_up = yes
-		inherit_from_dynastic_government = no
-		sticky_government = yes
-		house_aspirations = yes
-		considers_piety_for_title_creation = yes
-		ask_for_tribute = yes
-
-		deny_powerful_vassal = yes #LET HAVOC ENSUE!
-
-		count_tributaries_for_title_requirements = yes
-		radiance = yes
-	}
-
-	royal_court = yes
-
-	
-	primary_holding = castle_holding
-	valid_holdings = { church_holding castle_holding temple_citadel_holding }
-	required_county_holdings = { castle_holding }
-
-	can_get_government = {
-		has_tgp_dlc_trigger = yes
-		OR = {
-			liege ?= { has_government = ineoism_mandala }
-			is_independent_ruler = yes
-		}
-		# Religion check matching preferred_religions
-		OR = {
-			religion = religion:internalmail
-		}
-	}
-
-	vassal_contract_group = mandala_vassal
-	# Religion-based binding ONLY (NOT heritages!)
-	# Gleuncti split: internalmail (peaceful temples) vs sillysubject (Chormana knights)
-	# All 5 Gleuncti heritages shared between both religions
-	preferred_religions = { internalmail }
-
-	vassal_contract_group = mandala_vassal
-
-	ai = {
-		use_legends = yes
-	}
-
-	currency_levels_cap = {
-		piety = 8
-	}
-
-	flags = {
-		uses_mandala_aspects
-		uses_mandala_decrees
-		government_is_mandala
-		government_is_ineoism_mandala
-		has_coerce_tributary_scheme
-		additional_piety_from_religious_buildings
-		can_perform_ritual_contracts
-		subjects_gain_piety_based_on_overlord_piety_level
-		has_special_house_aspirations
-		government_is_settled
-		has_unique_government_perks
-		no_powerful_vassals
-	}
-
-	mechanic_type = mandala
-	is_mechanic_type_default = yes
-
-	color = hsv{ 0.52 0.40 0.70 }  # Blue-green (peaceful)
-	
-	# Use vanilla mandala positioning
-	realm_mask_offset = { 0.0 0.05 }
-	realm_mask_scale = { 0.92 0.92 }
-
-	opinion_of_liege = {
-		scope:liege = {
-			if = {
-				limit = { piety_level = max_piety_level_plus_3 }
-				scope:vassal = { value = ineoism_mandala_vassal_opinion_bonus_piety_8_value }
-			}
-			else_if = {
-				limit = { piety_level = max_piety_level_plus_2 }
-				scope:vassal = { value = ineoism_mandala_vassal_opinion_bonus_piety_7_value }
-			}
-			else_if = {
-				limit = { piety_level = max_piety_level_plus_1 }
-				scope:vassal = { value = ineoism_mandala_vassal_opinion_bonus_piety_6_value }
-			}
-			else_if = {
-				limit = { piety_level = max_piety_level }
-				scope:vassal = { value = ineoism_mandala_vassal_opinion_bonus_piety_5_value }
-			}
-			else_if = {
-				limit = { piety_level = very_high_piety_level }
-				scope:vassal = { value = ineoism_mandala_vassal_opinion_bonus_piety_4_value }
-			}
-			else_if = {
-				limit = { piety_level = high_piety_level }
-				scope:vassal = { value = ineoism_mandala_vassal_opinion_bonus_piety_3_value }
-			}
-			else_if = {
-				limit = { piety_level = medium_piety_level }
-				scope:vassal = { value = ineoism_mandala_vassal_opinion_bonus_piety_2_value }
-			}
-			else_if = {
-				limit = { piety_level = low_piety_level }
-				scope:vassal = { value = ineoism_mandala_vassal_opinion_bonus_piety_1_value }
-			}
-			else_if = {
-				limit = { piety_level = low_negative_piety_level }
-				scope:vassal = { value = ineoism_mandala_vassal_opinion_bonus_piety_0_value }
-			}
-		}
-	}
-	opinion_of_liege_desc = { desc = liege_piety_level_desc }
-
-	opinion_of_suzerain = {
-		scope:suzerain = {
-			if = {
-				limit = { piety_level = max_piety_level_plus_3 }
-				scope:tributary = { value = ineoism_mandala_tributary_opinion_bonus_piety_8_value }
-			}
-			else_if = {
-				limit = { piety_level = max_piety_level_plus_2 }
-				scope:tributary = { value = ineoism_mandala_tributary_opinion_bonus_piety_7_value }
-			}
-			else_if = {
-				limit = { piety_level = max_piety_level_plus_1 }
-				scope:tributary = { value = ineoism_mandala_tributary_opinion_bonus_piety_6_value }
-			}
-			else_if = {
-				limit = { piety_level = max_piety_level }
-				scope:tributary = { value = ineoism_mandala_tributary_opinion_bonus_piety_5_value }
-			}
-			else_if = {
-				limit = { piety_level = very_high_piety_level }
-				scope:tributary = { value = ineoism_mandala_tributary_opinion_bonus_piety_4_value }
-			}
-			else_if = {
-				limit = { piety_level = high_piety_level }
-				scope:tributary = { value = ineoism_mandala_tributary_opinion_bonus_piety_3_value }
-			}
-			else_if = {
-				limit = { piety_level = medium_piety_level }
-				scope:tributary = { value = ineoism_mandala_tributary_opinion_bonus_piety_2_value }
-			}
-			else_if = {
-				limit = { piety_level = low_piety_level }
-				scope:tributary = { value = ineoism_mandala_tributary_opinion_bonus_piety_1_value }
-			}
-			else_if = {
-				limit = { piety_level = low_negative_piety_level }
-				scope:tributary = { value = ineoism_mandala_tributary_opinion_bonus_piety_0_value }
-			}
-		}
-	}
-	opinion_of_suzerain_desc = { desc = suzerain_piety_level_desc }
-
-	character_modifier = {
-		clergy_opinion = 5
-		zealot_opinion = 5
-		domain_limit_max = 1
-
-		#Vassal Limit Max:
-		#Base:
-		vassal_limit_max = 2
-		#Increased with Mandala Temple Complex up to 30
-		#Further 35 possible from Piety Levels 6-8 for a total of 65
-		zealot_tax_contribution_mult = 0.05
-		zealot_levy_contribution_mult = 0.05
-		# PIETY (spiritual authority)
-		monthly_piety_gain_mult = 0.15               # +15% piety
-        domain_limit = -1  
-		knight_effectiveness_mult = -0.1                          # -1 domain
-		# LEARNING (scholarly temples)
-		learning = 1                                  # +2 learning
-		intrigue = -2
-		# DEVELOPMENT (temple cities)
-		monthly_county_control_growth_factor = 0.05   # +10% control
-		development_growth_factor = 0.05              # +5% development
-		title_creation_cost_mult = -0.1
-		short_reign_duration_mult = -0.1           # % short reign duration
-		long_reign_bonus_mult = 0.1               # % long reign bonus
-		# PEACEFUL
-		diplomatic_range_mult = 0.10                  # +10% diplomatic range
-		
-		# PENALTIES (balanced trade-offs)                       # -1 domain
-	}
-
-}
-
-
-
+# ineoism_mandala = {
+# 	government_rules = {
+# 		create_cadet_branches = yes
+# 		rulers_should_have_dynasty = yes
+# 		dynasty_named_realms = yes
+# 		legitimacy = yes
+# 		use_as_base_on_landed = yes
+# 		use_as_base_on_rank_up = yes
+# 		inherit_from_dynastic_government = no
+# 		sticky_government = yes
+# 		house_aspirations = yes
+# 		considers_piety_for_title_creation = yes
+# 		ask_for_tribute = yes
+# 		deny_powerful_vassal = yes		#LET HAVOC ENSUE!
+# 		count_tributaries_for_title_requirements = yes
+# 		radiance = yes
+# 	}
+# 	royal_court = yes
+# 	primary_holding = castle_holding
+# 	valid_holdings = {
+# 		church_holding
+# 		castle_holding
+# 		temple_citadel_holding
+# 	}
+# 	required_county_holdings = {
+# 		castle_holding
+# 	}
+# 	can_get_government = {
+# 		has_tgp_dlc_trigger = yes
+# 		OR = {
+# 			liege ?= {
+# 				has_government = ineoism_mandala
+# 			}
+# 			is_independent_ruler = yes
+# 		}
+# 		# Religion check matching preferred_religions
+# 		OR = {
+# 			religion = religion:internalmail
+# 		}
+# 	}
+# 	vassal_contract_group = mandala_vassal
+# 	# Religion-based binding ONLY (NOT heritages!)
+# 	# Gleuncti split: internalmail (peaceful temples) vs sillysubject (Chormana knights)
+# 	# All 5 Gleuncti heritages shared between both religions
+# 	preferred_religions = {
+# 		internalmail
+# 	}
+# 	vassal_contract_group = mandala_vassal
+# 	ai = {
+# 		use_legends = yes
+# 	}
+# 	currency_levels_cap = {
+# 		piety = 8
+# 	}
+# 	flags = {
+# 		uses_mandala_aspects
+# 		uses_mandala_decrees
+# 		government_is_mandala
+# 		government_is_ineoism_mandala
+# 		has_coerce_tributary_scheme
+# 		additional_piety_from_religious_buildings
+# 		can_perform_ritual_contracts
+# 		subjects_gain_piety_based_on_overlord_piety_level
+# 		has_special_house_aspirations
+# 		government_is_settled
+# 		has_unique_government_perks
+# 		no_powerful_vassals
+# 	}
+# 	mechanic_type = mandala
+# 	is_mechanic_type_default = yes
+# 	color = {
+# 		0.52
+# 		0.4
+# 		0.7
+# 	}
+# 	# Blue-green (peaceful)
+# 	# Use vanilla mandala positioning
+# 	realm_mask_offset = {
+# 		0
+# 		0.05
+# 	}
+# 	realm_mask_scale = {
+# 		0.92
+# 		0.92
+# 	}
+# 	opinion_of_liege = {
+# 		scope:liege = {
+# 			if = {
+# 				limit = {
+# 					piety_level = max_piety_level_plus_3
+# 				}
+# 				scope:vassal = {
+# 					value = ineoism_mandala_vassal_opinion_bonus_piety_8_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = max_piety_level_plus_2
+# 				}
+# 				scope:vassal = {
+# 					value = ineoism_mandala_vassal_opinion_bonus_piety_7_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = max_piety_level_plus_1
+# 				}
+# 				scope:vassal = {
+# 					value = ineoism_mandala_vassal_opinion_bonus_piety_6_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = max_piety_level
+# 				}
+# 				scope:vassal = {
+# 					value = ineoism_mandala_vassal_opinion_bonus_piety_5_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = very_high_piety_level
+# 				}
+# 				scope:vassal = {
+# 					value = ineoism_mandala_vassal_opinion_bonus_piety_4_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = high_piety_level
+# 				}
+# 				scope:vassal = {
+# 					value = ineoism_mandala_vassal_opinion_bonus_piety_3_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = medium_piety_level
+# 				}
+# 				scope:vassal = {
+# 					value = ineoism_mandala_vassal_opinion_bonus_piety_2_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = low_piety_level
+# 				}
+# 				scope:vassal = {
+# 					value = ineoism_mandala_vassal_opinion_bonus_piety_1_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = low_negative_piety_level
+# 				}
+# 				scope:vassal = {
+# 					value = ineoism_mandala_vassal_opinion_bonus_piety_0_value
+# 				}
+# 			}
+# 		}
+# 	}
+# 	opinion_of_liege_desc = {
+# 		desc = liege_piety_level_desc
+# 	}
+# 	opinion_of_suzerain = {
+# 		scope:suzerain = {
+# 			if = {
+# 				limit = {
+# 					piety_level = max_piety_level_plus_3
+# 				}
+# 				scope:tributary = {
+# 					value = ineoism_mandala_tributary_opinion_bonus_piety_8_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = max_piety_level_plus_2
+# 				}
+# 				scope:tributary = {
+# 					value = ineoism_mandala_tributary_opinion_bonus_piety_7_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = max_piety_level_plus_1
+# 				}
+# 				scope:tributary = {
+# 					value = ineoism_mandala_tributary_opinion_bonus_piety_6_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = max_piety_level
+# 				}
+# 				scope:tributary = {
+# 					value = ineoism_mandala_tributary_opinion_bonus_piety_5_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = very_high_piety_level
+# 				}
+# 				scope:tributary = {
+# 					value = ineoism_mandala_tributary_opinion_bonus_piety_4_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = high_piety_level
+# 				}
+# 				scope:tributary = {
+# 					value = ineoism_mandala_tributary_opinion_bonus_piety_3_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = medium_piety_level
+# 				}
+# 				scope:tributary = {
+# 					value = ineoism_mandala_tributary_opinion_bonus_piety_2_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = low_piety_level
+# 				}
+# 				scope:tributary = {
+# 					value = ineoism_mandala_tributary_opinion_bonus_piety_1_value
+# 				}
+# 			}
+# 			else_if = {
+# 				limit = {
+# 					piety_level = low_negative_piety_level
+# 				}
+# 				scope:tributary = {
+# 					value = ineoism_mandala_tributary_opinion_bonus_piety_0_value
+# 				}
+# 			}
+# 		}
+# 	}
+# 	opinion_of_suzerain_desc = {
+# 		desc = suzerain_piety_level_desc
+# 	}
+# 	character_modifier = {
+# 		clergy_opinion = 5
+# 		zealot_opinion = 5
+# 		domain_limit_max = 1
+# 		#Vassal Limit Max:
+# 		#Base:
+# 		vassal_limit_max = 2
+# 		#Increased with Mandala Temple Complex up to 30
+# 		#Further 35 possible from Piety Levels 6-8 for a total of 65
+# 		zealot_tax_contribution_mult = 0.05
+# 		zealot_levy_contribution_mult = 0.05
+# 		# PIETY (spiritual authority)
+# 		monthly_piety_gain_mult = 0.15		# +15% piety
+# 		domain_limit = -1
+# 		knight_effectiveness_mult = -0.1		# -1 domain
+# 		# LEARNING (scholarly temples)
+# 		learning = 1		# +2 learning
+# 		intrigue = -2
+# 		# DEVELOPMENT (temple cities)
+# 		monthly_county_control_growth_factor = 0.05		# +10% control
+# 		development_growth_factor = 0.05		# +5% development
+# 		title_creation_cost_mult = -0.1
+# 		short_reign_duration_mult = -0.1		# % short reign duration
+# 		long_reign_bonus_mult = 0.1		# % long reign bonus
+# 		# PEACEFUL
+# 		diplomatic_range_mult = 0.1		# +10% diplomatic range
+# 		# PENALTIES (balanced trade-offs)                       # -1 domain
+# 	}
+# }
 
 kioq_mandala = {
 	government_rules = {
 		create_cadet_branches = yes
-
 		rulers_should_have_dynasty = yes
 		dynasty_named_realms = yes
-
 		legitimacy = yes
 		use_as_base_on_landed = yes
 		use_as_base_on_rank_up = yes
@@ -341,23 +447,27 @@ kioq_mandala = {
 		house_aspirations = yes
 		considers_piety_for_title_creation = yes
 		ask_for_tribute = yes
-
-		deny_powerful_vassal = yes #LET HAVOC ENSUE!
-
+		deny_powerful_vassal = yes		#LET HAVOC ENSUE!
 		count_tributaries_for_title_requirements = yes
 		radiance = yes
+		regiments_prestige_as_gold = yes
 	}
-
 	royal_court = any
-
 	primary_holding = castle_holding
-	valid_holdings = { church_holding castle_holding temple_citadel_holding }
-	required_county_holdings = { castle_holding }
-
+	valid_holdings = {
+		church_holding
+		castle_holding
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+	}
 	can_get_government = {
 		has_tgp_dlc_trigger = yes
 		OR = {
-			liege ?= { has_government = kioq_mandala }
+			liege ?= {
+				has_government = kioq_mandala
+			}
 			is_independent_ruler = yes
 		}
 		# Religion check matching preferred_religions
@@ -367,130 +477,199 @@ kioq_mandala = {
 			religion = religion:prettytax
 		}
 	}
-
 	# Two-factor binding (unified Kioq population)
-	preferred_religions = { exemplarymeaning directjoin prettytax }
+	preferred_religions = {
+		exemplarymeaning
+		directjoin
+		prettytax
+	}
 	primary_heritages = {
 		heritage_cccrespectfulcelebration_seed
 		heritage_cccupsetextension_seed
 		heritage_cccenvioustale_seed
 	}
-
 	vassal_contract_group = mandala_vassal
-
 	opinion_of_liege = {
 		scope:liege = {
 			if = {
-				limit = { piety_level = max_piety_level_plus_3 }
-				scope:vassal = { value = kioq_mandala_vassal_opinion_bonus_piety_8_value }
+				limit = {
+					piety_level = max_piety_level_plus_3
+				}
+				scope:vassal = {
+					value = kioq_mandala_vassal_opinion_bonus_piety_8_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level_plus_2 }
-				scope:vassal = { value = kioq_mandala_vassal_opinion_bonus_piety_7_value }
+				limit = {
+					piety_level = max_piety_level_plus_2
+				}
+				scope:vassal = {
+					value = kioq_mandala_vassal_opinion_bonus_piety_7_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level_plus_1 }
-				scope:vassal = { value = kioq_mandala_vassal_opinion_bonus_piety_6_value }
+				limit = {
+					piety_level = max_piety_level_plus_1
+				}
+				scope:vassal = {
+					value = kioq_mandala_vassal_opinion_bonus_piety_6_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level }
-				scope:vassal = { value = kioq_mandala_vassal_opinion_bonus_piety_5_value }
+				limit = {
+					piety_level = max_piety_level
+				}
+				scope:vassal = {
+					value = kioq_mandala_vassal_opinion_bonus_piety_5_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = very_high_piety_level }
-				scope:vassal = { value = kioq_mandala_vassal_opinion_bonus_piety_4_value }
+				limit = {
+					piety_level = very_high_piety_level
+				}
+				scope:vassal = {
+					value = kioq_mandala_vassal_opinion_bonus_piety_4_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = high_piety_level }
-				scope:vassal = { value = kioq_mandala_vassal_opinion_bonus_piety_3_value }
+				limit = {
+					piety_level = high_piety_level
+				}
+				scope:vassal = {
+					value = kioq_mandala_vassal_opinion_bonus_piety_3_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = medium_piety_level }
-				scope:vassal = { value = kioq_mandala_vassal_opinion_bonus_piety_2_value }
+				limit = {
+					piety_level = medium_piety_level
+				}
+				scope:vassal = {
+					value = kioq_mandala_vassal_opinion_bonus_piety_2_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = low_piety_level }
-				scope:vassal = { value = kioq_mandala_vassal_opinion_bonus_piety_1_value }
+				limit = {
+					piety_level = low_piety_level
+				}
+				scope:vassal = {
+					value = kioq_mandala_vassal_opinion_bonus_piety_1_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = low_negative_piety_level }
-				scope:vassal = { value = kioq_mandala_vassal_opinion_bonus_piety_0_value }
+				limit = {
+					piety_level = low_negative_piety_level
+				}
+				scope:vassal = {
+					value = kioq_mandala_vassal_opinion_bonus_piety_0_value
+				}
 			}
 		}
 	}
-	opinion_of_liege_desc = { desc = liege_piety_level_desc }
-
+	opinion_of_liege_desc = {
+		desc = liege_piety_level_desc
+	}
 	opinion_of_suzerain = {
 		scope:suzerain = {
 			if = {
-				limit = { piety_level = max_piety_level_plus_3 }
-				scope:tributary = { value = kioq_mandala_tributary_opinion_bonus_piety_8_value }
+				limit = {
+					piety_level = max_piety_level_plus_3
+				}
+				scope:tributary = {
+					value = kioq_mandala_tributary_opinion_bonus_piety_8_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level_plus_2 }
-				scope:tributary = { value = kioq_mandala_tributary_opinion_bonus_piety_7_value }
+				limit = {
+					piety_level = max_piety_level_plus_2
+				}
+				scope:tributary = {
+					value = kioq_mandala_tributary_opinion_bonus_piety_7_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level_plus_1 }
-				scope:tributary = { value = kioq_mandala_tributary_opinion_bonus_piety_6_value }
+				limit = {
+					piety_level = max_piety_level_plus_1
+				}
+				scope:tributary = {
+					value = kioq_mandala_tributary_opinion_bonus_piety_6_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level }
-				scope:tributary = { value = kioq_mandala_tributary_opinion_bonus_piety_5_value }
+				limit = {
+					piety_level = max_piety_level
+				}
+				scope:tributary = {
+					value = kioq_mandala_tributary_opinion_bonus_piety_5_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = very_high_piety_level }
-				scope:tributary = { value = kioq_mandala_tributary_opinion_bonus_piety_4_value }
+				limit = {
+					piety_level = very_high_piety_level
+				}
+				scope:tributary = {
+					value = kioq_mandala_tributary_opinion_bonus_piety_4_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = high_piety_level }
-				scope:tributary = { value = kioq_mandala_tributary_opinion_bonus_piety_3_value }
+				limit = {
+					piety_level = high_piety_level
+				}
+				scope:tributary = {
+					value = kioq_mandala_tributary_opinion_bonus_piety_3_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = medium_piety_level }
-				scope:tributary = { value = kioq_mandala_tributary_opinion_bonus_piety_2_value }
+				limit = {
+					piety_level = medium_piety_level
+				}
+				scope:tributary = {
+					value = kioq_mandala_tributary_opinion_bonus_piety_2_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = low_piety_level }
-				scope:tributary = { value = kioq_mandala_tributary_opinion_bonus_piety_1_value }
+				limit = {
+					piety_level = low_piety_level
+				}
+				scope:tributary = {
+					value = kioq_mandala_tributary_opinion_bonus_piety_1_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = low_negative_piety_level }
-				scope:tributary = { value = kioq_mandala_tributary_opinion_bonus_piety_0_value }
+				limit = {
+					piety_level = low_negative_piety_level
+				}
+				scope:tributary = {
+					value = kioq_mandala_tributary_opinion_bonus_piety_0_value
+				}
 			}
 		}
 	}
-	opinion_of_suzerain_desc = { desc = suzerain_piety_level_desc }
-
+	opinion_of_suzerain_desc = {
+		desc = suzerain_piety_level_desc
+	}
 	character_modifier = {
 		# === JUNGLE WARRIOR-PRIESTS ===
-		jungle_development_growth_factor = 0.15       # Jungle mastery
-		jungle_advantage = 5                          # Jungle combat
-		jungle_travel_danger = jungle_medium_danger_reduction  # Jungle navigation
-		
+		jungle_development_growth_factor = 0.15		# Jungle mastery
+		jungle_advantage = 5		# Jungle combat
+		jungle_travel_danger = 30		# Jungle navigation
 		# === PROWESS-BASED RESPECT (Strength is virtue) ===
-		character_opinion_from_high_prowess_add = 3   # Respect the strong
-		character_opinion_from_low_prowess_add = -3   # Disdain the weak
-		prowess = 1                                   # Personal prowess
-		prowess_per_piety_level = 0.5                 # Holy warrior scaling
-		
+		character_opinion_from_high_prowess_add = 3		# Respect the strong
+		character_opinion_from_low_prowess_add = -3		# Disdain the weak
+		prowess = 1		# Personal prowess
+		prowess_per_piety_level = 0.5		# Holy warrior scaling
 		# === WARRIOR DEVOTION ===
-		knight_effectiveness_mult = 0.10
-		advantage = 1
 		zealot_levy_contribution_mult = 0.15
+
 		monthly_piety_gain_mult = 0.15
-		
 		# === RELIGIOUS AUTHORITY ===
 		clergy_opinion = 5
 		zealot_opinion = 15
-		
 		# === BRUTAL THEOCRACY (Penalties) ===
-		popular_opinion = -10                         # Harsh discipline
-		monthly_income_mult = -0.07                   # Military focus
-		diplomatic_range_mult = -0.3                  # Sacred isolation
-		diplomacy = -2                                # Disdain outsiders
-		dread_baseline_add = 10                       # Fear-based order
-		
+		popular_opinion = -10		# Harsh discipline
+		monthly_income_mult = -0.07		# Military focus
+		diplomatic_range_mult = -0.3		# Sacred isolation
+		diplomacy = -2		# Disdain outsiders
+		dread_baseline_add = 10		# Fear-based order
 		# === ADMINISTRATION ===
 		domain_limit_max = 1
 		monthly_county_control_growth_factor = 0.05
@@ -498,7 +677,6 @@ kioq_mandala = {
 		#Increased with Mandala Temple Complex up to 30
 		#Further 35 possible from Piety Levels 6-8 for a total of 65
 	}
-
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		uses_mandala_aspects
@@ -514,36 +692,37 @@ kioq_mandala = {
 		has_unique_government_perks
 		no_powerful_vassals
 	}
-
 	# These flags only exist for loc and in-game descriptions
-
 	currency_levels_cap = {
 		piety = 8
 	}
-
 	mechanic_type = mandala
 	is_mechanic_type_default = yes
-
-	color = hsv{ 0.05 0.75 0.70 }  # Red-orange (warrior)
-	realm_mask_offset = { 0.0 0.05 }
-	realm_mask_scale = { 0.92 0.92 }
+	color = {
+		0.05
+		0.75
+		0.7
+	}
+	# Red-orange (warrior)
+	realm_mask_offset = {
+		0
+		0.05
+	}
+	realm_mask_scale = {
+		0.92
+		0.92
+	}
 }
-
-
 
 # Livetower Spiritual Mandala Government (04c)
 # Base: Mandala Government (Trails & Treasures DLC)
 # Used by: Floicht (livetower religion - center of Floicht culture)
 # Features: Spiritual temple-citadel states with piety-based authority
-
-
 livetower_spiritual_mandala = {
 	government_rules = {
 		create_cadet_branches = yes
-
 		rulers_should_have_dynasty = yes
 		dynasty_named_realms = yes
-
 		legitimacy = yes
 		use_as_base_on_landed = yes
 		use_as_base_on_rank_up = yes
@@ -552,23 +731,26 @@ livetower_spiritual_mandala = {
 		house_aspirations = yes
 		considers_piety_for_title_creation = yes
 		ask_for_tribute = yes
-
-		deny_powerful_vassal = yes #LET HAVOC ENSUE!
-
+		deny_powerful_vassal = yes		#LET HAVOC ENSUE!
 		count_tributaries_for_title_requirements = yes
 		radiance = yes
 	}
-
 	royal_court = any
-
 	primary_holding = castle_holding
-	valid_holdings = { church_holding castle_holding temple_citadel_holding }
-	required_county_holdings = { castle_holding }
-
+	valid_holdings = {
+		church_holding
+		castle_holding
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+	}
 	can_get_government = {
 		has_tgp_dlc_trigger = yes
 		OR = {
-			liege ?= { has_government = livetower_spiritual_mandala }
+			liege ?= {
+				has_government = livetower_spiritual_mandala
+			}
 			is_independent_ruler = yes
 		}
 		# Religion check matching preferred_religions
@@ -578,11 +760,13 @@ livetower_spiritual_mandala = {
 		}
 		#The LAAMP Construct Holding decision
 	}
-
 	# Two-factor binding (religion + heritages)
 	# Floicht split: livetower (mandala) vs directball (SE clan) vs stainedend (mercenary nomad)
 	# All 3 Floicht heritages shared across religions
-	preferred_religions = { livetower welldocumenteddrawer }
+	preferred_religions = {
+		livetower
+		welldocumenteddrawer
+	}
 	primary_heritages = {
 		heritage_cccdishonestmachine_seed
 		heritage_cccpotableangle_seed
@@ -590,109 +774,182 @@ livetower_spiritual_mandala = {
 		heritage_cccintentionalbackground_seed
 		heritage_ccccorruptnegotiation_seed
 	}
-
 	vassal_contract_group = mandala_vassal
-
 	opinion_of_liege = {
 		scope:liege = {
 			if = {
-				limit = { piety_level = max_piety_level_plus_3 }
-				scope:vassal = { value = livetower_mandala_vassal_opinion_bonus_piety_8_value }
+				limit = {
+					piety_level = max_piety_level_plus_3
+				}
+				scope:vassal = {
+					value = livetower_mandala_vassal_opinion_bonus_piety_8_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level_plus_2 }
-				scope:vassal = { value = livetower_mandala_vassal_opinion_bonus_piety_7_value }
+				limit = {
+					piety_level = max_piety_level_plus_2
+				}
+				scope:vassal = {
+					value = livetower_mandala_vassal_opinion_bonus_piety_7_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level_plus_1 }
-				scope:vassal = { value = livetower_mandala_vassal_opinion_bonus_piety_6_value }
+				limit = {
+					piety_level = max_piety_level_plus_1
+				}
+				scope:vassal = {
+					value = livetower_mandala_vassal_opinion_bonus_piety_6_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level }
-				scope:vassal = { value = livetower_mandala_vassal_opinion_bonus_piety_5_value }
+				limit = {
+					piety_level = max_piety_level
+				}
+				scope:vassal = {
+					value = livetower_mandala_vassal_opinion_bonus_piety_5_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = very_high_piety_level }
-				scope:vassal = { value = livetower_mandala_vassal_opinion_bonus_piety_4_value }
+				limit = {
+					piety_level = very_high_piety_level
+				}
+				scope:vassal = {
+					value = livetower_mandala_vassal_opinion_bonus_piety_4_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = high_piety_level }
-				scope:vassal = { value = livetower_mandala_vassal_opinion_bonus_piety_3_value }
+				limit = {
+					piety_level = high_piety_level
+				}
+				scope:vassal = {
+					value = livetower_mandala_vassal_opinion_bonus_piety_3_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = medium_piety_level }
-				scope:vassal = { value = livetower_mandala_vassal_opinion_bonus_piety_2_value }
+				limit = {
+					piety_level = medium_piety_level
+				}
+				scope:vassal = {
+					value = livetower_mandala_vassal_opinion_bonus_piety_2_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = low_piety_level }
-				scope:vassal = { value = livetower_mandala_vassal_opinion_bonus_piety_1_value }
+				limit = {
+					piety_level = low_piety_level
+				}
+				scope:vassal = {
+					value = livetower_mandala_vassal_opinion_bonus_piety_1_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = low_negative_piety_level }
-				scope:vassal = { value = livetower_mandala_vassal_opinion_bonus_piety_0_value }
+				limit = {
+					piety_level = low_negative_piety_level
+				}
+				scope:vassal = {
+					value = livetower_mandala_vassal_opinion_bonus_piety_0_value
+				}
 			}
 		}
 	}
-	opinion_of_liege_desc = { desc = liege_piety_level_desc }
-
+	opinion_of_liege_desc = {
+		desc = liege_piety_level_desc
+	}
 	opinion_of_suzerain = {
 		scope:suzerain = {
 			if = {
-				limit = { piety_level = max_piety_level_plus_3 }
-				scope:tributary = { value = livetower_mandala_tributary_opinion_bonus_piety_8_value }
+				limit = {
+					piety_level = max_piety_level_plus_3
+				}
+				scope:tributary = {
+					value = livetower_mandala_tributary_opinion_bonus_piety_8_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level_plus_2 }
-				scope:tributary = { value = livetower_mandala_tributary_opinion_bonus_piety_7_value }
+				limit = {
+					piety_level = max_piety_level_plus_2
+				}
+				scope:tributary = {
+					value = livetower_mandala_tributary_opinion_bonus_piety_7_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level_plus_1 }
-				scope:tributary = { value = livetower_mandala_tributary_opinion_bonus_piety_6_value }
+				limit = {
+					piety_level = max_piety_level_plus_1
+				}
+				scope:tributary = {
+					value = livetower_mandala_tributary_opinion_bonus_piety_6_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = max_piety_level }
-				scope:tributary = { value = livetower_mandala_tributary_opinion_bonus_piety_5_value }
+				limit = {
+					piety_level = max_piety_level
+				}
+				scope:tributary = {
+					value = livetower_mandala_tributary_opinion_bonus_piety_5_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = very_high_piety_level }
-				scope:tributary = { value = livetower_mandala_tributary_opinion_bonus_piety_4_value }
+				limit = {
+					piety_level = very_high_piety_level
+				}
+				scope:tributary = {
+					value = livetower_mandala_tributary_opinion_bonus_piety_4_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = high_piety_level }
-				scope:tributary = { value = livetower_mandala_tributary_opinion_bonus_piety_3_value }
+				limit = {
+					piety_level = high_piety_level
+				}
+				scope:tributary = {
+					value = livetower_mandala_tributary_opinion_bonus_piety_3_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = medium_piety_level }
-				scope:tributary = { value = livetower_mandala_tributary_opinion_bonus_piety_2_value }
+				limit = {
+					piety_level = medium_piety_level
+				}
+				scope:tributary = {
+					value = livetower_mandala_tributary_opinion_bonus_piety_2_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = low_piety_level }
-				scope:tributary = { value = livetower_mandala_tributary_opinion_bonus_piety_1_value }
+				limit = {
+					piety_level = low_piety_level
+				}
+				scope:tributary = {
+					value = livetower_mandala_tributary_opinion_bonus_piety_1_value
+				}
 			}
 			else_if = {
-				limit = { piety_level = low_negative_piety_level }
-				scope:tributary = { value = livetower_mandala_tributary_opinion_bonus_piety_0_value }
+				limit = {
+					piety_level = low_negative_piety_level
+				}
+				scope:tributary = {
+					value = livetower_mandala_tributary_opinion_bonus_piety_0_value
+				}
 			}
 		}
 	}
-	opinion_of_suzerain_desc = { desc = suzerain_piety_level_desc }
-
+	opinion_of_suzerain_desc = {
+		desc = suzerain_piety_level_desc
+	}
 	character_modifier = {
 		clergy_opinion = 5
 		zealot_opinion = 5
-        mercenary_hire_cost_mult = -0.4
+		mercenary_hire_cost_mult = -0.4
 		different_culture_opinion = 15
 		#Vassal Limit Max:
 		#Base:
+		jungle_advantage = 3
+		defender_advantage = 5
 		vassal_limit_max = 2
-		epidemic_resistance = 10
+		epidemic_resistance = 20
 		#Increased with Mandala Temple Complex up to 30
 		#Further 35 possible from Piety Levels 6-8 for a total of 65
 		zealot_tax_contribution_mult = 0.05
 		zealot_levy_contribution_mult = 0.05
 		monthly_piety_gain_mult = 0.15
 	}
-
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		uses_mandala_aspects
@@ -708,32 +965,41 @@ livetower_spiritual_mandala = {
 		has_unique_government_perks
 		no_powerful_vassals
 	}
-
 	# These flags only exist for loc and in-game descriptions
-
 	currency_levels_cap = {
 		piety = 8
 	}
-
 	mechanic_type = mandala
 	is_mechanic_type_default = yes
-
-	color = hsv{ 0.78 0.60 0.70 }  # Purple (spiritual)
-	realm_mask_offset = { 0.0 0.05 }
-	realm_mask_scale = { 0.92 0.92 }
+	color = {
+		0.78
+		0.6
+		0.7
+	}
+	# Purple (spiritual)
+	realm_mask_offset = {
+		0
+		0.05
+	}
+	realm_mask_scale = {
+		0.92
+		0.92
+	}
 }
-
-
-
 
 republic_government = {
 	primary_holding = city_holding
-	valid_holdings = { castle_holding }
-	required_county_holdings = { city_holding castle_holding church_holding }
+	valid_holdings = {
+		castle_holding
+	}
+	required_county_holdings = {
+		city_holding
+		castle_holding
+		church_holding
+	}
 	government_rules = {
 		inherit_from_dynastic_government = no
 	}
-
 	ai = {
 		arrange_marriage = no
 		use_goals = no
@@ -741,19 +1007,26 @@ republic_government = {
 		perform_religious_reformation = no
 		use_legends = no
 	}
-
 	vassal_contract_group = republic_vassal
-
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_is_republic
 		government_is_settled
 		government_uses_domain_limit
 	}
-
-	color = hsv{ 0.00 1.00 0.98 }
-	realm_mask_offset = { 0.0 -0.01 }
-	realm_mask_scale = { 1 1 }
+	color = {
+		0
+		1
+		0.98
+	}
+	realm_mask_offset = {
+		0
+		-0.01
+	}
+	realm_mask_scale = {
+		1
+		1
+	}
 }
 
 aigl_chormana_government = {
@@ -771,40 +1044,41 @@ aigl_chormana_government = {
 		house_aspirations = yes
 		subject_men_at_arms = yes
 		noble_families = yes
-		
 		# ADVANCEMENT (vs vanilla nomad)
 		affected_by_development = yes
 		buildings = yes
+		regiments_prestige_as_gold = yes		# Can hire MAA with prestige
 	}
-
-	
 	royal_court = any
-	
-	domicile_type = east_asian_estate
-	
+	domicile_type = yurt
 	primary_holding = castle_holding
-	valid_holdings = { castle_holding tribal_holding temple_citadel_holding }
-	required_county_holdings = { castle_holding }
-	
+	valid_holdings = {
+		castle_holding
+		tribal_holding
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+	}
 	can_get_government = {
 		has_ep3_dlc_trigger = yes
+		OR = {
+			faith = faith:beautifulpain_faith
+			faith = faith:unlinedbrother_faith
+		}
 	}
-	
 	generated_character_template = nomadic_chieftain_character
-	
 	max_dread = 150
-	
 	vassal_contract_group = nomad_vassal
-	
 	# Link to Aigl religion via warmonger heritages
 	# After population swap: Non-Aiblia Aigl heritages = only warmonger faiths
-	preferred_religions = { glasscommon }
-	
-	primary_heritages = {
-		heritage_ccccarefreebase_seed	# beautifulpain_faith (warmonger)
-		heritage_ccchotstatement_seed	# unlinedbrother_faith (unrelenting)
+	preferred_religions = {
+		glasscommon
 	}
-	
+	primary_heritages = {
+		heritage_ccccarefreebase_seed		# beautifulpain_faith (warmonger)
+		heritage_ccchotstatement_seed		# unlinedbrother_faith (unrelenting)
+	}
 	character_modifier = {
 		# MODERATE LEVY PENALTIES
 		levy_size = -0.25
@@ -814,51 +1088,39 @@ aigl_chormana_government = {
 		clan_government_levy_contribution_mult = -0.5
 		tribal_government_tax_contribution_mult = -0.5
 		tribal_government_levy_contribution_mult = -0.5
-		
-		# EXPENSIVE MERCENARIES
-		mercenary_hire_cost_mult = 2
-		
 		# ECONOMIC PENALTIES (HEAVY!)
-		holding_build_gold_cost = 0.20
-		development_growth_factor = -0.20
-		
+		holding_build_gold_cost = 0.25
+		development_growth_factor = -0.2
 		# DOMAIN & STABILITY
 		domain_limit = -1
-		county_opinion_add = 10							# Moderate (aggressive but unified)
-		
+		county_opinion_add = 10		# Moderate (aggressive but unified)
 		# CULTURAL TOLERANCE
 		ignore_negative_opinion_of_culture = yes
-		
 		# AGGRESSIVE AI
-		ai_war_cooldown = -0.6							# Very aggressive
-		ai_war_chance = 2.5								# Higher war chance
-		
+		ai_war_cooldown = -0.6		# Very aggressive
+		ai_war_chance = 2.5		# Higher war chance
 		# ECONOMIC
 		title_creation_cost_mult = -0.5
 		supply_duration = 1
-		
 		# TONED DOWN KNIGHTS
 		knight_limit = 1
-		knight_effectiveness_mult = 0.10
-		
+		knight_effectiveness_mult = 0.05
 		# UNITY (same faith, NO intolerance penalty)
 		same_faith_opinion = 10
-		
 		# AGGRESSIVE RAIDING
-		movement_speed = 0.10
+		movement_speed = 0.1
 		movement_speed_land_raiding = 0.12
-		
 		# TERRAIN
 		desert_advantage = 3
 		hills_advantage = 3
-		
 		# MAA (balanced)
 		men_at_arms_cap = 1
-		men_at_arms_maintenance = -0.15
+		men_at_arms_maintenance = -0.04
+		monthly_prestige_gain_mult = -0.05		# Prestige invested in warriors
 	}
-	
 	flags = {
 		government_is_nomadic
+		# government_is_japan_feudal 
 		government_is_chormana
 		government_can_raid_rule
 		government_can_use_tributary_men_at_arms
@@ -870,56 +1132,62 @@ aigl_chormana_government = {
 		government_uses_domicile_but_not_adventurer
 		has_special_house_aspirations
 	}
-	
-	mechanic_type = aigl_chormana
+	mechanic_type = nomad
 	is_mechanic_type_default = yes
-	
-	color = { 200 80 80 }								# Red (militant/aggressive)
-	realm_mask_offset = { 0.0 0.12 }
-	realm_mask_scale = { 0.8 0.8 }
+	color = {
+		200
+		80
+		80
+	}
+	# Red (militant/aggressive)
+	realm_mask_offset = {
+		0
+		0.12
+	}
+	realm_mask_scale = {
+		0.8
+		0.8
+	}
 }
-
-
 
 # Aigl Stormlander Government
 # Coastal storm-adapted warriors thriving in harsh weather and difficult terrain
-
 aigl_feudal_government = {
 	government_rules = {
 		create_cadet_branches = yes
 		rulers_should_have_dynasty = yes
 		dynasty_named_realms = yes
 		legitimacy = yes
+		regiments_prestige_as_gold = yes		# Can hire MAA with prestige (like tribal)
 		use_as_base_on_landed = yes
 		dynasty_named_non_independent_landed_rulers = yes
 	}
-
 	royal_court = any
-
 	fallback = 1
-	
 	primary_holding = castle_holding
-	valid_holdings = { temple_citadel_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
+	valid_holdings = {
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+		city_holding
+		church_holding
+	}
 	can_get_government = {
 		always = yes
 	}
-
 	# Link to Aigl religion via Aiblia heritage (maritime peaceful)
 	# After population swap: Aiblia = only peaceful faiths
-	preferred_religions = { glasscommon }
-	
+	preferred_religions = {
+		glasscommon
+	}
 	primary_heritages = {
 		heritage_cccleafysun_seed		# Aiblia maritime (all peaceful faiths)
 	}
-
 	vassal_contract_group = feudal_vassal
-
 	ai = {
 		use_legends = yes
 	}
-
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_is_feudal
@@ -931,72 +1199,67 @@ aigl_feudal_government = {
 		government_uses_domain_limit
 		government_is_aigl
 	}
-
 	mechanic_type = feudal
-
-
 	# Aigl writing system color (stormy grey-blue)
-	color = hsv{ 0.55 0.40 0.65 }
-	
+	color = {
+		0.55
+		0.4
+		0.65
+	}
 	# Use vanilla feudal realm frame settings
-	realm_mask_offset = { 0.0 0.01 }
-	realm_mask_scale = { 1 1 }
+	realm_mask_offset = {
+		0
+		0.01
+	}
+	realm_mask_scale = {
+		1
+		1
+	}
 	max_dread = 120
-	
 	character_modifier = {
 		# BONUSES: Naval capabilities (coastal scavengers)
-		embarkation_cost_mult = -0.45              # 35% cheaper embarkation
-		naval_movement_speed_mult = 0.15           # 15% faster naval movement
-		coastal_sea_travel_danger = -30            # Safer coastal travel
-		sea_travel_danger = -30                    # Safer sea travel
-		
+		embarkation_cost_mult = -0.45		# 35% cheaper embarkation
+		naval_movement_speed_mult = 0.15		# 15% faster naval movement
+		coastal_sea_travel_danger = -30		# Safer coastal travel
+		sea_travel_danger = -30		# Safer sea travel
 		# BONUSES: Military efficiency
-		knight_effectiveness_mult = 0.10           # 10% better knights
-		men_at_arms_maintenance = -0.15            # 15% cheaper MAA
-		
+		knight_effectiveness_mult = 0.12		# 10% better knights
+		men_at_arms_maintenance = -0.06	
 		# BONUSES: Crafty & cunning (scavenger traits)
-		intrigue = 1                               # +1 intrigue (cunning opportunists)
-		prowess = 1                                # +1 prowess (hardy warriors)
-		character_opinion_from_high_prowess_add = 2   # +2 opinion from high-prowess characters
-		character_opinion_from_low_prowess_add = -2   # -2 opinion from low-prowess characters
-		
-		winter_supply_limit = 0.30 
-		# === WETLANDS & STORM-FLOODED TERRAIN (niche combat advantage) ===
-		wetlands_advantage = 1                      # +1 advantage in wetlands (storm flooding)
-		floodplains_advantage = 1                   # +1 advantage in floodplains (storm flooding)
-		taiga_advantage = 1                         # +1 advantage in taiga
+		intrigue = 1		# +1 intrigue (cunning opportunists)
+		prowess = 1		# +1 prowess (hardy warriors)
+		character_opinion_from_high_prowess_add = 2		# +2 opinion from high-prowess characters
+		character_opinion_from_low_prowess_add = -2		# -2 opinion from low-prowess characters
+		diplomacy = -2
+
 		# BONUSES: Raiding brings income (crafty opportunists)
 		# Note: Raiding enabled via flags - huge economic bonus!
-		
 		# PENALTIES: Internal struggles (hard to manage/grow)
-		domain_limit = -1                          # Smaller domain (need more vassals)
-		direct_vassal_opinion = -5                 # Direct vassal friction
-		
+		domain_limit = -1		# Smaller domain (need more vassals)
+		direct_vassal_opinion = -10		# Direct vassal friction
+		# PENALTIES: Scavenger economy (no long-term investment)
+		build_gold_cost = 0.12	
+		domain_tax_mult = -0.06
 		# PENALTIES: Less efficient realm management
-		levy_reinforcement_rate = -0.15            # 15% slower recovery (scavenger lifestyle)
-		development_growth_factor = -0.05          # 5% slower development (opportunistic, not builders)
-		levy_contribution_mult = -0.1             # 25% less levy contribution from vassals
-		
+		levy_reinforcement_rate = -0.3		# 15% slower recovery (scavenger lifestyle)
+		development_growth_factor = -0.1		# 5% slower development (opportunistic, not builders)
+		levy_contribution_mult = -0.4		
 		# PENALTIES: Poor levy contributions from non-feudal vassals
-		tribal_government_vassal_opinion = -20     # Tribal vassals dislike feudal scavengers
-		clan_government_vassal_opinion = -20       # Clan vassals dislike feudal scavengers
-		tribal_government_levy_contribution_mult = -0.50   # 50% less levies from tribal
-		clan_government_levy_contribution_mult = -0.50     # 50% less levies from clan
+		tribal_government_vassal_opinion = -20		# Tribal vassals dislike feudal scavengers
+		clan_government_vassal_opinion = -20		# Clan vassals dislike feudal scavengers
+		tribal_government_levy_contribution_mult = -0.5		# 50% less levies from tribal
+		clan_government_levy_contribution_mult = -0.5		# 50% less levies from clan
 	}
-	
 	top_liege_character_modifier = {
-		knight_limit = 2                           # +2 elite knights (top liege only)
-		monthly_prestige = 0.15                    # Moderate prestige gain
+		knight_limit = 2		# +2 elite knights (top liege only)
+		monthly_prestige = 0.1		# Moderate prestige gain
 	}
 }
-
-
 
 # Blouck Tribal Government
 # Base: Tribal Government (Vanilla CK3)
 # Used by: Blouck (preciousdouble)
 # Features: Settled tribal with spiritual focus, traditional structure
-
 blouck_tribal = {
 	government_rules = {
 		rulers_should_have_dynasty = yes
@@ -1004,65 +1267,62 @@ blouck_tribal = {
 		legitimacy = yes
 		affected_by_development = no
 	}
-
 	royal_court = any
-
 	can_get_government = {
 		always = yes
 	}
-
-	preferred_religions = { preciousdouble }
+	preferred_religions = {
+		preciousdouble
+	}
 	primary_heritages = {
 		heritage_cccmintytie_seed
 	}
-
-
 	supply_limit_mult_for_others = -0.5
 	primary_holding = castle_holding
-	required_county_holdings = { castle_holding }
-
-	valid_holdings = { castle_holding temple_citadel_holding }
-
-	prestige_opinion_override = { -10 0 3 5 10 20 }
-
+	required_county_holdings = {
+		castle_holding
+	}
+	valid_holdings = {
+		castle_holding
+		temple_citadel_holding
+	}
+	prestige_opinion_override = {
+		-10
+		0
+		3
+		5
+		10
+		20
+	}
 	vassal_contract_group = tribal_vassal
-
 	ai = {
 		use_legends = yes
 	}
-
 	character_modifier = {
 		title_creation_cost_mult = -0.5
 		army_maintenance_mult = -0.5
-
 		feudal_government_vassal_opinion = -20
 		clan_government_vassal_opinion = -20
 		republic_government_vassal_opinion = -20
-
 		# === RITUAL CANNIBALISM & TROPHIES (dark spirituality) ===
-		dread_baseline_add = 15                       # +15 dread (feared cannibals)
-		dread_decay_mult = -0.20                      # -20% dread decay (reputation persists)
-		monthly_piety_gain_mult = 0.10                # +10% piety (ritual practices)
-		
+		dread_baseline_add = 15		# +15 dread (feared cannibals)
+		dread_decay_mult = -0.2		# -20% dread decay (reputation persists)
+		monthly_piety_gain_mult = 0.1		# +10% piety (ritual practices)
 		# === CRANIAL TROPHY COLLECTION (warrior culture) ===
-		prowess = 2                                   # +2 prowess (trophy hunters)
-		prowess_from_traits_mult = 0.10               # +10% prowess from traits
-		knight_effectiveness_mult = 0.10              # +10% knights (elite warriors)
-		
+		prowess = 2		# +2 prowess (trophy hunters)
+		prowess_from_traits_mult = 0.1		# +10% prowess from traits
+		knight_effectiveness_mult = 0.1		# +10% knights (elite warriors)
 		# === RITUALISTIC WARFARE (aggressive expansion) ===
-		ai_war_chance = 0.40                          # +40% war chance (trophy seeking)
-		hostile_scheme_power_mult = 0.15              # +15% hostile schemes (ritualistic)
-		
+		ai_war_chance = 0.4		# +40% war chance (trophy seeking)
+		hostile_scheme_power_mult = 0.15		# +15% hostile schemes (ritualistic)
 		# === FEAR & INTIMIDATION (cranial display) ===
-		enemy_hostile_scheme_success_chance_add = -5  # -5% enemy schemes (intimidation)
-		monthly_prestige_gain_mult = 0.10             # +10% prestige (feared reputation)
-		
+		enemy_hostile_scheme_success_chance_add = -5		# -5% enemy schemes (intimidation)
+		monthly_prestige_gain_mult = 0.1		# +10% prestige (feared reputation)
 		# === PENALTIES (dark practices stigma) ===
-		different_faith_opinion = -10                 # -10 different faith (cannibalism horror)
-		popular_opinion = -10                         # -10 popular opinion (dark practices)
-		diplomacy = -2                                # -2 diplomacy (feared, not liked)
+		different_faith_opinion = -10		# -10 different faith (cannibalism horror)
+		popular_opinion = -10		# -10 popular opinion (dark practices)
+		diplomacy = -2		# -2 diplomacy (feared, not liked)
 	}
-
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_is_tribal
@@ -1074,43 +1334,64 @@ blouck_tribal = {
 		may_elevate_co_monarch
 		government_uses_domain_limit
 	}
-
-	color = hsv{ 0.25 0.45 0.60 }  # Earthy brown (thick skin/wood materials)
+	color = {
+		0.25
+		0.45
+		0.6
+	}
+	# Earthy brown (thick skin/wood materials)
 	mechanic_type = tribal
 	is_mechanic_type_default = yes
 	# Use vanilla tribal positioning
-	realm_mask_offset = { 0.0 0.0 }
-	realm_mask_scale = { 0.96 0.96 }
+	realm_mask_offset = {
+		0
+		0
+	}
+	realm_mask_scale = {
+		0.96
+		0.96
+	}
 }
-
-
-
 
 # Broulqen Bureaucracy Government (Byzantine-Inspired)
 # Base: Administrative Government (Vanilla CK3)
 # Used by: Broulqen (squigglyaction, poorbreast, welldocumenteddrawer)
 # Features: Theme/governor system, military-administrative efficiency
-
+# administrative_government = {
 broulqen_bureaucracy = {
 	government_rules = {
 		create_cadet_branches = yes
 		rulers_should_have_dynasty = yes
-		dynasty_named_realms = yes
+		dynasty_named_realms = no
+		administrative = yes
+		landless_playable = yes
 		legitimacy = yes
+		state_faith = yes
 		use_as_base_on_landed = yes
+		use_as_base_on_rank_up = yes
+		inherit_from_dynastic_government = no
+		sticky_government = yes
+		house_aspirations = yes
+		noble_families = yes
+		admin_allows_holding_multiple_primary_tier_titles = yes
+		treasury = yes
+		replace_gold_cost_by_treasury = yes
 	}
 
-	royal_court = yes
-	
-	fallback = 1
-	
+	royal_court = any
+	blocked_subject_courts = { meritocratic_government celestial_government japan_administrative_government administrative_government steppe_admin_government }
+
+	domicile_type = estate
+	main_administrative_tier = duchy
+	min_appointment_tier = duchy
+	minimum_provincial_maa_tier = duchy
+
+	fallback = 3
+
 	primary_holding = castle_holding
-	valid_holdings = { temple_citadel_holding }
+	valid_holdings = { city_holding temple_citadel_holding }
 	required_county_holdings = { castle_holding city_holding church_holding }
 
-	can_get_government = {
-		always = yes
-	}
 
 	# Heritage-based binding (3 of 4 Broulqen heritages)
 	# Excludes intentionalbackground (goes to Mercenary Nomad with readyline)
@@ -1119,69 +1400,123 @@ broulqen_bureaucracy = {
 		heritage_cccsmugbreath_seed
 		heritage_cccroughcut_seed
 	}
-
 	vassal_contract_group = admin_vassal
-
+	
+	can_get_government = {
+		has_ep3_dlc_trigger = yes
+		
+		# RELIGION RESTRICTION: Only Moric or Burkelas
+		OR = {
+			religion = religion:squigglyaction  # Moric
+			religion = religion:poorbreast      # Burkelas
+		}
+		
+		# TITLE RESTRICTION: Must be in Harcycapo or Bickwayf empire
+		OR = {
+			# Direct holder of empire
+			any_held_title = {
+				OR = {
+					this = title:e_R186G212B235  # Harcycapo
+					this = title:e_R140G6B81     # Bickwayf
+				}
+			}
+			# Vassal under these empires
+			top_liege = {
+				any_held_title = {
+					OR = {
+						this = title:e_R186G212B235  # Harcycapo
+						this = title:e_R140G6B81     # Bickwayf
+					}
+				}
+			}
+		}
+	}
+	
 	ai = {
 		use_legends = yes
 	}
-
 	flags = {
-		government_is_feudal         # Administrative is feudal-type
-		government_is_settled
-		government_is_byzantine       # Custom Byzantine theme flag
-		may_elevate_co_monarch
-		government_uses_crown_authority
-		government_uses_domain_limit
-	}
+		government_is_administrative
 
+		# These flags only exist for loc and in-game descriptions
+		government_has_influence
+		government_has_treasury
+		government_has_title_men_at_arms
+		government_has_powerful_families
+		government_is_settled
+		government_uses_domicile_but_not_adventurer
+		government_uses_domain_limit
+		government_uses_admin_province_obligations
+	}
 	mechanic_type = administrative
 	is_mechanic_type_default = yes
-
-	color = hsv{ 0.72 0.68 0.73 }  # Byzantine purple
-	
+	color = {
+		0.72
+		0.68
+		0.73
+	}
+	# Byzantine purple
 	# Use vanilla administrative positioning
-	realm_mask_offset = { 0.0 0.01 }
-	realm_mask_scale = { 1 1 }
-
+	realm_mask_offset = {
+		0
+		0.01
+	}
+	realm_mask_scale = {
+		1
+		1
+	}
+	top_liege_character_modifier = {
+		# 85% of vassal income goes to the treasury
+		monthly_treasury_from_vassals = 0.85
+		men_at_arms_maintenance = 1.5
+		men_at_arms_recruitment_cost = 1
+	}
 	character_modifier = {
-		# === ADMINISTRATIVE CONTROL (Byzantine theme system) ===
-		monthly_county_control_growth_factor = 0.15    # +15% control (theme governors)
-		vassal_limit = 60                              # +60 vassals (bureaucratic efficiency)
-		stewardship = 2                                # +2 administrative expertise
-		
-		# === MILITARY-ADMINISTRATIVE (theme armies) ===
-		knight_effectiveness_mult = 0.10               # +10% knights (theme military)
-		levy_reinforcement_rate = 0.10                 # +10% levy recovery (organized)
-		levy_size = -0.35                              # -35% levies (professional focus)
-		
-		# === STABILITY (bureaucratic continuity) ===
-		short_reign_duration_mult = -0.15              # -15% short reign penalty
-		
-		# === CROSS-GOVERNMENT PENALTIES (admin vs feudal/clan) ===
-		feudal_government_tax_contribution_mult = -0.30
-		feudal_government_levy_contribution_mult = -0.30
-		clan_government_tax_contribution_mult = -0.30
-		clan_government_levy_contribution_mult = -0.30
-		
-		# === EFFICIENCY (bureaucratic tax collection) ===
-		domain_tax_mult = 0.05                         # +5% domain tax (efficient collection)
-		
-		# === PENALTIES (bureaucratic rigidity) ===
-		diplomatic_range_mult = -0.20                  # -20% range (centralized system)
-		popular_opinion = -5                           # -5 opinion (bureaucratic oversight)
-		men_at_arms_maintenance = 0.08                 # +8% MAA maintenance (professional themes)
+		levy_size = -0.6
+		feudal_government_tax_contribution_mult = -0.5
+		feudal_government_levy_contribution_mult = -0.5
+		clan_government_tax_contribution_mult = -0.5
+		clan_government_levy_contribution_mult = -0.5
+		men_at_arms_cap = -2
+		men_at_arms_limit = -2
+		county_opinion_add = -8
+		direct_vassal_opinion = -3
+		knight_limit = -5
+		vassal_limit = 100
+		active_accolades = -1
+		title_creation_cost_mult = -0.2
+		mercenary_hire_cost_mult = 2
+		men_at_arms_maintenance = 0.62
+		prowess = -2
+		intrigue = -1
+		# Vassals get Treasury income that is this percentage less than their taxes to their liege
+		monthly_treasury_from_liege_mult = -0.15
+		# # === ADMINISTRATIVE CONTROL (Byzantine theme system) ===
+		monthly_county_control_growth_factor = -0.10		# +15% control (theme governors)
+		# vassal_limit = 60		# +60 vassals (bureaucratic efficiency)
+		# stewardship = 2		# +2 administrative expertise
+		# # === MILITARY-ADMINISTRATIVE (theme armies) ===
+		# levy_reinforcement_rate = 0.1		# +10% levy recovery (organized)
+		# levy_size = -0.35		# -35% levies (professional focus)
+		# # === STABILITY (bureaucratic continuity) ===
+		# short_reign_duration_mult = -0.15		# -15% short reign penalty
+		# # === CROSS-GOVERNMENT PENALTIES (admin vs feudal/clan) ===
+		# feudal_government_tax_contribution_mult = -0.3
+		# feudal_government_levy_contribution_mult = -0.3
+		# clan_government_tax_contribution_mult = -0.3
+		# clan_government_levy_contribution_mult = -0.3
+		# # === EFFICIENCY (bureaucratic tax collection) ===
+		domain_tax_mult = 0.05		# +5% domain tax (efficient collection)
+		# # === PENALTIES (bureaucratic rigidity) ===
+		diplomatic_range_mult = -0.2		# -20% range (centralized system)
+		popular_opinion = -15		# -5 opinion (bureaucratic oversight)
 	}
 }
-
-
-
 
 ### Brief: Central Chormana Government (Ioddrik)
 # Religious wandering warriors, desert/mountain defenders
 # Faith-driven nomads with strong terrain defense and holy war focus
 # Semi-settled nomads: can build/develop but expensive and slow
-
 central_chormana_government = {
 	government_rules = {
 		obedience = yes
@@ -1197,99 +1532,86 @@ central_chormana_government = {
 		house_aspirations = yes
 		subject_men_at_arms = yes
 		noble_families = yes
-		
 		# ADVANCEMENT (vs vanilla nomad)
 		affected_by_development = yes
 		buildings = yes
+		regiments_prestige_as_gold = yes		# Can hire MAA with prestige
 	}
-
-	
 	royal_court = any
-	
-	domicile_type = east_asian_estate
-	
+	domicile_type = yurt
 	primary_holding = castle_holding
-	valid_holdings = { castle_holding tribal_holding temple_citadel_holding }
-	required_county_holdings = { castle_holding }
-	
+	valid_holdings = {
+		castle_holding
+		tribal_holding
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+	}
 	can_get_government = {
 		has_ep3_dlc_trigger = yes
 	}
-	
 	generated_character_template = nomadic_chieftain_character
-	
 	max_dread = 150
-	
 	vassal_contract_group = nomad_vassal
-	
 	# VALID 2-FACTOR: All Ioddrik heritages + all Ioddrik religions
 	# dentalweird: highlog_faith (cccjovialatmosphere), handmadebeat_faith (cccpolisheddifference, cccpotableelection)
 	# snivelingpower: classicpassenger_faith (cccscrawnyvariation)
 	# All three heritages below cover all faiths in both religions
-	preferred_religions = { dentalweird snivelingpower }
-	
-	primary_heritages = {
-		heritage_cccleafyofficial_seed				# dentalweird: highlog_faith
-		heritage_cccbowedsummer_seed				# dentalweird: handmadebeat_faith
-		heritage_ccclightheartedadministration_seed	# snivelingpower: classicpassenger_faith
+	preferred_religions = {
+		dentalweird
+		snivelingpower
 	}
-	
+	primary_heritages = {
+		heritage_cccleafyofficial_seed		# dentalweird: highlog_faith
+		heritage_cccbowedsummer_seed		# dentalweird: handmadebeat_faith
+		heritage_ccclightheartedadministration_seed		# snivelingpower: classicpassenger_faith
+	}
 	character_modifier = {
 		# MODERATE LEVY PENALTIES
-		levy_size = -0.25
+		levy_size = -0.3
 		feudal_government_tax_contribution_mult = -0.5
 		feudal_government_levy_contribution_mult = -0.5
 		clan_government_tax_contribution_mult = -0.5
 		clan_government_levy_contribution_mult = -0.5
 		tribal_government_tax_contribution_mult = -0.5
 		tribal_government_levy_contribution_mult = -0.5
-		
-		# EXPENSIVE MERCENARIES
-		mercenary_hire_cost_mult = 2
-		
 		# ECONOMIC PENALTIES (HEAVY!)
-		holding_build_gold_cost = 0.20
-		development_growth_factor = -0.20
-		
+		holding_build_gold_cost = 0.25
+		development_growth_factor = -0.2
 		# DOMAIN & STABILITY
 		domain_limit = -1
-		county_opinion_add = 16							# Good stability (religious unity)
-		
+		county_opinion_add = 10		# Good stability (religious unity)
 		# CULTURAL TOLERANCE
 		ignore_negative_opinion_of_culture = yes
-		
 		# AGGRESSIVE AI
 		ai_war_cooldown = -0.5
 		ai_war_chance = 2
-		
 		# ECONOMIC
 		title_creation_cost_mult = -0.5
-		supply_duration = 1
-		
 		# TERRAIN DEFENSE (desert/mountain/hills)
-		desert_advantage = 5
-		mountains_advantage = 5
-		hills_advantage = 4
-		desert_attrition_mult = -0.30
-		mountains_attrition_mult = -0.20
-		
+		desert_advantage = 4
+		mountains_advantage = 3
+		hills_advantage = 3
+		desert_attrition_mult = -0.3
+		mountains_attrition_mult = -0.2
 		# RELIGIOUS WARFARE
 		same_faith_opinion = 10
 		holy_war_piety_gain_mult = 0.25
-		holy_war_cost_mult = -0.15
-		
+		holy_war_cost_mult = -0.10
 		# MOBILITY (wandering warriors)
 		movement_speed = 0.08
-		
 		# DEFENSIVE
-		garrison_size = 0.15
-		
+		garrison_size = 0.08
 		# MAA
-		men_at_arms_maintenance = -0.15
+		domain_tax_mult = -0.05
+		men_at_arms_maintenance = -0.04
+		# PRESTIGE INVESTMENT
+		monthly_prestige_gain_mult = -0.05		# Prestige invested in holy warriors
 	}
-	
 	flags = {
-
+		government_is_nomadic
+		# government_is_japan_feudal
 		government_is_chormana
 		government_can_raid_rule
 		government_can_use_tributary_men_at_arms
@@ -1301,22 +1623,28 @@ central_chormana_government = {
 		government_uses_domicile_but_not_adventurer
 		has_special_house_aspirations
 	}
-	
 	mechanic_type = central_chormana
-    is_mechanic_type_default = yes
-	
-	color = { 160 120 80 }								# Desert brown (religious warriors)
-	realm_mask_offset = { 0.0 0.12 }
-	realm_mask_scale = { 0.8 0.8 }
+	is_mechanic_type_default = yes
+	color = {
+		160
+		120
+		80
+	}
+	# Desert brown (religious warriors)
+	realm_mask_offset = {
+		0
+		0.12
+	}
+	realm_mask_scale = {
+		0.8
+		0.8
+	}
 }
-
-
 
 ### Brief: Chormana Otija Government
 # Riders of Otij animal, loyal tributaries to Xacra overlords
 # Mobile cavalry raiders with excellent supply from Xacra support
 # Semi-settled nomads: can build/develop but expensive and slow
-
 chormana_otija_government = {
 	government_rules = {
 		obedience = yes
@@ -1332,41 +1660,40 @@ chormana_otija_government = {
 		house_aspirations = yes
 		subject_men_at_arms = yes
 		noble_families = yes
-		
 		# ADVANCEMENT (vs vanilla nomad)
 		affected_by_development = yes
 		buildings = yes
+		regiments_prestige_as_gold = yes		# Can hire MAA with prestige
 	}
 	royal_court = any
-	
-	domicile_type = east_asian_estate
-	
+	domicile_type = yurt
 	primary_holding = castle_holding
-	valid_holdings = { castle_holding tribal_holding temple_citadel_holding }
-	required_county_holdings = { castle_holding }
-	
+	valid_holdings = {
+		castle_holding
+		tribal_holding
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+	}
 	can_get_government = {
 		has_ep3_dlc_trigger = yes
 	}
-	
 	generated_character_template = nomadic_chieftain_character
-	
 	max_dread = 150
-	
 	vassal_contract_group = nomad_vassal
-	
 	# Target by religion (safer than heritages)
 	# Xacra Cajii (insidiouswarning) uses this government
 	# Xacra Malachite (qualifiedlight) uses different government (10_malachite)
-	preferred_religions = { insidiouswarning }
-	
+	preferred_religions = {
+		insidiouswarning
+	}
 	# CRITICAL: All 3 Xacra heritages are shared between insidiouswarning and qualifiedlight
 	# Two-factor binding: religion (insidiouswarning) + heritages (all 3 Xacra)
 	primary_heritages = {
 		heritage_cccunwillingsuccess_seed		# Xacra (ethos_bellicose)
-		heritage_cccafraidcash_seed				# Xacra (ethos_bellicose)		# Xacra (ethos_stoic)
+		heritage_cccafraidcash_seed		# Xacra (ethos_bellicose)		# Xacra (ethos_stoic)
 	}
-	
 	character_modifier = {
 		# MODERATE LEVY PENALTIES
 		levy_size = -0.25
@@ -1376,53 +1703,45 @@ chormana_otija_government = {
 		clan_government_levy_contribution_mult = -0.5
 		tribal_government_tax_contribution_mult = -0.5
 		tribal_government_levy_contribution_mult = -0.5
-		
-		# EXPENSIVE MERCENARIES
-		mercenary_hire_cost_mult = 2
-		
 		# ECONOMIC PENALTIES (HEAVY!)
-		holding_build_gold_cost = 0.20
-		development_growth_factor = -0.20
-		
+		holding_build_gold_cost = 0.25
+		development_growth_factor = -0.2
 		# DOMAIN & STABILITY
 		domain_limit = -1
-		county_opinion_add = 16							# Good stability (tributaries)
-		
+		county_opinion_add = 16		# Good stability (tributaries)
 		# CULTURAL TOLERANCE
 		ignore_negative_opinion_of_culture = yes
-		
 		# AGGRESSIVE AI
 		ai_war_cooldown = -0.5
 		ai_war_chance = 2
-		
 		# ECONOMIC
 		title_creation_cost_mult = -0.5
 		supply_duration = 1
-		
 		# CAVALRY (moderate - focus on mobility)
 		heavy_cavalry_toughness_mult = 0.08
 		light_cavalry_toughness_mult = 0.08
-		heavy_cavalry_pursuit_mult = 0.10
-		light_cavalry_pursuit_mult = 0.10
-		
+		heavy_cavalry_pursuit_mult = 0.1
+		light_cavalry_pursuit_mult = 0.1
+		# OTIJA CAVALRY RECRUITMENT (specialized cavalry focus)
+		heavy_cavalry_recruitment_cost_mult = -0.1		# -10% heavy cavalry recruitment
+		light_cavalry_recruitment_cost_mult = -0.1		# -10% light cavalry recruitment
 		# MOBILITY (superior mounts)
 		movement_speed = 0.12
-		movement_speed_land_raiding = 0.10
-		
+		movement_speed_land_raiding = 0.1
 		# SUPPLY (supported by Xacra overlords)
 		supply_limit_mult = 0.25
-		supply_duration = 1.5							# 2.5 total with base
-		
+		supply_duration = 1.5		# 2.5 total with base
 		# TERRAIN
 		desert_travel_danger = -10
 		desert_supply_limit = 0.15
-		
 		# MAA
-		men_at_arms_maintenance = -0.15
+		men_at_arms_maintenance = -0.05
+		# PRESTIGE INVESTMENT
+		monthly_prestige_gain_mult = -0.03		# Lighter prestige cost (cavalry specialists)
 	}
-	
 	flags = {
-        government_is_nomadic
+		government_is_nomadic
+		# government_is_japan_feudal
 		government_is_chormana
 		government_can_raid_rule
 		government_can_use_tributary_men_at_arms
@@ -1436,389 +1755,465 @@ chormana_otija_government = {
 	}
 	is_mechanic_type_default = yes
 	mechanic_type = otija
-	color = { 200 120 60 }								# Orange-brown (animal/desert theme)
-	realm_mask_offset = { 0.0 0.12 }
-	realm_mask_scale = { 0.8 0.8 }
+	color = {
+		200
+		120
+		60
+	}
+	# Orange-brown (animal/desert theme)
+	realm_mask_offset = {
+		0
+		0.12
+	}
+	realm_mask_scale = {
+		0.8
+		0.8
+	}
 }
 
+# =====================================================
+# DEPRECATED: ENIOL DIPLOMATIC
+# Moved to 01_aixqelt_eniol_governments.txt as soryo-based (japan_feudal)
+# Old administrative version commented out below
+# =====================================================
+# OLD ADMINISTRATIVE VERSION - DEPRECATED
+# eniol_diplomatic = {
+# 	government_rules = {
+# 		create_cadet_branches = yes
+# 		rulers_should_have_dynasty = yes
+# 		dynasty_named_realms = no
+# 		administrative = yes
+# 		legitimacy = yes
+# 		landless_playable = yes
+# 		use_as_base_on_landed = yes
+# 		use_as_base_on_rank_up = yes
+# 		inherit_from_dynastic_government = no
+# 		sticky_government = yes
+# 		house_aspirations = yes
+# 		noble_families = yes
+# 		deny_powerful_vassal = yes
+# 		disable_regnal_numbers = yes
+# 	}
+# 	royal_court = any
+# 	blocked_subject_courts = {
+# 		meritocratic_government
+# 		celestial_government
+# 		japan_administrative_government
+# 		administrative_government
+# 		steppe_admin_government
+# 	}
+# 	domicile_type = japanese_manor
+# 	main_administrative_tier = county
+# 	min_appointment_tier = county
+# 	minimum_provincial_maa_tier = duchy
+# 	primary_holding = castle_holding
+# 	primary_heritages = {
+# 		heritage_cccwindingtomorrow_seed
+# 	}
+# 	valid_holdings = {
+# 		city_holding
+# 		temple_citadel_holding
+# 		tribal_holding
+# 	}
+# 	required_county_holdings = {
+# 		castle_holding
+# 		city_holding
+# 		church_holding
+# 	}
+# 	vassal_contract_group = japan_administrative_vassal
+# 	character_modifier = {
+# 		eniol_oppressive_government_tax_contribution_mult = -0.5
+# 		eniol_oppressive_government_levy_contribution_mult = -0.5
+# 		eniol_progressive_government_tax_contribution_mult = -0.5
+# 		eniol_progressive_government_levy_contribution_mult = -0.5
+# 		eniol_military_government_tax_contribution_mult = -0.5
+# 		eniol_military_government_levy_contribution_mult = -0.5
+# 		garrison_size = -0.4
+# 		men_at_arms_cap = -2
+# 		men_at_arms_limit = -2
+# 		mercenary_hire_cost_mult = 0.7
+# 		knight_limit = -5
+# 		vassal_limit = 50
+# 		domain_limit_max = 1
+# 		domain_tax_mult = 0.15
+# 		different_faith_opinion = 15
+# 		diplomacy = 1
+# 		military = -1
+# 		popular_opinion = 10
+# 	}
+# 	can_get_government = {
+# 		has_tgp_dlc_trigger = yes
+# 		faith = faith:wideeyedimpact_faith
+# 		NOT = {
+# 			faith = faith:Frenchincident_faith
+# 		}
+# 		NOT = {
+# 			faith = faith:chubbychildhood_faith
+# 		}
+# 		NOT = {
+# 			faith = faith:somberpoet_faith
+# 		}
+# 	}
+# 	compatible_government_type_succession = {
+# 		eniol_oppressive
+# 		eniol_military
+# 		eniol_diplomatic
+# 		eniol_progressive
+# 	}
+# 	flags = {
+# 		government_is_japan_administrative
+# 		government_has_influence
+# 		government_has_title_men_at_arms
+# 		government_has_powerful_families
+# 		government_has_county_tier_noble_families
+# 		has_special_house_aspirations
+# 		government_is_settled
+# 		government_uses_domicile_but_not_adventurer
+# 		has_unique_government_perks
+# 		government_uses_admin_province_obligations
+# 		government_has_house_blocs
+# 	}
+# 	color = {
+# 		0.55
+# 		0.5
+# 		0.7
+# 	}
+# 	realm_mask_offset = {
+# 		0.02
+# 		0.072
+# 	}
+# 	realm_mask_scale = {
+# 		0.88
+# 		0.88
+# 	}
+# }
 
+# =====================================================
+# DEPRECATED: ENIOL MILITARY
+# Moved to 01_aixqelt_eniol_governments.txt as soryo-based (japan_feudal)
+# Old feudal version commented out below
+# =====================================================
+# OLD FEUDAL VERSION - DEPRECATED
+# eniol_military = {
+# 	government_rules = {
+# 		create_cadet_branches = yes
+# 		rulers_should_have_dynasty = yes
+# 		dynasty_named_non_independent_landed_rulers = yes
+# 		landless_playable = yes
+# 		legitimacy = yes
+# 		house_aspirations = yes
+# 		use_as_base_on_landed = yes
+# 		use_as_base_on_rank_up = yes
+# 		noble_families = yes
+# 		disable_regnal_numbers = yes
+# 	}
+# 	royal_court = any
+# 	character_modifier = {
+# 		eniol_oppressive_government_tax_contribution_mult = -0.5
+# 		eniol_oppressive_government_levy_contribution_mult = -0.5
+# 		eniol_progressive_government_tax_contribution_mult = -0.5
+# 		eniol_progressive_government_levy_contribution_mult = -0.5
+# 		eniol_diplomatic_government_tax_contribution_mult = -0.5
+# 		eniol_diplomatic_government_levy_contribution_mult = -0.5
+# 		vassal_limit = 50
+# 		garrison_size = -0.35
+# 		knight_effectiveness_mult = 0.1
+# 		knight_limit = 2
+# 		domain_limit_max = 2
+# 		archer_cavalry_recruitment_cost_mult = -0.25
+# 		heavy_infantry_recruitment_cost_mult = -0.25
+# 		ai_war_chance = 0.3
+# 		martial = 1
+# 		popular_opinion = -12
+# 		prowess = 1
+# 		knowledge = -2
+# 		dread_baseline_add = 20
+# 		monthly_county_control_growth_factor = 0.1
+# 		development_growth_factor = -0.1
+# 	}
+# 	domicile_type = japanese_manor
+# 	primary_holding = castle_holding
+# 	primary_heritages = {
+# 		heritage_cccwindingtomorrow_seed
+# 	}
+# 	valid_holdings = {
+# 		temple_citadel_holding
+# 		tribal_holding
+# 	}
+# 	required_county_holdings = {
+# 		castle_holding
+# 		city_holding
+# 		church_holding
+# 	}
+# 	vassal_contract_group = japan_feudal_vassal
+# 	can_get_government = {
+# 		has_tgp_dlc_trigger = yes
+# 		faith = faith:chubbychildhood_faith
+# 		NOT = {
+# 			faith = faith:Frenchincident_faith
+# 		}
+# 		NOT = {
+# 			faith = faith:somberpoet_faith
+# 		}
+# 		NOT = {
+# 			faith = faith:wideeyedimpact_faith
+# 		}
+# 	}
+# 	compatible_government_type_succession = {
+# 		eniol_progressive
+# 		eniol_diplomatic
+# 		eniol_oppressive
+# 	}
+# 	ai = {
+# 		use_legends = yes
+# 	}
+# 	flags = {
+# 		may_elevate_co_monarch
+# 		government_is_japan_feudal
+# 		government_has_county_tier_noble_families
+# 		has_special_house_aspirations
+# 		government_is_settled
+# 		government_uses_domicile_but_not_adventurer
+# 		has_unique_government_perks
+# 		government_has_house_blocs
+# 	}
+# 	color = {
+# 		0.95
+# 		0.75
+# 		0.55
+# 	}
+# 	realm_mask_offset = {
+# 		0
+# 		0.075
+# 	}
+# 	realm_mask_scale = {
+# 		0.95
+# 		0.95
+# 	}
+# }
 
-# Ailfaebi Diplomatic Administration (09d) - Aixqelt Empire
-# Base: Japan Administrative Government (Trails & Treasures DLC)
-# Faith: wideeyedimpact_faith (Diplomatic/Reconciliation faction)
-# Heritage: heritage_cccwindingtomorrow_seed
+# =====================================================
+# DEPRECATED: ENIOL OPPRESSIVE
+# Moved to 01_aixqelt_eniol_governments.txt as soryo-based (japan_feudal)
+# Old feudal version commented out below
+# =====================================================
+# OLD FEUDAL VERSION - DEPRECATED
+# eniol_oppressive = {
+# 	government_rules = {
+# 		create_cadet_branches = yes
+# 		rulers_should_have_dynasty = yes
+# 		dynasty_named_non_independent_landed_rulers = yes
+# 		landless_playable = yes
+# 		legitimacy = yes
+# 		house_aspirations = yes
+# 		use_as_base_on_landed = yes
+# 		use_as_base_on_rank_up = yes
+# 		noble_families = yes
+# 		disable_regnal_numbers = yes
+# 	}
+# 	royal_court = any
+# 	character_modifier = {
+# 		eniol_progressive_government_tax_contribution_mult = -0.5
+# 		eniol_progressive_government_levy_contribution_mult = -0.5
+# 		eniol_military_government_tax_contribution_mult = -0.5
+# 		eniol_military_government_levy_contribution_mult = -0.5
+# 		eniol_diplomatic_government_tax_contribution_mult = -0.5
+# 		eniol_diplomatic_government_levy_contribution_mult = -0.5
+# 		monthly_county_control_growth_factor = 0.05
+# 		garrison_size = -0.60
+# 		vassal_limit = 50
+# 		knight_limit = 2
+# 		domain_limit_max = 1
+# 		ai_war_chance = 0.1
+# 		intrigue = 1
+# 		diplomacy = -2
+# 		learning = -1
+# 		popular_opinion = -5
+# 		monthly_prestige_gain_mult = 0.1
+# 		long_reign_bonus_mult = 0.1
+# 		stress_gain_mult = 0.15
+# 		stress_loss_mult = -0.15
+# 		dynasty_house_opinion = -5
+# 		monthly_lifestyle_xp_gain_mult = -0.1
+# 	}
+# 	domicile_type = japanese_manor
+# 	primary_holding = castle_holding
+# 	primary_heritages = {
+# 		heritage_cccwindingtomorrow_seed
+# 	}
+# 	valid_holdings = {
+# 		temple_citadel_holding
+# 		tribal_holding
+# 	}
+# 	required_county_holdings = {
+# 		castle_holding
+# 		city_holding
+# 		church_holding
+# 	}
+# 	vassal_contract_group = japan_feudal_vassal
+# 	can_get_government = {
+# 		has_tgp_dlc_trigger = yes
+# 		faith = faith:somberpoet_faith
+# 		NOT = {
+# 			faith = faith:chubbychildhood_faith
+# 		}
+# 		NOT = {
+# 			faith = faith:Frenchincident_faith
+# 		}
+# 		NOT = {
+# 			faith = faith:wideeyedimpact_faith
+# 		}
+# 	}
+# 	compatible_government_type_succession = {
+# 		eniol_progressive
+# 		eniol_diplomatic
+# 	}
+# 	ai = {
+# 		use_legends = yes
+# 	}
+# 	flags = {
+# 		may_elevate_co_monarch
+# 		government_is_japan_feudal
+# 		government_has_county_tier_noble_families
+# 		has_special_house_aspirations
+# 		government_is_settled
+# 		government_uses_domicile_but_not_adventurer
+# 		has_unique_government_perks
+# 		government_has_house_blocs
+# 	}
+# 	color = {
+# 		0.05
+# 		0.8
+# 		0.6
+# 	}
+# 	realm_mask_offset = {
+# 		0
+# 		0.075
+# 	}
+# 	realm_mask_scale = {
+# 		0.95
+# 		0.95
+# 	}
+# }
 
-eniol_diplomatic = {
-	government_rules = {
-		create_cadet_branches = yes
-		rulers_should_have_dynasty = yes
-		dynasty_named_realms = no
-		administrative = yes
-		legitimacy = yes
-		landless_playable = yes
-		use_as_base_on_landed = yes
-		use_as_base_on_rank_up = yes
-		inherit_from_dynastic_government = no
-		sticky_government = yes
-		house_aspirations = yes
-		noble_families = yes
-		deny_powerful_vassal = yes
-		disable_regnal_numbers = yes
-	}
-
-	royal_court = any
-	blocked_subject_courts = { meritocratic_government celestial_government japan_administrative_government administrative_government steppe_admin_government }
-
-	domicile_type = japanese_manor
-	main_administrative_tier = county
-	min_appointment_tier = county
-	minimum_provincial_maa_tier = duchy
-
-	primary_holding = castle_holding
-	primary_heritages = { heritage_cccwindingtomorrow_seed }
-	valid_holdings = { city_holding temple_citadel_holding tribal_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
-	vassal_contract_group = japan_administrative_vassal
-
-	character_modifier = {
-		# CROSS-GOVERNMENT PENALTIES (applies to other 3 Eniol government vassals)
-		eniol_oppressive_government_tax_contribution_mult = -0.5
-		eniol_oppressive_government_levy_contribution_mult = -0.5
-		eniol_progressive_government_tax_contribution_mult = -0.5
-		eniol_progressive_government_levy_contribution_mult = -0.5
-		eniol_military_government_tax_contribution_mult = -0.5
-		eniol_military_government_levy_contribution_mult = -0.5
-		# MEN-AT-ARMS
-		men_at_arms_cap = -2
-		men_at_arms_limit = -2
-		# KNIGHTS
-		knight_limit = -4
-		# VASSALS
-		vassal_limit = 50
-		# DOMAIN
-		domain_limit_max = 1 # Raised further by manor
-		domain_tax_mult = 0.2
-		different_faith_opinion = 10             # Opinion from different faith
-		# FACTION: Administration (Diplomatic harmony)
-		diplomacy = 1
-		popular_opinion = 10
-	}
-
-	can_get_government = {
-		has_tgp_dlc_trigger = yes
-		faith = faith:wideeyedimpact_faith
-		NOT = { faith = faith:Frenchincident_faith }
-		NOT = { faith = faith:chubbychildhood_faith }
-		NOT = { faith = faith:somberpoet_faith }
-	}
-
-	compatible_government_type_succession = { eniol_oppressive eniol_military }
-
-	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
-	flags = {
-		government_is_japan_administrative
-		# These flags only exist for loc and in-game descriptions
-		government_has_influence
-		government_has_title_men_at_arms
-		government_has_powerful_families
-		government_has_county_tier_noble_families
-		has_special_house_aspirations
-		government_is_settled
-		government_uses_domicile_but_not_adventurer
-		has_unique_government_perks
-		government_uses_admin_province_obligations
-		government_has_house_blocs
-	}
-
-	color = hsv{ 0.55 0.50 0.70 }  # Turquoise blue (peaceful)
-	realm_mask_offset = { 0.02 0.072 }
-	realm_mask_scale = { 0.88 0.88 }
-}
-
-
-
-# Globith Military Shogunate (09c) - Aixqelt Empire
-# Base: Japan Feudal Government (Trails & Treasures DLC)
-# Faith: chubbychildhood_faith (Military faction)
-# Heritage: heritage_cccwindingtomorrow_seed
-
-eniol_military = {
-	government_rules = {
-		create_cadet_branches = yes
-		rulers_should_have_dynasty = yes
-		dynasty_named_non_independent_landed_rulers = yes
-		landless_playable = yes
-		legitimacy = yes
-		house_aspirations = yes
-		use_as_base_on_landed = yes
-		use_as_base_on_rank_up = yes
-		noble_families = yes
-		disable_regnal_numbers = yes
-	}
-
-	royal_court = any
-
-	character_modifier = {
-		# CROSS-GOVERNMENT PENALTIES (applies to other 3 Eniol government vassals)
-		eniol_oppressive_government_tax_contribution_mult = -0.5
-		eniol_oppressive_government_levy_contribution_mult = -0.5
-		eniol_progressive_government_tax_contribution_mult = -0.5
-		eniol_progressive_government_levy_contribution_mult = -0.5
-		eniol_diplomatic_government_tax_contribution_mult = -0.5
-		eniol_diplomatic_government_levy_contribution_mult = -0.5
-		# VASSALS
-		vassal_limit = 50
-		# KNIGHTS
-		knight_effectiveness_mult = 0.1
-		knight_limit = 2
-		# DOMAIN
-		domain_limit_max = 1 # Lowered for military focus
-		# SAMURAI
-		archer_cavalry_recruitment_cost_mult = -0.25
-		heavy_infantry_recruitment_cost_mult = -0.25
-		# FACTION: Supremacy (Military aggression)
-		ai_war_chance = 0.20
-		martial = 1
-		dread_baseline_add = 20
-		monthly_county_control_growth_factor = 0.10
-		levy_size = 0.10
-		popular_opinion = -10
-		development_growth_factor = -0.10
-	}
-
-	domicile_type = japanese_manor
-
-	primary_holding = castle_holding
-	primary_heritages = { heritage_cccwindingtomorrow_seed }
-	valid_holdings = { temple_citadel_holding tribal_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
-	vassal_contract_group = japan_feudal_vassal
-
-	can_get_government = {
-		has_tgp_dlc_trigger = yes
-		faith = faith:chubbychildhood_faith
-		NOT = { faith = faith:Frenchincident_faith }
-		NOT = { faith = faith:somberpoet_faith }
-		NOT = { faith = faith:wideeyedimpact_faith }
-	}
-
-	compatible_government_type_succession = { eniol_progressive eniol_diplomatic }
-
-	ai = {
-		use_legends = yes
-	}
-
-	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
-	flags = {
-		may_elevate_co_monarch
-		government_is_japan_feudal
-		government_has_county_tier_noble_families
-		has_special_house_aspirations
-		government_is_settled
-		government_uses_domicile_but_not_adventurer
-		has_unique_government_perks
-		government_has_house_blocs
-	}
-
-	color = hsv{ 0.95 0.75 0.55 }  # Crimson red (warrior)
-	realm_mask_offset = { 0.0 0.075 }
-	realm_mask_scale = { 0.95 0.95 }
-}
-
-
-eniol_oppressive = {
-	government_rules = {
-		create_cadet_branches = yes
-		rulers_should_have_dynasty = yes
-		dynasty_named_non_independent_landed_rulers = yes
-		landless_playable = yes
-		legitimacy = yes
-		house_aspirations = yes
-		use_as_base_on_landed = yes
-		use_as_base_on_rank_up = yes
-		noble_families = yes
-		disable_regnal_numbers = yes
-	}
-
-	royal_court = any
-
-	character_modifier = {
-		# CROSS-GOVERNMENT PENALTIES (applies to other 3 Eniol government vassals)
-		eniol_progressive_government_tax_contribution_mult = -0.5
-		eniol_progressive_government_levy_contribution_mult = -0.5
-		eniol_military_government_tax_contribution_mult = -0.5
-		eniol_military_government_levy_contribution_mult = -0.5
-		eniol_diplomatic_government_tax_contribution_mult = -0.5
-		eniol_diplomatic_government_levy_contribution_mult = -0.5
-		
-		# CONTROL & LAW ENFORCEMENT (pursuit of order)
-		monthly_county_control_growth_factor = 0.10   # Enforce laws strictly
-		dread_per_tyranny_add = 0.15                  # Tyranny → authority
-		garrison_size = -0.5                          # Manor/estate focus
-		
-		# VASSALS & ADMINISTRATION
-		vassal_limit = 50
-		
-		# KNIGHTS
-		knight_effectiveness_mult = 0.1
-		knight_limit = 2
-		
-		# DOMAIN
-		domain_limit_max = 2                          # Raised further by manor
-		
-		# SAMURAI
-		archer_cavalry_recruitment_cost_mult = -0.10
-		heavy_infantry_recruitment_cost_mult = -0.10
-		
-		# FACTION: Mandate (Conservative tradition - glory & prestige)
-		ai_war_chance = 0.10
-		intrigue = 1
-		monthly_prestige_gain_mult = 0.10
-		tax_mult = 0.10
-	}
-
-	domicile_type = japanese_manor
-
-	primary_holding = castle_holding
-	primary_heritages = { heritage_cccwindingtomorrow_seed }
-	valid_holdings = { temple_citadel_holding tribal_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
-	vassal_contract_group = japan_feudal_vassal
-
-	can_get_government = {
-		has_tgp_dlc_trigger = yes
-		faith = faith:Frenchincident_faith
-		NOT = { faith = faith:chubbychildhood_faith }
-		NOT = { faith = faith:somberpoet_faith }
-		NOT = { faith = faith:wideeyedimpact_faith }
-	}
-
-	compatible_government_type_succession = { eniol_progressive eniol_diplomatic }
-
-	ai = {
-		use_legends = yes
-	}
-
-	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
-	flags = {
-		may_elevate_co_monarch
-		government_is_japan_feudal
-		government_has_county_tier_noble_families
-		has_special_house_aspirations
-		government_is_settled
-		government_uses_domicile_but_not_adventurer
-		has_unique_government_perks
-		government_has_house_blocs
-	}
-
-	color = hsv{ 0.05 0.80 0.60 }  # Dark red (traditional)
-	realm_mask_offset = { 0.0 0.075 }
-	realm_mask_scale = { 0.95 0.95 }
-}
-
-
-
-
-eniol_progressive = {
-	government_rules = {
-		create_cadet_branches = yes
-		rulers_should_have_dynasty = yes
-		dynasty_named_realms = no
-		administrative = yes
-		legitimacy = yes
-		landless_playable = yes
-		use_as_base_on_landed = yes
-		use_as_base_on_rank_up = yes
-		inherit_from_dynastic_government = no
-		sticky_government = yes
-		house_aspirations = yes
-		noble_families = yes
-		deny_powerful_vassal = yes
-		disable_regnal_numbers = yes
-	}
-
-	royal_court = any
-	blocked_subject_courts = { meritocratic_government celestial_government japan_administrative_government administrative_government steppe_admin_government }
-
-	domicile_type = japanese_manor
-	main_administrative_tier = county
-	min_appointment_tier = county
-	minimum_provincial_maa_tier = duchy
-
-	primary_holding = castle_holding
-	primary_heritages = { heritage_cccwindingtomorrow_seed }
-	valid_holdings = { city_holding temple_citadel_holding tribal_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
-	vassal_contract_group = japan_administrative_vassal
-
-	character_modifier = {
-		# CROSS-GOVERNMENT PENALTIES (applies to other 3 Eniol government vassals)
-		eniol_oppressive_government_tax_contribution_mult = -0.2
-		eniol_oppressive_government_levy_contribution_mult = -0.2
-		eniol_military_government_tax_contribution_mult = -0.2
-		eniol_military_government_levy_contribution_mult = -0.2
-		eniol_diplomatic_government_tax_contribution_mult = -0.2
-		eniol_diplomatic_government_levy_contribution_mult = -0.2
-		garrison_size = -0.5
-		# MEN-AT-ARMS
-		men_at_arms_cap = -2
-		men_at_arms_limit = -2
-		# KNIGHTS
-		knight_limit = -5
-		# VASSALS
-		vassal_limit = 50
-		# DOMAIN
-		domain_limit_max = 1 # Raised further by manor
-		domain_tax_mult = 0.2
-		# FACTION: Technocracy (Scholarly progress)
-		stewardship = 1
-		learning = 1
-		development_growth_factor = 0.15
-	}
-
-	can_get_government = {
-		has_tgp_dlc_trigger = yes
-		faith = faith:somberpoet_faith
-		NOT = { faith = faith:Frenchincident_faith }
-		NOT = { faith = faith:chubbychildhood_faith }
-		NOT = { faith = faith:wideeyedimpact_faith }
-	}
-
-	compatible_government_type_succession = { eniol_oppressive eniol_military }
-
-	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
-	flags = {
-		government_is_japan_administrative
-		# These flags only exist for loc and in-game descriptions
-		government_has_influence
-		government_has_title_men_at_arms
-		government_has_powerful_families
-		government_has_county_tier_noble_families
-		has_special_house_aspirations
-		government_is_settled
-		government_uses_domicile_but_not_adventurer
-		has_unique_government_perks
-		government_uses_admin_province_obligations
-		government_has_house_blocs
-	}
-
-	color = hsv{ 0.15 0.55 0.75 }  # Golden yellow (enlightened)
-	realm_mask_offset = { 0.02 0.072 }
-	realm_mask_scale = { 0.88 0.88 }
-}
-
-
+# =====================================================
+# DEPRECATED: ENIOL PROGRESSIVE
+# Moved to 01_aixqelt_eniol_governments.txt as soryo-based (japan_feudal)
+# Old administrative version commented out below
+# =====================================================
+# OLD ADMINISTRATIVE VERSION - DEPRECATED
+# eniol_progressive = {
+# 	government_rules = {
+# 		create_cadet_branches = yes
+# 		rulers_should_have_dynasty = yes
+# 		dynasty_named_realms = no
+# 		administrative = yes
+# 		legitimacy = yes
+# 		landless_playable = yes
+# 		use_as_base_on_landed = yes
+# 		use_as_base_on_rank_up = yes
+# 		inherit_from_dynastic_government = no
+# 		sticky_government = yes
+# 		house_aspirations = yes
+# 		noble_families = yes
+# 		deny_powerful_vassal = yes
+# 		disable_regnal_numbers = yes
+# 	}
+# 	royal_court = any
+# 	blocked_subject_courts = {
+# 		meritocratic_government
+# 		celestial_government
+# 		japan_administrative_government
+# 		administrative_government
+# 		steppe_admin_government
+# 	}
+# 	domicile_type = japanese_manor
+# 	main_administrative_tier = county
+# 	min_appointment_tier = county
+# 	minimum_provincial_maa_tier = duchy
+# 	primary_holding = castle_holding
+# 	primary_heritages = {
+# 		heritage_cccwindingtomorrow_seed
+# 	}
+# 	valid_holdings = {
+# 		city_holding
+# 		temple_citadel_holding
+# 		tribal_holding
+# 	}
+# 	required_county_holdings = {
+# 		castle_holding
+# 		city_holding
+# 		church_holding
+# 	}
+# 	vassal_contract_group = japan_administrative_vassal
+# 	character_modifier = {
+# 		eniol_oppressive_government_tax_contribution_mult = -0.2
+# 		eniol_oppressive_government_levy_contribution_mult = -0.2
+# 		eniol_military_government_tax_contribution_mult = -0.2
+# 		eniol_military_government_levy_contribution_mult = -0.2
+# 		eniol_diplomatic_government_tax_contribution_mult = -0.2
+# 		eniol_diplomatic_government_levy_contribution_mult = -0.2
+# 		garrison_size = -0.5
+# 		men_at_arms_cap = -2
+# 		men_at_arms_limit = -2
+# 		knight_limit = -4
+# 		vassal_limit = 50
+# 		domain_limit_max = 1
+# 		domain_tax_mult = 0.2
+# 		stewardship = 1
+# 		learning = 1
+# 		development_growth_factor = 0.15
+# 	}
+# 	can_get_government = {
+# 		has_tgp_dlc_trigger = yes
+# 		faith = faith:Frenchincident_faith
+# 		NOT = {
+# 			faith = faith:somberpoet_faith
+# 		}
+# 		NOT = {
+# 			faith = faith:chubbychildhood_faith
+# 		}
+# 		NOT = {
+# 			faith = faith:wideeyedimpact_faith
+# 		}
+# 	}
+# 	compatible_government_type_succession = {
+# 		eniol_oppressive
+# 		eniol_military
+# 	}
+# 	flags = {
+# 		government_is_japan_administrative
+# 		government_has_influence
+# 		government_has_title_men_at_arms
+# 		government_has_powerful_families
+# 		government_has_county_tier_noble_families
+# 		has_special_house_aspirations
+# 		government_is_settled
+# 		government_uses_domicile_but_not_adventurer
+# 		has_unique_government_perks
+# 		government_uses_admin_province_obligations
+# 		government_has_house_blocs
+# 	}
+# 	color = {
+# 		0.15
+# 		0.55
+# 		0.75
+# 	}
+# 	realm_mask_offset = {
+# 		0.02
+# 		0.072
+# 	}
+# 	realm_mask_scale = {
+# 		0.88
+# 		0.88
+# 	}
+# }
 
 # Ineoism Mandala Government (Temple-Citadel)
 # Base: Mandala Government (Trails & Treasures DLC)
 # Used by: Gleuncti (internalmail religion ONLY - NOT sillysubject)
 # Features: Peaceful temple-citadel states with piety-based authority
-
-inner_sea_raiders = {
+vieunn = {
 	government_rules = {
 		create_cadet_branches = yes
 		rulers_should_have_dynasty = yes
@@ -1826,78 +2221,81 @@ inner_sea_raiders = {
 		legitimacy = yes
 		use_as_base_on_landed = yes
 	}
-
 	royal_court = yes
-	
 	primary_holding = castle_holding
-	valid_holdings = { temple_citadel_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
+	valid_holdings = {
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+		city_holding
+		church_holding
+	}
 	# Two-factor binding (religion + heritages for both writing systems)
 	# Thramptith: maturethanks (Robin Hood) - 2 heritages (from history validation)
 	# Qieulbaia: activerush (Neutral Corsairs) - 3 heritages
-	preferred_religions = { maturethanks activerush }
-	
+	preferred_religions = {
+		maturethanks
+		activerush
+	}
 	# Thramptith (maturethanks) + Qieulbaia (activerush) heritages
 	primary_heritages = {
 		# Thramptith (maturethanks) heritages
-		heritage_cccvivaciouswrap_seed			# Thramptith (maturethanks) - ethos_bureaucratic
+		heritage_cccvivaciouswrap_seed		# Thramptith (maturethanks) - ethos_bureaucratic
 		heritage_cccimprobablecouple_seed		# Thramptith (maturethanks) - ethos_stoic
-		
 		# Qieulbaia (activerush) heritages
-		heritage_cccsafetraining_seed			# Qieulbaia (activerush) - ethos_bellicose
-		heritage_cccshamefuldirt_seed			# Qieulbaia (activerush) - ethos_bellicose
+		heritage_cccsafetraining_seed		# Qieulbaia (activerush) - ethos_bellicose
+		heritage_cccshamefuldirt_seed		# Qieulbaia (activerush) - ethos_bellicose
 		heritage_cccangrymeasurement_seed		# Qieulbaia (activerush) - ethos_bellicose
 	}
-
 	vassal_contract_group = wanua_vassal
-
 	ai = {
 		use_legends = yes
 	}
-
 	flags = {
 		government_is_wanua
 		government_is_settled
-		government_is_inner_sea_raiders
+		government_is_vieunn
 		government_can_raid_rule
 		government_enables_naval_raiding
 	}
-
-	mechanic_type = inner_sea_raiders
+	mechanic_type = vieunn
 	is_mechanic_type_default = yes
-
-	color = hsv{ 0.55 0.60 0.70 }  # Sea blue (naval raiders)
-	
+	color = {
+		0.55
+		0.6
+		0.7
+	}
+	# Sea blue (naval raiders)
 	# Use vanilla wanua positioning
-	realm_mask_offset = { 0.0 0.09 }
-	realm_mask_scale = { 0.9 0.9 }
-
+	realm_mask_offset = {
+		0
+		0.09
+	}
+	realm_mask_scale = {
+		0.9
+		0.9
+	}
 	character_modifier = {
 		# NAVAL (core identity)
-		naval_movement_speed_mult = 0.15             # +15% naval movement
-		embarkation_cost_mult = -0.30                 # -30% embarkation cost
-		coastal_sea_travel_danger = -15               # -15% coastal danger
-		
+		naval_movement_speed_mult = 0.15		# +15% naval movement
+		embarkation_cost_mult = -0.3		# -30% embarkation cost
+		coastal_sea_travel_danger = -15		# -15% coastal danger
 		# RAIDING (aggressive expansion)
-		raid_speed = 0.15                             # +15% raid speed
-		monthly_income_from_raiding_mult = 0.20       # +20% raid income
-		
+		raid_speed = 0.15		# +15% raid speed
+		monthly_income_from_raiding_mult = 0.2		# +20% raid income
 		# MOBILITY
-		movement_speed = 0.10                         # +10% movement
-		
+		movement_speed = 0.1		# +10% movement
 		# MILITARY (raider warriors)
-		knight_effectiveness_mult = 0.10              # +10% knights
-		light_cavalry_toughness_mult = 0.08          # +8% light cavalry
-		
+		knight_effectiveness_mult = 0.1		# +10% knights
+		light_cavalry_toughness_mult = 0.08		# +8% light cavalry
 		# PENALTIES (balanced trade-offs)
-		development_growth_factor = -0.15             # -15% development
-		holding_build_gold_cost = 0.20                # +20% building cost
-		domain_limit = -1                             # -1 domain
-		different_faith_opinion = -5                  # -5 different faith
-		diplomacy = -1                                # -1 diplomacy
+		development_growth_factor = -0.15		# -15% development
+		holding_build_gold_cost = 0.2		# +20% building cost
+		domain_limit = -1		# -1 domain
+		different_faith_opinion = -5		# -5 different faith
+		diplomacy = -1		# -1 diplomacy
 	}
-
 	can_get_government = {
 		# Religion check matching preferred_religions
 		OR = {
@@ -1907,14 +2305,10 @@ inner_sea_raiders = {
 	}
 }
 
-
-
-
 # Kioq Mandala Government (04b)
 # Base: Mandala Government (Trails & Treasures DLC)
 # Used by: Kioq (exemplarymeaning, directjoin, prettytax)
 # Features: Scholar-warrior temple states with piety-based authority
-
 malachite_mountain_empire = {
 	government_rules = {
 		create_cadet_branches = yes
@@ -1923,25 +2317,30 @@ malachite_mountain_empire = {
 		legitimacy = yes
 		use_as_base_on_landed = yes
 	}
-
 	royal_court = yes
-	
 	fallback = 1
-	
 	primary_holding = castle_holding
-	valid_holdings = { temple_citadel_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
+	valid_holdings = {
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+		city_holding
+		church_holding
+	}
 	can_get_government = {
 		always = yes
 	}
-
 	# CRITICAL: Two-factor binding (religion + heritages)
 	# All 3 Xacra heritages are shared between qualifiedlight and insidiouswarning
 	# Split by religion: qualifiedlight (this) vs insidiouswarning (Chormana Otija)
-	preferred_religions = { qualifiedlight deadcourage ritzycork }
-
-	primary_heritages = {			# Xacra (ethos_bellicose)
+	preferred_religions = {
+		qualifiedlight
+		deadcourage
+		ritzycork
+	}
+	primary_heritages = {
+		# Xacra (ethos_bellicose)
 		heritage_ccchollowexperience_seed
 		heritage_cccfeeblepersonnel_seed
 		heritage_cccfrivolouspoint_seed
@@ -1949,13 +2348,10 @@ malachite_mountain_empire = {
 		heritage_cccfickleneck_seed
 		heritage_cccadmirableelection_seed		# Xacra (ethos_stoic)
 	}
-
 	vassal_contract_group = feudal_vassal
-
 	ai = {
 		use_legends = yes
 	}
-
 	flags = {
 		government_is_feudal
 		government_is_settled
@@ -1964,63 +2360,59 @@ malachite_mountain_empire = {
 		government_uses_crown_authority
 		government_uses_domain_limit
 	}
-
 	mechanic_type = malachite
 	is_mechanic_type_default = yes
-	color = hsv{ 0.35 0.50 0.45 }  # Malachite green (dark greenish)
-	
+	color = {
+		0.35
+		0.5
+		0.45
+	}
+	# Malachite green (dark greenish)
 	# Use vanilla feudal positioning
-	realm_mask_offset = { 0.0 0.01 }
-	realm_mask_scale = { 1 1 }
-
+	realm_mask_offset = {
+		0
+		0.01
+	}
+	realm_mask_scale = {
+		1
+		1
+	}
 	character_modifier = {
 		# === DEFENSIVE (mountain fortresses) ===
-		fort_level = 1                                    # +1 fort level
-		defender_advantage = 5                            # +5 defender advantage
-		garrison_size = 0.15                              # +15% garrison
-		
+		fort_level = 2		# +2 fort level
+		defender_advantage = 5		# +5 defender advantage
+		garrison_size = 0.15		# +15% garrison
 		# === CAVERN ECONOMY (protected living in mountains/hills) ===
-		mountains_development_growth_factor = 0.15        # +15% development in mountains
-		hills_development_growth_factor = 0.10            # +10% development in hills
-		mountains_tax_mult = 0.10                         # +10% tax in mountains
-		hills_tax_mult = 0.05                             # +5% tax in hills
-		
-		# === CAVERN PROTECTION (weather-safe complexes) ===
-		winter_supply_limit = 0.20                        # +20% winter supply (protected)
-		
+		mountains_development_growth_factor = 0.15		# +15% development in mountains
+		hills_development_growth_factor = 0.1		# +10% development in hills
+		mountains_tax_mult = 0.1		# +10% tax in mountains
+		hills_tax_mult = 0.05		# +5% tax in hills
 		# === TERRAIN MASTERY (mountains and hills specialization) ===
-		mountains_advantage = 4                         # +10 mountains advantage
-		mountains_travel_danger = -15                     # -15% mountain danger
-		hills_advantage = 2                              # +5 hills advantage
-		
+		mountains_advantage = 4		# +4 mountains advantage
+		mountains_travel_danger = -30		# -15% mountain danger
+		hills_advantage = 2	
+		hills_travel_danger = -20	# +2 hills advantage
 		# === CAVERN EXPLORATION (managing complex systems) ===
-		stewardship = 1                                   # +1 stewardship (cavern management)
-		learning = 1                                      # +1 learning (exploration/mapping)
-		diplomacy = -2    
+		stewardship = 1		# +1 stewardship (cavern management)
+		learning = 1		# +1 learning (exploration/mapping)
+		diplomacy = -2		# -2 diplomacy (isolationist)
 		# === INTRIGUE (cunning culture) ===
-		intrigue = 1                                      # +1 intrigue (reduced from 2)
-		hostile_scheme_power_mult = 0.10                  # +10% hostile schemes
-		
+		intrigue = 1		# +1 intrigue
+		hostile_scheme_power_mult = 0.1		# +10% hostile schemes
 		# === STABILITY (ancient civilization) ===
-		monthly_county_control_growth_factor = 0.10       # +10% control
-		
+		monthly_county_control_growth_factor = 0.1		# +10% control
 		# === PENALTIES (balanced trade-offs) ===
-		levy_size = -0.15                                 # -15% levies (defensive posture)
-		army_movement_speed_mult = -0.15                  # -15% movement (mountain terrain)
-		diplomatic_range_mult = -0.15                     # -15% diplomatic range (isolationist)
-		popular_opinion = -5                              # -5 opinion (underground living)
+		movement_speed = -0.15		# -15% movement (mountain terrain)
+		diplomatic_range_mult = -0.15		# -15% diplomatic range (isolationist)
+		popular_opinion = -5		# -5 opinion (underground living)
 	}
 }
-
-
-
 
 # Mercenary Nomad Hybrid Government
 # Base: Nomad Government (Roads to Power DLC) + Mercenary mechanics
 # Used by: Broulqen (readyline), Floicht (stainedend)
 # Features: Playable mobile mercenaries with nomadic lifestyle
 # Banner: Mercenary or custom banner
-
 # mercenary_nomad_hybrid = {
 # 	government_rules = {
 # 		obedience = yes
@@ -2036,57 +2428,41 @@ malachite_mountain_empire = {
 # 		subject_men_at_arms = yes
 # 		no_capital_movement_cooldown = yes
 # 	}
-
 # 	royal_court = yes
-
 # 	domicile_type = yurt  # Nomadic camps
-
 # 	fallback = 2
-
 # 	primary_holding = nomad_holding
 # 	valid_holdings = { castle_holding tribal_holding temple_citadel_holding }
 # 	required_county_holdings = { nomad_holding }
-
 # 	generated_character_template = nomadic_chieftain_character
-
 # 	max_dread = 150
-
 # 	# Two-factor binding (religion + heritages)
 # 	# Broulqen: readyline (mercenaries) vs squigglyaction/poorbreast/welldocumenteddrawer (bureaucracy)
 # 	# Floicht: stainedend (mercenaries) vs livetower (mandala) vs directball (SE clan)
 # 	preferred_religions = { readyline stainedend }
-	
 # 	primary_heritages = {
 # 		heritage_cccintentionalbackground_seed		# Broulqen (readyline only)
 # 		heritage_cccweeklynurse_seed				# Floicht (stainedend only)
 # 	}
-
 # 	vassal_contract_group = nomad_vassal
-
 # 	ai = {
 # 		use_legends = yes
 # 	}
-
 # 	character_modifier = {
 # 		# MERCENARY (professional warriors for hire)
 # 		mercenary_hire_cost_mult = -0.25             # -25% hire cost
-		
 # 		# MOBILITY (rapid deployment)
 # 		movement_speed = 0.15                         # +15% movement
 # 		army_movement_speed_mult = 0.10               # +10% army movement
-		
 # 		# PROFESSIONAL WARRIORS
 # 		knight_effectiveness_mult = 0.12              # +12% knights
 # 		men_at_arms_maintenance = -0.20               # -20% MAA maintenance
-		
 # 		# CAVALRY (mobile warfare)
 # 		heavy_cavalry_toughness_mult = 0.08          # +8% heavy cavalry
 # 		light_cavalry_toughness_mult = 0.08          # +8% light cavalry
-		
 # 		# NOMADIC LIFESTYLE (base nomad features)
 # 		ignore_negative_opinion_of_culture = yes
 # 		county_fertility_decline_add = -15
-		
 # 		# PENALTIES (balanced trade-offs)
 # 		levy_size = -0.25                            # -25% levies
 # 		domain_limit = -1                             # -1 domain
@@ -2095,7 +2471,6 @@ malachite_mountain_empire = {
 # 		development_growth_factor = -0.15             # -15% development
 # 		holding_build_gold_cost = 0.25                # +25% building cost
 # 	}
-
 # 	can_get_government = {
 # 		has_ep3_dlc_trigger = yes
 # 		# Religion check matching preferred_religions
@@ -2104,7 +2479,6 @@ malachite_mountain_empire = {
 # 			religion = religion:stainedend
 # 		}
 # 	}
-
 # 	flags = {
 # 		government_is_nomadic
 # 		government_is_mercenary
@@ -2119,42 +2493,41 @@ malachite_mountain_empire = {
 # 		can_raze_holdings
 # 		government_uses_domicile_but_not_adventurer
 # 	}
-
 # 	mechanic_type = nomad
 # 	is_mechanic_type_default = yes
-
 # 	color = hsv{ 0.10 0.55 0.70 }  # Orange-brown (mercenary camps)
-	
 # 	# Use vanilla nomad positioning
 # 	realm_mask_offset = { 0.0 0.12 }
 # 	realm_mask_scale = { 0.8 0.8 }
 # }
-
-
-
-
 paladinical_hosts = {
 	government_rules = {
 		create_cadet_branches = yes
 		rulers_should_have_dynasty = yes
 		legitimacy = yes
 		dynasty_named_realms = yes
+		regiments_prestige_as_gold = yes
 	}
-
 	royal_court = any
-
 	fallback = 2
-
 	primary_holding = castle_holding
-	valid_holdings = { temple_citadel_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
+	valid_holdings = {
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+		city_holding
+		church_holding
+	}
 	can_get_government = {
 		always = yes
 	}
-
 	# Two-factor binding (Aelwrid + Queekwa populations)
-	preferred_religions = { hairyload weirdsort astonishingsteak }
+	preferred_religions = {
+		hairyload
+		weirdsort
+		astonishingsteak
+	}
 	primary_heritages = {
 		# Aelwrid heritages
 		heritage_cccsociablemud_seed
@@ -2164,16 +2537,12 @@ paladinical_hosts = {
 		heritage_cccrudemany_seed
 		heritage_cccpessimisticsteak_seed
 	}
-
 	house_unity = clan_house_unity
 	tax_slot_type = clan_tax_slot
-
 	vassal_contract_group = clan_vassal
-
 	ai = {
 		use_legends = yes
 	}
-
 	opinion_of_liege = {
 		scope:vassal = {
 			if = {
@@ -2202,37 +2571,26 @@ paladinical_hosts = {
 			}
 		}
 	}
-
 	character_modifier = {
 		# === KNIGHT CIRCLES (Core Identity) ===
-		knight_effectiveness_mult = 0.15             # +15% knight effectiveness
-		knight_limit = 2                              # +2 knights
-		monthly_prestige_gain_per_knight_mult = 0.02  # +2% prestige per knight
-		
+		knight_effectiveness_mult = 0.1		# +15% knight effectiveness
+		knight_limit = 2		# +2 knights
 		# === PROWESS RESPECT (Warrior Meritocracy) ===
-		character_opinion_from_high_prowess_add = 3   # Respect strong warriors
-		prowess = 2                                   # +2 personal prowess
-		
+		character_opinion_from_high_prowess_add = 2		# Respect strong warriors
+		prowess = 2		# +2 personal prowess
 		# === HOLY WARRIORS (Piety-Martial Synergy) ===
-		martial_per_piety_level = 0.5                 # +0.5 martial per piety level
-		monthly_piety_gain_mult = 0.10               # +10% piety (religious warriors)
-		
-		# === BENEFICIAL RULE (Not Oppressive) ===
-		popular_opinion = 5                           # +5 popular opinion
-		monthly_county_control_growth_factor = 0.05   # +5% control (organized)
-		
+		martial_per_piety_level = 0.3		# +0.5 martial per piety level
+		monthly_piety_gain_mult = 0.1		# +10% piety (religious warriors)
 		# === BROTHERHOOD BONDS ===
-		same_dynasty_opinion = 10                     # Knight brotherhood
-		close_relative_opinion = 10                   # Knight-brothers
-		same_faith_opinion = 5                        # Religious unity
-		
+		same_dynasty_opinion = 10		# Knight brotherhood
+		close_relative_opinion = 10		# Knight-brothers
+		same_faith_opinion = 5		# Religious unity
 		# === PENALTIES (elite focus trade-offs) ===
-		levy_size = -0.15                            # -15% levies (elite knights > mass armies)
-		domain_limit = -1                             # -1 domain (clan structure)
-		domain_tax_mult = -0.05                       # -5% domain tax (military focus > economy)
-		diplomatic_range_mult = -0.30                 # -30% diplomatic range (insular warriors)
+		levy_size = -1
+		domain_limit = -2		
+		domain_tax_mult = -0.11		
+		diplomatic_range_mult = -0.6	
 	}
-
 	flags = {
 		government_is_clan
 		government_is_paladinical
@@ -2241,313 +2599,31 @@ paladinical_hosts = {
 		government_uses_crown_authority
 		government_uses_domain_limit
 	}
-
 	mechanic_type = paladinical_hosts
 	is_mechanic_type_default = yes
-
-	color = hsv{ 0.05 0.60 0.75 }  # Reddish (martial/blood brotherhood)
-	
+	color = {
+		0.05
+		0.6
+		0.75
+	}
+	# Reddish (martial/blood brotherhood)
 	# Use vanilla clan positioning
-	realm_mask_offset = { 0.0 0.03 }
-	realm_mask_scale = { 1 1 }
-}
-
-
-
-# Qeomoq Communal Formation Government
-# Base: Celestial Government (Roads to Power DLC)
-# Used by: Qeomoq (illresolve)
-# Features: Communal/spiritual governance with tributary system
-
-qeomoq_communal = {
-	government_rules = {
-		create_cadet_branches = yes
-		rulers_should_have_dynasty = yes
-		dynasty_named_realms = yes
-		legitimacy = yes
-		use_as_base_on_landed = yes
+	realm_mask_offset = {
+		0
+		0.03
 	}
-
-	royal_court = yes
-	
-	
-	primary_holding = castle_holding
-	valid_holdings = { temple_citadel_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
-	# Two-factor binding (simple case: 1 heritage + 1 religion)
-	preferred_religions = { illresolve }
-	primary_heritages = {
-		heritage_cccbrillianteffect_seed
-	}
-
-	vassal_contract_group = feudal_vassal    # Celestial uses feudal contracts
-
-	ai = {
-		use_legends = yes
-	}
-
-	flags = {
-		government_is_feudal         # Celestial is feudal-type
-		government_is_settled
-		government_is_qeomoq_communal
-		may_elevate_co_monarch
-		government_uses_crown_authority
-		government_uses_domain_limit
-	}
-
-	mechanic_type = celestial
-	is_mechanic_type_default = yes
-
-	color = hsv{ 0.95 0.50 0.75 }  # Red (celestial/communal)
-	
-	# Use vanilla celestial positioning
-	realm_mask_offset = { 0.0 0.05 }
-	realm_mask_scale = { 0.92 0.92 }
-
-	character_modifier = {
-		# COMMUNAL (collective strength)
-		popular_opinion = 15                          # +15 popular opinion
-		county_opinion_add = 10                       # +10 county opinion
-		same_culture_opinion = 10                     # +10 same culture
-		
-		# SPIRITUAL (guidance)
-		monthly_piety_gain_mult = 0.12               # +12% piety
-		clergy_opinion = 10                           # +10 clergy
-		
-		# ADMINISTRATIVE (celestial bureaucracy)
-		stewardship = 1                               # +1 stewardship
-		monthly_county_control_growth_factor = 0.10   # +10% control
-		
-		# PENALTIES (balanced trade-offs)
-		monthly_prestige_gain_mult = -0.10            # -10% prestige (collective > individual)
-		knight_effectiveness_mult = -0.05             # -5% knights
-		ai_war_chance = -0.15                         # -15% AI war chance (communal > expansionist)
-	}
-
-	can_get_government = {
-		has_ep3_dlc_trigger = yes
+	realm_mask_scale = {
+		1
+		1
 	}
 }
 
-
-
-
-# Southeastern Family Clan Government
-# Base: Clan Government (Vanilla CK3)
-# Used by: Preolyth, Qieulbaia (partial), Floicht (partial), Wusaun
-# Features: Strong family ties, enhanced kinship bonuses
-
-southeastern_family_clan = {
-	government_rules = {
-		create_cadet_branches = yes
-		rulers_should_have_dynasty = yes
-		dynasty_named_realms = yes
-		legitimacy = yes
-	}
-
-	royal_court = yes
-	
-	
-	primary_holding = castle_holding
-	valid_holdings = { temple_citadel_holding }
-	required_county_holdings = { castle_holding city_holding church_holding }
-
-	can_get_government = {
-		always = yes
-	}
-
-	# Heritage assignments
-	primary_heritages = {
-		# Preolyth
-		heritage_ccctatteredbattle_seed
-		heritage_cccglisteninghistorian_seed
-		heritage_cccvapidbath_seed
-		heritage_cccgranularestimate_seed
-		heritage_cccurbanopening_seed
-		heritage_cccmerrytax_seed
-		heritage_cccgraciouscommittee_seed
-		heritage_cccwonderfuloperation_seed
-		
-		# Qieulbaia (clumsytrainer, worldlyeat only)
-		heritage_cccbeautifulgreat_seed
-		heritage_cccequalclimate_seed
-		heritage_cccacrobaticpreparation_seed
-		
-		# Floicht (directball only)
-		heritage_cccdishonestmachine_seed
-		
-		# Wusaun
-		heritage_cccuselessdevelopment_seed
-	}
-
-	vassal_contract_group = clan_vassal
-
-	ai = {
-		use_legends = yes
-	}
-
-	flags = {
-		government_is_clan
-		government_is_settled
-		may_elevate_co_monarch
-		government_has_strong_family_ties
-	}
-
-	mechanic_type = clan
-	is_mechanic_type_default = yes
-
-	# Southeastern regional color - warm coastal
-	color = hsv{ 0.58 0.68 0.72 }
-	
-	# Use vanilla clan positioning
-	realm_mask_offset = { 0.0 0.03 }
-	realm_mask_scale = { 1 1 }
-
-	# Strong Family Ties bonuses
-	character_modifier = {
-		# FAMILY & DYNASTY (enhanced clan bonuses)
-		same_dynasty_opinion = 15           # Strong family loyalty
-		close_relative_opinion = 20          # Enhanced kinship
-		dynasty_house_opinion = 10           # House unity
-		extended_family_opinion = 10         # Extended family networks
-		
-		# PRESTIGE (family honor)
-		monthly_prestige_gain_mult = 0.10   # +10% prestige from family honor
-		
-		# DIPLOMACY (family negotiations)
-		diplomacy = 1                        # Better family diplomacy
-	}
-}
-
-
-
-
-# Tribal Wanderers Government (Peaceful Mendicant Teachers)
-# Base: Nomad Government (Roads to Power DLC)
-# Used by: Thramptith (shockingnumber, infamousfishing)
-# Features: Peaceful nomadic wanderers, mendicant teachers, simpler than Chormana
-# Related to: Robin Hood raiders (maturethanks) from same Thramptith system
-
-tribal_wanderers = {
-	government_rules = {
-		obedience = yes
-		create_cadet_branches = yes
-		rulers_should_have_dynasty = yes
-		dynasty_named_realms = no
-		landless_playable = yes
-		legitimacy = yes
-		use_as_base_on_rank_up = yes
-		use_as_base_on_landed = yes
-		uses_culture_and_house_head_named_realms = yes
-		sticky_government = yes
-		subject_men_at_arms = yes
-		no_capital_movement_cooldown = yes
-		
-		# TRIBAL MECHANICS
-		regiments_prestige_as_gold = yes			# Use prestige for MAA
-		affected_by_development = no				# Ignore development
-		buildings = no								# Cannot build
-	}
-
-	royal_court = yes
-
-	domicile_type = yurt
-
-	primary_holding = nomad_holding
-	valid_holdings = { nomad_holding }
-	required_county_holdings = { nomad_holding }
-
-	generated_character_template = nomadic_chieftain_character
-
-
-	# Two-factor binding (religion + heritages)
-	# Thramptith split: shockingnumber+infamousfishing (peaceful wanderers) vs maturethanks (Inner Sea Raiders)
-	preferred_religions = { shockingnumber infamousfishing }
-	
-	primary_heritages = {
-		heritage_cccwholethought_seed			# Thramptith (shockingnumber/infamousfishing) - ethos_communal
-		heritage_cccalertgovernment_seed		# Thramptith (shockingnumber/infamousfishing) - ethos_egalitarian
-		heritage_cccgiftedregister_seed			# Thramptith (shockingnumber/infamousfishing) - ethos_courtly
-		heritage_cccfrayeddependent_seed		# Thramptith (shockingnumber/infamousfishing) - ethos_stoic
-		heritage_cccoutlyinggrandfather_seed	# Thramptith (shockingnumber/infamousfishing) - ethos_spiritual
-	}
-
-	vassal_contract_group = nomad_vassal
-
-	ai = {
-		use_legends = yes
-	}
-
-	character_modifier = {
-		# LEARNING (mendicant teachers)                                 # +2 learning
-		monthly_piety_gain_mult = 0.10               # +10% piety
-		
-		# MOBILITY (constant travel)
-		movement_speed = 0.15                         # +15% movement
-		
-		# DIPLOMACY (peaceful interactions)
-		diplomacy = 2                                # +1 diplomacy
-		different_faith_opinion = 5                   # +5 different faith
-		different_culture_opinion = 5                 # +5 different culture
-		
-		# DEVELOPMENT (spreading knowledge)
-		monthly_county_control_growth_factor = 0.1   # +5% control
-		
-		# NOMADIC LIFESTYLE
-		ignore_negative_opinion_of_culture = yes
-		county_fertility_decline_add = -5
-		
-		# PENALTIES (peaceful focus)
-		levy_size_mult = 0.25                            # -20% levies
-		knight_effectiveness_mult = -0.10             # -10% knights                            # -1 domain
-		development_growth_factor = -0.10 
-		maa_growth_factor = -0.10    
-		men_at_arms_cap = -1        # -20% development
-		vassal_levy_contribution_mult = -0.15         # -15% vassal levies
-	}
-
-	can_get_government = {
-		has_ep3_dlc_trigger = yes
-		# Religion check matching preferred_religions
-		OR = {
-			religion = religion:shockingnumber
-			religion = religion:infamousfishing
-		}
-	}
-
-	flags = {
-		government_is_nomadic
-		government_is_tribal_wanderers
-		government_has_herd
-		government_can_raid_rule  # Can raid if needed but less focused
-		government_can_use_tributary_men_at_arms
-		can_start_war_with_raised_troops
-		ignores_faith_marriage_penalties
-		no_hostile_attrition_in_steppe
-		movement_speed_from_government
-		government_uses_domicile_but_not_adventurer
-	}
-
-	mechanic_type = wanderers
-	is_mechanic_type_default = yes
-
-	color = hsv{ 0.45 0.40 0.65 }  # Muted blue-green (peaceful wanderers)
-	
-	# Use vanilla nomad positioning
-	realm_mask_offset = { 0.0 0.12 }
-	realm_mask_scale = { 0.8 0.8 }
-}
-
-
-
-
-# Veuqrit Scholastic Order Government (Korean-Inspired Meritocracy)
-# Base: Meritocratic Government (Trails & Treasures DLC)
-# Used by: Veuqrit (dopeydig)
-# Features: True meritocracy, scholar focus, examination system
-
-veuqrit_scholastic = {
+# Arikuri Meritocratic Government
+# Replaces: veuqrit_scholastic + qeomoq_communal
+# Base: Vanilla Meritocratic Government (Roads to Power DLC)
+# Used by: Veuqrit (dopeydig) + Qeomoq (illresolve)
+# Features: Merit-based administration, county-tier noble families
+arikuri_meritocratic = {
 	government_rules = {
 		create_cadet_branches = yes
 		rulers_should_have_dynasty = yes
@@ -2562,83 +2638,98 @@ veuqrit_scholastic = {
 		house_aspirations = yes
 		noble_families = yes
 		
-		merit = yes  # Meritocracy core
+		merit = yes # Meritocracy!
 		treasury = yes
 		replace_gold_cost_by_treasury = yes
 		deny_powerful_vassal = yes
 		disable_regnal_numbers = yes
 	}
 
-	royal_court = yes
-	blocked_subject_courts = { meritocratic_government celestial_government administrative_government steppe_admin_government }
+	royal_court = any
+	blocked_subject_courts = { meritocratic_government celestial_government japan_administrative_government administrative_government steppe_admin_government }
 
 	domicile_type = east_asian_estate
 	main_administrative_tier = duchy
 	min_appointment_tier = county
 	minimum_provincial_maa_tier = duchy
 
-
 	primary_holding = castle_holding
 	valid_holdings = { city_holding temple_citadel_holding tribal_holding }
 	required_county_holdings = { castle_holding city_holding church_holding }
 
-	# Two-factor binding (simple case: 1 heritage + 1 religion)
-	preferred_religions = { dopeydig }
+	# Two-factor binding: Veuqrit + Qeomoq heritages and religions
 	primary_heritages = {
-		heritage_cccloyalworth_seed
+		heritage_cccloyalworth_seed      # Veuqrit
+		heritage_cccbrillianteffect_seed # Qeomoq
+	}
+	preferred_religions = {
+		dopeydig   # Veuqrit religion
+		illresolve # Qeomoq religion
 	}
 
 	vassal_contract_group = meritocratic_vassal
 
-	ai = {
-		use_legends = yes
-	}
-
 	character_modifier = {
-		# Vanilla meritocratic base penalties
+		levy_size = -0.6
 		feudal_government_tax_contribution_mult = -0.5
 		feudal_government_levy_contribution_mult = -0.5
 		clan_government_tax_contribution_mult = -0.5
 		clan_government_levy_contribution_mult = -0.5
 		men_at_arms_cap = -2
 		men_at_arms_limit = -2
-		knight_limit = -3
+		knight_limit = -5
 		vassal_limit = 20
 		active_accolades = -1
-		title_creation_cost_mult = -0.5
-		character_max_merit_level_add = 2
+		title_creation_cost_mult = -0.4
+		character_max_merit_level_add = 1
 		mercenary_hire_cost_mult = 2
-		monthly_treasury_from_liege_mult = -0.4
-
-		# SCHOLARLY (examination focus)
-		learning = 3                                  # +3 learning
-		stewardship = 2                               # +2 stewardship
-		monthly_piety_gain_mult = 0.10               # +10% piety
-		
-		# DEVELOPMENT (knowledge/education)
-		development_growth_factor = 0.15              # +15% development
-		development_growth = 0.05                     # +0.05 monthly
-		monthly_county_control_growth_factor = 0.10   # +10% control
-		
-		# MERITOCRATIC (egalitarian)
-		cultural_acceptance_gain_mult = 0.10          # +10% acceptance
-		different_culture_opinion = 15                 # +5 different culture
+		monthly_county_control_growth_factor = -0.1     # % county control growth
+		public_opinion = -10
+		stewardship_per_merit_level = 1
+		# Vassals get Treasury income that is this percentage less than their taxes to their liege
+		monthly_treasury_from_liege_mult = -0.5
 	}
 
 	top_liege_character_modifier = {
+		# 95% of vassal income goes to the treasury
 		monthly_treasury_from_vassals = 0.95
 	}
 
+	ai_ruler_desired_kingdom_titles = {
+		value = -1 # Keep all
+		if = {
+			limit = {
+				highest_held_title_tier >= tier_empire
+			}
+			add = 2 # Is 1 == keep one kingdom only!
+		}
+	}
+	ai_ruler_desired_empire_titles = {
+		value = -1 # Keep all
+		if = {
+			limit = {
+				highest_held_title_tier = tier_hegemony
+			}
+			add = 1 # Is 0 == Don't keep any Empires - they should all be 'great circuits'
+		}
+	}
+
 	can_get_government = {
-		has_dlc_feature = trails_and_treasures_dlc
+		has_tgp_dlc_trigger = yes
+		# Restrict to Veuqrit and Qeomoq religions
 		OR = {
 			religion = religion:dopeydig
+			religion = religion:illresolve
 		}
+	}
+
+	ai = {
+		use_legends = yes
 	}
 
 	flags = {
 		government_is_meritocratic
-		government_is_veuqrit_scholastic
+		# These flags only exist for loc and in-game descriptions
 		government_has_merit
 		government_has_influence
 		government_has_treasury
@@ -2657,37 +2748,211 @@ veuqrit_scholastic = {
 		merit = 5
 	}
 
-	color = hsv{ 0.70 0.55 0.75 }  # Violet-blue (scholarly)
-	
-	# Use vanilla meritocratic positioning
-	realm_mask_offset = { 0.0 0.0 }
-	realm_mask_scale = { 1 1 }
-	mechanic_type = scholastic
-	is_mechanic_type_default = yes
-	ai_ruler_desired_kingdom_titles = {
-		value = -1
-		if = {
-			limit = { highest_held_title_tier >= tier_empire }
-			add = 2
-		}
+	color = { 180 120 200 }
+	realm_mask_offset = { 0.0 0.12 }
+	realm_mask_scale = { 0.92 0.92 }
+}
+
+# Southeastern Family Clan Government
+# Base: Clan Government (Vanilla CK3)
+# Used by: Preolyth, Qieulbaia (partial), Floicht (partial), Wusaun
+# Features: Strong family ties, enhanced kinship bonuses
+southeastern_family_clan = {
+	government_rules = {
+		create_cadet_branches = yes
+		rulers_should_have_dynasty = yes
+		dynasty_named_realms = yes
+		legitimacy = yes
 	}
-	ai_ruler_desired_empire_titles = {
-		value = -1
-		if = {
-			limit = { highest_held_title_tier = tier_hegemony }
-			add = 1
-		}
+	royal_court = yes
+	primary_holding = castle_holding
+	valid_holdings = {
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+		city_holding
+		church_holding
+	}
+	can_get_government = {
+		always = yes
+	}
+	# Heritage assignments
+	primary_heritages = {
+		# Preolyth
+		heritage_ccctatteredbattle_seed
+		heritage_cccglisteninghistorian_seed
+		heritage_cccvapidbath_seed
+		heritage_cccgranularestimate_seed
+		heritage_cccurbanopening_seed
+		heritage_cccmerrytax_seed
+		heritage_cccgraciouscommittee_seed
+		heritage_cccwonderfuloperation_seed
+		# Qieulbaia (clumsytrainer, worldlyeat only)
+		heritage_cccbeautifulgreat_seed
+		heritage_cccequalclimate_seed
+		heritage_cccacrobaticpreparation_seed
+		# Floicht (directball only)
+		heritage_cccdishonestmachine_seed
+		# Wusaun
+		heritage_cccuselessdevelopment_seed
+	}
+	vassal_contract_group = clan_vassal
+	ai = {
+		use_legends = yes
+	}
+	flags = {
+		government_is_clan
+		government_is_settled
+		may_elevate_co_monarch
+		government_has_strong_family_ties
+	}
+	mechanic_type = clan
+	is_mechanic_type_default = yes
+	# Southeastern regional color - warm coastal
+	color = {
+		0.58
+		0.68
+		0.72
+	}
+	# Use vanilla clan positioning
+	realm_mask_offset = {
+		0
+		0.03
+	}
+	realm_mask_scale = {
+		1
+		1
+	}
+	# Strong Family Ties bonuses
+	character_modifier = {
+		# FAMILY & DYNASTY (enhanced clan bonuses)
+		same_dynasty_opinion = 15		# Strong family loyalty
+		close_relative_opinion = 20		# Enhanced kinship
+		dynasty_house_opinion = 10		# House unity
+		extended_family_opinion = 10		# Extended family networks
+		# PRESTIGE (family honor)
+		monthly_prestige_gain_mult = 0.1		# +10% prestige from family honor
+		# DIPLOMACY (family negotiations)
+		diplomacy = 1		# Better family diplomacy
 	}
 }
 
-
-
+# Tribal Wanderers Government (Peaceful Mendicant Teachers)
+# Base: Nomad Government (Roads to Power DLC)
+# Used by: Thramptith (shockingnumber, infamousfishing)
+# Features: Peaceful nomadic wanderers, mendicant teachers, simpler than Chormana
+# Related to: Robin Hood raiders (maturethanks) from same Thramptith system
+tribal_wanderers = {
+	government_rules = {
+		obedience = yes
+		create_cadet_branches = yes
+		rulers_should_have_dynasty = yes
+		dynasty_named_realms = no
+		landless_playable = yes
+		legitimacy = yes
+		use_as_base_on_rank_up = yes
+		use_as_base_on_landed = yes
+		uses_culture_and_house_head_named_realms = yes
+		sticky_government = yes
+		subject_men_at_arms = yes
+		no_capital_movement_cooldown = yes
+		# TRIBAL MECHANICS
+		regiments_prestige_as_gold = yes		# Use prestige for MAA
+		affected_by_development = no		# Ignore development
+		buildings = no		# Cannot build
+	}
+	royal_court = yes
+	domicile_type = yurt
+	primary_holding = nomad_holding
+	valid_holdings = {
+		nomad_holding
+	}
+	required_county_holdings = {
+		nomad_holding
+	}
+	generated_character_template = nomadic_chieftain_character
+	# Two-factor binding (religion + heritages)
+	# Thramptith split: shockingnumber+infamousfishing (peaceful wanderers) vs maturethanks (Inner Sea Raiders)
+	preferred_religions = {
+		shockingnumber
+		infamousfishing
+	}
+	primary_heritages = {
+		heritage_cccwholethought_seed		# Thramptith (shockingnumber/infamousfishing) - ethos_communal
+		heritage_cccalertgovernment_seed		# Thramptith (shockingnumber/infamousfishing) - ethos_egalitarian
+		heritage_cccgiftedregister_seed		# Thramptith (shockingnumber/infamousfishing) - ethos_courtly
+		heritage_cccfrayeddependent_seed		# Thramptith (shockingnumber/infamousfishing) - ethos_stoic
+		heritage_cccoutlyinggrandfather_seed		# Thramptith (shockingnumber/infamousfishing) - ethos_spiritual
+	}
+	vassal_contract_group = nomad_vassal
+	ai = {
+		use_legends = yes
+	}
+	character_modifier = {
+		# LEARNING (mendicant teachers)                                 # +2 learning
+		monthly_piety_gain_mult = 0.1		# +10% piety
+		# MOBILITY (constant travel)
+		movement_speed = 0.15		# +15% movement
+		# DIPLOMACY (peaceful interactions)
+		diplomacy = 2		# +1 diplomacy
+		different_faith_opinion = 5		# +5 different faith
+		different_culture_opinion = 5		# +5 different culture
+		# DEVELOPMENT (spreading knowledge)
+		monthly_county_control_growth_factor = 0.1		# +5% control
+		# NOMADIC LIFESTYLE
+		ignore_negative_opinion_of_culture = yes
+		county_fertility_decline_add = -5
+		# PENALTIES (peaceful focus)
+		knight_effectiveness_mult = -0.1		# -10% knights                            # -1 domain
+		development_growth_factor = -0.1
+		maa_growth_factor = -0.1
+		men_at_arms_cap = -1		# -20% development
+		vassal_levy_contribution_mult = -0.15		# -15% vassal levies
+	}
+	can_get_government = {
+		has_ep3_dlc_trigger = yes
+		# Religion check matching preferred_religions
+		OR = {
+			religion = religion:shockingnumber
+			religion = religion:infamousfishing
+		}
+	}
+	flags = {
+		government_is_nomadic
+		government_is_tribal_wanderers
+		government_has_herd
+		government_can_raid_rule		# Can raid if needed but less focused
+		government_can_use_tributary_men_at_arms
+		can_start_war_with_raised_troops
+		ignores_faith_marriage_penalties
+		no_hostile_attrition_in_steppe
+		movement_speed_from_government
+		government_uses_domicile_but_not_adventurer
+	}
+	mechanic_type = wanderers
+	is_mechanic_type_default = yes
+	color = {
+		0.45
+		0.4
+		0.65
+	}
+	# Muted blue-green (peaceful wanderers)
+	# Use vanilla nomad positioning
+	realm_mask_offset = {
+		0
+		0.12
+	}
+	realm_mask_scale = {
+		0.8
+		0.8
+	}
+}
 
 ### Brief: Western Chormana Government
 # Silver knights with genetic selection elites and personal trust bonds
 # Knight-focused organized raiders with elite retinues
 # Semi-settled nomads: can build/develop but expensive and slow
-
 western_chormana_government = {
 	government_rules = {
 		obedience = yes
@@ -2703,36 +2968,36 @@ western_chormana_government = {
 		house_aspirations = yes
 		subject_men_at_arms = yes
 		noble_families = yes
-		
 		# ADVANCEMENT (vs vanilla nomad)
 		affected_by_development = yes
 		buildings = yes
+		regiments_prestige_as_gold = yes		# Can hire MAA with prestige
 	}
 	fallback = 1
-	
 	royal_court = any
-	
-	domicile_type = east_asian_estate
-	
+	domicile_type = yurt
 	primary_holding = castle_holding
-	valid_holdings = { castle_holding tribal_holding temple_citadel_holding }
-	required_county_holdings = { castle_holding }
-	
+	valid_holdings = {
+		castle_holding
+		tribal_holding
+		temple_citadel_holding
+	}
+	required_county_holdings = {
+		castle_holding
+	}
 	can_get_government = {
 		has_ep3_dlc_trigger = yes
 	}
-	
 	generated_character_template = nomadic_chieftain_character
-	
 	max_dread = 150
-	
 	vassal_contract_group = nomad_vassal
-	
 	# SINGLE FACTOR: Religion only
 	# Qormaic (blandvaluable) + Gleuncti (sillysubject) 
 	# This excludes ineoism Gleuncti (who use Ineoism Mandala 04a)
-	preferred_religions = { sillysubject blandvaluable }
-	
+	preferred_religions = {
+		sillysubject
+		blandvaluable
+	}
 	character_modifier = {
 		# MODERATE LEVY PENALTIES
 		levy_size = -0.25
@@ -2742,54 +3007,42 @@ western_chormana_government = {
 		clan_government_levy_contribution_mult = -0.5
 		tribal_government_tax_contribution_mult = -0.5
 		tribal_government_levy_contribution_mult = -0.5
-		
-		# EXPENSIVE MERCENARIES
-		mercenary_hire_cost_mult = 2
-		
 		# ECONOMIC PENALTIES (HEAVY!)
-		holding_build_gold_cost = 0.20
-		development_growth_factor = -0.20
-		
+		holding_build_gold_cost = 0.25
+		development_growth_factor = -0.2
 		# DOMAIN & STABILITY
 		domain_limit = -1
-		county_opinion_add = 18							# Best stability (silver knights)
-		direct_vassal_opinion = 5						# Personal trust bonds
-		
+		county_opinion_add = 18		# Best stability (silver knights)
+		direct_vassal_opinion = 5		# Personal trust bonds
 		# CULTURAL TOLERANCE
 		ignore_negative_opinion_of_culture = yes
-		
 		# AGGRESSIVE AI
 		ai_war_cooldown = -0.5
 		ai_war_chance = 2
-		
 		# ECONOMIC
 		title_creation_cost_mult = -0.5
 		supply_duration = 1
-		
 		# ELITE KNIGHTS (genetic selection, personal trust)
 		knight_limit = 2
-		knight_effectiveness_mult = 0.15
-		
+		knight_effectiveness_mult = 0.08
 		# TERRAIN (hills/mountains/desert)
 		hills_advantage = 4
 		mountains_advantage = 3
 		desert_advantage = 3
-		desert_supply_limit = 0.20
-		
+		desert_supply_limit = 0.2
 		# MOBILITY (moderate)
 		movement_speed = 0.08
-		movement_speed_land_raiding = 0.10
-		
+		movement_speed_land_raiding = 0.1
 		# MAA
-		men_at_arms_maintenance = -0.15
-		
+		men_at_arms_maintenance = -0.04
+		# PRESTIGE INVESTMENT
+		monthly_prestige_gain_mult = -0.05		# Prestige invested in elite knights
 		# ORGANIZATION
 		vassal_limit = 5
 	}
-	
 	flags = {
-		        government_is_nomadic
-		        government_is_western_chormana
+		government_is_nomadic
+		government_is_chormana
 		government_can_raid_rule
 		government_can_use_tributary_men_at_arms
 		can_start_war_with_raised_troops
@@ -2800,15 +3053,23 @@ western_chormana_government = {
 		government_uses_domicile_but_not_adventurer
 		has_special_house_aspirations
 	}
-	
 	mechanic_type = qorma
 	is_mechanic_type_default = yes
-	
-	color = { 180 180 200 }								# Silver-grey (silver knights)
-	realm_mask_offset = { 0.0 0.12 }
-	realm_mask_scale = { 0.8 0.8 }
+	color = {
+		180
+		180
+		200
+	}
+	# Silver-grey (silver knights)
+	realm_mask_offset = {
+		0
+		0.12
+	}
+	realm_mask_scale = {
+		0.8
+		0.8
+	}
 }
-
 
 tribal_government = {
 	government_rules = {
@@ -2818,37 +3079,38 @@ tribal_government = {
 		always_use_patronym = yes
 		affected_by_development = no
 	}
-
 	royal_court = any
-
 	supply_limit_mult_for_others = -0.5
 	primary_holding = tribal_holding
-	required_county_holdings = { tribal_holding }
-
-	valid_holdings = { castle_holding temple_citadel_holding }
-
-	prestige_opinion_override = { -10 0 3 5 10 20 }
-
+	required_county_holdings = {
+		tribal_holding
+	}
+	valid_holdings = {
+		castle_holding
+		temple_citadel_holding
+	}
+	prestige_opinion_override = {
+		-10
+		0
+		3
+		5
+		10
+		20
+	}
 	vassal_contract_group = tribal_vassal
-
 	ai = {
 		use_legends = yes
 	}
-
 	character_modifier = {
 		title_creation_cost_mult = -0.5
 		army_maintenance_mult = -0.5
-
 		feudal_government_vassal_opinion = -20
 		clan_government_vassal_opinion = -20
 		republic_government_vassal_opinion = -20
-
 		character_travel_safety = 10
-
 		ai_war_chance = 0.25
 		monthly_prestige = 0.2
 	}
-
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_is_tribal
@@ -2859,43 +3121,19 @@ tribal_government = {
 		may_elevate_co_monarch
 		government_uses_domain_limit
 	}
-
-	color = hsv{ 0.02 0.75 0.36 }
-	realm_mask_offset = { 0.0 0.0 }
-	realm_mask_scale = { 0.96 0.96 }
-}
-
-
-mercenary_government = {
-	government_rules = {
-		court_generate_spouses = no
-		council = no
-		inherit_from_dynastic_government = no
+	color = {
+		0.02
+		0.75
+		0.36
 	}
-
-	court_generate_commanders = 5
-
-	ai = {
-		arrange_marriage = no
-		use_goals = no
-		use_scripted_guis = no
-		perform_religious_reformation = no
-		use_legends = no
+	realm_mask_offset = {
+		0
+		0
 	}
-
-	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
-	flags = {
-		government_uses_crown_authority
-		cannot_be_vassal_or_liege
-		government_is_mercenary
+	realm_mask_scale = {
+		0.96
+		0.96
 	}
-
-	mechanic_type = mercenary
-	is_mechanic_type_default = yes
-
-	color = hsv{ 0.00 0.00 0.66 }
-	realm_mask_offset = { 0.0 -0.01 }
-	realm_mask_scale = { 1 1 }
 }
 
 ### Brief: holy_order_government
@@ -2909,9 +3147,7 @@ holy_order_government = {
 		court_generate_spouses = no
 		inherit_from_dynastic_government = no
 	}
-
 	court_generate_commanders = 5
-
 	ai = {
 		arrange_marriage = no
 		use_goals = no
@@ -2919,22 +3155,32 @@ holy_order_government = {
 		perform_religious_reformation = no
 		use_legends = no
 	}
-
-	valid_holdings = { castle_holding city_holding temple_citadel_holding }
-
+	valid_holdings = {
+		castle_holding
+		city_holding
+		temple_citadel_holding
+	}
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_uses_crown_authority
 		cannot_be_vassal_or_liege
 		government_is_holy_order
 	}
-
 	mechanic_type = holy_order
 	is_mechanic_type_default = yes
-
-	color = hsv{ 0.00 0.00 0.66 }
-	realm_mask_offset = { 0.0 -0.01 }
-	realm_mask_scale = { 1 1 }
+	color = {
+		0
+		0
+		0.66
+	}
+	realm_mask_offset = {
+		0
+		-0.01
+	}
+	realm_mask_scale = {
+		1
+		1
+	}
 }
 
 landless_adventurer_government = {
@@ -2951,19 +3197,21 @@ landless_adventurer_government = {
 		use_as_base_on_landed = yes
 		use_maa_maintenance = no
 	}
-
 	domicile_type = camp
 	court_generate_commanders = no
-
 	can_get_government = {
 		any_held_title = {
 			title_tier = duchy
 			is_landless_type_title = yes
 		}
 	}
-
-	valid_holdings = { tribal_holding church_holding castle_holding city_holding temple_citadel_holding }
-
+	valid_holdings = {
+		tribal_holding
+		church_holding
+		castle_holding
+		city_holding
+		temple_citadel_holding
+	}
 	character_modifier = {
 		active_accolades = -100
 		knight_limit = 2
@@ -2977,26 +3225,31 @@ landless_adventurer_government = {
 		domicile_travel_speed = -0.75
 		monthly_wanderer_lifestyle_xp_gain_mult = 0.15
 	}
-
 	ai = {
 		use_goals = no
 		use_scripted_guis = no
 		perform_religious_reformation = no
 		use_legends = no
 	}
-
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		cannot_be_vassal_or_liege
 		government_is_landless_adventurer
 		has_unique_government_perks
 	}
-
 	mechanic_type = landless_adventurer
 	is_mechanic_type_default = yes
-
-	color = hsv{ 0.00 0.00 0.66 }
-	realm_mask_offset = { 0.0 0.0 }
-	realm_mask_scale = { 1 1 }
+	color = {
+		0
+		0
+		0.66
+	}
+	realm_mask_offset = {
+		0
+		0
+	}
+	realm_mask_scale = {
+		1
+		1
+	}
 }
-

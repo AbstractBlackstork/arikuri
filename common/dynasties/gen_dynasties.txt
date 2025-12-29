@@ -2766,3 +2766,33 @@ dynn_gen_691 = {
 	name = dynn_gen_691
 	culture = cccdangeroussir
 }
+
+# ============================================================================
+# BROULQEN LANDLESS COURT NOBLE FAMILY DYNASTIES (5 dynasties)
+# For use with gen_9001-9005 characters (landless court noble families)
+# ============================================================================
+
+dynn_gen_9001 = {
+	name = dynn_gen_9001
+	culture = cccknowledgeableparticular
+}
+
+dynn_gen_9002 = {
+	name = dynn_gen_9002
+	culture = cccgoldenhalf
+}
+
+dynn_gen_9003 = {
+	name = dynn_gen_9003
+	culture = cccknowledgeableparticular
+}
+
+dynn_gen_9004 = {
+	name = dynn_gen_9004
+	culture = cccgoldenhalf
+}
+
+dynn_gen_9005 = {
+	name = dynn_gen_9005
+	culture = cccknowledgeableparticular
+}

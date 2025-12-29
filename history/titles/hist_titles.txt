@@ -55,7 +55,7 @@ d_R158G149B213 = {
 }
 c_R158G149B213 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_6
 		liege = d_R158G149B213
 	}
@@ -117,7 +117,7 @@ d_R28G110B213 = {
 }
 c_R28G110B213 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 6
 		holder = gen_12
 		liege = d_R28G110B213
 	}
@@ -172,7 +172,7 @@ d_R254G130B55 = {
 }
 c_R254G130B55 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_17
 		liege = d_R254G130B55
 	}
@@ -248,14 +248,14 @@ d_R17G145B229 = {
 }
 c_R17G145B229 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 10
 		holder = gen_27
 		liege = d_R17G145B229
 	}
 }
 c_R170G92B139 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 5
 		holder = gen_28
 		liege = d_R17G145B229
 	}
@@ -263,8 +263,10 @@ c_R170G92B139 = {
 k_R60G218B254 = {
 	701.10.25 = {
 		holder = gen_31
+		government = eniol_oppressive
 	}
 }
+
 d_R60G218B254 = {
 	701.10.25 = {
 		holder = gen_31
@@ -279,7 +281,7 @@ c_R60G218B254 = {
 }
 c_R250G66B1 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 5
 		holder = gen_32
 		liege = d_R60G218B254
 	}
@@ -291,21 +293,21 @@ d_R232G190B21 = {
 }
 c_R232G190B21 = {
 	701.10.25 = {
-		change_development_level = 4
+		change_development_level = 5
 		holder = gen_33
 		liege = d_R232G190B21
 	}
 }
 c_R128G7B210 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 5
 		holder = gen_34
 		liege = d_R232G190B21
 	}
 }
 c_R61G89B251 = {
 	701.10.25 = {
-		change_development_level = 4
+		change_development_level = 5
 		holder = gen_35
 		liege = d_R232G190B21
 	}
@@ -322,7 +324,7 @@ d_R54G252B30 = {
 }
 c_R54G252B30 = {
 	701.10.25 = {
-		change_development_level = 3
+		change_development_level = 10
 		holder = gen_36
 		liege = d_R54G252B30
 	}
@@ -334,14 +336,14 @@ d_R43G51B174 = {
 }
 c_R43G51B174 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 10
 		holder = gen_43
 		liege = d_R43G51B174
 	}
 }
 c_R121G151B230 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 10
 		holder = gen_38
 		liege = d_R43G51B174
 	}
@@ -353,14 +355,14 @@ d_R188G152B243 = {
 }
 c_R188G152B243 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 10
 		holder = gen_44
 		liege = d_R188G152B243
 	}
 }
 c_R127G74B104 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 10
 		holder = gen_45
 		liege = d_R188G152B243
 	}
@@ -372,14 +374,14 @@ d_R19G218B169 = {
 }
 c_R19G218B169 = {
 	701.10.25 = {
-		change_development_level = 2
+		change_development_level = 10
 		holder = gen_148
 		liege = d_R19G218B169
 	}
 }
 c_R157G224B9 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 10
 		holder = gen_149
 		liege = d_R19G218B169
 	}
@@ -442,7 +444,7 @@ d_R162G220B156 = {
 }
 c_R162G220B156 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 10
 		holder = gen_40
 		liege = d_R54G252B30
 	}
@@ -456,14 +458,14 @@ c_R200G250B70 = {
 }
 c_R18G121B245 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 5
 		holder = gen_42
 		liege = d_R162G220B156
 	}
 }
 c_R232G178B91 = {
 	701.10.25 = {
-		change_development_level = 3
+		change_development_level = 5
 		holder = gen_37
 		liege = d_R162G220B156
 	}
@@ -520,7 +522,7 @@ d_R189G98B93 = {
 }
 c_R189G98B93 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_51
 		liege = d_R189G98B93
 	}
@@ -553,14 +555,14 @@ d_R48G123B96 = {
 }
 c_R48G123B96 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_55
 		liege = d_R48G123B96
 	}
 }
 c_R145G120B244 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_56
 		liege = d_R48G123B96
 	}
@@ -579,14 +581,14 @@ d_R74G165B71 = {
 }
 c_R74G165B71 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_58
 		liege = d_R74G165B71
 	}
 }
 c_R150G1B105 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_59
 		liege = d_R74G165B71
 	}
@@ -619,7 +621,7 @@ c_R171G230B92 = {
 }
 c_R91G189B90 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_63
 		liege = d_R178G101B47
 	}
@@ -657,7 +659,7 @@ d_R222G234B147 = {
 }
 c_R222G234B147 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_67
 		liege = d_R222G234B147
 	}
@@ -688,14 +690,14 @@ d_R110G217B100 = {
 }
 c_R110G217B100 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_70
 		liege = d_R110G217B100
 	}
 }
 c_R222G159B194 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_71
 		liege = d_R110G217B100
 	}
@@ -745,7 +747,7 @@ d_R1G66B233 = {
 }
 c_R1G66B233 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_76
 		liege = d_R1G66B233
 	}
@@ -766,7 +768,7 @@ c_R175G11B234 = {
 }
 c_R35G14B208 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_79
 		liege = d_R1G66B233
 	}
@@ -785,7 +787,7 @@ c_R155G5B228 = {
 }
 c_R144G32B89 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_81
 		liege = d_R155G5B228
 	}
@@ -821,7 +823,7 @@ c_R64G76B195 = {
 }
 c_R99G135B123 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_84
 		liege = d_R64G76B195
 	}
@@ -902,21 +904,21 @@ c_R80G141B189 = {
 }
 c_R201G87B222 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_92
 		liege = d_R80G141B189
 	}
 }
 c_R248G49B201 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_93
 		liege = d_R80G141B189
 	}
 }
 c_R224G172B131 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_94
 		liege = d_R80G141B189
 	}
@@ -928,21 +930,21 @@ d_R230G168B252 = {
 }
 c_R230G168B252 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_95
 		liege = d_R230G168B252
 	}
 }
 c_R6G25B29 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_96
 		liege = d_R230G168B252
 	}
 }
 c_R254G240B214 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_97
 		liege = d_R230G168B252
 	}
@@ -954,21 +956,21 @@ d_R160G46B61 = {
 }
 c_R160G46B61 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_98
 		liege = d_R160G46B61
 	}
 }
 c_R135G154B48 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_99
 		liege = d_R160G46B61
 	}
 }
 c_R188G98B32 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_100
 		liege = d_R160G46B61
 	}
@@ -1001,14 +1003,14 @@ c_R255G164B31 = {
 }
 c_R161G58B236 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_104
 		liege = d_R60G34B109
 	}
 }
 c_R32G20B28 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_105
 		liege = d_R60G34B109
 	}
@@ -1022,7 +1024,7 @@ c_R158G19B219 = {
 }
 c_R30G183B49 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 4
 		holder = gen_111
 	}
 }
@@ -1046,13 +1048,13 @@ c_R215G208B233 = {
 }
 c_R145G80B82 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_115
 	}
 }
 c_R104G248B140 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 4
 		holder = gen_116
 	}
 }
@@ -1076,19 +1078,19 @@ c_R204G117B176 = {
 }
 c_R36G98B127 = {
 	701.10.25 = {
-		change_development_level = 13
+		change_development_level = 4
 		holder = gen_121
 	}
 }
 c_R56G194B65 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 4
 		holder = gen_122
 	}
 }
 c_R172G165B210 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 4
 		holder = gen_123
 	}
 }
@@ -1106,7 +1108,7 @@ c_R197G122B226 = {
 }
 c_R170G49B86 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_126
 	}
 }
@@ -1124,25 +1126,25 @@ c_R28G223B20 = {
 }
 c_R14G154B157 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_129
 	}
 }
 c_R147G61B241 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 4
 		holder = gen_130
 	}
 }
 c_R242G252B207 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 4
 		holder = gen_131
 	}
 }
 c_R251G114B81 = {
 	701.10.25 = {
-		change_development_level = 5
+		change_development_level = 4
 		holder = gen_132
 	}
 }
@@ -1172,7 +1174,7 @@ c_R120G124B248 = {
 }
 c_R63G40B72 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_138
 	}
 }
@@ -1195,7 +1197,7 @@ d_R228G7B61 = {
 }
 c_R228G7B61 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_141
 		liege = d_R228G7B61
 	}
@@ -1240,14 +1242,14 @@ d_R62G9B218 = {
 }
 c_R62G9B218 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 10
 		holder = gen_146
 		liege = d_R62G9B218
 	}
 }
 c_R222G101B164 = {
 	701.10.25 = {
-		change_development_level = 5
+		change_development_level = 10
 		holder = gen_147
 		liege = d_R62G9B218
 	}
@@ -1276,21 +1278,21 @@ d_R4G85B31 = {
 }
 c_R4G85B31 = {
 	701.10.25 = {
-		change_development_level = 2
+		change_development_level = 10
 		holder = gen_151
 		liege = d_R4G85B31
 	}
 }
 c_R80G236B62 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 10
 		holder = gen_152
 		liege = d_R4G85B31
 	}
 }
 c_R34G101B204 = {
 	701.10.25 = {
-		change_development_level = 3
+		change_development_level = 10
 		holder = gen_153
 		liege = d_R4G85B31
 	}
@@ -1345,7 +1347,7 @@ c_R182G29B44 = {
 }
 c_R196G126B168 = {
 	701.10.25 = {
-		change_development_level = 11
+		change_development_level = 5
 		holder = gen_158
 		liege = d_R182G29B44
 	}
@@ -1357,7 +1359,7 @@ d_R193G238B100 = {
 }
 c_R193G238B100 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 5
 		holder = gen_159
 		liege = d_R193G238B100
 	}
@@ -1369,14 +1371,14 @@ d_R62G204B76 = {
 }
 c_R62G204B76 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_160
 		liege = d_R62G204B76
 	}
 }
 c_R110G221B134 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 5
 		holder = gen_161
 		liege = d_R62G204B76
 	}
@@ -1401,13 +1403,13 @@ c_R197G154B85 = {
 }
 c_R63G29B51 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_165
 	}
 }
 c_R215G125B13 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_166
 	}
 }
@@ -1419,13 +1421,13 @@ c_R70G8B112 = {
 }
 c_R25G42B112 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_169
 	}
 }
 c_R106G61B143 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_170
 	}
 }
@@ -1437,7 +1439,7 @@ c_R26G218B184 = {
 }
 c_R31G88B176 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_172
 	}
 }
@@ -1490,7 +1492,7 @@ b_R226G24B158 = {
 }
 c_R40G163B223 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_181
 	}
 }
@@ -1572,7 +1574,7 @@ d_R211G230B60 = {
 }
 c_R211G230B60 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_192
 		liege = d_R211G230B60
 	}
@@ -1641,7 +1643,7 @@ c_R58G146B59 = {
 }
 c_R95G194B177 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_199
 		liege = d_R142G20B57
 	}
@@ -1653,7 +1655,7 @@ d_R189G237B132 = {
 }
 c_R189G237B132 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_200
 		liege = d_R189G237B132
 	}
@@ -1696,7 +1698,7 @@ c_R176G37B16 = {
 }
 c_R103G160B9 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 6
 		holder = gen_204
 		liege = d_R176G37B16
 	}
@@ -1772,7 +1774,7 @@ d_R107G117B178 = {
 }
 c_R107G117B178 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 6
 		holder = gen_212
 		liege = d_R107G117B178
 	}
@@ -1834,7 +1836,7 @@ c_R35G83B92 = {
 }
 c_R43G117B94 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 6
 		holder = gen_218
 		liege = d_R35G83B92
 	}
@@ -1848,7 +1850,7 @@ c_R230G19B155 = {
 }
 c_R244G110B29 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 6
 		holder = gen_220
 		liege = d_R35G83B92
 	}
@@ -1867,7 +1869,7 @@ c_R49G79B106 = {
 }
 c_R144G112B158 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_222
 		liege = d_R49G79B106
 	}
@@ -1879,7 +1881,7 @@ d_R127G197B204 = {
 }
 c_R127G197B204 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 6
 		holder = gen_223
 		liege = d_R127G197B204
 	}
@@ -1955,21 +1957,21 @@ d_R204G119B115 = {
 }
 c_R204G119B115 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_230
 		liege = d_R204G119B115
 	}
 }
 c_R73G127B159 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_231
 		liege = d_R204G119B115
 	}
 }
 c_R34G50B132 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_232
 		liege = d_R204G119B115
 	}
@@ -1982,7 +1984,7 @@ d_R55G253B180 = {
 }
 c_R55G253B180 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_233
 		liege = d_R55G253B180
 	}
@@ -1996,7 +1998,7 @@ c_R106G184B252 = {
 }
 c_R58G251B44 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_235
 		liege = d_R55G253B180
 	}
@@ -2016,7 +2018,7 @@ c_R136G218B32 = {
 }
 c_R207G173B114 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_237
 		liege = d_R136G218B32
 	}
@@ -2033,14 +2035,14 @@ d_R187G92B194 = {
 }
 c_R187G92B194 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_238
 		liege = d_R187G92B194
 	}
 }
 c_R75G210B229 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_239
 		liege = d_R187G92B194
 	}
@@ -2073,7 +2075,7 @@ c_R114G101B103 = {
 }
 c_R254G25B130 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_243
 		liege = d_R114G101B103
 	}
@@ -2085,7 +2087,7 @@ d_R168G57B54 = {
 }
 c_R168G57B54 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_244
 		liege = d_R168G57B54
 	}
@@ -2104,13 +2106,13 @@ c_R209G92B154 = {
 }
 c_R233G171B43 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_246
 	}
 }
 c_R167G107B29 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_247
 	}
 }
@@ -2148,7 +2150,7 @@ c_R216G224B141 = {
 }
 c_R201G112B209 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_253
 	}
 }
@@ -2174,13 +2176,13 @@ c_R72G207B33 = {
 }
 c_R193G6B102 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_257
 	}
 }
 c_R68G72B65 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_258
 	}
 }
@@ -2192,13 +2194,13 @@ c_R250G201B125 = {
 }
 c_R197G66B115 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_260
 	}
 }
 c_R175G5B63 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_261
 	}
 }
@@ -2210,19 +2212,19 @@ c_R9G137B177 = {
 }
 c_R33G19B192 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_263
 	}
 }
 c_R61G50B224 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_264
 	}
 }
 c_R78G60B115 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 5
 		holder = gen_265
 	}
 }
@@ -2301,7 +2303,7 @@ c_R92G226B188 = {
 }
 c_R38G53B206 = {
 	701.10.25 = {
-		change_development_level = 12
+		change_development_level = 7
 		holder = gen_273
 		liege = d_R92G226B188
 	}
@@ -2346,7 +2348,7 @@ c_R64G152B165 = {
 }
 c_R140G97B104 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 7
 		holder = gen_278
 		liege = d_R222G201B108
 	}
@@ -2406,14 +2408,14 @@ d_R123G196B2 = {
 }
 c_R123G196B2 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 4
 		holder = gen_283
 		liege = d_R123G196B2
 	}
 }
 c_R32G142B81 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 4
 		holder = gen_284
 		liege = d_R123G196B2
 	}
@@ -2425,14 +2427,14 @@ d_R117G82B245 = {
 }
 c_R117G82B245 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 4
 		holder = gen_285
 		liege = d_R117G82B245
 	}
 }
 c_R98G235B136 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 4
 		holder = gen_286
 		liege = d_R117G82B245
 	}
@@ -2461,14 +2463,14 @@ d_R179G27B76 = {
 }
 c_R179G27B76 = {
 	701.10.25 = {
-		change_development_level = 5
+		change_development_level = 4
 		holder = gen_288
 		liege = d_R179G27B76
 	}
 }
 c_R194G178B58 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 4
 		holder = gen_289
 		liege = d_R179G27B76
 	}
@@ -2480,7 +2482,7 @@ d_R24G248B212 = {
 }
 c_R24G248B212 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 4
 		holder = gen_290
 		liege = d_R24G248B212
 	}
@@ -2568,7 +2570,7 @@ c_R86G174B76 = {
 }
 c_R173G72B144 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_299
 		liege = d_R86G174B76
 	}
@@ -2592,7 +2594,7 @@ d_R122G183B250 = {
 }
 c_R122G183B250 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_301
 		liege = d_R122G183B250
 	}
@@ -2688,7 +2690,7 @@ d_R9G237B215 = {
 }
 c_R9G237B215 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_309
 		liege = d_R9G237B215
 	}
@@ -2714,7 +2716,7 @@ c_R36G133B178 = {
 }
 c_R1G214B0 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_312
 		liege = d_R36G133B178
 	}
@@ -2728,7 +2730,7 @@ c_R235G38B137 = {
 }
 c_R147G77B26 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_314
 		liege = d_R36G133B178
 	}
@@ -2740,7 +2742,7 @@ d_R113G164B210 = {
 }
 c_R113G164B210 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_315
 		liege = d_R113G164B210
 	}
@@ -2783,7 +2785,7 @@ c_R87G58B151 = {
 }
 c_R68G115B188 = {
 	701.10.25 = {
-		change_development_level = 12
+		change_development_level = 7
 		holder = gen_319
 		liege = d_R140G6B81
 	}
@@ -2802,7 +2804,7 @@ c_R104G117B56 = {
 }
 c_R178G150B129 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 7
 		holder = gen_321
 		liege = d_R104G117B56
 	}
@@ -2835,7 +2837,7 @@ c_R81G24B181 = {
 }
 c_R217G59B75 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_325
 		liege = d_R50G191B226
 	}
@@ -2854,21 +2856,21 @@ c_R198G250B95 = {
 }
 c_R198G187B48 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_327
 		liege = d_R198G250B95
 	}
 }
 c_R202G220B189 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_328
 		liege = d_R198G250B95
 	}
 }
 c_R183G234B220 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_329
 		liege = d_R198G250B95
 	}
@@ -2894,7 +2896,7 @@ c_R166G48B85 = {
 }
 c_R224G166B201 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_332
 		liege = d_R213G165B232
 	}
@@ -2932,7 +2934,7 @@ c_R180G206B120 = {
 }
 c_R251G4B187 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_336
 		liege = d_R32G157B166
 	}
@@ -2994,7 +2996,7 @@ d_R144G1B110 = {
 }
 c_R144G1B110 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 7
 		holder = gen_342
 		liege = d_R144G1B110
 	}
@@ -3140,7 +3142,7 @@ c_R63G134B154 = {
 }
 c_R76G229B91 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_355
 		liege = d_R63G134B154
 	}
@@ -3223,19 +3225,19 @@ c_R205G37B107 = {
 }
 c_R90G131B186 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_364
 	}
 }
 c_R107G238B127 = {
 	701.10.25 = {
-		change_development_level = 2
+		change_development_level = 3
 		holder = gen_365
 	}
 }
 c_R228G170B81 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 3
 		holder = gen_366
 		liege = e_R117G252B154
 	}
@@ -3256,13 +3258,13 @@ c_R69G44B3 = {
 }
 c_R255G207B183 = {
 	701.10.25 = {
-		change_development_level = 2
+		change_development_level = 3
 		holder = gen_369
 	}
 }
 c_R96G103B184 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_370
 	}
 }
@@ -3275,13 +3277,13 @@ c_R199G111B4 = {
 }
 c_R147G203B168 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 6
 		holder = gen_372
 	}
 }
 c_R238G221B183 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 6
 		holder = gen_373
 	}
 }
@@ -3292,14 +3294,14 @@ d_R175G65B115 = {
 }
 c_R175G65B115 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 7
 		holder = gen_374
 		liege = d_R175G65B115
 	}
 }
 c_R34G97B41 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_375
 		liege = d_R175G65B115
 	}
@@ -3311,7 +3313,7 @@ d_R14G143B254 = {
 }
 c_R14G143B254 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 7
 		holder = gen_376
 		liege = d_R14G143B254
 	}
@@ -3342,7 +3344,7 @@ d_R21G185B129 = {
 }
 c_R21G185B129 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 7
 		holder = gen_379
 		liege = d_R21G185B129
 	}
@@ -3373,7 +3375,7 @@ d_R0G184B26 = {
 }
 c_R0G184B26 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_382
 		liege = d_R0G184B26
 	}
@@ -3404,14 +3406,14 @@ d_R176G146B253 = {
 }
 c_R176G146B253 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_385
 		liege = d_R176G146B253
 	}
 }
 c_R25G165B62 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_386
 		liege = d_R176G146B253
 	}
@@ -3423,7 +3425,7 @@ d_R43G186B70 = {
 }
 c_R43G186B70 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_387
 		liege = d_R43G186B70
 	}
@@ -3442,7 +3444,7 @@ d_R174G15B101 = {
 }
 c_R174G15B101 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_389
 		liege = d_R174G15B101
 	}
@@ -3454,7 +3456,7 @@ d_R242G121B27 = {
 }
 c_R242G121B27 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_390
 		liege = d_R242G121B27
 	}
@@ -3485,14 +3487,14 @@ d_R114G58B178 = {
 }
 c_R114G58B178 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_393
 		liege = d_R114G58B178
 	}
 }
 c_R154G241B251 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_394
 		liege = d_R114G58B178
 	}
@@ -3573,7 +3575,7 @@ d_R176G118B250 = {
 }
 c_R176G118B250 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_402
 		liege = d_R176G118B250
 	}
@@ -3585,7 +3587,7 @@ d_R214G66B210 = {
 }
 c_R214G66B210 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 7
 		holder = gen_403
 		liege = d_R214G66B210
 	}
@@ -3597,7 +3599,7 @@ d_R30G171B92 = {
 }
 c_R30G171B92 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 7
 		holder = gen_404
 		liege = d_R30G171B92
 	}
@@ -3609,7 +3611,7 @@ d_R143G162B240 = {
 }
 c_R143G162B240 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 7
 		holder = gen_405
 		liege = d_R143G162B240
 	}
@@ -3683,7 +3685,7 @@ c_R24G228B110 = {
 }
 c_R44G250B199 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 7
 		holder = gen_412
 		liege = d_R51G174B230
 	}
@@ -3765,7 +3767,7 @@ c_R228G20B103 = {
 }
 c_R214G231B232 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 7
 		holder = gen_420
 		liege = d_R228G20B103
 	}
@@ -3833,14 +3835,14 @@ d_R229G100B90 = {
 }
 c_R229G100B90 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_426
 		liege = d_R229G100B90
 	}
 }
 c_R165G199B17 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_427
 		liege = d_R229G100B90
 	}
@@ -3852,21 +3854,21 @@ d_R214G33B202 = {
 }
 c_R214G33B202 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_428
 		liege = d_R214G33B202
 	}
 }
 c_R172G6B143 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 6
 		holder = gen_429
 		liege = d_R214G33B202
 	}
 }
 c_R215G104B66 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_430
 		liege = d_R214G33B202
 	}
@@ -3878,14 +3880,14 @@ d_R187G227B129 = {
 }
 c_R187G227B129 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_431
 		liege = d_R187G227B129
 	}
 }
 c_R79G86B123 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 6
 		holder = gen_432
 		liege = d_R187G227B129
 	}
@@ -3909,14 +3911,14 @@ d_R29G152B235 = {
 }
 c_R29G152B235 = {
 	701.10.25 = {
-		change_development_level = 2
+		change_development_level = 3
 		holder = gen_434
 		liege = d_R29G152B235
 	}
 }
 c_R6G238B86 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_435
 		liege = d_R29G152B235
 	}
@@ -3928,14 +3930,14 @@ d_R164G187B234 = {
 }
 c_R164G187B234 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_436
 		liege = d_R164G187B234
 	}
 }
 c_R244G11B76 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_437
 		liege = d_R164G187B234
 	}
@@ -3954,21 +3956,21 @@ c_R81G105B94 = {
 }
 c_R26G94B168 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 3
 		holder = gen_439
 		liege = d_R81G105B94
 	}
 }
 c_R171G130B228 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 3
 		holder = gen_440
 		liege = d_R81G105B94
 	}
 }
 c_R6G125B241 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 3
 		holder = gen_441
 		liege = d_R81G105B94
 	}
@@ -4108,14 +4110,14 @@ d_R212G244B254 = {
 }
 c_R212G244B254 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_459
 		liege = d_R212G244B254
 	}
 }
 c_R3G222B82 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_460
 		liege = d_R212G244B254
 	}
@@ -4132,14 +4134,14 @@ d_R250G62B206 = {
 }
 c_R250G62B206 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_461
 		liege = d_R250G62B206
 	}
 }
 c_R202G142B86 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_462
 		liege = d_R250G62B206
 	}
@@ -4177,7 +4179,7 @@ d_R158G78B51 = {
 }
 c_R158G78B51 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_466
 		liege = d_R158G78B51
 	}
@@ -4208,7 +4210,7 @@ d_R54G32B43 = {
 }
 c_R54G32B43 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_469
 		liege = d_R54G32B43
 	}
@@ -4225,7 +4227,7 @@ d_R157G241B28 = {
 }
 c_R157G241B28 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_470
 		liege = d_R157G241B28
 	}
@@ -4282,14 +4284,14 @@ d_R68G211B156 = {
 }
 c_R68G211B156 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_476
 		liege = d_R68G211B156
 	}
 }
 c_R134G194B117 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_477
 		liege = d_R68G211B156
 	}
@@ -4325,7 +4327,7 @@ d_R94G205B216 = {
 }
 c_R94G205B216 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_480
 		liege = d_R94G205B216
 	}
@@ -4372,7 +4374,7 @@ c_R195G161B12 = {
 }
 c_R207G136B86 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_483
 		liege = d_R94G205B216
 	}
@@ -4391,7 +4393,7 @@ c_R79G115B31 = {
 }
 c_R49G49B85 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_485
 		liege = d_R79G115B31
 	}
@@ -4421,21 +4423,21 @@ d_R90G157B48 = {
 }
 c_R90G157B48 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_487
 		liege = d_R90G157B48
 	}
 }
 c_R157G243B51 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_488
 		liege = d_R49G198B251
 	}
 }
 c_R69G156B139 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_489
 		liege = d_R90G157B48
 	}
@@ -4452,7 +4454,7 @@ d_R90G135B140 = {
 }
 c_R90G135B140 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_490
 		liege = d_R90G135B140
 	}
@@ -4464,7 +4466,7 @@ d_R185G233B107 = {
 }
 c_R185G233B107 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_491
 		liege = d_R185G233B107
 	}
@@ -4478,7 +4480,7 @@ c_R222G38B88 = {
 }
 c_R88G226B65 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 5
 		holder = gen_493
 		liege = k_R90G135B140
 	}
@@ -4507,14 +4509,14 @@ d_R109G4B35 = {
 }
 c_R109G4B35 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_495
 		liege = d_R109G4B35
 	}
 }
 c_R232G223B119 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_496
 		liege = d_R109G4B35
 	}
@@ -4562,7 +4564,7 @@ d_R226G242B145 = {
 }
 c_R226G242B145 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_500
 		liege = d_R226G242B145
 	}
@@ -4579,7 +4581,7 @@ d_R1G42B28 = {
 }
 c_R1G42B28 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_501
 		liege = d_R1G42B28
 	}
@@ -4593,7 +4595,7 @@ c_R49G57B95 = {
 }
 c_R254G89B70 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_503
 		liege = d_R1G42B28
 	}
@@ -4612,7 +4614,7 @@ c_R157G89B221 = {
 }
 c_R51G191B50 = {
 	701.10.25 = {
-		change_development_level = 12
+		change_development_level = 6
 		holder = gen_505
 		liege = d_R157G89B221
 	}
@@ -4638,7 +4640,7 @@ c_R7G76B52 = {
 }
 c_R52G186B21 = {
 	701.10.25 = {
-		change_development_level = 12
+		change_development_level = 6
 		holder = gen_508
 		liege = d_R7G76B52
 	}
@@ -4675,7 +4677,7 @@ d_R245G21B228 = {
 }
 c_R245G21B228 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_512
 		liege = d_R245G21B228
 	}
@@ -4687,14 +4689,14 @@ d_R255G223B214 = {
 }
 c_R255G223B214 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 6
 		holder = gen_513
 		liege = d_R255G223B214
 	}
 }
 c_R4G199B46 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_514
 		liege = d_R255G223B214
 	}
@@ -4737,7 +4739,7 @@ d_R214G142B38 = {
 }
 c_R214G142B38 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_520
 		liege = d_R214G142B38
 	}
@@ -4792,7 +4794,7 @@ d_R15G79B199 = {
 }
 c_R15G79B199 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_525
 		liege = d_R15G79B199
 	}
@@ -4804,7 +4806,7 @@ d_R207G241B233 = {
 }
 c_R207G241B233 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_526
 		liege = d_R207G241B233
 	}
@@ -4835,7 +4837,7 @@ c_R159G47B247 = {
 }
 c_R163G252B224 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_529
 		liege = d_R159G47B247
 	}
@@ -4854,7 +4856,7 @@ c_R74G110B215 = {
 }
 c_R10G51B37 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_531
 	}
 }
@@ -4909,7 +4911,7 @@ d_R122G168B46 = {
 }
 c_R122G168B46 = {
 	701.10.25 = {
-		change_development_level = 11
+		change_development_level = 6
 		holder = gen_534
 		liege = d_R122G168B46
 	}
@@ -4954,14 +4956,14 @@ d_R77G168B229 = {
 }
 c_R77G168B229 = {
 	701.10.25 = {
-		change_development_level = 12
+		change_development_level = 6
 		holder = gen_539
 		liege = d_R77G168B229
 	}
 }
 c_R128G156B217 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 6
 		holder = gen_540
 		liege = d_R77G168B229
 	}
@@ -4973,14 +4975,14 @@ d_R255G255B245 = {
 }
 c_R255G255B245 = {
 	701.10.25 = {
-		change_development_level = 12
+		change_development_level = 6
 		holder = gen_541
 		liege = d_R255G255B245
 	}
 }
 c_R255G208B109 = {
 	701.10.25 = {
-		change_development_level = 12
+		change_development_level = 6
 		holder = gen_542
 		liege = d_R255G255B245
 	}
@@ -4999,14 +5001,14 @@ c_R246G153B154 = {
 }
 c_R124G213B247 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_544
 		liege = d_R246G153B154
 	}
 }
 c_R55G201B40 = {
 	701.10.25 = {
-		change_development_level = 20
+		change_development_level = 6
 		holder = gen_545
 		liege = d_R246G153B154
 	}
@@ -5037,7 +5039,7 @@ c_R144G235B128 = {
 }
 c_R150G117B189 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_548
 		liege = d_R144G235B128
 	}
@@ -5104,14 +5106,14 @@ c_R25G183B120 = {
 }
 c_R78G100B190 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_557
 		liege = d_R25G183B120
 	}
 }
 c_R175G147B100 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_558
 		liege = d_R25G183B120
 	}
@@ -5123,14 +5125,14 @@ d_R100G125B92 = {
 }
 c_R100G125B92 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 5
 		holder = gen_559
 		liege = d_R100G125B92
 	}
 }
 c_R194G30B37 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 5
 		holder = gen_560
 		liege = d_R100G125B92
 	}
@@ -5180,19 +5182,19 @@ c_R252G174B89 = {
 }
 c_R150G158B88 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_565
 	}
 }
 c_R193G135B175 = {
 	701.10.25 = {
-		change_development_level = 11
+		change_development_level = 6
 		holder = gen_566
 	}
 }
 c_R116G112B222 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_567
 	}
 }
@@ -5210,13 +5212,13 @@ c_R167G132B25 = {
 }
 c_R160G87B81 = {
 	701.10.25 = {
-		change_development_level = 11
+		change_development_level = 6
 		holder = gen_570
 	}
 }
 c_R200G69B10 = {
 	701.10.25 = {
-		change_development_level = 13
+		change_development_level = 6
 		holder = gen_571
 	}
 }
@@ -5259,7 +5261,7 @@ c_R49G161B57 = {
 }
 c_R254G74B151 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 9
 		holder = gen_108
 		liege = d_R131G218B118
 	}
@@ -5307,7 +5309,7 @@ c_R201G164B2 = {
 }
 c_R19G210B22 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 9
 		holder = gen_576
 		liege = d_R201G164B2
 	}
@@ -5327,7 +5329,7 @@ d_R235G121B39 = {
 }
 c_R235G121B39 = {
 	701.10.25 = {
-		change_development_level = 13
+		change_development_level = 9
 		holder = gen_578
 		liege = d_R235G121B39
 	}
@@ -5370,7 +5372,7 @@ c_R143G64B78 = {
 }
 c_R167G238B109 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_583
 		liege = d_R143G64B78
 	}
@@ -5382,7 +5384,7 @@ d_R184G24B215 = {
 }
 c_R184G24B215 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 6
 		holder = gen_584
 		liege = d_R184G24B215
 	}
@@ -5394,14 +5396,14 @@ d_R121G201B223 = {
 }
 c_R121G201B223 = {
 	701.10.25 = {
-		change_development_level = 13
+		change_development_level = 6
 		holder = gen_585
 		liege = d_R121G201B223
 	}
 }
 c_R65G67B154 = {
 	701.10.25 = {
-		change_development_level = 13
+		change_development_level = 6
 		holder = gen_586
 		liege = d_R121G201B223
 	}
@@ -5413,7 +5415,7 @@ d_R219G31B104 = {
 }
 c_R219G31B104 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_587
 		liege = d_R219G31B104
 	}
@@ -5476,7 +5478,7 @@ d_R34G91B37 = {
 }
 c_R34G91B37 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 4
 		holder = gen_593
 		liege = d_R34G91B37
 	}
@@ -5502,7 +5504,7 @@ d_R178G163B225 = {
 }
 c_R178G163B225 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 4
 		holder = gen_595
 		liege = d_R178G163B225
 	}
@@ -5515,7 +5517,7 @@ d_R95G128B168 = {
 }
 c_R95G128B168 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 4
 		holder = gen_596
 		liege = d_R95G128B168
 	}
@@ -5527,21 +5529,21 @@ d_R111G136B141 = {
 }
 c_R111G136B141 = {
 	701.10.25 = {
-		change_development_level = 11
+		change_development_level = 7
 		holder = gen_597
 		liege = d_R111G136B141
 	}
 }
 c_R19G5B80 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_598
 		liege = d_R111G136B141
 	}
 }
 c_R218G117B161 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 7
 		holder = gen_599
 		liege = d_R111G136B141
 	}
@@ -5558,7 +5560,7 @@ d_R205G60B21 = {
 }
 c_R205G60B21 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_600
 		liege = d_R205G60B21
 	}
@@ -5582,7 +5584,7 @@ d_R32G110B232 = {
 }
 c_R32G110B232 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_602
 		liege = d_R32G110B232
 	}
@@ -5594,7 +5596,7 @@ d_R192G35B126 = {
 }
 c_R192G35B126 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_603
 		liege = d_R192G35B126
 	}
@@ -5611,7 +5613,7 @@ d_R235G137B43 = {
 }
 c_R235G137B43 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_604
 		liege = d_R235G137B43
 	}
@@ -5632,7 +5634,7 @@ c_R214G140B15 = {
 }
 c_R185G138B238 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_607
 		liege = d_R235G137B43
 	}
@@ -5646,7 +5648,7 @@ c_R128G163B35 = {
 }
 c_R138G62B10 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 7
 		holder = gen_609
 		liege = d_R235G137B43
 	}
@@ -5696,7 +5698,7 @@ d_R174G4B90 = {
 }
 c_R174G4B90 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 7
 		holder = gen_614
 		liege = d_R174G4B90
 	}
@@ -5708,7 +5710,7 @@ d_R215G142B201 = {
 }
 c_R215G142B201 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 7
 		holder = gen_615
 		liege = d_R215G142B201
 	}
@@ -5720,7 +5722,7 @@ d_R76G128B144 = {
 }
 c_R76G128B144 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_616
 		liege = d_R76G128B144
 	}
@@ -5739,7 +5741,7 @@ c_R220G248B77 = {
 }
 c_R136G177B87 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_619
 	}
 }
@@ -5761,14 +5763,14 @@ d_R171G33B51 = {
 }
 c_R171G33B51 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_621
 		liege = d_R171G33B51
 	}
 }
 c_R230G118B2 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 7
 		holder = gen_622
 		liege = d_R171G33B51
 	}
@@ -5787,7 +5789,7 @@ c_R45G176B186 = {
 }
 c_R20G174B219 = {
 	701.10.25 = {
-		change_development_level = 14
+		change_development_level = 4
 		holder = gen_624
 	}
 }
@@ -5808,14 +5810,14 @@ d_R226G168B52 = {
 }
 c_R226G168B52 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_625
 		liege = d_R226G168B52
 	}
 }
 c_R222G149B77 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_626
 		liege = d_R226G168B52
 	}
@@ -5827,7 +5829,7 @@ d_R83G106B134 = {
 }
 c_R83G106B134 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_627
 		liege = d_R83G106B134
 	}
@@ -5839,14 +5841,14 @@ d_R66G94B73 = {
 }
 c_R66G94B73 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_628
 		liege = d_R66G94B73
 	}
 }
 c_R65G62B54 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_629
 		liege = d_R66G94B73
 	}
@@ -5863,7 +5865,7 @@ d_R167G48B170 = {
 }
 c_R167G48B170 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_630
 		liege = d_R167G48B170
 	}
@@ -5877,7 +5879,7 @@ c_R180G133B216 = {
 }
 c_R88G125B254 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_632
 		liege = d_R167G48B170
 	}
@@ -5908,7 +5910,7 @@ c_R156G220B117 = {
 }
 c_R228G63B230 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_635
 		liege = d_R244G85B88
 	}
@@ -5946,7 +5948,7 @@ c_R14G153B176 = {
 }
 c_R86G235B226 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_639
 		liege = d_R14G153B176
 	}
@@ -5977,7 +5979,7 @@ c_R1G236B38 = {
 }
 c_R142G93B99 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 4
 		holder = gen_642
 	}
 }
@@ -6019,7 +6021,7 @@ c_R221G107B56 = {
 }
 c_R94G211B78 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_647
 	}
 }
@@ -6086,20 +6088,20 @@ d_R232G235B139 = {
 }
 c_R232G235B139 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 4
 		holder = gen_654
 		liege = d_R232G235B139
 	}
 }
 c_R245G69B150 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_655
 	}
 }
 c_R49G198B251 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 2
 		holder = gen_656
 		liege = d_R49G198B251
 	}
@@ -6135,13 +6137,13 @@ c_R50G167B248 = {
 }
 c_R73G184B27 = {
 	701.10.25 = {
-		change_development_level = 6
+		change_development_level = 5
 		holder = gen_659
 	}
 }
 c_R139G161B192 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 5
 		holder = gen_660
 	}
 }
@@ -6158,7 +6160,7 @@ d_R227G41B100 = {
 }
 c_R227G41B100 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 6
 		holder = gen_662
 		liege = d_R227G41B100
 	}
@@ -6175,7 +6177,7 @@ d_R220G112B195 = {
 }
 c_R220G112B195 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 6
 		holder = gen_663
 		liege = d_R220G112B195
 	}
@@ -6292,13 +6294,13 @@ c_R80G81B51 = {
 }
 c_R76G147B35 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 7
 		holder = gen_669
 	}
 }
 c_R230G141B114 = {
 	701.10.25 = {
-		change_development_level = 9
+		change_development_level = 5
 		holder = gen_670
 		liege = d_R228G7B61
 	}
@@ -6315,7 +6317,7 @@ d_R166G81B99 = {
 }
 c_R166G81B99 = {
 	701.10.25 = {
-		change_development_level = 10
+		change_development_level = 7
 		holder = gen_671
 		liege = d_R166G81B99
 	}
@@ -6355,7 +6357,7 @@ c_R240G91B248 = {
 }
 c_R226G153B150 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_673
 		liege = d_R46G0B250
 	}
@@ -6372,7 +6374,7 @@ d_R112G239B101 = {
 }
 c_R112G239B101 = {
 	701.10.25 = {
-		change_development_level = 11
+		change_development_level = 6
 		holder = gen_674
 		liege = d_R112G239B101
 	}
@@ -6384,7 +6386,7 @@ d_R181G216B157 = {
 }
 c_R181G216B157 = {
 	701.10.25 = {
-		change_development_level = 8
+		change_development_level = 6
 		holder = gen_675
 		liege = d_R181G216B157
 	}
@@ -6401,14 +6403,14 @@ d_R66G41B37 = {
 }
 c_R66G41B37 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_676
 		liege = d_R66G41B37
 	}
 }
 c_R178G94B28 = {
 	701.10.25 = {
-		change_development_level = 7
+		change_development_level = 6
 		holder = gen_677
 		liege = d_R66G41B37
 	}
@@ -6438,7 +6440,7 @@ d_R101G117B157 = {
 }
 c_R101G117B157 = {
 	701.10.25 = {
-		change_development_level = 0
+		change_development_level = 1
 		holder = gen_681
 		liege = d_R101G117B157
 	}
@@ -6450,7 +6452,7 @@ d_R231G146B88 = {
 }
 c_R231G146B88 = {
 	701.10.25 = {
-		change_development_level = 14
+		change_development_level = 4
 		holder = gen_682
 		liege = d_R231G146B88
 	}
@@ -6464,7 +6466,7 @@ c_R72G75B216 = {
 }
 c_R147G92B85 = {
 	701.10.25 = {
-		change_development_level = 1
+		change_development_level = 2
 		holder = gen_684
 	}
 }
@@ -6487,7 +6489,7 @@ d_R83G207B196 = {
 }
 c_R83G207B196 = {
 	701.10.25 = {
-		change_development_level = 13
+		change_development_level = 6
 		holder = gen_686
 		liege = d_R83G207B196
 	}
@@ -6499,7 +6501,7 @@ d_R84G43B140 = {
 }
 c_R84G43B140 = {
 	701.10.25 = {
-		change_development_level = 13
+		change_development_level = 7
 		holder = gen_687
 		liege = d_R84G43B140
 	}
@@ -6568,4 +6570,844 @@ d_ck2rpg = {
 		holder = 0
 	}
 }
-    
+
+# ============================================
+# NOBLE FAMILY TITLES
+# ============================================
+
+# Qeomoq Noble Family (Meritocratic) - TEST
+c_nf_qeomoq_paviom = {
+	701.10.25 = {
+		liege = k_R47G41B46
+		holder = gen_410
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+# ============================================================================
+# BROULQEN NOBLE FAMILIES (Duchy-tier, Byzantine pattern)
+# 9 families across Harcycapo and Bickwayf empires
+# Government: broulqen_bureaucracy with two-factor scoping
+# ============================================================================
+
+# ============================================================================
+# BROULQEN NOBLE FAMILIES - 30 Total (25 duchy-based + 5 landless court)
+# Following Byzantine pattern: one NF per duchy with explicit holder
+# ============================================================================
+
+# === HARCYCAPO EMPIRE (e_R186G212B235) - Duchy-based ===
+d_nf_broulqen_punko = {
+	701.10.25 = {
+		liege = e_R186G212B235
+		holder = gen_267  # Punko (Puirlu)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_morbi = {
+	701.10.25 = {
+		liege = e_R186G212B235
+		holder = gen_269  # Morbi (Puirlu)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_ombrulk = {
+	701.10.25 = {
+		liege = e_R186G212B235
+		holder = gen_272  # Ombrulk (Puirlu)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_xulgu = {
+	701.10.25 = {
+		liege = e_R186G212B235
+		holder = gen_352  # Xulgu (Umpi)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_mmoumbroob = {
+	701.10.25 = {
+		liege = e_R186G212B235
+		holder = gen_274  # Mmoumbroob (Umpi)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_orbon = {
+	701.10.25 = {
+		liege = e_R186G212B235
+		holder = gen_279  # Orbon (Umpi)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_oziz = {
+	701.10.25 = {
+		liege = e_R186G212B235
+		holder = gen_282  # Oziz (Umpi)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+
+# === BICKWAYF EMPIRE (e_R140G6B81) - Duchy-based ===
+d_nf_broulqen_eqoig = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_588  # Eqoig (Quiagbeo)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_guilwualb = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_591  # Guilwualb (Quiagbeo)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_wuhzochmug = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_592  # Wuhzochmug (Quiagbeo)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_brombri = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_316  # Brombri (Dodru)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_ulgourd = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_320  # Ulgourd (Dodru)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_grupu = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_322  # Grupu (Dodru)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_ogmir = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_326  # Ogmir (Dodru)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_ugo = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_330  # Ugo (Dodru)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_glerembrav = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_333  # Glerembrav (Ormud)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_odmid = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_337  # Odmid (Ormud)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_ourbip = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_340  # Ourbip (Ormud)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_urax = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_341  # Urax (Ormud)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_glarve = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_342  # Glarve (Ormud)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_ouppruv = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_343  # Ouppruv (Dabudmer)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_bugmiplar = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_345  # Bugmiplar (Dabudmer)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_oumbop = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_348  # Oumbop (Dabudmer)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_qoroud = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_349  # Qoroud (Grarpro)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_lulu = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_351  # Lulu (Grarpro)
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+
+# === LANDLESS COURT FAMILIES (Imperial court members) ===
+d_nf_broulqen_court_impiol = {
+	701.10.25 = {
+		liege = e_R186G212B235
+		holder = gen_9001  # Impiol - Harcycapo court
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_court_rouirboil = {
+	701.10.25 = {
+		liege = e_R186G212B235
+		holder = gen_9002  # Rouirboil - Harcycapo court
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_court_zoulkui = {
+	701.10.25 = {
+		liege = e_R186G212B235
+		holder = gen_9003  # Zoulkui - Harcycapo court
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_court_ouvuz = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_9004  # Ouvuz - Bickwayf court
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+d_nf_broulqen_court_pimuir = {
+	701.10.25 = {
+		liege = e_R140G6B81
+		holder = gen_9005  # Pimuir - Bickwayf court
+		government = broulqen_bureaucracy
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+# ============================================================================
+# ENIOL NOBLE FAMILIES - 35 Total (County-tier, Japanese pattern)
+# ============================================================================
+
+# === Noactoi Kingdom (eniol_diplomatic) ===
+c_nf_eniol_vielkaiol = {
+	701.10.25 = {
+		liege = k_R17G145B229
+		holder = gen_27  # Vielkaiol
+		government = eniol_diplomatic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_olmiaing = {
+	701.10.25 = {
+		liege = k_R17G145B229
+		holder = gen_28  # Olmiaing
+		government = eniol_diplomatic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_lecnebming = {
+	701.10.25 = {
+		liege = k_R17G145B229
+		holder = gen_43  # Lecnebming
+		government = eniol_diplomatic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_aecub = {
+	701.10.25 = {
+		liege = k_R17G145B229
+		holder = gen_38  # Aecub
+		government = eniol_diplomatic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_diaimoelk = {
+	701.10.25 = {
+		liege = k_R17G145B229
+		holder = gen_44  # Diaimoelk
+		government = eniol_diplomatic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_aabam = {
+	701.10.25 = {
+		liege = k_R17G145B229
+		holder = gen_45  # Aabam
+		government = eniol_diplomatic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+
+# === Buxcelul Kingdom (eniol_oppressive) ===
+c_nf_eniol_aomaien = {
+	701.10.25 = {
+		liege = k_R60G218B254
+		holder = gen_31  # Aomaien
+		government = eniol_oppressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_aapto = {
+	701.10.25 = {
+		liege = k_R60G218B254
+		holder = gen_32  # Aapto
+		government = eniol_oppressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_aienfing = {
+	701.10.25 = {
+		liege = k_R60G218B254
+		holder = gen_33  # Aienfing
+		government = eniol_oppressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_naiolkelk = {
+	701.10.25 = {
+		liege = k_R60G218B254
+		holder = gen_34  # Naiolkelk
+		government = eniol_oppressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_opta = {
+	701.10.25 = {
+		liege = k_R60G218B254
+		holder = gen_35  # Opta
+		government = eniol_oppressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_icriur = {
+	701.10.25 = {
+		liege = k_R60G218B254
+		holder = gen_233  # Icriur
+		government = eniol_oppressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_floffreflum = {
+	701.10.25 = {
+		liege = k_R60G218B254
+		holder = gen_234  # Floffreflum
+		government = eniol_oppressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_freomiec = {
+	701.10.25 = {
+		liege = k_R60G218B254
+		holder = gen_235  # Freomiec
+		government = eniol_oppressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+
+# === Wejo Kingdom (eniol_military) ===
+c_nf_eniol_ace = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_46  # Ace
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_aakelt = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_47  # Aakelt
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_nempi = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_48  # Nempi
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_aolqo = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_29  # Aolqo
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_anculk = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_30  # Anculk
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_omveim = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_445  # Omveim
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_iopenf = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_445  # Iopenf
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_orguark = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_445  # Orguark
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_oupri = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_445  # Oupri
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_aelpoel = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_37  # Aelpoel
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_bongutwib = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_39  # Bongutwib
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_noctu = {
+	701.10.25 = {
+		liege = k_R213G168B240
+		holder = gen_42  # Noctu
+		government = eniol_military
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+
+# === Aiebult Kingdom (eniol_progressive) ===
+c_nf_eniol_aompilk = {
+	701.10.25 = {
+		liege = k_R54G252B30
+		holder = gen_36  # Aompilk
+		government = eniol_progressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_aetong = {
+	701.10.25 = {
+		liege = k_R54G252B30
+		holder = gen_40  # Aetong
+		government = eniol_progressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_flelmitwang = {
+	701.10.25 = {
+		liege = k_R54G252B30
+		holder = gen_41  # Flelmitwang
+		government = eniol_progressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_ulva = {
+	701.10.25 = {
+		liege = k_R54G252B30
+		holder = gen_141  # Ulva
+		government = eniol_progressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_earbu = {
+	701.10.25 = {
+		liege = k_R54G252B30
+		holder = gen_670  # Earbu
+		government = eniol_progressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_crauji = {
+	701.10.25 = {
+		liege = k_R54G252B30
+		holder = gen_146  # Crauji
+		government = eniol_progressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_wumptilcrick = {
+	701.10.25 = {
+		liege = k_R54G252B30
+		holder = gen_147  # Wumptilcrick
+		government = eniol_progressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_chruatru = {
+	701.10.25 = {
+		liege = k_R54G252B30
+		holder = gen_148  # Chruatru
+		government = eniol_progressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_eniol_ackir = {
+	701.10.25 = {
+		liege = k_R54G252B30
+		holder = gen_149  # Ackir
+		government = eniol_progressive
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+
+# Veuqrit/Qeomoq Noble Families - History
+# Total: 23 families
+
+# Veuqrit Noble Families (4)
+
+c_nf_veuqrit_dynn_gen_592 = {
+	701.10.25 = {
+		liege = d_R34G91B37
+		holder = gen_593  # dynn_gen_592
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_veuqrit_dynn_gen_593 = {
+	701.10.25 = {
+		liege = d_R192G179B198
+		holder = gen_594  # dynn_gen_593
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_veuqrit_dynn_gen_594 = {
+	701.10.25 = {
+		liege = d_R178G163B225
+		holder = gen_595  # dynn_gen_594
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_veuqrit_dynn_gen_595 = {
+	701.10.25 = {
+		liege = d_R95G128B168
+		holder = gen_596  # dynn_gen_595
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+# Qeomoq Noble Families (19)
+
+c_nf_qeomoq_dynn_gen_406 = {
+	701.10.25 = {
+		liege = d_R47G41B46
+		holder = gen_407  # dynn_gen_406
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_407 = {
+	701.10.25 = {
+		liege = d_R47G41B46
+		holder = gen_408  # dynn_gen_407
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_408 = {
+	701.10.25 = {
+		liege = e_R47G41B46
+		holder = gen_409  # dynn_gen_408
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_409 = {
+	701.10.25 = {
+		liege = d_R51G174B230
+		holder = gen_410  # dynn_gen_409
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_410 = {
+	701.10.25 = {
+		liege = d_R51G174B230
+		holder = gen_411  # dynn_gen_410
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_411 = {
+	701.10.25 = {
+		liege = d_R51G174B230
+		holder = gen_412  # dynn_gen_411
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_412 = {
+	701.10.25 = {
+		liege = d_R51G174B230
+		holder = gen_413  # dynn_gen_412
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_413 = {
+	701.10.25 = {
+		liege = d_R91G252B236
+		holder = gen_414  # dynn_gen_413
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_414 = {
+	701.10.25 = {
+		liege = d_R50G66B12
+		holder = gen_415  # dynn_gen_414
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_415 = {
+	701.10.25 = {
+		liege = d_R50G66B12
+		holder = gen_416  # dynn_gen_415
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_416 = {
+	701.10.25 = {
+		liege = d_R50G66B12
+		holder = gen_417  # dynn_gen_416
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_417 = {
+	701.10.25 = {
+		liege = d_R239G40B66
+		holder = gen_418  # dynn_gen_417
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_418 = {
+	701.10.25 = {
+		liege = d_R228G20B103
+		holder = gen_419  # dynn_gen_418
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_419 = {
+	701.10.25 = {
+		liege = d_R228G20B103
+		holder = gen_420  # dynn_gen_419
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_420 = {
+	701.10.25 = {
+		liege = d_R228G20B103
+		holder = gen_421  # dynn_gen_420
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_421 = {
+	701.10.25 = {
+		liege = d_R228G20B103
+		holder = gen_422  # dynn_gen_421
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_422 = {
+	701.10.25 = {
+		liege = d_R199G235B113
+		holder = gen_423  # dynn_gen_422
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_423 = {
+	701.10.25 = {
+		liege = d_R98G8B18
+		holder = gen_424  # dynn_gen_423
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}
+
+c_nf_qeomoq_dynn_gen_424 = {
+	701.10.25 = {
+		liege = d_R239G40B66
+		holder = gen_425  # dynn_gen_424
+		government = arikuri_meritocratic
+		succession_laws = { noble_family_succession_law }
+	}
+}

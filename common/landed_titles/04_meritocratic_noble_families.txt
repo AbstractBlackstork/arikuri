@@ -1,0 +1,354 @@
+# Veuqrit/Qeomoq Noble Families (County-tier, Korean meritocratic pattern)
+# Total: 23 county-tier noble families
+# Government: arikuri_meritocratic
+# - Veuqrit (heritage_cccloyalworth_seed): 4 families
+# - Qeomoq (heritage_cccbrillianteffect_seed): 19 families
+
+# === Veuqrit Noble Families ===
+
+c_nf_veuqrit_dynn_gen_592 = {
+	color = { 100 100 100 }
+	capital = c_R34G91B37
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_veuqrit_dynn_gen_593 = {
+	color = { 100 100 100 }
+	capital = c_R192G179B198
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_veuqrit_dynn_gen_594 = {
+	color = { 100 100 100 }
+	capital = c_R178G163B225
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_veuqrit_dynn_gen_595 = {
+	color = { 100 100 100 }
+	capital = c_R95G128B168
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+# === Qeomoq Noble Families ===
+
+c_nf_qeomoq_dynn_gen_406 = {
+	color = { 100 100 100 }
+	capital = c_R47G41B46
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_407 = {
+	color = { 100 100 100 }
+	capital = c_R247G105B60
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_408 = {
+	color = { 100 100 100 }
+	capital = c_R174G95B18
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_409 = {
+	color = { 100 100 100 }
+	capital = c_R51G174B230
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_410 = {
+	color = { 100 100 100 }
+	capital = c_R24G228B110
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_411 = {
+	color = { 100 100 100 }
+	capital = c_R44G250B199
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_412 = {
+	color = { 100 100 100 }
+	capital = c_R4G58B251
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_413 = {
+	color = { 100 100 100 }
+	capital = c_R91G252B236
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_414 = {
+	color = { 100 100 100 }
+	capital = c_R50G66B12
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_415 = {
+	color = { 100 100 100 }
+	capital = c_R192G137B242
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_416 = {
+	color = { 100 100 100 }
+	capital = c_R206G8B108
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_417 = {
+	color = { 100 100 100 }
+	capital = c_R239G40B66
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_418 = {
+	color = { 100 100 100 }
+	capital = c_R228G20B103
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_419 = {
+	color = { 100 100 100 }
+	capital = c_R214G231B232
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_420 = {
+	color = { 100 100 100 }
+	capital = c_R190G196B148
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_421 = {
+	color = { 100 100 100 }
+	capital = c_R229G163B86
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_422 = {
+	color = { 100 100 100 }
+	capital = c_R199G235B113
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_423 = {
+	color = { 100 100 100 }
+	capital = c_R98G8B18
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+c_nf_qeomoq_dynn_gen_424 = {
+	color = { 100 100 100 }
+	capital = c_R54G207B203
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	destroy_if_invalid_heir = yes
+	
+	ai_primary_priority = { add = @never_primary_score }
+}

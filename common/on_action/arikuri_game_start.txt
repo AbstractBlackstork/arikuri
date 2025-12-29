@@ -1147,6 +1147,52 @@ on_action_culture_seeding = {
 			add_innovation = innovation_city_planning
 			add_innovation = innovation_plenary_assemblies
 		}
+		
+		# ENIOL FACTION STARTING GOLD (Economic Boost for Administrative Governments)
+		# Technocrat (Frenchincident_faith) and Diplomatic (wideeyedimpact_faith) factions
+		# receive starting gold to compensate for weaker military capacity
+		
+		# Diplomatic faction (wideeyedimpact_faith) - King of Aiebult receives major boost
+		every_ruler = {
+			limit = {
+				faith = faith:wideeyedimpact_faith
+				highest_held_title_tier = tier_kingdom
+			}
+			add_gold = 1000
+		}
+		
+		# Technocrat faction (Frenchincident_faith) - King of Noactoi receives boost
+		every_ruler = {
+			limit = {
+				faith = faith:Frenchincident_faith
+				highest_held_title_tier = tier_kingdom
+			}
+			add_gold = 350
+		}
+		
+		# Both factions - Dukes receive moderate gold
+		every_ruler = {
+			limit = {
+				OR = {
+					faith = faith:wideeyedimpact_faith
+					faith = faith:Frenchincident_faith
+				}
+				highest_held_title_tier = tier_duchy
+			}
+			add_gold = 200
+		}
+		
+		# Both factions - Counts (including noble families) receive base gold
+		every_ruler = {
+			limit = {
+				OR = {
+					faith = faith:wideeyedimpact_faith
+					faith = faith:Frenchincident_faith
+				}
+				highest_held_title_tier = tier_county
+			}
+			add_gold = 100
+		}
 
 	}
 }
